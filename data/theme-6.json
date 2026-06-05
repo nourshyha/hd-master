@@ -1,0 +1,1172 @@
+{
+  "theme": {
+    "id": 6,
+    "title": "Haematological Disorders",
+    "difficulty": "hard",
+    "lectureCount": 4,
+    "learningOutcomes": [
+      "HD31",
+      "HD32",
+      "HD33",
+      "HD34",
+      "HD35",
+      "HD36"
+    ]
+  },
+  "groundIt": [
+    {
+      "clusterId": "t6-c1",
+      "clusterTitle": "Haematopoiesis & Anaemias — Types, Causes & Investigations",
+      "content": "All blood cells derive from multipotent stem cells in the bone marrow through haematopoiesis. Stem cells differentiate into common myeloid progenitor (→ megakaryocytes/platelets, erythrocytes, monocytes/macrophages, granulocytes: neutrophils, basophils, eosinophils) or common lymphoid progenitor (→ T cells, B cells, NK cells). Normal bone marrow is approximately 50% cellular and 50% fat. In aplastic anaemia, haematopoiesis fails and the marrow is replaced largely by fat cells.\n\nAnaemia is defined as a reduction in haemoglobin concentration below normal (typically <130 g/L in men, <120 g/L in women). Classified by red cell size (MCV): microcytic (MCV <80 fL), normocytic (MCV 80–100 fL), or macrocytic (MCV >100 fL). Also classified by pathogenesis: reduced production, increased destruction (haemolysis), or blood loss.\n\nIron deficiency anaemia: most common worldwide. Causes: dietary deficiency, malabsorption (coeliac disease), or blood loss (GI tract — suspect colorectal carcinoma in men and post-menopausal women; menorrhagia in premenopausal women). Features: microcytic (small), hypochromic (pale) red cells, low MCV, low ferritin (iron stores), low serum iron. Oral signs: angular cheilitis/stomatitis, atrophic (smooth, red, sore) glossitis, and oral mucosal pallor. Koilonychia (spoon nails).\n\nMacrocytic anaemia (MCV >100 fL): most commonly caused by B12 or folate deficiency. B12 (found in animal protein): absorbed in terminal ileum requiring intrinsic factor (produced by gastric parietal cells). Pernicious anaemia = autoimmune destruction of parietal cells → no intrinsic factor → B12 malabsorption. Also: dietary deficiency (strict vegans), abnormal terminal ileum. Folate (found in leafy vegetables, fruit, liver): absorbed in small bowel. Causes of folate deficiency: poor intake (elderly), increased requirements (pregnancy, haemolysis), malabsorption (coeliac), alcohol, drugs (methotrexate, trimethoprim). Both cause hypersegmented neutrophils with large macrocytic red cells (megaloblastic anaemia). Low Hb; high MCV. Check red cell folate levels and serum B12. Treatment: identify underlying cause; oral folate replacement; B12 deficiency requires lifelong 3-monthly IM hydroxocobalamin injections. Oral sign: smooth atrophic tongue (glossitis), angular cheilitis.\n\nAnaemia of chronic disease (normocytic): occurs in chronic inflammatory conditions (RA, malignancy, chronic infection) — normal/high ferritin, low serum iron, normal/high MCV. Sickle cell disease and thalassaemia are hereditary haemoglobinopathies causing chronic haemolytic anaemia — relevant dentally for pain crises, infection risk, and management of dental procedures under GA.",
+      "selfExplainPrompt": "Distinguish between iron deficiency anaemia and B12 deficiency anaemia in terms of red cell morphology and oral signs, then explain why a patient with pernicious anaemia requires lifelong B12 injections rather than oral tablets."
+    },
+    {
+      "clusterId": "t6-c2",
+      "clusterTitle": "White Blood Cell Disorders — Leukaemia, Lymphoma & Myeloma",
+      "content": "Leukaemia is malignant proliferation of white blood cell precursors in the bone marrow. Classified as acute (aggressive, rapid onset — immature blast cells dominate) or chronic (slower onset — more mature cells). Myeloid (from myeloid precursors) or lymphoid (from lymphocyte precursors). Acute leukaemia: bone marrow packed with immature blast cells, displacing normal haematopoiesis → anaemia (fatigue, pallor), neutropenia (infections — perioral, pharyngeal), thrombocytopenia (bruising, bleeding, petechiae — look on palate!). Oral signs: gingival hyperplasia (particularly in acute monocytic/myelomonocytic leukaemia), mucosal petechiae, oral infections. Treatment depends on subtype and cytogenetics — clinical trials, chemotherapy, bone marrow transplant. Prognosis much poorer in elderly >65.\n\nMultiple myeloma: malignancy of plasma cells (terminally differentiated B cells). Abnormal plasma cells (large, dark cytoplasm, eccentric nucleus) accumulate in bone marrow and form plasmacytomas → bone destruction (lytic lesions). Presents with: anaemia, bone pain, hypercalcaemia (constipation, nausea, confusion, thirst), recurrent infections. Dental: nearly all myeloma patients receive bisphosphonates (pamidronate, zoledronate — especially nitrogen-containing ones are highest risk) or denosumab → risk of osteonecrosis of the jaw (MRONJ — medication-related osteonecrosis of jaw). If dental extraction or root canal needed: stop bisphosphonate temporarily, give antibiotics (co-amoxiclav), ensure thorough debridement.\n\nLymphoma: malignancy of lymphocytes in lymph nodes and lymphoid tissue. Two main types: Hodgkin lymphoma (younger adults, distinctive Reed-Sternberg cells, generally good prognosis with treatment) and Non-Hodgkin lymphoma (NHL — 3–4× more common than Hodgkin; over 100 subtypes; high-grade are curable but lethal if untreated; low-grade are not curable but controllable for years). Oral presentations: swelling of hard palate, tonsillar swelling, parotid swelling, cervical lymphadenopathy. Gingival hyperplasia from cyclosporin (used post-transplant in lymphoma management). Mucositis: inflammation of mucosal surfaces, typically from chemotherapy and radiotherapy — erythema, ulceration, haemorrhage in the mouth and throat (4 grades). Managing oral problems during chemotherapy: treat candidiasis (nystatin, fluconazole); manage HSV reactivation with aciclovir; plan dental extractions to avoid the nadir (day 10–14 post-chemotherapy when platelet and neutrophil counts are lowest).",
+      "selfExplainPrompt": "Explain why petechiae on the hard palate are a significant finding in a haematological context, and name two oral signs of leukaemia that a dentist might observe during routine examination."
+    },
+    {
+      "clusterId": "t6-c3",
+      "clusterTitle": "Haemostasis, Coagulation & Bleeding Disorders",
+      "content": "Normal haemostasis involves four sequential mechanisms: vasoconstriction (first response — release of serotonin/5HT and thromboxane A2); platelet plug formation (platelets activated by ADP and thromboxane → change shape → become adhesive → bind collagen directly via GP1a receptor or via von Willebrand factor/GP1b → fibrinogen cross-links adjacent platelets); coagulation cascade (extrinsic pathway: tissue factor + Factor VII; intrinsic: Factors XII → XI → IX → VIII; common: X → V → prothrombin → thrombin → fibrinogen → fibrin); and fibrinolysis (plasmin dissolves fibrin clot during healing — thrombolysis).\n\nVon Willebrand disease (VWD): most common congenital coagulopathy. vWF carries Factor VIII and bridges platelets to collagen. Type I: mild deficiency; Type II: qualitative defect (normal quantity, abnormal function); Type III: severe deficiency. Features: mucosal bleeding (nosebleeds, heavy periods, GI bleeds, post-surgical bleeding) — differs from haemophilia which causes joint bleeds. Treatment: DDAVP (desmopressin — releases stored vWF from endothelium, used in mild VWD and Type I); tranexamic acid (antifibrinolytic — stabilises clot, oral or mouthwash); factor replacement for severe cases.\n\nHaemophilia: X-linked recessive (affects males). Haemophilia A: Factor VIII deficiency (most common). Haemophilia B (Christmas disease): Factor IX deficiency. Presents with: bleeding into joints (haemarthroses) and muscles after minor trauma. Spontaneous bleeding in severe disease (<1% factor level). Treatment: recombinant Factor VIII (haemophilia A) or IX (B); hemlibra (emicizumab — binds Factors 9 and 10, acts as Factor VIII substitute; doesn't require IV infusion). Gene therapy now available for haemophilia B. DDAVP for mild haemophilia A.\n\nThrombocytopenia: low platelet count. Two mechanisms: decreased production (aplastic anaemia, leukaemia, myeloma infiltrating bone marrow) or increased destruction (immune thrombocytopenic purpura/ITP — autoimmune platelet destruction; may be idiopathic or post-viral; treated with high-dose steroids, rituximab, thrombopoietin receptor agonists). Safe platelet count for dental surgery: >50 × 10^9/L. For minor procedures: >30 × 10^9/L.\n\nBlood tests for bleeding disorders: APTT (activated partial thromboplastin time — tests intrinsic pathway; prolonged by haemophilia A/B, heparin); PT (prothrombin time — tests extrinsic and common pathway; prolonged by warfarin and liver disease); INR (standardised PT); FBC (platelet count); LFTs (liver disease affecting clotting factor synthesis). Vascular wall disorders: Ehlers-Danlos (collagen defect — stretchy skin, fragile capillaries, bruising); hereditary haemorrhagic telangiectasia (HHT — dilated vessels on face and mucous membranes → epistaxis, GI bleeds, anaemia); haemangioma (abnormal blood vessel formation — blanch on pressure). Purpura: non-thrombocytopenic (Ehlers-Danlos, infections, deficiencies, senile purpura) vs thrombocytopenic (1–3mm, don't blanch on pressure).",
+      "selfExplainPrompt": "Describe the coagulation cascade including the intrinsic, extrinsic, and common pathways. Then explain why a patient with haemophilia A presents with joint bleeds rather than superficial mucosal bleeding — and contrast this with von Willebrand disease."
+    },
+    {
+      "clusterId": "t6-c4",
+      "clusterTitle": "Dental Implications of Haematological Disorders & Transfusion Medicine",
+      "content": "Blood transfusion components: (1) Red cells (packed red cells + OAS additive solution; restrict transfusion — 'less is more' — only when clinically beneficial); (2) Platelets (in platelet additive solution; used when platelets <50×10^9/L with significant bleeding or <30×10^9/L without bleeding); (3) Fresh frozen plasma/FFP (contains plasma proteins, clotting factors, fibrinogen; used to correct multiple clotting factor deficiencies in bleeding patients or major haemorrhage); (4) Cryoprecipitate (concentrated fibrinogen; used in hypofibrinogenaemia during major haemorrhage).\n\nKey transfusion safety rules: positive patient identification (confirm name, date of birth, first line of address); bedside sample labelling; 2-sample rule (two independent blood type confirmations); lab IT checks; final bedside check confirmed by 2 staff members. Risks of transfusion: wrong blood to wrong patient; immunological reactions (febrile, allergic, TRALI — transfusion-related acute lung injury, alloimmunisation); circulatory overload (TACO); infection (bacterial, viral, vCJD); alloimmunisation (patient develops antibodies against transfused blood antigens — problem in women of childbearing age who may develop haemolytic disease of the fetus/newborn).\n\nDental management of patients with haematological disorders: (1) Thrombocytopenia: check count before procedures; >50×10^9/L safe for most extractions; >30×10^9/L for simple procedures; below these: consider platelet transfusion, hospital referral. INR <4 and platelets >30: generally safe for dental extractions. (2) Haemophilia: contact haemophilia centre before any dental procedure; pre-operative replacement factor infusion; tranexamic acid mouthwash; minimise trauma; adrenaline in LA is important for haemostasis; avoid NSAIDs. (3) Liver disease: reduces synthesis of clotting factors II, VII, IX, X (vitamin K-dependent) + V + fibrinogen → coagulopathy; also causes thrombocytopenia (portal hypertension → splenomegaly → platelet sequestration). Check PT/INR and platelet count before procedures. Use articaine (plasma-metabolised) as LA; limit lidocaine to 2 cartridges; avoid benzodiazepines; miconazole contraindicated; never prescribe paracetamol; avoid NSAIDs. (4) Patients on anticoagulants: see Theme 5. Local haemostatic measures: oxidised cellulose (Surgicel), gelatin sponge (Gelfoam — porcine), collagen (Collaplug — bovine), sutures, tranexamic acid mouthwash. Bone wax for bone bleeding (non-resorbable). Risky dental procedures: extractions, periodontal surgery, block anaesthesia, matrix bands, suction.",
+      "selfExplainPrompt": "Explain why a patient with liver cirrhosis has a bleeding tendency, linking this to the organ's role in haemostasis. Then state two changes to your dental anaesthetic technique that would be appropriate for this patient."
+    }
+  ],
+  "recallIt": [
+    {
+      "id": "t6-r1",
+      "question": "Classify anaemia by red cell size (MCV) and give one cause in each category.",
+      "answer": "Microcytic (MCV <80 fL): iron deficiency anaemia, thalassaemia\nNormocytic (MCV 80–100 fL): anaemia of chronic disease, acute blood loss, haemolysis\nMacrocytic (MCV >100 fL): B12 deficiency, folate deficiency, alcohol, methotrexate, myelodysplasia"
+    },
+    {
+      "id": "t6-r2",
+      "question": "What are the oral signs of iron deficiency anaemia?",
+      "answer": "Angular cheilitis/stomatitis (Staphylococcal infection at angles of mouth, also associated with candida), smooth atrophic glossitis (smooth, red, sore tongue), oral mucosal pallor. Extra-oral: koilonychia (spoon-shaped nails)."
+    },
+    {
+      "id": "t6-r3",
+      "question": "Why does pernicious anaemia cause B12 deficiency and why must B12 be given by injection?",
+      "answer": "Pernicious anaemia = autoimmune destruction of gastric parietal cells → loss of intrinsic factor → B12 cannot be absorbed in terminal ileum. Treatment must bypass oral absorption entirely → lifelong intramuscular injections of hydroxocobalamin every 3 months. Oral B12 tablets would not be absorbed without intrinsic factor."
+    },
+    {
+      "id": "t6-r4",
+      "question": "What is MRONJ and which drugs cause it?",
+      "answer": "MRONJ = medication-related osteonecrosis of the jaw. Exposed, necrotic jawbone in patients on antiresorptive or antiangiogenic therapy. Most commonly caused by nitrogen-containing bisphosphonates (pamidronate, zoledronate — IV forms have highest risk; oral alendronate lower risk) and denosumab. These drugs impair osteoclast function → bone cannot remodel or heal after trauma (e.g. extraction). If dental surgery is needed: stop bisphosphonate temporarily (if possible), prescribe antibiotics (co-amoxiclav), plan surgery carefully."
+    },
+    {
+      "id": "t6-r5",
+      "question": "What is the difference between haemophilia A and haemophilia B?",
+      "answer": "Haemophilia A: X-linked recessive deficiency of Factor VIII. Most common form.\nHaemophilia B (Christmas disease): X-linked recessive deficiency of Factor IX.\nBoth cause joint bleeds (haemarthroses) and muscle bleeds. Distinction: APTT prolonged in both; Factor VIII level low in A, Factor IX level low in B. Treatment: recombinant FVIII or FIX replacement; hemlibra for haemophilia A."
+    },
+    {
+      "id": "t6-r6",
+      "question": "What is the safe platelet count for dental extractions?",
+      "answer": ">50 × 10^9/L: safe for most dental surgical procedures\n>30 × 10^9/L: acceptable for simple procedures (mobile tooth extractions) with good local haemostasis\nBelow 30: seek haematology advice; consider platelet transfusion in hospital setting\nAlso check INR if patient is anticoagulated: INR ≤4 is required for dental surgery"
+    },
+    {
+      "id": "t6-r7",
+      "question": "What does APTT test and what does PT/INR test?",
+      "answer": "APTT (activated partial thromboplastin time): tests the intrinsic pathway (Factors XII, XI, IX, VIII) and common pathway. Prolonged by: haemophilia A and B, heparin therapy.\nPT (prothrombin time)/INR: tests the extrinsic pathway (Factor VII) and common pathway. Prolonged by: warfarin, liver disease, Vitamin K deficiency."
+    },
+    {
+      "id": "t6-r8",
+      "question": "What are the four stages of haemostasis in order?",
+      "answer": "1. Vasoconstriction — serotonin and thromboxane A2 release from platelets; immediate\n2. Platelet plug formation — activation, shape change, adhesion to collagen via vWF/GP1b, fibrinogen cross-linking\n3. Coagulation cascade — fibrin mesh formation (intrinsic + extrinsic → common pathway → thrombin → fibrin)\n4. Fibrinolysis — plasmin dissolves the fibrin clot during healing"
+    },
+    {
+      "id": "t6-r9",
+      "question": "How does Von Willebrand disease differ from haemophilia in terms of bleeding pattern?",
+      "answer": "VWD: mucosal bleeding — nosebleeds (epistaxis), heavy periods (menorrhagia), GI bleeds, and excessive post-surgical bleeding. vWF bridges platelets to collagen (primary haemostasis defect).\nHaemophilia: deep tissue bleeding — haemarthroses (joint bleeds), muscle bleeds, retroperitoneal bleeds. Fibrin clot formation is defective (secondary haemostasis/coagulation cascade defect)."
+    },
+    {
+      "id": "t6-r10",
+      "question": "What local haemostatic measures are available in dentistry?",
+      "answer": "Resorbable: oxidised cellulose (Surgicel), gelatin sponge (Gelfoam — porcine product), collagen sponge/cone (Collaplug — bovine product)\nNon-resorbable for bone: bone wax (needs something on top to keep it in place)\nMedicinal: tranexamic acid 5% mouthwash (antifibrinolytic — holds clot in place) 4× daily for 2 days\nSurgical: sutures, pressure, ligation of vessels"
+    },
+    {
+      "id": "t6-r11",
+      "question": "What are the four components of blood that can be transfused and when is each used?",
+      "answer": "Red cells: for anaemia when Hb too low to sustain function\nPlatelets: when platelets <50×10^9/L with bleeding, or <30×10^9/L without bleeding\nFresh frozen plasma: to correct multiple clotting factor deficiencies in bleeding patients\nCryoprecipitate: concentrated fibrinogen for hypofibrinogenaemia (major haemorrhage)"
+    }
+  ],
+  "applyIt": [
+    {
+      "id": "t6-a1",
+      "scenario": "A 42-year-old woman on alendronate (oral bisphosphonate) for osteoporosis requires extraction of a lower molar. She has been on alendronate for 3 years. What is your most important consideration?",
+      "options": [
+        "A. Bisphosphonates have no effect on dental extractions — proceed normally",
+        "B. There is a risk of osteonecrosis of the jaw (MRONJ) — discuss risks with the patient, try to avoid extraction if possible, and if necessary use meticulous surgical technique with antibiotic cover",
+        "C. Stop the bisphosphonate for 3 months before proceeding — this completely eliminates MRONJ risk",
+        "D. Refer immediately to oral surgery — all bisphosphonate patients must be managed in hospital"
+      ],
+      "correctAnswer": "B",
+      "explanation": "MRONJ risk exists with oral bisphosphonates, though the risk is significantly lower than with IV bisphosphonates (pamidronate, zoledronate). After 3 years of alendronate, the risk is not zero. Management: (1) avoid extraction if clinically feasible (endodontic treatment instead?); (2) if unavoidable, ensure meticulous atraumatic technique; (3) antibiotic cover (co-amoxiclav); (4) ensure thorough debridement and smooth bone edges; (5) thorough informed consent about MRONJ risk. Stopping bisphosphonate (C) may be appropriate in some cases (drug holiday) but does not completely eliminate risk as the drug is stored in bone for years. Many primary care cases can be managed in practice (B is more accurate than D for oral bisphosphonates)."
+    },
+    {
+      "id": "t6-a2",
+      "scenario": "A patient with known haemophilia A (Factor VIII level 3%) presents for a lower left first molar extraction. What is the pre-operative management?",
+      "options": [
+        "A. Prescribe aspirin 75mg for post-operative analgesia and proceed",
+        "B. Contact the haemophilia centre; plan Factor VIII infusion to reach adequate levels pre-operatively; use LA with adrenaline; have tranexamic acid mouthwash available",
+        "C. Proceed without contacting the haemophilia centre as haemophilia only affects joints",
+        "D. Use regional block anaesthesia to avoid trauma at the surgical site"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Haemophilia A with Factor VIII level 3% is severe disease (below 1% is most severe; <5% is still very low). Pre-operative: (1) Contact haemophilia centre — they will plan Factor VIII infusion to raise levels to >50% before surgery (usually done on day of procedure); (2) Use LA with adrenaline (vasoconstriction helps achieve haemostasis and reduces bleeding); (3) Have tranexamic acid mouthwash ready for post-operative use; (4) Avoid NSAIDs (impair platelet function). Aspirin (A) is absolutely contraindicated — it would worsen bleeding. Haemophilia causes post-extraction haemorrhage, not just joint bleeds (C). Regional blocks are debated in coagulopathy — some haemophilia centres prefer infiltration; discuss with the haemophilia team."
+    },
+    {
+      "id": "t6-a3",
+      "scenario": "On examining a new patient's palate, you notice scattered pinpoint reddish-purple lesions that do not blanch on pressure. The patient mentions they have been having frequent nosebleeds and unusually heavy bruising from minor knocks. What is your most important next step?",
+      "options": [
+        "A. Diagnose viral petechiae and reassure the patient",
+        "B. Proceed with planned restorations — petechiae are a common finding of no significance",
+        "C. Urgently refer to their GP or hospital — palatal petechiae with easy bruising and epistaxis suggest thrombocytopenia requiring haematological investigation",
+        "D. Prescribe chlorhexidine mouthwash for 2 weeks and review"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Palatal petechiae (small, non-blanching pinpoint haemorrhages) in combination with epistaxis and easy bruising are a classic presentation of thrombocytopenia (low platelet count). This could indicate immune thrombocytopenic purpura, leukaemia, bone marrow failure, or other haematological causes. This is a significant finding requiring urgent referral for full blood count and haematological assessment. Any planned dental procedures involving bleeding should be deferred until the platelet count is known and it is safe to proceed. Viral petechiae (A) can occur (e.g. with EBV/CMV) but must be confirmed by clinical assessment and FBC."
+    }
+  ],
+  "writeIt": [
+    {
+      "id": "t6-w1",
+      "prompt": "Outline the dental management of a patient with liver cirrhosis attending for a routine dental extraction. Consider their bleeding risk, local anaesthetic choices, drug prescribing, and sedation.",
+      "totalMarks": 10,
+      "markScheme": [
+        {
+          "point": "Bleeding risk in liver disease: liver fails to synthesise vitamin K-dependent clotting factors (II, VII, IX, X) + Factor V and fibrinogen → coagulopathy. Also: portal hypertension → splenomegaly → platelet sequestration → thrombocytopenia",
+          "marks": 2
+        },
+        {
+          "point": "Pre-operative investigations: check PT/INR (should be <4 for dental surgery), platelet count (>30×10^9/L), and FBC before any surgical procedure",
+          "marks": 1
+        },
+        {
+          "point": "LA choice: use articaine — partially metabolised in plasma by pseudocholinesterases, so does not rely solely on hepatic clearance unlike other amide LAs. Limit lidocaine to 2 cartridges if used in significant liver disease",
+          "marks": 2
+        },
+        {
+          "point": "Haemostasis measures: use oxidised cellulose, gelatin sponge or collagen haemostats; sutures; tranexamic acid mouthwash 4× daily for 2 days post-extraction; pressure packing",
+          "marks": 1
+        },
+        {
+          "point": "Drug prescribing: never prescribe paracetamol (NAPQI accumulates in liver disease — hepatotoxic); avoid NSAIDs (GI bleeding risk); avoid erythromycin, metronidazole, tetracycline; reduce fluconazole dose; miconazole absolutely contraindicated",
+          "marks": 2
+        },
+        {
+          "point": "Sedation: avoid benzodiazepines — not metabolised adequately in liver disease → accumulation → toxicity, potentially coma. If essential, only in specialist unit",
+          "marks": 1
+        },
+        {
+          "point": "Liaise with gastroenterologist if severity of liver disease is uncertain; plan appointments at times of optimal hepatic function",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "t6-w2",
+      "prompt": "A patient presents with fatigue, pallor, and a smooth sore tongue. Blood tests show Hb 85 g/L, MCV 115 fL, and low serum B12. Describe the likely diagnosis, its pathophysiology, investigation, treatment, and dental relevance.",
+      "totalMarks": 8,
+      "markScheme": [
+        {
+          "point": "Diagnosis: megaloblastic macrocytic anaemia due to B12 deficiency; most likely cause given MCV>100 and low B12",
+          "marks": 1
+        },
+        {
+          "point": "Pathophysiology: B12 is essential for DNA synthesis (via methylation of tetrahydrofolate → thymidylate synthesis). Deficiency → impaired cell division in rapidly dividing cells (bone marrow, GI mucosa) → large immature red cells (megaloblasts → macrocytes), hypersegmented neutrophils",
+          "marks": 2
+        },
+        {
+          "point": "Common cause: pernicious anaemia (autoimmune destruction of gastric parietal cells → loss of intrinsic factor → B12 cannot be absorbed in terminal ileum). Also: dietary deficiency (vegans), terminal ileum disease (Crohn's), gastric surgery",
+          "marks": 1
+        },
+        {
+          "point": "Investigations: serum B12 level, red cell folate, intrinsic factor antibodies (positive in pernicious anaemia), anti-parietal cell antibodies, FBC (macro-ovalocytes, hypersegmented neutrophils)",
+          "marks": 1
+        },
+        {
+          "point": "Treatment: identify and treat underlying cause; B12 deficiency → lifelong IM hydroxocobalamin injections (1mg every 3 months) as oral supplementation is ineffective if intrinsic factor is absent; folic acid if folate deficient (ensure B12 ruled out first to avoid subacute combined degeneration of spinal cord)",
+          "marks": 1
+        },
+        {
+          "point": "Dental relevance: smooth, atrophic, red, sore tongue (glossitis) — may be the presenting sign that prompts referral; angular cheilitis; burning mouth sensation; oral mucosal pallor. Patient may have associated autoimmune diseases (type 1 diabetes, autoimmune thyroid disease)",
+          "marks": 2
+        }
+      ]
+    }
+  ],
+  "mockBank": [
+    {
+      "id": "t6-m1",
+      "theme": 6,
+      "topicTag": "anaemia",
+      "question": "Macrocytic anaemia is typically found in:",
+      "options": [
+        "A. Iron deficiency",
+        "B. Lead poisoning",
+        "C. B12 deficiency",
+        "D. Anaemia of chronic disease"
+      ],
+      "correctAnswer": "C",
+      "explanation": "B12 deficiency causes macrocytic (megaloblastic) anaemia — large red cells with a high MCV (>100 fL). Iron deficiency causes microcytic, hypochromic anaemia (low MCV). Anaemia of chronic disease and most acute blood loss causes normocytic anaemia. Lead poisoning causes microcytic anaemia (inhibits haem synthesis)."
+    },
+    {
+      "id": "t6-m2",
+      "theme": 6,
+      "topicTag": "anaemia",
+      "question": "Which of the following is NOT a cause of iron deficiency?",
+      "options": [
+        "A. Chronic blood loss",
+        "B. Coeliac disease",
+        "C. Menorrhagia",
+        "D. Pernicious anaemia"
+      ],
+      "correctAnswer": "D",
+      "explanation": "Pernicious anaemia is an autoimmune condition causing B12 deficiency (due to loss of intrinsic factor) — it does NOT cause iron deficiency. Iron deficiency results from: poor intake, malabsorption (including coeliac disease which damages the small bowel where iron is absorbed), or blood loss (menorrhagia, GI bleeding)."
+    },
+    {
+      "id": "t6-m3",
+      "theme": 6,
+      "topicTag": "coagulation",
+      "question": "A 50-year-old man presents with severe GI bleeding. He is on warfarin with an INR of 11. Which of the following is best for rapid and complete reversal of his INR?",
+      "options": [
+        "A. Prothrombin complex concentrates plus intravenous vitamin K",
+        "B. Fresh frozen plasma plus intravenous vitamin K",
+        "C. Intravenous vitamin K alone",
+        "D. Oral vitamin K"
+      ],
+      "correctAnswer": "A",
+      "explanation": "For rapid and complete reversal of a dangerously elevated INR (11) in a patient with life-threatening bleeding: prothrombin complex concentrates (PCC — contains Factors II, VII, IX, X in concentrated form) PLUS IV Vitamin K (to restore endogenous clotting factor synthesis). PCC works within minutes. FFP (B) is slower and requires large volumes. IV Vitamin K alone (C) or oral Vitamin K (D) takes 4–6 hours to work and is insufficient for emergency reversal."
+    },
+    {
+      "id": "t6-m4",
+      "theme": 6,
+      "topicTag": "coagulation",
+      "question": "How quickly does intravenous vitamin K usually lead to INR reversal in a patient receiving warfarin?",
+      "options": [
+        "A. 15 minutes",
+        "B. 1 hour",
+        "C. 4–6 hours",
+        "D. 24 hours"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Intravenous vitamin K takes approximately 4–6 hours to produce clinically significant INR reduction. This is because vitamin K must be used by the liver to synthesise new clotting factors — this takes time. For immediate reversal, prothrombin complex concentrates (PCC) are required. Oral vitamin K takes even longer (>24 hours)."
+    },
+    {
+      "id": "t6-m5",
+      "theme": 6,
+      "topicTag": "leukaemia",
+      "question": "Blast cells are typically seen in the blood in:",
+      "options": [
+        "A. Myeloma",
+        "B. Chronic lymphocytic leukaemia",
+        "C. Acute myeloid leukaemia",
+        "D. B12 deficiency"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Blast cells (immature, undifferentiated bone marrow precursor cells) in the peripheral blood are the hallmark of acute leukaemia (both AML and ALL). CLL (B) shows mature lymphocyte proliferation, not blasts. Myeloma (A) shows plasma cell abnormalities, not circulating blasts. B12 deficiency (D) causes hypersegmented neutrophils and macro-ovalocytes."
+    },
+    {
+      "id": "t6-m6",
+      "theme": 6,
+      "topicTag": "anticoagulants",
+      "question": "A 72-year-old patient on warfarin for AF requires two dental extractions and his INR is 2.5. What is correct?",
+      "options": [
+        "A. Perform the extractions in hospital",
+        "B. Stop warfarin 2 days prior",
+        "C. Proceed with the extractions in primary care",
+        "D. Give vitamin K prior to the extractions"
+      ],
+      "correctAnswer": "C",
+      "explanation": "INR 2.5 is within the therapeutic range and below the dental treatment threshold of 4. Dental extractions can proceed safely in primary care without altering warfarin therapy. Local haemostatic measures (oxidised cellulose, sutures, tranexamic acid mouthwash) should be used. Stopping warfarin (B) risks thromboembolism — particularly dangerous in AF (stroke risk). Hospital referral and Vitamin K (D) are unnecessary at INR 2.5."
+    },
+    {
+      "id": "t6-m7",
+      "theme": 6,
+      "topicTag": "haemophilia",
+      "question": "A low Factor IX level is found in:",
+      "options": [
+        "A. Haemophilia B",
+        "B. Haemophilia A",
+        "C. Von Willebrand disease",
+        "D. Thrombocytopenia"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Haemophilia B (Christmas disease) is an X-linked deficiency of Factor IX. Haemophilia A is a deficiency of Factor VIII. Von Willebrand disease causes reduced or dysfunctional von Willebrand factor (which carries Factor VIII — so Factor VIII may also be secondary reduced in severe VWD Type III). Thrombocytopenia involves platelet numbers, not coagulation factors."
+    },
+    {
+      "id": "t6-m8",
+      "theme": 6,
+      "topicTag": "anticoagulants",
+      "question": "Which of the following statements about dabigatran is correct?",
+      "options": [
+        "A. Used for anticoagulation in prosthetic heart valves",
+        "B. An antidote for rapid reversal is available",
+        "C. It reduces vitamin K-dependent clotting factors",
+        "D. It is a Factor Xa inhibitor"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Dabigatran (a direct thrombin inhibitor DOAC) has an approved antidote — idarucizumab (Praxbind) — which can rapidly and completely reverse its anticoagulant effect. Dabigatran is NOT used for prosthetic heart valves (A — warfarin is still used here). It does NOT affect Vitamin K-dependent factors (C — that is warfarin). It is a direct thrombin inhibitor, NOT a Factor Xa inhibitor (D — rivaroxaban, apixaban, edoxaban are Xa inhibitors)."
+    },
+    {
+      "id": "t6-m9",
+      "theme": 6,
+      "topicTag": "anaemia",
+      "question": "A low serum ferritin is typically found in:",
+      "options": [
+        "A. Iron deficiency anaemia",
+        "B. Liver disease",
+        "C. Thalassaemia",
+        "D. B12 deficiency"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Ferritin is the storage form of iron — low ferritin reflects depleted iron stores and is diagnostic of iron deficiency anaemia (before the anaemia itself develops). Ferritin is an acute phase protein — it is HIGH in liver disease (released from damaged hepatocytes), infections, and inflammatory conditions, even when actual iron stores may be relatively low. Thalassaemia involves haemoglobin structure defects, not iron deficiency."
+    },
+    {
+      "id": "t6-m10",
+      "theme": 6,
+      "topicTag": "haemostasis",
+      "question": "Which of the following is the most valuable tool in assessing a patient's potential for problematic bleeding before dental surgery?",
+      "options": [
+        "A. Full blood count alone",
+        "B. INR measurement",
+        "C. A detailed bleeding history — how they tolerated surgery and trauma in the past",
+        "D. APTT measurement"
+      ],
+      "correctAnswer": "C",
+      "explanation": "A detailed bleeding history — including previous extractions, surgery, trauma, nosebleeds, heavy periods, joint/muscle bleeds, and family history — is the most sensitive screening tool for bleeding disorders. Laboratory tests (FBC, INR, APTT) are ordered to confirm suspicion raised by history. Many mild disorders (mild VWD, mild haemophilia) may not show up on routine screening tests."
+    },
+    {
+      "id": "t6-m11",
+      "theme": 6,
+      "topicTag": "anaemia",
+      "question": "Which ONE of the following findings is MOST characteristic of iron deficiency anaemia on a blood film?",
+      "options": [
+        "A. Macrocytic red cells with hypersegmented neutrophils",
+        "B. Microcytic, hypochromic red cells with low ferritin and low MCV",
+        "C. Normocytic red cells with rouleaux formation",
+        "D. Target cells with raised reticulocyte count",
+        "E. Spherocytes with a positive Coombs test"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Iron deficiency anaemia produces microcytic (small), hypochromic (pale) red cells due to inadequate haemoglobin synthesis. The MCV is low. Serum ferritin is low (the most sensitive indicator of iron stores). Macrocytic anaemia with hypersegmented neutrophils suggests B12 or folate deficiency. Normocytic anaemia with rouleaux suggests myeloma. Spherocytes indicate haemolytic anaemia."
+    },
+    {
+      "id": "t6-m12",
+      "theme": 6,
+      "topicTag": "anaemia",
+      "question": "A 35-year-old woman with heavy periods is found to have angular cheilitis, smooth tongue, and fatigue. Which ONE of the following is the MOST likely underlying deficiency?",
+      "options": [
+        "A. Vitamin B12",
+        "B. Folate",
+        "C. Iron",
+        "D. Vitamin C",
+        "E. Copper"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Angular cheilitis (stomatitis at the corners of the mouth) is a classic oral sign of iron deficiency anaemia. Other oral signs include smooth, sore tongue (atrophic glossitis) and pale oral mucosa. In a woman of reproductive age with menorrhagia (heavy periods), iron deficiency is the most common cause of anaemia. B12/folate deficiency causes macrocytic anaemia and smooth tongue but is less likely given the history."
+    },
+    {
+      "id": "t6-m13",
+      "theme": 6,
+      "topicTag": "anaemia",
+      "question": "Pernicious anaemia is caused by which ONE of the following mechanisms?",
+      "options": [
+        "A. Dietary iron deficiency due to poor intake",
+        "B. Autoimmune destruction of gastric parietal cells leading to intrinsic factor deficiency and B12 malabsorption",
+        "C. Chronic blood loss from the gastrointestinal tract",
+        "D. Folate malabsorption due to coeliac disease",
+        "E. Haemolysis of red blood cells by autoantibodies"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Pernicious anaemia is an autoimmune condition in which antibodies destroy gastric parietal cells (which produce intrinsic factor) and/or directly attack intrinsic factor. Intrinsic factor is required for the absorption of vitamin B12 in the terminal ileum. Without it, B12 deficiency develops, causing megaloblastic (macrocytic) anaemia. Treatment is lifelong intramuscular B12 injections every 3 months."
+    },
+    {
+      "id": "t6-m14",
+      "theme": 6,
+      "topicTag": "anaemia",
+      "question": "Which ONE of the following drugs can cause macrocytic anaemia by interfering with folate metabolism?",
+      "options": [
+        "A. Aspirin",
+        "B. Amoxicillin",
+        "C. Methotrexate",
+        "D. Warfarin",
+        "E. Metformin"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Methotrexate inhibits dihydrofolate reductase — the enzyme needed to convert dietary folate to its active form — causing functional folate deficiency and macrocytic anaemia. Septrin (trimethoprim/sulfamethoxazole) also interferes with folate metabolism. Metformin can impair B12 absorption over time, causing B12 deficiency. Aspirin and amoxicillin do not directly cause macrocytic anaemia."
+    },
+    {
+      "id": "t6-m15",
+      "theme": 6,
+      "topicTag": "anaemia",
+      "question": "Which ONE of the following causes of anaemia characteristically produces normocytic red blood cells?",
+      "options": [
+        "A. Iron deficiency",
+        "B. B12 deficiency",
+        "C. Thalassaemia",
+        "D. Anaemia of chronic disease",
+        "E. Lead poisoning"
+      ],
+      "correctAnswer": "D",
+      "explanation": "Anaemia of chronic disease typically causes normocytic anaemia (normal MCV), though it can occasionally be mildly microcytic in long-standing cases. It occurs in chronic inflammatory conditions (e.g. rheumatoid arthritis, chronic infection, malignancy) due to impaired iron utilisation and reduced erythropoietin response. Iron deficiency, thalassaemia, and lead poisoning cause microcytic anaemia. B12/folate deficiency causes macrocytic anaemia."
+    },
+    {
+      "id": "t6-m16",
+      "theme": 6,
+      "topicTag": "anaemia",
+      "question": "B12 is absorbed in the terminal ileum. Which ONE of the following conditions would MOST directly impair B12 absorption?",
+      "options": [
+        "A. Coeliac disease affecting the proximal small bowel",
+        "B. Crohn's disease affecting the terminal ileum",
+        "C. Chronic gastritis from Helicobacter pylori",
+        "D. Alcoholic liver disease",
+        "E. Iron deficiency anaemia"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Vitamin B12 is absorbed in the terminal ileum, bound to intrinsic factor (produced by gastric parietal cells). Crohn's disease affecting the terminal ileum — or surgical removal (ileectomy) — directly impairs B12 absorption, causing B12 deficiency and macrocytic anaemia. Coeliac disease affects the proximal small bowel and primarily impairs iron and folate absorption. H. pylori gastritis can damage parietal cells (causing intrinsic factor deficiency) but does not directly affect the terminal ileum."
+    },
+    {
+      "id": "t6-m17",
+      "theme": 6,
+      "topicTag": "leukaemia",
+      "question": "A patient presents with a short history of bruising, bleeding gums, and gingival hypertrophy. A blood count shows a very high white cell count. Which ONE of the following is the MOST likely diagnosis?",
+      "options": [
+        "A. Chronic lymphocytic leukaemia",
+        "B. Acute myeloid leukaemia",
+        "C. Infectious mononucleosis",
+        "D. Iron deficiency anaemia",
+        "E. Aplastic anaemia"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Acute myeloid leukaemia (AML) classically presents with gingival hypertrophy (infiltration of gums by leukaemic cells), bruising, bleeding, and infections — with a very high white cell count of immature blast cells. AML has a rapid onset over weeks. Gingival enlargement that is spontaneous, diffuse, and associated with systemic signs should always raise the possibility of acute leukaemia. CLL has a more indolent course in older patients."
+    },
+    {
+      "id": "t6-m18",
+      "theme": 6,
+      "topicTag": "leukaemia",
+      "question": "Which ONE of the following correctly describes the difference between acute and chronic leukaemia?",
+      "options": [
+        "A. Acute leukaemias affect adults only; chronic leukaemias affect children",
+        "B. Acute leukaemias involve rapid proliferation of immature (blast) cells; chronic leukaemias involve more mature cells with a slower course",
+        "C. Chronic leukaemias are curable; acute leukaemias are always fatal",
+        "D. Acute leukaemias exclusively affect lymphoid cells; chronic leukaemias exclusively affect myeloid cells",
+        "E. Acute leukaemias are associated with hyperviscosity syndrome; chronic leukaemias cause petechiae"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Acute leukaemias are characterised by rapid, uncontrolled proliferation of immature (blast) cells that fail to mature; bone marrow is packed with blasts, and patients present acutely with cytopenias (anaemia, thrombocytopenia, neutropenia). Chronic leukaemias involve more mature cells and have an indolent course, often discovered incidentally. Some acute leukaemias are curable with chemotherapy; chronic leukaemias are generally controllable but not always curable."
+    },
+    {
+      "id": "t6-m19",
+      "theme": 6,
+      "topicTag": "leukaemia",
+      "question": "Multiple myeloma is characterised by which ONE of the following?",
+      "options": [
+        "A. Abnormal proliferation of plasma cells producing a paraprotein (monoclonal immunoglobulin)",
+        "B. Uncontrolled proliferation of T lymphocytes in lymph nodes",
+        "C. Clonal expansion of neutrophil precursors in the bone marrow",
+        "D. Destruction of platelets by autoantibodies",
+        "E. Haemolysis of red blood cells in the spleen"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Multiple myeloma is a malignancy of plasma cells (antibody-producing B cells) in the bone marrow. Plasma cells proliferate clonally and produce large amounts of a single abnormal immunoglobulin (paraprotein or M-protein). They form plasmacytomas that destroy bone, causing bone pain, hypercalcaemia, and pathological fractures. Myeloma can cause normocytic anaemia with rouleaux formation on blood film. Almost all myeloma patients are treated with bisphosphonates."
+    },
+    {
+      "id": "t6-m20",
+      "theme": 6,
+      "topicTag": "leukaemia",
+      "question": "A patient with multiple myeloma is on bisphosphonate therapy and requires a tooth extraction. Which ONE of the following is the MOST important risk to inform the patient about?",
+      "options": [
+        "A. Increased risk of anaphylaxis from local anaesthetic",
+        "B. Osteonecrosis of the jaw (BRONJ/MRONJ)",
+        "C. Excessive intraoperative bleeding requiring blood transfusion",
+        "D. Risk of systemic spread of oral bacteria to bone marrow",
+        "E. Increased sensitivity to adrenaline in local anaesthetic"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Bisphosphonate-related osteonecrosis of the jaw (BRONJ/MRONJ) is a serious complication in patients on bisphosphonate therapy (particularly IV bisphosphonates like pamidronate and zoledronate used for myeloma). Extraction or other dento-alveolar surgery can trigger exposure of necrotic bone that fails to heal. Nitrogen-containing bisphosphonates carry the highest risk. Management involves stopping bisphosphonates before the procedure and prescribing antibiotics (e.g. co-amoxiclav)."
+    },
+    {
+      "id": "t6-m21",
+      "theme": 6,
+      "topicTag": "leukaemia",
+      "question": "Which ONE of the following BEST describes the distinction between Hodgkin's and non-Hodgkin's lymphoma?",
+      "options": [
+        "A. Hodgkin's lymphoma is 3–4 times more common than non-Hodgkin's",
+        "B. Hodgkin's lymphoma is characterised by the presence of Reed-Sternberg cells; non-Hodgkin's lymphoma is a heterogeneous group of lymphoid malignancies without Reed-Sternberg cells",
+        "C. Non-Hodgkin's lymphoma is always curable; Hodgkin's lymphoma is not",
+        "D. Hodgkin's lymphoma predominantly affects the elderly; non-Hodgkin's affects young patients",
+        "E. Both are managed identically with the same chemotherapy regimen"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Hodgkin's lymphoma is characterised histologically by the presence of Reed-Sternberg cells (large binucleate cells with prominent 'owl-eye' nucleoli). Non-Hodgkin's lymphoma (NHL) is a heterogeneous group of over 100 subtypes of lymphoid malignancies. NHL is 3–4 times more common than Hodgkin's. High-grade NHL is potentially curable but lethal if untreated; low-grade NHL is typically not curable but controllable for years."
+    },
+    {
+      "id": "t6-m22",
+      "theme": 6,
+      "topicTag": "leukaemia",
+      "question": "Oral complications of chemotherapy include which ONE of the following?",
+      "options": [
+        "A. Gingival hyperplasia and periapical abscesses only",
+        "B. Mucositis, oral candidiasis, xerostomia, and increased caries risk",
+        "C. Enlargement of the parotid glands",
+        "D. Increased bone density and resistance to extraction",
+        "E. Exuberant wound healing and keloid scar formation"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Chemotherapy causes numerous oral complications: mucositis (painful inflammation/ulceration of oral mucosa), oral candidiasis (due to immunosuppression), xerostomia (dry mouth from salivary gland damage), increased caries risk, gingival bleeding/petechiae (from thrombocytopenia), and reactivation of herpes simplex virus. Gingival hyperplasia is caused by certain drugs (e.g. ciclosporin, nifedipine) not chemotherapy in general."
+    },
+    {
+      "id": "t6-m23",
+      "theme": 6,
+      "topicTag": "haemostasis",
+      "question": "What is the FIRST response of the body to vascular injury?",
+      "options": [
+        "A. Activation of the extrinsic coagulation pathway",
+        "B. Vasoconstriction",
+        "C. Platelet aggregation and plug formation",
+        "D. Fibrin cross-linking",
+        "E. Release of tissue plasminogen activator"
+      ],
+      "correctAnswer": "B",
+      "explanation": "The immediate first response to vascular injury is vasoconstriction — the injured vessel contracts to reduce blood flow and blood loss. This is followed by platelet adhesion and aggregation (formation of the primary platelet plug), and then activation of the coagulation cascade to form a stable fibrin clot (secondary haemostasis). Fibrinolysis (clot dissolution) occurs later during wound remodelling."
+    },
+    {
+      "id": "t6-m24",
+      "theme": 6,
+      "topicTag": "haemostasis",
+      "question": "Von Willebrand factor (vWF) plays a key role in haemostasis. Which ONE of the following BEST describes its function?",
+      "options": [
+        "A. It activates the intrinsic coagulation pathway by triggering factor XII",
+        "B. It directly converts fibrinogen to fibrin",
+        "C. It acts as a bridge between damaged endothelium and platelets (via GP1b receptor) and carries factor VIII",
+        "D. It inhibits platelet aggregation in undamaged vessels",
+        "E. It activates the extrinsic pathway by binding tissue factor"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Von Willebrand factor (vWF) binds to exposed collagen in damaged vessel walls and to the platelet receptor GP1b, acting as a bridge that enables platelets to adhere to damaged endothelium. vWF also acts as the main carrier protein for factor VIII in the circulation, protecting it from degradation. Deficiency of vWF (von Willebrand disease) impairs both platelet adhesion and factor VIII availability."
+    },
+    {
+      "id": "t6-m25",
+      "theme": 6,
+      "topicTag": "coagulation",
+      "question": "In the coagulation cascade, which ONE of the following represents the common pathway that both the intrinsic and extrinsic pathways converge on?",
+      "options": [
+        "A. Factor XII → XI → IX → VIII",
+        "B. Tissue factor → Factor VII",
+        "C. Factor X → Factor V → Prothrombin (II) → Thrombin → Fibrin",
+        "D. Factor XIII → Fibrin stabilisation",
+        "E. Factor VIII → Factor IX → Factor X"
+      ],
+      "correctAnswer": "C",
+      "explanation": "The common pathway begins with activated factor X (Xa), which (with factor Va as cofactor) activates prothrombin (factor II) to thrombin. Thrombin then cleaves fibrinogen to fibrin, and activates factor XIII which cross-links fibrin to stabilise the clot. Factor XII/XI/IX/VIII is the intrinsic pathway. Tissue factor/factor VII is the extrinsic pathway. Both converge at factor X activation."
+    },
+    {
+      "id": "t6-m26",
+      "theme": 6,
+      "topicTag": "haemophilia",
+      "question": "Haemophilia A is caused by deficiency of which clotting factor?",
+      "options": [
+        "A. Factor V",
+        "B. Factor VII",
+        "C. Factor VIII",
+        "D. Factor IX",
+        "E. Factor X"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Haemophilia A is an X-linked recessive condition caused by deficiency of factor VIII. Haemophilia B (Christmas disease) is caused by deficiency of factor IX. Both factors are part of the intrinsic coagulation pathway. Without these factors, the intrinsic pathway cannot efficiently activate factor X, impairing the formation of a stable fibrin clot. Both conditions present with joint bleeds (haemarthroses) and prolonged bleeding after surgery or trauma."
+    },
+    {
+      "id": "t6-m27",
+      "theme": 6,
+      "topicTag": "haemophilia",
+      "question": "What is the clinical significance of severe haemophilia A, where factor VIII levels are less than 1% of normal?",
+      "options": [
+        "A. Patients only bleed excessively after major trauma",
+        "B. Patients experience spontaneous bleeding into joints and muscles without provocation",
+        "C. Patients are at risk of venous thromboembolism due to compensatory mechanisms",
+        "D. Patients have normal bleeding but impaired wound healing",
+        "E. Patients develop only minor bruising but no deep tissue bleeding"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Severe haemophilia A (factor VIII <1%) is characterised by spontaneous bleeding — haemarthroses (bleeds into joints, causing progressive joint damage), muscle haematomas, and intracranial bleeding — occurring without any trauma. Moderate haemophilia (1–5%) bleeds with minor trauma; mild haemophilia (5–50%) bleeds only after significant trauma or surgery. Factor VIII levels above 50% are considered normal."
+    },
+    {
+      "id": "t6-m28",
+      "theme": 6,
+      "topicTag": "haemophilia",
+      "question": "DDAVP (desmopressin) is useful in mild haemophilia A and Type 1 von Willebrand disease. Which ONE of the following BEST describes its mechanism?",
+      "options": [
+        "A. It stimulates the liver to produce new factor VIII",
+        "B. It causes the release of stored vWF and factor VIII from endothelial cells, raising plasma levels",
+        "C. It inhibits fibrinolysis, preventing clot breakdown",
+        "D. It activates platelets by stimulating thromboxane A2 production",
+        "E. It substitutes for vWF by binding directly to collagen"
+      ],
+      "correctAnswer": "B",
+      "explanation": "DDAVP (desmopressin/vasopressin analogue) stimulates the release of pre-formed vWF and factor VIII from Weibel-Palade bodies in endothelial cells, temporarily raising circulating levels by 2–5 fold. This is effective for mild haemophilia A and Type 1 vWD (where there is reduced but functional vWF). It is not effective in severe haemophilia A (no reserves to release) or Type 2/3 vWD."
+    },
+    {
+      "id": "t6-m29",
+      "theme": 6,
+      "topicTag": "haemophilia",
+      "question": "Tranexamic acid is used as an adjunct in patients with bleeding disorders undergoing dental procedures. Which ONE of the following BEST describes its mechanism?",
+      "options": [
+        "A. It activates factor VIII, increasing intrinsic pathway activity",
+        "B. It inhibits fibrinolysis by blocking plasminogen binding to fibrin, thereby stabilising the clot",
+        "C. It acts as a vasoconstrictor to reduce bleeding at the surgical site",
+        "D. It replaces vWF and factor VIII directly",
+        "E. It inhibits platelet aggregation to prevent excessive clot formation"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Tranexamic acid is an antifibrinolytic drug — it competitively inhibits the binding of plasminogen to fibrin, preventing plasminogen from being activated to plasmin (which breaks down fibrin clots). This stabilises clots and reduces bleeding. It is used as a mouthwash (5% solution, 4x daily for 2 days) after dental extractions in patients with haemophilia, VWD, and in those on warfarin."
+    },
+    {
+      "id": "t6-m30",
+      "theme": 6,
+      "topicTag": "coagulation",
+      "question": "What is the INR, and what does a value of 3.0 indicate?",
+      "options": [
+        "A. The INR measures platelet count; 3.0 means low platelet count",
+        "B. The INR measures the intrinsic coagulation pathway; 3.0 is normal",
+        "C. The INR is a standardised test of the extrinsic coagulation pathway; 3.0 indicates anticoagulation in the upper therapeutic range for most warfarin indications",
+        "D. The INR measures fibrinogen levels; 3.0 indicates hyperfibrinogenaemia",
+        "E. The INR measures factor VIII activity; 3.0 indicates haemophilia A"
+      ],
+      "correctAnswer": "C",
+      "explanation": "The INR (International Normalised Ratio) is a standardised measure of the prothrombin time (PT), which assesses the extrinsic coagulation pathway (factors II, VII, X) and is influenced by warfarin. A normal INR is less than 1.5. Therapeutic anticoagulation with warfarin aims for an INR of 2–3 for most indications (e.g. AF, DVT). An INR of 3.0 is in the upper therapeutic range. For patients with mechanical heart valves, a higher target (2.5–3.5) may be used."
+    },
+    {
+      "id": "t6-m31",
+      "theme": 6,
+      "topicTag": "anticoagulants",
+      "question": "A patient on warfarin has a measured INR of 4.5. They require a routine dental extraction. Which ONE of the following is the MOST appropriate course of action?",
+      "options": [
+        "A. Proceed with extraction and use tranexamic acid mouthwash",
+        "B. Give vitamin K 1 mg orally and proceed immediately",
+        "C. Postpone the extraction and contact the patient's GP/haematologist to address the high INR",
+        "D. Proceed with extraction under general anaesthesia for safety",
+        "E. Administer fresh frozen plasma and proceed"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Dental extractions are safe on warfarin up to an INR of 4.0 with local haemostatic measures. An INR of 4.5 exceeds this threshold, and the procedure should be postponed. The patient's GP or anticoagulant clinic should be contacted to investigate the reason for the elevated INR (drug interaction? dietary changes?) and adjust the dose. Proceeding with extraction at INR 4.5 risks uncontrolled haemorrhage."
+    },
+    {
+      "id": "t6-m32",
+      "theme": 6,
+      "topicTag": "coagulation",
+      "question": "Which ONE of the following coagulation disorders is characterised by mucosal bleeding (nosebleeds, heavy periods, GI bleeding) rather than deep tissue or joint bleeding?",
+      "options": [
+        "A. Haemophilia A",
+        "B. Haemophilia B",
+        "C. Von Willebrand disease",
+        "D. Factor V deficiency",
+        "E. Protein C deficiency"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Von Willebrand disease causes mucosal bleeding — epistaxis (nosebleeds), menorrhagia (heavy periods), GI bleeding, and prolonged bleeding after cuts — because vWF is critical for the primary platelet plug at mucosal surfaces. In contrast, haemophilia A and B cause deep tissue bleeding: haemarthroses (joint bleeds), muscle haematomas, and intracranial bleeding. The difference reflects the role of vWF in primary haemostasis versus factor VIII/IX in secondary haemostasis."
+    },
+    {
+      "id": "t6-m33",
+      "theme": 6,
+      "topicTag": "anaemia",
+      "question": "Rouleaux formation on a blood film — red cells stacking like coins — is MOST characteristic of which ONE of the following conditions?",
+      "options": [
+        "A. Iron deficiency anaemia",
+        "B. Haemolytic anaemia",
+        "C. Multiple myeloma",
+        "D. Polycythaemia vera",
+        "E. Aplastic anaemia"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Rouleaux formation occurs when increased plasma proteins (particularly immunoglobulins) cause red blood cells to stack together like coins on a blood film. It is classically associated with multiple myeloma, where the abnormal monoclonal immunoglobulin produced by malignant plasma cells increases plasma viscosity. Rouleaux can also be seen in chronic inflammatory conditions. The anaemia in myeloma is typically normocytic."
+    },
+    {
+      "id": "t6-m34",
+      "theme": 6,
+      "topicTag": "haemostasis",
+      "question": "A safe platelet count above which routine minor dental surgery can be performed is generally considered to be which ONE of the following?",
+      "options": [
+        "A. Above 10 × 10⁹/L",
+        "B. Above 30 × 10⁹/L for non-severe bleeding risk procedures",
+        "C. Above 50 × 10⁹/L for any dental surgical procedure",
+        "D. Above 100 × 10⁹/L for all invasive procedures",
+        "E. Platelet count is irrelevant if the INR is within range"
+      ],
+      "correctAnswer": "C",
+      "explanation": "A platelet count above 50 × 10⁹/L is generally considered safe for routine minor dental surgical procedures. For non-bleeding risk procedures, 30 × 10⁹/L may be acceptable. The threshold for major surgery is typically above 80–100 × 10⁹/L. Platelet count should be checked if the patient has a haematological condition, is on chemotherapy, or if bleeding disorders are suspected. Both platelet count AND INR should be assessed together."
+    },
+    {
+      "id": "t6-m35",
+      "theme": 6,
+      "topicTag": "coagulation",
+      "question": "Disseminated intravascular coagulation (DIC) is a serious acquired coagulopathy. Which ONE of the following BEST describes the pathophysiology of DIC?",
+      "options": [
+        "A. Autoimmune production of antibodies against platelets",
+        "B. Excessive, uncontrolled activation of coagulation throughout the body, consuming clotting factors and platelets and leading paradoxically to bleeding",
+        "C. Deficiency of a single clotting factor due to liver disease",
+        "D. Failure of bone marrow to produce platelets in sufficient numbers",
+        "E. Isolated inhibition of the intrinsic coagulation pathway"
+      ],
+      "correctAnswer": "B",
+      "explanation": "DIC is a life-threatening condition in which widespread, uncontrolled activation of coagulation occurs throughout the circulation (triggered by sepsis, obstetric emergencies, trauma, malignancy). This consumes clotting factors, platelets, and fibrinogen faster than they can be replaced, paradoxically causing severe bleeding. Both clotting and bleeding occur simultaneously. DIC causes petechiae, bruising, and haemorrhage from multiple sites."
+    },
+    {
+      "id": "t6-m36",
+      "theme": 6,
+      "topicTag": "leukaemia",
+      "question": "Petechiae on the palate of a dental patient may indicate which ONE of the following?",
+      "options": [
+        "A. Vitamin B12 deficiency",
+        "B. Reduced platelet count (thrombocytopenia)",
+        "C. Iron deficiency anaemia",
+        "D. Excessive warfarin therapy",
+        "E. Von Willebrand disease"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Petechiae (pinpoint haemorrhages) on the palate or oral mucosa indicate reduced platelet numbers (thrombocytopenia) — the platelets cannot form the primary plug, so minor trauma causes tiny haemorrhages. Causes include immune thrombocytopenic purpura (ITP), acute leukaemia (bone marrow infiltration), aplastic anaemia, recent viral infection (EBV, CMV), or DIC. Dental procedures must be avoided until the platelet count is assessed. Excessive warfarin causes coagulation factor deficiency, not petechiae."
+    },
+    {
+      "id": "t6-m37",
+      "theme": 6,
+      "topicTag": "leukaemia",
+      "question": "Mucositis following chemotherapy is graded 1–4. Which ONE of the following BEST describes Grade 3–4 mucositis?",
+      "options": [
+        "A. Mild erythema of the oral mucosa only",
+        "B. Erythema with slight soreness but able to eat normally",
+        "C. Severe painful ulceration that prevents normal eating and swallowing",
+        "D. Superficial white plaques on the oral mucosa",
+        "E. Painless redness confined to the gingival margins"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Grade 3–4 mucositis involves severe, painful ulceration of the oral mucosa that prevents normal oral intake (Grade 3) or requires nutritional support/enteral feeding (Grade 4). It significantly impacts the patient's quality of life and increases infection risk. Grade 1 is mild erythema; Grade 2 involves painful erythema with ulceration but patient can still eat. Severe mucositis may require dose reductions or treatment delays."
+    },
+    {
+      "id": "t6-m38",
+      "theme": 6,
+      "topicTag": "haemostasis",
+      "question": "Which ONE of the following BEST describes the difference between a thrombus and a post-mortem coagulum?",
+      "options": [
+        "A. A thrombus forms only in arteries; a coagulum forms only in veins",
+        "B. A thrombus forms in flowing blood during life and shows lines of Zahn; a coagulum forms after death from settled blood and lacks lines of Zahn",
+        "C. A thrombus is always fibrin-only; a coagulum contains both platelets and fibrin",
+        "D. A thrombus can only be dissolved by heparin; a coagulum dissolves spontaneously",
+        "E. A thrombus causes emboli; a coagulum cannot"
+      ],
+      "correctAnswer": "B",
+      "explanation": "A thrombus forms in flowing blood during life — it is an active process involving platelets, fibrin, and red blood cells, and shows the characteristic layered lines of Zahn. A post-mortem coagulum (blood clot after death) forms passively from settled blood without flow; it lacks lines of Zahn and typically shows a 'chicken fat' (yellow) and 'red currant jelly' (red) two-layer appearance. This distinction helps determine whether a clot found at autopsy formed before or after death."
+    },
+    {
+      "id": "t6-m39",
+      "theme": 6,
+      "topicTag": "anaemia",
+      "question": "A patient with chronic kidney disease develops normocytic anaemia. Which ONE of the following is the MOST likely mechanism?",
+      "options": [
+        "A. Increased red blood cell destruction by the spleen",
+        "B. Deficiency of intrinsic factor leading to B12 malabsorption",
+        "C. Reduced erythropoietin production by the failing kidneys",
+        "D. Iron sequestration by hepcidin in inflammatory states",
+        "E. Aplastic anaemia from uraemic toxins"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Chronic kidney disease (CKD) causes normocytic anaemia primarily due to reduced erythropoietin (EPO) production — EPO is produced by the kidneys and stimulates red cell production in the bone marrow. With insufficient EPO, erythropoiesis is reduced. Treatment includes recombinant EPO (erythropoiesis-stimulating agents). Iron deficiency is also common in CKD and must be corrected alongside EPO therapy."
+    },
+    {
+      "id": "t6-m40",
+      "theme": 6,
+      "topicTag": "coagulation",
+      "question": "Ehlers-Danlos syndrome causes a vascular type of bleeding disorder due to which ONE of the following mechanisms?",
+      "options": [
+        "A. Reduced production of von Willebrand factor",
+        "B. Defective collagen synthesis causing weak blood vessel walls and fragile capillaries",
+        "C. Autoimmune destruction of platelets",
+        "D. Deficiency of vitamin K-dependent clotting factors",
+        "E. Impaired platelet aggregation via defective GP2b/3a receptors"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ehlers-Danlos syndrome is a connective tissue disorder caused by defective collagen synthesis. Collagen is a key structural component of blood vessel walls and also the subendothelial substrate that platelets bind to on vascular injury. Defective collagen leads to weak, fragile capillaries — patients bruise easily, have stretchy skin, and hypermobile joints. The coagulation cascade itself is normal in Ehlers-Danlos; the problem is structural vascular weakness."
+    },
+    {
+      "id": "t6-m41",
+      "theme": 6,
+      "topicTag": "haemostasis",
+      "question": "Which ONE of the following blood products is given to a patient who has lost massive amounts of blood during surgery to replace clotting factors?",
+      "options": [
+        "A. Packed red blood cells",
+        "B. Platelet transfusion",
+        "C. Fresh frozen plasma (FFP)",
+        "D. Normal saline infusion",
+        "E. Cryoprecipitate"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Fresh frozen plasma (FFP) is plasma that has been separated from whole blood and frozen immediately. It contains all plasma proteins including clotting factors and fibrinogen. It is used to replace clotting factor deficiencies in bleeding patients (e.g. massive haemorrhage, warfarin reversal when urgent, liver disease). Cryoprecipitate is specifically used to replace fibrinogen when fibrinogen levels are critically low. Packed red cells replace oxygen-carrying capacity but not clotting factors."
+    },
+    {
+      "id": "t6-m42",
+      "theme": 6,
+      "topicTag": "anaemia",
+      "question": "A patient with known haematological malignancy on cyclosporin is noted to have gum overgrowth. Which ONE of the following is the MOST likely cause?",
+      "options": [
+        "A. Acute leukaemia infiltrating the gingival tissues",
+        "B. Poor oral hygiene leading to chronic periodontitis",
+        "C. Cyclosporin (immunosuppressant) causing drug-induced gingival hyperplasia",
+        "D. Bisphosphonate therapy causing jaw swelling",
+        "E. Lymphoma infiltrating the gingival tissue"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Cyclosporin (an immunosuppressant used post-transplant and in haematological conditions) is a well-recognised cause of drug-induced gingival hyperplasia. Other drugs causing gingival hyperplasia include phenytoin (anticonvulsant), nifedipine (calcium channel blocker), and some other immunosuppressants. The mechanism involves fibroblast overgrowth. Good oral hygiene reduces severity. In patients on cyclosporin, the dentist plays an important role in managing this oral side effect."
+    },
+    {
+      "id": "t6-m43",
+      "theme": 6,
+      "topicTag": "anaemia",
+      "question": "A patient with a long history of alcoholism is found to have macrocytic anaemia. Which ONE of the following is the MOST likely explanation?",
+      "options": [
+        "A. Iron deficiency from poor diet combined with GI blood loss",
+        "B. B12 deficiency from lack of intrinsic factor",
+        "C. Folate deficiency and direct toxic effect of alcohol on the bone marrow",
+        "D. Anaemia of chronic disease from alcoholic liver disease",
+        "E. G6PD deficiency causing haemolysis after alcohol consumption"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Chronic alcoholism causes macrocytic anaemia through two main mechanisms: (1) folate deficiency — alcohol interferes with folate absorption, storage, and metabolism; (2) direct myelosuppressive toxicity of alcohol on the bone marrow, impairing haematopoiesis. Liver disease from alcoholism can also contribute. Macrocytosis in an alcoholic patient should prompt assessment of both folate levels and liver function."
+    },
+    {
+      "id": "t6-m44",
+      "theme": 6,
+      "topicTag": "haemophilia",
+      "question": "Which ONE of the following bleeding disorders is the MOST COMMON inherited coagulopathy in the general population?",
+      "options": [
+        "A. Haemophilia A",
+        "B. Haemophilia B",
+        "C. Von Willebrand disease",
+        "D. Factor V Leiden thrombophilia",
+        "E. Bernard-Soulier syndrome"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Von Willebrand disease (vWD) is the most common inherited bleeding disorder, affecting approximately 1% of the population. It ranges from mild (Type 1 — partial quantitative deficiency) to moderate (Type 2 — qualitative defect) to severe (Type 3 — complete absence of vWF). Haemophilia A (factor VIII deficiency) affects approximately 1 in 5,000 males. vWD affects males and females equally (unlike haemophilia, which is X-linked)."
+    },
+    {
+      "id": "t6-m45",
+      "theme": 6,
+      "topicTag": "leukaemia",
+      "question": "Which ONE of the following is the MOST appropriate treatment for oral candidiasis that develops in a patient undergoing chemotherapy?",
+      "options": [
+        "A. Co-amoxiclav 625 mg three times daily",
+        "B. Nystatin suspension four times daily for one week",
+        "C. Aciclovir 200 mg five times daily",
+        "D. Metronidazole 400 mg three times daily",
+        "E. Clindamycin 300 mg three times daily"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Oral candidiasis in immunosuppressed/post-chemotherapy patients is treated with nystatin suspension (four times daily for one week) as first-line treatment. Fluconazole 50–100 mg daily is used for severe or refractory cases. Aciclovir is for herpes simplex/zoster. Co-amoxiclav and clindamycin are antibacterials not antifungals. It is critical to manage oral candidiasis promptly in immunocompromised patients to prevent systemic spread."
+    },
+    {
+      "id": "t6-m46",
+      "theme": 6,
+      "topicTag": "coagulation",
+      "question": "Warfarin acts by inhibiting which ONE of the following?",
+      "options": [
+        "A. Platelet aggregation by blocking the GP2b/3a receptor",
+        "B. Vitamin K-dependent clotting factors (II, VII, IX, X)",
+        "C. Factor Xa directly",
+        "D. Antithrombin III, reducing its anticoagulant effect",
+        "E. Tissue plasminogen activator, preventing fibrinolysis"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Warfarin inhibits vitamin K epoxide reductase, preventing the recycling of vitamin K. This depletes the active form of vitamin K needed for post-translational activation of clotting factors II (prothrombin), VII, IX, and X (as well as anticoagulant proteins C and S). The main anticoagulant effect is via inhibition of thrombin (factor II) and factor X. INR monitoring is required because warfarin has a narrow therapeutic index."
+    },
+    {
+      "id": "t6-m47",
+      "theme": 6,
+      "topicTag": "haemostasis",
+      "question": "A 2-sample rule is used in blood transfusion. What is the purpose of this rule?",
+      "options": [
+        "A. To ensure two nurses check the blood before administration",
+        "B. To require blood typing on two separate occasions to confirm the patient's blood group before transfusion",
+        "C. To ensure a minimum of two units of blood are always transfused simultaneously",
+        "D. To check haemoglobin and platelet count on the same sample",
+        "E. To verify that two separate crossmatches have been performed"
+      ],
+      "correctAnswer": "B",
+      "explanation": "The 2-sample rule requires that a patient's blood group is confirmed on two separate blood samples taken on different occasions before blood is issued. This prevents ABO-incompatible transfusions (which can be fatal) due to sample labelling errors — the most common cause of transfusion-related deaths. The second sample confirms the blood group independently. This is a critical patient safety measure in transfusion practice."
+    },
+    {
+      "id": "t6-m48",
+      "theme": 6,
+      "topicTag": "coagulation",
+      "question": "Alloimmunisation during blood transfusion can be particularly problematic in women of childbearing age. Which ONE of the following BEST explains why?",
+      "options": [
+        "A. Women have lower baseline immunoglobulin levels and react more severely",
+        "B. Antibodies formed against donor red cell antigens can cross the placenta in future pregnancies and destroy foetal red blood cells (haemolytic disease of the newborn)",
+        "C. Alloimmunisation in women reduces their own red cell production",
+        "D. Women are more likely to form antibodies because they have smaller blood volumes",
+        "E. Alloimmunisation causes autoimmune destruction of the woman's own platelets"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Alloimmunisation occurs when a patient forms antibodies against foreign red cell antigens encountered during a transfusion. In women of childbearing age, these antibodies (e.g. anti-D, anti-Kell) can cross the placenta in future pregnancies if the foetus expresses the relevant antigen. The maternal antibodies destroy foetal red blood cells, causing haemolytic disease of the newborn (HDN), which can range from mild jaundice to severe anaemia and hydrops fetalis."
+    },
+    {
+      "id": "t6-m49",
+      "theme": 6,
+      "topicTag": "leukaemia",
+      "question": "Aplastic anaemia is characterised by which ONE of the following?",
+      "options": [
+        "A. Bone marrow packed with blast cells producing insufficient mature blood cells",
+        "B. Bone marrow failure with hypocellular marrow and reduced production of all blood cell lines (pancytopenia)",
+        "C. Selective reduction in red cell production due to iron deficiency",
+        "D. Peripheral destruction of platelets by autoantibodies",
+        "E. Leukaemic infiltration of the bone marrow"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Aplastic anaemia is characterised by hypocellular (fat-replaced) bone marrow with failure to produce all blood cell lines — pancytopenia (anaemia, thrombocytopenia, neutropenia). It can be immune-mediated (T lymphocytes destroy stem cells), idiopathic, or caused by drugs/toxins/viruses. Unlike leukaemia, there is no malignant infiltration — the bone marrow is empty rather than packed. Treatment includes immunosuppression, supportive transfusions, and haematopoietic stem cell transplantation."
+    },
+    {
+      "id": "t6-m50",
+      "theme": 6,
+      "topicTag": "anaemia",
+      "question": "Which ONE of the following oral features is MOST characteristic of severe thrombocytopenia in a dental patient?",
+      "options": [
+        "A. Smooth, depapillated tongue (atrophic glossitis)",
+        "B. Angular cheilitis at the corners of the mouth",
+        "C. Spontaneous gingival bleeding and petechiae on the oral mucosa",
+        "D. White patches that cannot be wiped off",
+        "E. Hyperaemic, swollen, red gingivae without local cause"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Severe thrombocytopenia (low platelet count) causes failure of primary haemostasis, presenting in the mouth as spontaneous gingival bleeding and petechiae (pinpoint haemorrhages) on the oral mucosa, particularly the palate and buccal mucosa. Spontaneous oral bleeding without obvious cause, especially in the absence of poor oral hygiene, should prompt investigation of platelet count and coagulation. Smooth tongue suggests B12/iron deficiency; white patches suggest candidiasis or leukoplakia."
+    },
+    {
+      "id": "t6-m51",
+      "theme": 6,
+      "topicTag": "haemostasis",
+      "question": "A patient with haematological malignancy is found to have a platelet count of 25 × 10⁹/L and INR of 2.8 and requires an urgent tooth extraction. Which ONE of the following is the MOST appropriate course of action?",
+      "options": [
+        "A. Proceed with extraction immediately using adrenaline-containing LA only",
+        "B. Defer the procedure and liaise with the patient's haematologist regarding platelet support before surgery",
+        "C. Proceed with extraction and prescribe aspirin post-operatively to reduce platelet aggregation",
+        "D. Admit for general anaesthesia and transfusion of packed red cells",
+        "E. Prescribe a 5-day course of tranexamic acid before the extraction"
+      ],
+      "correctAnswer": "B",
+      "explanation": "A platelet count of 25 × 10⁹/L is below the safe threshold for dental surgery (>50 × 10⁹/L), and the INR of 2.8 further increases bleeding risk. The appropriate action is to defer the procedure and discuss with the patient's haematologist — platelet transfusion may be needed before surgery to raise the count above 50 × 10⁹/L. Aspirin would worsen platelet function and is absolutely contraindicated. Urgent extractions in such patients require careful planning and haematological support."
+    },
+    {
+      "id": "t6-m52",
+      "theme": 6,
+      "topicTag": "leukaemia",
+      "question": "Lymphoma most commonly presents orally as which ONE of the following?",
+      "options": [
+        "A. Petechiae on the buccal mucosa",
+        "B. Swelling of the tonsils, parotid, or hard palate",
+        "C. Angular cheilitis and depapillated tongue",
+        "D. Gingival hyperplasia",
+        "E. Widespread oral ulceration"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Lymphoma can present in the head and neck with swelling of the tonsils, parotid glands, or hard palate. In severe cases, hard palate lymphoma can cause destruction of the palate. Auxiliary (axillary) lymphadenopathy is also possible. Angular cheilitis and atrophic tongue suggest iron or B12 deficiency. Gingival hyperplasia suggests acute leukaemia or drug side effects. The dentist may be the first to detect lymphoma presenting in the oral cavity."
+    },
+    {
+      "id": "t6-m53",
+      "theme": 6,
+      "topicTag": "coagulation",
+      "question": "Which ONE of the following DOAC agents is primarily renally excreted and has a significantly prolonged half-life in patients with renal impairment?",
+      "options": [
+        "A. Apixaban",
+        "B. Rivaroxaban",
+        "C. Dabigatran",
+        "D. Edoxaban",
+        "E. Warfarin"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Dabigatran is 80% renally excreted — making it highly dependent on renal function. In patients with renal impairment, dabigatran accumulates and its half-life is significantly prolonged (from 12–14 hours in normal renal function to much longer), dramatically increasing bleeding risk. Dabigatran should be avoided or used with great caution in renal impairment. Apixaban has the least renal excretion (~27%) among the DOACs, making it the safest option in moderate renal impairment."
+    },
+    {
+      "id": "t6-m54",
+      "theme": 6,
+      "topicTag": "haemostasis",
+      "question": "What is the PRIMARY function of the extrinsic coagulation pathway?",
+      "options": [
+        "A. Amplification of the coagulation cascade in response to contact with collagen",
+        "B. Initiation of coagulation following vascular injury by tissue factor binding to factor VII",
+        "C. Formation of the final cross-linked fibrin clot",
+        "D. Regulation of clot size by activating protein C",
+        "E. Platelet adhesion to damaged endothelium"
+      ],
+      "correctAnswer": "B",
+      "explanation": "The extrinsic pathway is the primary initiator of coagulation following vascular injury. Tissue factor (TF) — released by activated endothelial cells and subendothelial tissues upon injury — binds to factor VII, forming a TF-VIIa complex that rapidly activates factor X (and factor IX), triggering the common pathway. The extrinsic pathway is assessed by the prothrombin time (PT)/INR. The intrinsic pathway amplifies the response."
+    },
+    {
+      "id": "t6-m55",
+      "theme": 6,
+      "topicTag": "leukaemia",
+      "question": "Oral surgery timing in patients on chemotherapy is important. Which ONE of the following describes the MOST hazardous period for dental surgery?",
+      "options": [
+        "A. Immediately before the first cycle of chemotherapy",
+        "B. Days 10–14 after each chemotherapy dose (nadir period of bone marrow suppression)",
+        "C. 6 months after completion of all chemotherapy",
+        "D. The week immediately before the next chemotherapy cycle",
+        "E. Timing makes no difference if the patient takes prophylactic antibiotics"
+      ],
+      "correctAnswer": "B",
+      "explanation": "The nadir — the period of lowest blood counts following chemotherapy — typically occurs at days 10–14 after each cycle. During this period, platelet counts and neutrophil counts are at their lowest, making dental surgery extremely high risk for haemorrhage and infection. Dental procedures should be performed before chemotherapy starts (if possible), or coordinated with the haematology team to occur when blood counts have recovered. Checking recent blood counts is essential."
+    },
+    {
+      "id": "t6-m56",
+      "theme": 6,
+      "topicTag": "coagulation",
+      "question": "Which ONE of the following local haemostatic measures should be used after dental extraction in a patient on warfarin with a stable INR of 2.8?",
+      "options": [
+        "A. Administer oral vitamin K 5 mg before the procedure",
+        "B. Stop warfarin 3 days before and restart the day after",
+        "C. Use oxidised cellulose or collagen sponge plus tranexamic acid mouthwash 5% four times daily for 2 days",
+        "D. Prescribe ibuprofen 400 mg for post-operative analgesia",
+        "E. Apply direct pressure only — no additional measures required"
+      ],
+      "correctAnswer": "C",
+      "explanation": "For patients on warfarin with INR ≤4.0 undergoing routine dental extractions, the recommended approach is to continue warfarin and use local haemostatic measures: oxidised cellulose or collagen sponge packed into the socket, suturing, and tranexamic acid mouthwash 5% used four times daily for 2 days post-extraction. Stopping warfarin unnecessarily increases the risk of thromboembolism. Vitamin K is used to reverse urgently elevated INR, not routinely. NSAIDs (ibuprofen) must be avoided as they increase bleeding risk."
+    },
+    {
+      "id": "t6-m57",
+      "theme": 6,
+      "topicTag": "anaemia",
+      "question": "In which ONE of the following situations would oral folate replacement be preferred over intramuscular B12 injections?",
+      "options": [
+        "A. Pernicious anaemia",
+        "B. Terminal ileal resection",
+        "C. Strict vegan diet causing B12 deficiency",
+        "D. Folate deficiency due to poor diet or pregnancy",
+        "E. B12 deficiency from achlorhydria"
+      ],
+      "correctAnswer": "D",
+      "explanation": "Oral folate replacement (folic acid tablets) is appropriate for folate deficiency — e.g. due to poor dietary intake, pregnancy, or alcoholism. Folate is absorbed in the proximal small bowel and oral supplementation is effective. B12 deficiency from pernicious anaemia, terminal ileal resection, or achlorhydria cannot be corrected with oral B12 (absorption is impaired) — these patients require intramuscular B12 injections (3-monthly for life in pernicious anaemia). Oral B12 in very high doses can be used in dietary deficiency."
+    },
+    {
+      "id": "t6-m58",
+      "theme": 6,
+      "topicTag": "coagulation",
+      "question": "Heparin's anticoagulant mechanism involves which ONE of the following?",
+      "options": [
+        "A. Inhibiting the conversion of angiotensin I to angiotensin II",
+        "B. Activating antithrombin III, which then inhibits thrombin and factor Xa",
+        "C. Directly blocking factor Xa binding to platelets",
+        "D. Preventing vitamin K recycling in the liver",
+        "E. Dissolving existing fibrin clots via plasminogen activation"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Heparin exerts its anticoagulant effect by binding to and activating antithrombin III (AT-III) — a natural inhibitor of coagulation. The heparin-AT-III complex has greatly enhanced inhibitory activity against thrombin (factor IIa) and factor Xa (the most important targets). Unfractionated heparin inhibits both thrombin and Xa; low-molecular-weight heparins (e.g. enoxaparin) predominantly inhibit Xa. Warfarin prevents vitamin K recycling. tPA dissolves clots."
+    },
+    {
+      "id": "t6-m59",
+      "theme": 6,
+      "topicTag": "leukaemia",
+      "question": "A patient with a history of organ transplantation is on long-term cyclosporin therapy. Which ONE of the following oral complications is MOST likely to develop?",
+      "options": [
+        "A. Xerostomia from glandular destruction",
+        "B. Osteonecrosis of the jaw",
+        "C. Gingival hyperplasia",
+        "D. Hairy leukoplakia from EBV reactivation",
+        "E. Exfoliative cheilitis"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Cyclosporin — an immunosuppressant used post-transplant — is a classic cause of drug-induced gingival hyperplasia. It stimulates fibroblast proliferation and excess collagen deposition in gingival connective tissue. The hyperplasia is worst in the anterior region and can be severe enough to cover the teeth. Good oral hygiene reduces severity. Other drugs causing gingival hyperplasia include phenytoin and nifedipine (dihydropyridine CCB). Osteonecrosis is associated with bisphosphonates."
+    },
+    {
+      "id": "t6-m60",
+      "theme": 6,
+      "topicTag": "haemostasis",
+      "question": "Thrombocytopenia can result from either decreased platelet production or increased platelet destruction. Which ONE of the following conditions causes thrombocytopenia through INCREASED DESTRUCTION of platelets?",
+      "options": [
+        "A. Aplastic anaemia",
+        "B. Bone marrow infiltration by myeloma",
+        "C. Immune thrombocytopenic purpura (ITP)",
+        "D. Chemotherapy-induced bone marrow suppression",
+        "E. Myelodysplastic syndrome"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Immune thrombocytopenic purpura (ITP) is caused by autoantibodies (usually IgG) directed against platelet surface antigens (often glycoproteins GP2b/3a). These antibodies tag platelets for destruction by macrophages in the spleen. Bone marrow is normal or shows increased megakaryocytes (trying to compensate). Aplastic anaemia, bone marrow infiltration by myeloma/metastases, chemotherapy, and MDS cause thrombocytopenia through reduced platelet production."
+    },
+    {
+      "id": "t6-m61",
+      "theme": 6,
+      "topicTag": "anaemia",
+      "question": "Which ONE of the following is the MOST important investigation to determine the cause of iron deficiency anaemia in a 65-year-old male?",
+      "options": [
+        "A. Serum B12 and folate levels",
+        "B. Bone marrow biopsy",
+        "C. Colonoscopy to exclude colorectal cancer as a source of GI blood loss",
+        "D. Thyroid function tests",
+        "E. Autoimmune antibody screen"
+      ],
+      "correctAnswer": "C",
+      "explanation": "In a 65-year-old male, iron deficiency anaemia must be assumed to be due to colorectal cancer (or another GI malignancy) until proven otherwise — GI blood loss is the most important cause to exclude in this demographic. Colonoscopy is the key investigation. Other causes (dietary deficiency, coeliac disease) are less likely in this age group. Investigating the CAUSE of iron deficiency is always mandatory; simply prescribing iron without determining the cause is inadequate."
+    },
+    {
+      "id": "t6-m62",
+      "theme": 6,
+      "topicTag": "leukaemia",
+      "question": "Non-Hodgkin's lymphoma is clinically classified as high-grade or low-grade. Which ONE of the following BEST describes the clinical behaviour of high-grade NHL?",
+      "options": [
+        "A. Very slow-growing, typically surviving for decades with observation only",
+        "B. Rapidly progressive but potentially curable with intensive chemotherapy",
+        "C. Highly curable with a single course of radiotherapy",
+        "D. Invariably fatal within 3 months regardless of treatment",
+        "E. Treated with lifelong bisphosphonate therapy"
+      ],
+      "correctAnswer": "B",
+      "explanation": "High-grade (aggressive) non-Hodgkin's lymphoma grows rapidly and can be life-threatening within weeks if untreated. However, because the rapidly dividing cells are sensitive to chemotherapy, aggressive NHL is potentially curable with intensive chemotherapy regimens (e.g. R-CHOP). Low-grade NHL grows slowly and may be watched without treatment for years, but is generally not curable — it tends to transform to high-grade over time. The phrase 'curable but lethal if untreated' applies to high-grade NHL."
+    },
+    {
+      "id": "t6-m63",
+      "theme": 6,
+      "topicTag": "haemophilia",
+      "question": "What is hemlibra (emicizumab) and why is it an advance in haemophilia A treatment?",
+      "options": [
+        "A. It is recombinant factor VIII that is longer-acting than standard replacement",
+        "B. It is a bispecific antibody that mimics factor VIII by bridging factor IXa and factor X, activating the coagulation cascade",
+        "C. It is a gene therapy that permanently cures haemophilia A",
+        "D. It is an antifibrinolytic that prevents clot breakdown",
+        "E. It is a monoclonal antibody that neutralises inhibitors of factor VIII"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Hemlibra (emicizumab) is a bispecific monoclonal antibody that mimics the cofactor function of factor VIII by simultaneously binding factor IXa and factor X, bringing them together to activate the coagulation cascade — replacing the function of the missing factor VIII without being factor VIII itself. Key advantage: it does not trigger inhibitors (antibodies against factor VIII), making it useful in patients who have developed inhibitors to factor VIII replacement therapy. It reduces spontaneous bleeding episodes significantly."
+    },
+    {
+      "id": "t6-m64",
+      "theme": 6,
+      "topicTag": "coagulation",
+      "question": "Which ONE of the following drug groups should NEVER be prescribed to a patient on warfarin due to markedly increased bleeding risk?",
+      "options": [
+        "A. Proton pump inhibitors (omeprazole)",
+        "B. NSAIDs (ibuprofen, naproxen)",
+        "C. Antihistamines (loratadine)",
+        "D. Beta-blockers (atenolol)",
+        "E. ACE inhibitors (lisinopril)"
+      ],
+      "correctAnswer": "B",
+      "explanation": "NSAIDs are contraindicated in patients on warfarin for two reasons: (1) they inhibit platelet cyclooxygenase, impairing primary haemostasis; (2) they cause gastric mucosal damage, increasing GI bleeding risk; additionally, some NSAIDs can displace warfarin from protein binding, transiently raising free warfarin levels and INR. The combination dramatically increases the risk of life-threatening haemorrhage. Paracetamol is the analgesic of choice for patients on warfarin (with appropriate monitoring at higher doses)."
+    },
+    {
+      "id": "t6-m65",
+      "theme": 6,
+      "topicTag": "anaemia",
+      "question": "Haematopoiesis normally occurs in which ONE of the following sites in an adult?",
+      "options": [
+        "A. Liver and spleen exclusively",
+        "B. Red bone marrow in flat bones (sternum, vertebrae, pelvis, ribs) and proximal long bones",
+        "C. Yellow bone marrow in long bones",
+        "D. Lymph nodes and thymus",
+        "E. Peripheral blood only"
+      ],
+      "correctAnswer": "B",
+      "explanation": "In adults, normal haematopoiesis (blood cell production) occurs primarily in the red bone marrow of flat bones (sternum, vertebrae, pelvis, ribs, skull) and proximal long bones (proximal femur and humerus). In the foetus and in diseases with extra-medullary haematopoiesis (e.g. myelofibrosis), the liver and spleen can also produce blood cells. Yellow marrow (fatty marrow) in distal long bones does not normally produce blood cells but can be reactivated in severe anaemia."
+    }
+  ]
+}

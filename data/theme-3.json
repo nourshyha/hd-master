@@ -1,0 +1,1220 @@
+{
+  "theme": {
+    "id": 3,
+    "title": "Immunological Disease",
+    "difficulty": "hard",
+    "lectureCount": 5,
+    "learningOutcomes": [
+      "HD50",
+      "HD51",
+      "HD52",
+      "HD53",
+      "HD54",
+      "HD55"
+    ]
+  },
+  "groundIt": [
+    {
+      "clusterId": "t3-c1",
+      "clusterTitle": "The Immune System & Immunodeficiency",
+      "content": "The immune system has two arms: the innate (non-specific, immediate, no memory) and the adaptive (antigen-specific, delayed maximal response, immunological memory). The innate system includes physical barriers (skin, endothelium), soluble factors (lysozymes in saliva, low gastric pH), phagocytes (neutrophils and macrophages), and the complement system. The complement system can be activated by three pathways — classical, lectin (MBL), and alternative — all converging on C3 convertase. C3 is split into C3a (causes chemotaxis — attracts phagocytes) and C3b (causes opsonisation — coats bacteria for phagocytosis; also activates C5 convertase). C5 produces C5a (chemotaxis) and C5b, which initiates the membrane attack complex causing bacterial lysis.\n\nThe adaptive immune system's central organs are bone marrow (B cells mature here) and the thymus (T cells mature here). Peripheral lymphoid organs (adenoids, tonsils, lymph nodes, spleen, Peyer's patches) are where adaptive responses are initiated. B cells produce antibodies — initially IgM (less specific, first response), then class-switch to IgG (highly specific, more potent). CD4+ T helper cells recognise antigen presented on MHC Class II by dendritic cells and produce cytokines to activate B cells and macrophages. CD8+ T cytotoxic cells recognise antigen on MHC Class I and directly kill infected cells.\n\nImmunodeficiency occurs when one or more immune components are defective. Two types: primary (inherited — B cell, T cell, combined, neutrophil, or complement defects) and secondary/acquired (much more common — caused by malnutrition, medication, infection, radiotherapy, splenectomy, or disease). Warning signs of immunodeficiency (SPUR): Serious, Persistent, Unusual, Recurrent infections. Eight or more new ear infections a year, two or more serious sinus infections, recurrent deep abscesses, chronic oral candidiasis, failure to thrive, family history.\n\nPrimary immunodeficiencies: SCID (severe combined — T cells absent, B cells may be absent); X-linked agammaglobulinaemia (absent B cells and immunoglobulins — mutation in Bruton's tyrosine kinase gene, mainly boys); Common Variable Immunodeficiency (low but not absent immunoglobulins — risk of lymphoma and autoimmunity); Chronic Granulomatous Disease (neutrophil oxidative burst defect — recurrent abscesses, gingivitis, tooth loss); DiGeorge syndrome (22q11 deletion — thymus doesn't develop, no T cells, cardiac abnormalities, learning difficulties).",
+      "selfExplainPrompt": "In one sentence, explain the difference between primary and secondary immunodeficiency, and name two conditions that commonly cause secondary immunodeficiency."
+    },
+    {
+      "clusterId": "t3-c2",
+      "clusterTitle": "Immunosuppressive Drugs",
+      "content": "Immunosuppressive drugs are used to: prevent organ transplant rejection; suppress graft-vs-host disease in bone marrow transplants; and treat autoimmune diseases with a significant immune component in their pathogenesis (e.g. rheumatoid arthritis, psoriasis, inflammatory bowel disease).\n\nGlucocorticoids (corticosteroids — hydrocortisone, prednisolone, betamethasone, dexamethasone) are the cornerstone of immunosuppression. They suppress T-lymphocyte activity and reduce gene transcription of TNF-alpha, interferon, and interleukin-1. They can be given orally, inhaled, IV/IM, or topically. Dental complications: adrenal suppression (prolonged high-dose therapy suppresses the HPA axis — adrenal cortex atrophies, can't produce cortisol in response to surgical stress → adrenal crisis; much less likely with topical use); osteoporosis (SIOP — direct inhibition of osteoblasts; bisphosphonates or denosumab used to treat, themselves causing risk of osteonecrosis of the jaw); increased infection risk; delayed wound healing.\n\nNon-glucocorticoid immunosuppressants: (1) Calcineurin inhibitors (cyclosporin, tacrolimus) — inhibit IL-2 production or action → reduced T cell proliferation. Cyclosporin causes gingival overgrowth (~30% prevalence, anterior gingiva, within 3 months of starting; exacerbated by nifedipine calcium channel blocker; high recurrence rate). Tacrolimus does NOT cause gingival overgrowth. (2) Antimetabolites — azathioprine (inhibits purine synthesis → cytotoxic to dividing B and T cells; causes oral ulceration via neutropenia/thrombocytopenia); methotrexate (folic acid analogue — inhibits dihydrofolate reductase → blocks DNA synthesis; used in rheumatoid arthritis and transplant; bone marrow suppression and liver toxicity). (3) Monoclonal antibodies — rituximab (anti-CD20, depletes B cells, reduces antibody production); infliximab, adalimumab (anti-TNF-alpha — used in RA, Crohn's, psoriasis; increased infection and malignancy risk including lymphoma and skin cancer). General dental implications of immunosuppression: opportunistic infections (candida, herpes), poor wound healing, antibiotic cover only if neutropenic, increased risk of oral malignancy.",
+      "selfExplainPrompt": "Explain the mechanism by which cyclosporin causes gingival overgrowth, and name two other drugs that can also cause this side effect."
+    },
+    {
+      "clusterId": "t3-c3",
+      "clusterTitle": "Hypersensitivity, Allergy & Anaphylaxis",
+      "content": "Hypersensitivity is an immune-mediated antigen-specific reaction that is inappropriate or excessive and results in harm to the host. It can be antibody-mediated or T-cell-mediated, and targets environmental agents (allergies), self-antigens (autoimmunity), or infectious agents.\n\nType I (immediate) hypersensitivity — IgE-mediated: the allergen binds IgE on mast cells, triggering release of histamine, heparin, lysosomal enzymes, and proteases. Clinical consequences: urticaria (wheals on skin) and angiooedema (deeper tissue swelling — lips, tongue); capillary permeability changes → reduced BP and hypovolaemic shock; smooth muscle contraction of airways (wheeze, breathlessness), GI tract (vomiting, diarrhoea), and bladder. The 'hygiene hypothesis' suggests increased allergies are due to reduced infection exposure in early life, increased immunisation, and microbiome changes — causing a preferential switch to the Th2 cytokine profile (IL-4, IL-5, IL-13 excess → IgE overproduction). Testing: skin prick test (histamine as positive control, saline as negative; whealing indicates allergy — better sensitivity than IgE); specific IgE blood test (confirms suspicion but cannot test all allergens); challenge test (oral/IV — administered under supervised conditions).\n\nType II hypersensitivity — antibody against cell surface or matrix antigen → destruction (e.g. autoimmune haemolytic anaemia — antibodies against red cell antigens). Type III — immune complex disease — antibody against circulating antigen → complexes deposited in organs (e.g. rheumatoid arthritis). Type IV (delayed) hypersensitivity — T-cell mediated — occurs 48–72 hours after exposure (e.g. contact dermatitis, oral lichenoid reactions). Tested by patch testing (allergen patches applied for 48 hours, read at 48h, 4, 7, and 10 days).\n\nAnaphylaxis: sudden onset, rapid progression of airway and/or breathing and/or circulatory problems. Does not always have skin or mucosal changes. Management: remove trigger; lie patient flat and elevate legs; IM adrenaline 500 micrograms (0.5ml of 1:1000) into anterolateral mid-thigh — FIRST AND MOST IMPORTANT STEP; establish airway and give high-flow oxygen; repeat IM adrenaline after 5 minutes if no response; IV fluid bolus. Antihistamines are NOT first-line — useful later for cutaneous symptoms only. Steroids are NOT first-line. Risk factors for latex allergy: atopy, regular exposure, spina bifida. Latex fruit allergy syndrome: cross-reactivity with banana, kiwi, avocado.\n\nDental-specific hypersensitivity: oral lichenoid reactions (type IV) — soreness, ulceration on buccal mucosa, tongue, floor of mouth — caused by drugs (NSAIDs, beta-blockers), metals (nickel), resins, acrylates; treatment: remove cause, local steroids. C1 esterase deficiency — autosomal dominant — causes recurrent deep swelling with minor trauma/stress/oestrogens, abdominal pain, no urticaria, low C4; treat acute attacks with C1-esterase inhibitor concentrate; long-term with androgenic steroids and tranexamic acid; premedicate dental procedures with C1-esterase inhibitor concentrate.",
+      "selfExplainPrompt": "Describe the management of anaphylaxis in the dental chair, including the first drug to administer, the dose, and the route — and explain why antihistamines are not the first-line treatment."
+    },
+    {
+      "clusterId": "t3-c4",
+      "clusterTitle": "Autoimmune Disease",
+      "content": "Self-tolerance — the ability to respond to foreign antigens without attacking self — is maintained by central tolerance (negative selection in the thymus via AIRE gene, causing death of autoreactive lymphocytes) and peripheral tolerance (immune-privileged sites; anergy — TCR engagement without co-stimulation causes inactivation; regulatory T cells suppress autoreactive cells). Autoimmunity results from failure of these mechanisms, producing activated T cells and antibodies against self-antigens ('autoantigens'), causing tissue damage.\n\nAutoimmune diseases are classified as organ-specific (type 1 diabetes, multiple sclerosis, Crohn's, psoriasis) or systemic/non-organ-specific (rheumatoid arthritis, SLE, Sjögren's syndrome). Classified by immune mechanism: Type II (antibody against cell surface — autoimmune haemolytic anaemia, Goodpasture's disease — anti-glomerular basement membrane antibodies causing glomerulonephritis and lung haemorrhage); Type III (immune complex — rheumatoid factor deposited in joints in RA); Type IV (T-cell mediated — type 1 diabetes mellitus, beta cell destruction).\n\nSjögren's syndrome: triad of dry eyes (xerophthalmia), dry mouth (xerostomia), and associated inflammatory arthritis. Lymphocytic infiltration and destruction of lacrimal and salivary glands. Anti-Ro (anti-SSA) and anti-La (anti-SSB) antibodies. Dental implications: very high caries risk (loss of salivary protection), oral candidiasis, recurrent chest infections, difficulty eating and swallowing, Candida-associated denture stomatitis.\n\nSystemic Lupus Erythematosus (SLE): multisystem — arthritis, pleurisy, pericarditis, glomerulonephritis, anaemia, thrombocytopenia, neurological disease, oral ulcers, butterfly rash. Antinuclear antibodies and anti-double-stranded DNA antibodies. Dental: anaemia, bleeding tendency, thrombosis predisposition, cardiac disease, renal disease, steroid therapy, and drug reactions (tetracyclines exacerbate skin condition in SLE).\n\nRheumatoid arthritis: common painful inflammatory arthritis, progressive joint destruction, rheumatoid factor (IgG anti-IgG) positive. Extra-articular: nodules, synovitis, muscle wasting, cardiac, GI, vasculitis, Felty's syndrome (splenomegaly + neutropenia), Sjögren's, eye involvement (scleritis). Scleroderma (systemic sclerosis): skin fibrosis, CREST (limited form — Calcinosis, Raynaud's, Oesophageal immobility, Sclerodactyly, Telangiectasia), pulmonary hypertension, anti-centromere antibodies. Behçet's syndrome: triad of aphthous oral ulceration, genital ulcers, and iritis; folliculitis, erythema nodosum; can lead to immunosuppression. Dental: severe dry mouth increases infection risk.",
+      "selfExplainPrompt": "Describe the clinical triad of Sjögren's syndrome and explain two dental problems that arise from the condition, linking each to its underlying mechanism."
+    },
+    {
+      "clusterId": "t3-c5",
+      "clusterTitle": "Oral & Dental Problems in Immunocompromised Patients",
+      "content": "Immunocompromised patients — whether from HIV/AIDS, chemotherapy, bone marrow failure, or immunosuppressive drugs — share a pattern of oral vulnerability. The key warning signs that suggest immunosuppression when examining the mouth (SPUR): Serious, Persistent, Unusual, Recurrent infections.\n\nOral candidiasis presents in several forms: pseudomembranous (thrush — white patches that wipe off, leaving a raw bleeding surface), erythematous (red raw hard palate — caused by denture wearing or immunosuppression, e.g. from diabetes, antibiotics, or steroid inhalers causing local immunosuppression), and angular cheilitis (Staphylococcal or mixed Candida/bacterial infection at angles of mouth, common in denture bearers, associated with vitamin deficiencies and anaemia). Treatment: nystatin 4× daily for one week; fluconazole 50/100mg daily in severe cases. Causes of oral candidiasis other than immunodeficiency: antibiotic therapy, steroid inhalers, dentures, connective tissue disease (Sjögren's), xerostomic medications, dietary factors, diabetes, alcohol, smoking, chronic hepatitis C.\n\nOral ulceration in immunosuppressed patients: herpes simplex (often large, atypical — treat with topical or oral aciclovir to prevent systemic spread), CMV, aphthous ulcers (minor — buccal mucosa/tongue; major — larger and deeper; if prolonged, consider anaemia or immunosuppression), necrotising ulcerative gingivitis/periodontitis, Kaposi's sarcoma (reddish-purple macules progressing to plaques/nodules on palate, gingiva — caused by HHV-8, more common in advanced HIV), HPV-associated lesions (exophytic papillary lesions, usually lips/soft palate/tongue; low-risk HPV is generally benign; high-risk HPV subtypes implicated in oropharyngeal cancer).\n\nOral hairy leukoplakia (EBV-associated): white corrugated lesions on lateral tongue; generally doesn't require treatment; waxes and wanes; more common with HIV/AIDS or high-dose inhaled steroids; confirm with biopsy. Cutaneous malignancies: immunosuppressed patients are at much higher risk of BCCs, SCCs, and oral cancer — any suspicious lesion should be referred urgently.\n\nAs a dentist examining an immunocompromised patient: look for candidiasis, OHL, severe gingivitis, tooth loss, mouth ulceration, dry mouth, changes to tonsils, skin changes (vitiligo, alopecia, telangiectasia). Check for recurrent infections and family history. Oral hygiene advice is critical — these patients cannot mount effective defences against plaque-related disease.",
+      "selfExplainPrompt": "Name three different oral manifestations of HIV infection and for each, state the underlying pathogen responsible and one management consideration."
+    }
+  ],
+  "recallIt": [
+    {
+      "id": "t3-r1",
+      "question": "What are the three pathways of complement activation and what do they all converge on?",
+      "answer": "Classical pathway, lectin (MBL) pathway, and alternative pathway. All converge on C3 convertase → C3 splits into C3a (chemotaxis) and C3b (opsonisation + activates C5 convertase → C5a chemotaxis + C5b → membrane attack complex)."
+    },
+    {
+      "id": "t3-r2",
+      "question": "What are the four possible consequences of immunodeficiency?",
+      "answer": "1. Infection (most prominent)\n2. Increased autoimmune disease\n3. Malignancy\n4. Failure to thrive (especially in primary immunodeficiency)"
+    },
+    {
+      "id": "t3-r3",
+      "question": "What causes X-linked agammaglobulinaemia and what is its effect?",
+      "answer": "Mutation in the BTK (Bruton's tyrosine kinase) gene — a problem with tyrosine kinase involved in B cell maturation. Results in absent or very low B cells and immunoglobulins. Absent tonsils and lymph nodes. Presents with recurrent bacterial infections. Predominantly affects males."
+    },
+    {
+      "id": "t3-r4",
+      "question": "What dental problem is specifically associated with cyclosporin therapy and what drug exacerbates it?",
+      "answer": "Cyclosporin-induced gingival overgrowth (~30% prevalence, affects anterior gingiva, begins within 3 months). Exacerbated by nifedipine (a dihydropyridine calcium channel blocker). High recurrence after surgical removal. Tacrolimus does NOT cause gingival overgrowth."
+    },
+    {
+      "id": "t3-r5",
+      "question": "What are the four types of hypersensitivity reactions and give one example of each?",
+      "answer": "Type I (immediate/IgE-mediated): anaphylaxis, hay fever, latex allergy\nType II (antibody vs cell surface): autoimmune haemolytic anaemia, Goodpasture's\nType III (immune complex disease): rheumatoid arthritis, SLE\nType IV (delayed/T-cell mediated): contact dermatitis, oral lichenoid reactions, tuberculin skin test"
+    },
+    {
+      "id": "t3-r6",
+      "question": "What is the management of anaphylaxis and what is the first drug to give?",
+      "answer": "1. Remove trigger\n2. Lie patient flat + elevate legs (or sit up if airway compromised)\n3. IM adrenaline 500 micrograms (0.5ml of 1:1000) — into anterolateral mid-thigh — FIRST LINE\n4. Airway management + high-flow oxygen\n5. Repeat IM adrenaline after 5 minutes if no response\n6. IV fluid bolus\nAntihistamines and steroids are NOT first-line — useful only for secondary symptom control."
+    },
+    {
+      "id": "t3-r7",
+      "question": "What is C1 esterase deficiency and how does it present?",
+      "answer": "Autosomal dominant condition. Low C4. Presents with recurrent deep swelling triggered by minor trauma, stress, or oestrogens; abdominal pain; potential fatal laryngeal oedema. Importantly, NO urticaria (distinguishes from allergic angioedema). Before dental treatment: premedicate with C1-esterase-inhibitor concentrate."
+    },
+    {
+      "id": "t3-r8",
+      "question": "What is the triad of Sjögren's syndrome and what antibodies are found?",
+      "answer": "Triad: dry eyes (xerophthalmia), dry mouth (xerostomia), and associated inflammatory arthritis.\nAntibodies: anti-Ro (anti-SSA) and anti-La (anti-SSB). Also: rheumatoid factor, antinuclear antibodies, polyclonal increase in immunoglobulins."
+    },
+    {
+      "id": "t3-r9",
+      "question": "What is the CREST syndrome of limited systemic sclerosis?",
+      "answer": "C — Calcinosis (calcium deposits in soft tissue)\nR — Raynaud's phenomenon\nE — Oesophageal immobility\nS — Sclerodactyly (tightening of skin on fingers)\nT — Telangiectasia\nAlso associated with pulmonary hypertension and anti-centromere antibodies."
+    },
+    {
+      "id": "t3-r10",
+      "question": "What are the diagnostic criteria for SLE (key tests)?",
+      "answer": "Antinuclear antibodies (ANA), antibodies to double-stranded DNA (highly specific for SLE), raised IgG levels, increased inflammatory markers (ESR, CRP), low complement levels (C3/C4 consumed). Clinical features: butterfly rash, oral ulcers, arthritis, glomerulonephritis, anaemia, thrombocytopenia."
+    },
+    {
+      "id": "t3-r11",
+      "question": "How do methotrexate's mechanism of action and its dental adverse effects connect?",
+      "answer": "Methotrexate is a folic acid analogue that inhibits dihydrofolate reductase, blocking synthesis of purines and pyrimidines → inhibits DNA synthesis. Bone marrow suppression causes neutropenia, thrombocytopenia, and agranulocytosis. These cause increased infection risk and mucositis/oral ulceration. Also causes liver toxicity — important when planning surgical dental treatment (clotting factors may be reduced)."
+    },
+    {
+      "id": "t3-r12",
+      "question": "Name three drug classes that can cause secondary immunodeficiency.",
+      "answer": "1. Cytotoxic drugs (chemotherapy) — knock out T, B cells, and neutrophils\n2. Corticosteroids — suppress T-lymphocyte activity and cytokine production\n3. Calcineurin inhibitors (cyclosporin, tacrolimus) — inhibit IL-2 → reduce T cell proliferation\nAlso: anti-convulsants (B cell defects, neutrophil disorders), carbimazole (agranulocytosis)"
+    },
+    {
+      "id": "t3-r13",
+      "question": "What are the four types of primary immunodeficiency classified by which immune component is affected?",
+      "answer": "1. Antibody/B cell deficiency (e.g. X-linked agammaglobulinaemia, CVID)\n2. T cell deficiency (e.g. DiGeorge syndrome)\n3. Combined B and T cell deficiency (e.g. SCID)\n4. Phagocyte deficiency (e.g. Chronic Granulomatous Disease)\n5. Complement deficiency (classical → streptococcal/meningococcal infections; terminal/alternate → neisserial infections)"
+    },
+    {
+      "id": "t3-r14",
+      "question": "What is Behçet's syndrome and what is its triad?",
+      "answer": "Behçet's syndrome: clinical triad of aphthous-type oral ulceration, genital ulcers, and iritis (inflammation of the iris). Also: skin lesions (folliculitis, erythema nodosum), and pathergy (skin hyperreactivity to minor trauma). Associated with severe dry mouth and immunosuppression. NOT associated with Vitamin B12 deficiency."
+    },
+    {
+      "id": "t3-r15",
+      "question": "What causes Chronic Granulomatous Disease and what are its dental implications?",
+      "answer": "Genetic defect affecting neutrophil oxidative burst — neutrophils cannot produce reactive oxygen species to kill organisms. Presents with recurrent deep abscesses (liver, soft tissue), fungal infections (aspergillus), gingivitis, and tooth loss. Requires bone marrow transplant to treat."
+    }
+  ],
+  "applyIt": [
+    {
+      "id": "t3-a1",
+      "scenario": "A 22-year-old woman attends your clinic for a routine filling. During preparation, she mentions she has latex allergy. You notice she has spina bifida. Which of the following is correct?",
+      "options": [
+        "A. Spina bifida is unrelated to latex allergy — proceed with standard precautions",
+        "B. Spina bifida is a risk factor for latex allergy — use latex-free gloves, equipment, and rubber dam substitutes throughout",
+        "C. Latex allergy only affects skin contact — maintain a latex-free environment only for invasive procedures",
+        "D. Latex-free precautions are only needed if the patient reports a previous anaphylactic reaction"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Spina bifida is a well-recognised major risk factor for latex allergy due to repeated surgical exposure to latex from early life. All patients with spina bifida should be treated in a completely latex-free environment, regardless of whether they have had a documented anaphylactic reaction — sensitisation can occur without a dramatic previous event. Risk factors for latex allergy include atopy (asthma, eczema, hay fever), regular occupational exposure, multiple surgical procedures, and spina bifida. Penicillin allergy is NOT a risk factor."
+    },
+    {
+      "id": "t3-a2",
+      "scenario": "A 55-year-old male kidney transplant recipient on cyclosporin, nifedipine, and prednisolone attends for a dental review. On examination you notice marked gingival overgrowth covering the buccal surfaces of his anterior teeth. Which drugs are responsible and what is your management priority?",
+      "options": [
+        "A. Prednisolone alone causes gingival overgrowth — reduce the dose",
+        "B. Cyclosporin causes gingival overgrowth and nifedipine exacerbates it — optimise oral hygiene; refer to periodontist; liaise with physician about possible drug substitution",
+        "C. Nifedipine alone causes gingival overgrowth — recommend switching to amlodipine immediately",
+        "D. All three drugs contribute equally — no specific management is needed as it is a known side effect"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Cyclosporin-induced gingival overgrowth occurs in approximately 30% of patients, targeting gingival fibroblasts. Nifedipine (a dihydropyridine calcium channel blocker) significantly exacerbates this. Management priorities: (1) optimise oral hygiene — reduced gingival inflammation decreases recurrence; (2) refer to periodontist for management; (3) liaise with the transplant physician about possible substitution of cyclosporin with tacrolimus (which does NOT cause gingival overgrowth) and substitution of nifedipine with a non-dihydropyridine CCB. Dose change decisions rest with the physician, not the dentist."
+    },
+    {
+      "id": "t3-a3",
+      "scenario": "A patient attending for extraction develops rapid onset tongue swelling, urticaria, and hypotension 5 minutes after amoxicillin administration. What is your first action?",
+      "options": [
+        "A. Administer 10mg chlorphenamine IV immediately",
+        "B. Give 100mg IV hydrocortisone immediately",
+        "C. Administer 500 micrograms of adrenaline IM into the anterolateral thigh immediately",
+        "D. Call an ambulance and wait for paramedics to administer adrenaline"
+      ],
+      "correctAnswer": "C",
+      "explanation": "This is anaphylaxis. The first and most critical drug is IM adrenaline (500 micrograms = 0.5ml of 1:1000 solution) into the anterolateral mid-thigh. Adrenaline acts immediately on alpha-1 receptors (vasoconstriction, preventing cardiovascular collapse) and beta-2 receptors (bronchodilation, reversing airway obstruction). Antihistamines (A) and corticosteroids (B) are NOT first-line and would waste critical time if given first. Waiting for paramedics (D) is inappropriate — dental surgeries are required to stock adrenaline and manage anaphylaxis immediately."
+    }
+  ],
+  "writeIt": [
+    {
+      "id": "t3-w1",
+      "prompt": "A 40-year-old woman is referred by her GP with a 2-year history of dry mouth and dry eyes, associated with fatigue and recurrent joint pains. What is the likely diagnosis? Describe the clinical features, immunological findings, and dental implications of this condition.",
+      "totalMarks": 10,
+      "markScheme": [
+        {
+          "point": "Likely diagnosis: Sjögren's syndrome — characterised by lymphocytic infiltration and destruction of exocrine glands",
+          "marks": 1
+        },
+        {
+          "point": "Clinical triad: xerostomia (dry mouth), xerophthalmia (dry eyes), and inflammatory arthritis",
+          "marks": 1
+        },
+        {
+          "point": "Other systemic features: non-specific fatigue, recurrent chest infections, parotid swelling",
+          "marks": 1
+        },
+        {
+          "point": "Immunological findings: anti-Ro (anti-SSA) and anti-La (anti-SSB) antibodies; also rheumatoid factor, ANA, polyclonal immunoglobulin increase",
+          "marks": 1
+        },
+        {
+          "point": "Dental implication 1: very high caries risk due to loss of salivary protective functions (buffering, antimicrobial proteins, remineralisation) — requires intensive preventive programme including high-fluoride toothpaste, xylitol, regular reviews",
+          "marks": 2
+        },
+        {
+          "point": "Dental implication 2: oral candidiasis — loss of salivary antimicrobial action allows overgrowth; treat with nystatin or fluconazole",
+          "marks": 1
+        },
+        {
+          "point": "Dental implication 3: difficulty eating, speaking, and swallowing due to dry mouth; denture stomatitis common in denture wearers",
+          "marks": 1
+        },
+        {
+          "point": "Management of xerostomia: salivary substitutes, sugar-free chewing gum (stimulates residual secretion), pilocarpine (cholinergic — stimulates salivary secretion in those with residual glandular tissue)",
+          "marks": 1
+        },
+        {
+          "point": "Systemic management: immunosuppression (hydroxychloroquine, steroids, biologics) managed by rheumatologist; dentist's role is oral health optimisation",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "t3-w2",
+      "prompt": "Describe the management of anaphylaxis in a dental surgery. Include recognition, immediate management steps in order, drugs with doses and routes, and the roles of adjunct treatments.",
+      "totalMarks": 8,
+      "markScheme": [
+        {
+          "point": "Recognition: sudden onset rapid progression of airway/breathing/circulation problems — may not always have skin/mucosal changes; common triggers in dentistry include LA, latex, amoxicillin",
+          "marks": 1
+        },
+        {
+          "point": "Step 1: Remove trigger if possible (stop drug administration)",
+          "marks": 1
+        },
+        {
+          "point": "Step 2: Position — lie flat and elevate legs; sit upright if respiratory symptoms predominate; lie on left if pregnant",
+          "marks": 1
+        },
+        {
+          "point": "Step 3: Call for help / dial 999; state 'anaphylaxis'",
+          "marks": 1
+        },
+        {
+          "point": "Step 4: Administer IM adrenaline 500 micrograms (0.5ml of 1:1000) into anterolateral mid-thigh immediately — FIRST DRUG",
+          "marks": 2
+        },
+        {
+          "point": "Step 5: Airway management; high-flow oxygen 15L/min via mask; repeat IM adrenaline at 5 minutes if no response; IV fluid bolus for circulatory shock",
+          "marks": 1
+        },
+        {
+          "point": "Adjuncts: non-sedating antihistamine (cetirizine) for cutaneous symptoms AFTER adrenaline; hydrocortisone ONLY for refractory anaphylaxis with severe asthma/shock — neither replaces adrenaline as first-line",
+          "marks": 1
+        }
+      ]
+    }
+  ],
+  "mockBank": [
+    {
+      "id": "t3-m1",
+      "theme": 3,
+      "topicTag": "immune-system",
+      "question": "Which ONE of the following is NOT part of the innate immune system?",
+      "options": [
+        "A. Tears and lysozymes in saliva",
+        "B. CD8+ cytotoxic T-lymphocytes",
+        "C. Neutrophils",
+        "D. The complement system",
+        "E. Phagocytic macrophages"
+      ],
+      "correctAnswer": "B",
+      "explanation": "CD8+ T-cells are part of the adaptive immune system (antigen-specific, with memory). Tears/lysozymes, neutrophils, complement, and macrophages are all components of innate (non-specific) immunity."
+    },
+    {
+      "id": "t3-m2",
+      "theme": 3,
+      "topicTag": "complement",
+      "question": "Which ONE of the following is a true statement about the complement system?",
+      "options": [
+        "A. It manufactures specific antibodies against pathogens",
+        "B. It engulfs and destroys bacteria directly",
+        "C. It produces cytokines to recruit T-cells",
+        "D. It attracts phagocytic cells to the site of infection via chemotaxis",
+        "E. It acts as a physical barrier to pathogen entry"
+      ],
+      "correctAnswer": "D",
+      "explanation": "C3a and C5a are chemotactic fragments that attract phagocytes to sites of infection. C3b mediates opsonisation. C5b initiates the membrane attack complex. Complement does NOT manufacture antibodies (B-cells do) or directly engulf bacteria (phagocytes do)."
+    },
+    {
+      "id": "t3-m3",
+      "theme": 3,
+      "topicTag": "immunodeficiency",
+      "question": "Which ONE of the following is a possible cause of a PRIMARY immunodeficiency?",
+      "options": [
+        "A. Lymphoma",
+        "B. HIV infection",
+        "C. Long-term corticosteroid therapy",
+        "D. Chronic mucocutaneous candidiasis due to AIRE gene defect",
+        "E. Protein-losing enteropathy"
+      ],
+      "correctAnswer": "D",
+      "explanation": "Chronic mucocutaneous candidiasis is a primary immunodeficiency caused by a genetic defect in the AIRE gene leading to failure to clear Candida. Lymphoma, HIV, corticosteroids, and protein-losing enteropathy all cause secondary (acquired) immunodeficiency."
+    },
+    {
+      "id": "t3-m4",
+      "theme": 3,
+      "topicTag": "allergy-testing",
+      "question": "Which ONE of the following is NOT a validated method of testing for allergic disease?",
+      "options": [
+        "A. Skin prick test",
+        "B. Patch test",
+        "C. Challenge test",
+        "D. Specific IgE blood test",
+        "E. IgG4 measurement"
+      ],
+      "correctAnswer": "E",
+      "explanation": "IgG4 levels are not a validated test for allergy. Skin prick (A) and specific IgE (D) test for type I (IgE-mediated) reactions. Patch test (B) tests for type IV (delayed) contact hypersensitivity. Challenge tests (C) involve controlled allergen exposure."
+    },
+    {
+      "id": "t3-m5",
+      "theme": 3,
+      "topicTag": "allergy-testing",
+      "question": "When using skin prick testing in the diagnosis of type I allergies, which ONE of the following statements is TRUE?",
+      "options": [
+        "A. It is expensive and time-consuming compared to blood testing",
+        "B. It can be used in patients with severe eczema",
+        "C. It has better sensitivity than specific IgE testing",
+        "D. It can be performed in patients taking regular antihistamines",
+        "E. Results are read at 48–72 hours after application"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Skin prick testing has better sensitivity than specific IgE blood testing. It CANNOT be performed in patients with severe eczema (no clear skin), in those taking antihistamines (blunts the response), or in those with dermographism. Results are read at 15–20 minutes (not 48 hours — that is for patch testing type IV)."
+    },
+    {
+      "id": "t3-m6",
+      "theme": 3,
+      "topicTag": "latex-allergy",
+      "question": "Which ONE of the following is NOT a recognised risk factor for the development of latex allergy?",
+      "options": [
+        "A. Healthcare workers with regular glove use",
+        "B. Hand eczema",
+        "C. Multiple surgical procedures from an early age",
+        "D. Spina bifida",
+        "E. Penicillin allergy"
+      ],
+      "correctAnswer": "E",
+      "explanation": "Penicillin allergy is not a risk factor for latex allergy. Recognised risk factors: atopy (asthma, eczema, hay fever — including hand eczema), regular latex exposure (healthcare workers), multiple surgeries (especially from early life — spina bifida patients)."
+    },
+    {
+      "id": "t3-m7",
+      "theme": 3,
+      "topicTag": "anaphylaxis",
+      "question": "In anaphylaxis in an adult, the correct initial dose of adrenaline to be administered intramuscularly is:",
+      "options": [
+        "A. 500 micrograms (0.5 ml of 1:1,000) IM into the anterolateral thigh",
+        "B. 1 mg (1 ml of 1:1,000) IM into the deltoid muscle",
+        "C. 100 micrograms (0.1 ml of 1:1,000) IV into a peripheral cannula",
+        "D. 500 micrograms (0.5 ml of 1:10,000) IV into the antecubital fossa",
+        "E. 1 mg (10 ml of 1:10,000) IV via central line"
+      ],
+      "correctAnswer": "A",
+      "explanation": "IM adrenaline 500 micrograms = 0.5 ml of 1:1,000 solution, into the anterolateral mid-thigh. NOT the deltoid. NOT IV (1:10,000 is for IV adrenaline in cardiac arrest — a dangerous confusion). Repeat every 5 minutes if no response."
+    },
+    {
+      "id": "t3-m8",
+      "theme": 3,
+      "topicTag": "anaphylaxis",
+      "question": "A patient develops anaphylaxis following administration of amoxicillin. After giving IM adrenaline, what is the NEXT most appropriate drug to administer?",
+      "options": [
+        "A. IV hydrocortisone 200mg — this reverses the anaphylaxis",
+        "B. Chlorphenamine 10mg IV — this is the most important secondary drug",
+        "C. High-flow oxygen via non-rebreather mask",
+        "D. Salbutamol inhaler — for bronchospasm",
+        "E. Glucagon IM — for patients on beta-blockers unresponsive to adrenaline"
+      ],
+      "correctAnswer": "C",
+      "explanation": "After IM adrenaline: establish airway → high-flow O₂ → IV fluid bolus. Antihistamines (chlorphenamine) and hydrocortisone are adjuncts — NOT primary treatment and NOT given before O₂ and fluid. Glucagon IM (E) is used when adrenaline is ineffective in a patient on beta-blockers, which is a specific scenario."
+    },
+    {
+      "id": "t3-m9",
+      "theme": 3,
+      "topicTag": "immunosuppressants",
+      "question": "What is the mechanism of action of methotrexate?",
+      "options": [
+        "A. Inhibits IL-2 production and action",
+        "B. Acts as an alkylating agent causing DNA cross-links",
+        "C. Is a monoclonal antibody directed against TNF-alpha",
+        "D. Is a competitive inhibitor of dihydrofolate reductase, blocking DNA synthesis",
+        "E. Inhibits calcineurin, preventing T-cell activation"
+      ],
+      "correctAnswer": "D",
+      "explanation": "Methotrexate is a folic acid analogue that competitively inhibits dihydrofolate reductase — an enzyme essential for purine and pyrimidine synthesis — thereby blocking DNA synthesis in rapidly dividing cells including lymphocytes. Cyclosporin/tacrolimus inhibit calcineurin/IL-2 (A,E). Cyclophosphamide is alkylating (B). Infliximab targets TNF-alpha (C)."
+    },
+    {
+      "id": "t3-m10",
+      "theme": 3,
+      "topicTag": "autoimmune-disease",
+      "question": "Behçet's syndrome is NOT associated with:",
+      "options": [
+        "A. Oral aphthous-type ulceration",
+        "B. Genital ulceration",
+        "C. Vitamin B12 deficiency",
+        "D. Iritis",
+        "E. Pathergy (skin hyperreactivity)"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Behçet's syndrome triad: oral ulceration, genital ulcers, iritis. Additional: skin lesions (folliculitis, erythema nodosum), pathergy. NOT associated with B12 deficiency — a classic exam distractor."
+    },
+    {
+      "id": "t3-m11",
+      "theme": 3,
+      "topicTag": "autoimmune-disease",
+      "question": "Which ONE of the following is defined as an organ-specific autoimmune disease?",
+      "options": [
+        "A. Systemic lupus erythematosus",
+        "B. Sjögren's syndrome",
+        "C. Autoimmune thyroid disease (Graves' or Hashimoto's)",
+        "D. Rheumatoid arthritis",
+        "E. Systemic sclerosis (scleroderma)"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Autoimmune thyroid disease is organ-specific — the immune attack is localised to the thyroid gland. SLE, Sjögren's, RA, and systemic sclerosis are all systemic/multi-organ autoimmune diseases affecting multiple organ systems simultaneously."
+    },
+    {
+      "id": "t3-m12",
+      "theme": 3,
+      "topicTag": "immunosuppressants",
+      "question": "Which immunosuppressant does NOT cause gingival overgrowth?",
+      "options": [
+        "A. Cyclosporin",
+        "B. Nifedipine",
+        "C. Tacrolimus",
+        "D. Phenytoin",
+        "E. Amlodipine"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Tacrolimus (a calcineurin inhibitor like cyclosporin) does NOT cause gingival overgrowth — this is a key advantage over cyclosporin. Cyclosporin, nifedipine, amlodipine (dihydropyridine CCBs), and phenytoin (anticonvulsant) all cause drug-induced gingival overgrowth."
+    },
+    {
+      "id": "t3-m13",
+      "theme": 3,
+      "topicTag": "immunodeficiency",
+      "question": "DiGeorge syndrome results from which ONE of the following genetic abnormalities?",
+      "options": [
+        "A. Mutation in the BTK gene causing B-cell deficiency",
+        "B. Deletion on chromosome 22q11 causing thymic aplasia",
+        "C. Defect in the AIRE gene causing mucocutaneous candidiasis",
+        "D. Mutation in NADPH oxidase causing chronic granulomatous disease",
+        "E. Deficiency of adenosine deaminase causing SCID"
+      ],
+      "correctAnswer": "B",
+      "explanation": "DiGeorge syndrome = 22q11 deletion → thymic hypoplasia/aplasia → absent T cells → viral, fungal, and bacterial infections. Also: cardiac defects, palatal abnormalities (speech difficulties), learning difficulties. BTK mutation = X-linked agammaglobulinaemia. NADPH oxidase = CGD."
+    },
+    {
+      "id": "t3-m14",
+      "theme": 3,
+      "topicTag": "anaphylaxis",
+      "question": "A patient presents with recurrent episodes of painless, deep swelling of the tongue and lips that appear spontaneously and can be triggered by dental treatment or stress, but without urticaria (hives). Blood tests show low C4 levels. Which ONE of the following is the MOST likely diagnosis?",
+      "options": [
+        "A. Allergic angioedema (type I hypersensitivity)",
+        "B. ACE inhibitor-induced angioedema",
+        "C. Hereditary angioedema (C1 esterase inhibitor deficiency)",
+        "D. Anaphylaxis",
+        "E. Crohn's disease with orofacial granulomatosis"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Hereditary angioedema (HAE) = autosomal dominant C1 esterase inhibitor deficiency. Key features: no urticaria, low C4, triggered by stress or trauma (including dental procedures). Dental premedication: C1-esterase inhibitor concentrate. Long-term: androgenic steroids or tranexamic acid."
+    },
+    {
+      "id": "t3-m15",
+      "theme": 3,
+      "topicTag": "autoimmune-disease",
+      "question": "A patient with Sjögren's syndrome attends for a new denture. Which ONE of the following oral findings is MOST directly attributable to the underlying disease process?",
+      "options": [
+        "A. Gingival hyperplasia",
+        "B. White non-wipeable lesions on the lateral tongue",
+        "C. Rampant caries due to xerostomia from salivary gland destruction",
+        "D. Purple lesions on the hard palate",
+        "E. Angular cheilitis from Candida alone"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sjögren's syndrome causes lymphocytic infiltration and destruction of salivary glands → profound xerostomia → loss of salivary protective functions (buffering, antimicrobial action, remineralisation) → rampant caries. This is the most direct and significant dental consequence of the underlying autoimmune pathology."
+    },
+    {
+      "id": "t3-m16",
+      "theme": 3,
+      "topicTag": "immunosuppressants",
+      "question": "A kidney transplant patient on cyclosporin develops significant gingival overgrowth affecting their oral hygiene. Their physician is considering switching to tacrolimus. Which ONE of the following is the MOST appropriate role for the dentist in managing this patient?",
+      "options": [
+        "A. Prescribe oral prednisolone to reduce gingival inflammation",
+        "B. Perform gingivectomy immediately without consulting the physician",
+        "C. Optimise oral hygiene instruction, refer to periodontist, and liaise with the transplant physician regarding possible drug substitution",
+        "D. Advise the patient to discontinue cyclosporin themselves",
+        "E. Prescribe chlorhexidine mouthwash for 6 months as definitive management"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Management: (1) intensive oral hygiene — reducing inflammation decreases overgrowth; (2) periodontal referral; (3) liaison with transplant physician re: substituting cyclosporin with tacrolimus (no gingival overgrowth). Dentists must NOT alter immunosuppressants — this is the physician's decision. Chlorhexidine alone is inadequate long-term."
+    },
+    {
+      "id": "t3-m17",
+      "theme": 3,
+      "topicTag": "hypersensitivity",
+      "question": "A patient develops contact dermatitis of the lip after using a new lipstick. Patch testing at 48 hours shows a positive reaction to fragrance mix. Which ONE of the following hypersensitivity mechanisms is responsible?",
+      "options": [
+        "A. Type I — IgE-mediated mast cell degranulation",
+        "B. Type II — antibody-mediated cytotoxicity",
+        "C. Type III — immune complex deposition",
+        "D. Type IV — T-cell mediated delayed hypersensitivity",
+        "E. Type V — antibody-mediated receptor stimulation"
+      ],
+      "correctAnswer": "D",
+      "explanation": "Contact dermatitis is type IV (delayed) hypersensitivity — T-cell mediated. The 48-hour delay is characteristic. Patch testing (allergen applied under occlusion for 48 hours, read at 48h, 4, and 7 days) is the diagnostic test. Type I reactions are immediate (minutes to hours) and tested by skin prick test."
+    },
+    {
+      "id": "t3-m18",
+      "theme": 3,
+      "topicTag": "hypersensitivity",
+      "question": "Oral lichenoid reactions are classified as which type of hypersensitivity?",
+      "options": [
+        "A. Type I — immediate IgE-mediated",
+        "B. Type II — antibody-mediated cytotoxicity",
+        "C. Type III — immune complex-mediated",
+        "D. Type IV — delayed T-cell mediated",
+        "E. Type V — stimulatory antibody-mediated"
+      ],
+      "correctAnswer": "D",
+      "explanation": "Oral lichenoid reactions (white lacy lesions, ulceration on buccal mucosa) are type IV (T-cell mediated) hypersensitivity reactions to drugs (NSAIDs, beta-blockers, oral hypoglycaemics), metals (nickel), or resins. They are managed by identifying and removing the causative agent, with local corticosteroids if needed."
+    },
+    {
+      "id": "t3-m19",
+      "theme": 3,
+      "topicTag": "autoimmune-disease",
+      "question": "A 55-year-old woman presents with arthralgia, a butterfly rash on her face, and a raised ESR. Blood tests show a positive antinuclear antibody (ANA) and antibodies to double-stranded DNA. Which ONE of the following is the MOST likely diagnosis?",
+      "options": [
+        "A. Rheumatoid arthritis",
+        "B. Systemic lupus erythematosus",
+        "C. Sjögren's syndrome",
+        "D. Scleroderma",
+        "E. Granulomatosis with polyangiitis"
+      ],
+      "correctAnswer": "B",
+      "explanation": "The combination of butterfly (malar) rash, arthritis, raised ESR, ANA positivity, and anti-dsDNA antibodies (highly specific for SLE) is diagnostic of SLE. Dental implications: oral ulcers, anaemia, bleeding tendency, thrombosis predisposition, renal disease, steroid therapy."
+    },
+    {
+      "id": "t3-m20",
+      "theme": 3,
+      "topicTag": "immunosuppressants",
+      "question": "Which ONE of the following immunosuppressive drug combinations is MOST commonly used to prevent organ rejection after kidney transplantation?",
+      "options": [
+        "A. Methotrexate and prednisolone",
+        "B. Cyclosporin, azathioprine (or mycophenolate), and prednisolone",
+        "C. Rituximab and cyclophosphamide",
+        "D. Dexamethasone and chlorambucil",
+        "E. Tacrolimus alone at maximum dose"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Standard triple immunosuppression for solid organ transplantation typically combines: a calcineurin inhibitor (cyclosporin or tacrolimus) + an antimetabolite (azathioprine or mycophenolate mofetil) + a corticosteroid (prednisolone). This targets three different points in T-cell activation for maximum efficacy with minimised individual drug toxicity."
+    },
+    {
+      "id": "t3-m21",
+      "theme": 3,
+      "topicTag": "oral-immunocompromised",
+      "question": "A patient with HIV presents with white corrugated lesions on the lateral border of the tongue that wax and wane. Biopsy reveals EBV. What is the diagnosis?",
+      "options": [
+        "A. Pseudomembranous candidiasis",
+        "B. Oral hairy leukoplakia",
+        "C. Squamous cell carcinoma",
+        "D. Lichen planus",
+        "E. Hyperplastic candidiasis"
+      ],
+      "correctAnswer": "B",
+      "explanation": "OHL = EBV-associated white corrugated lesions on the lateral tongue that wax and wane and cannot be wiped off. It is an HIV indicator condition. Generally requires no specific treatment. Biopsy confirms EBV. Differs from candidiasis which can be wiped off."
+    },
+    {
+      "id": "t3-m22",
+      "theme": 3,
+      "topicTag": "oral-immunocompromised",
+      "question": "Which ONE of the following oral conditions is MOST specifically associated with HHV-8 infection in immunosuppressed patients?",
+      "options": [
+        "A. Oral hairy leukoplakia",
+        "B. Pseudomembranous candidiasis",
+        "C. Kaposi's sarcoma with oral lesions",
+        "D. Herpetic gingivostomatitis",
+        "E. Necrotising ulcerative gingivitis"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Kaposi's sarcoma is caused by HHV-8 (Kaposi's sarcoma-associated herpesvirus). Oral lesions appear as reddish-purple macules on the palate or gingiva, progressing to plaques or nodules. More common in advanced HIV immunosuppression but can occur at any CD4 count."
+    },
+    {
+      "id": "t3-m23",
+      "theme": 3,
+      "topicTag": "hypersensitivity",
+      "question": "A patient with a history of C1 esterase inhibitor deficiency is scheduled for a routine extraction. Which ONE of the following is the MOST important preoperative precaution?",
+      "options": [
+        "A. Pre-prescribe chlorphenamine 4mg to prevent allergic reactions",
+        "B. Premedicate with C1-esterase inhibitor concentrate before the procedure",
+        "C. Administer 1 mg IM adrenaline prophylactically before the extraction",
+        "D. Prescribe oral prednisolone for 3 days preceding the procedure",
+        "E. Perform the extraction in hospital under general anaesthesia only"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Dental procedures are recognised triggers for angioedema attacks in patients with C1 esterase inhibitor deficiency (HAE). The correct premedication is C1-esterase inhibitor concentrate given before the procedure. Adrenaline (C) and antihistamines (A) are used for allergic angioedema but are NOT effective in HAE (different mechanism)."
+    },
+    {
+      "id": "t3-m24",
+      "theme": 3,
+      "topicTag": "immunodeficiency",
+      "question": "A dental patient is noted to have severe gingivitis with tooth loss, recurrent oral abscesses, and multiple skin boils since childhood. A history of needing antibiotics for 2 months without clearing infection is noted. Which ONE of the following primary immunodeficiency is MOST likely?",
+      "options": [
+        "A. X-linked agammaglobulinaemia",
+        "B. DiGeorge syndrome",
+        "C. Chronic granulomatous disease",
+        "D. Common variable immunodeficiency",
+        "E. Selective IgA deficiency"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Chronic granulomatous disease (CGD) = genetic defect in NADPH oxidase → neutrophils cannot produce oxidative burst → recurrent deep-seated abscesses (liver, skin, bone), gingivitis, and tooth loss. Treatment requires bone marrow transplant. These patients often need prolonged antibiotic courses that fail to completely clear infection."
+    },
+    {
+      "id": "t3-m25",
+      "theme": 3,
+      "topicTag": "anaphylaxis",
+      "question": "In the management of anaphylaxis, which ONE of the following statements about corticosteroids is CORRECT?",
+      "options": [
+        "A. IV hydrocortisone 200mg should be the first drug given in anaphylaxis",
+        "B. Corticosteroids are not part of immediate emergency treatment; adrenaline is always first-line",
+        "C. Prednisolone 40mg orally is equivalent to adrenaline IM for mild anaphylaxis",
+        "D. Corticosteroids prevent the initial phase of anaphylaxis most effectively",
+        "E. Dexamethasone is preferred over hydrocortisone for acute anaphylaxis management"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Corticosteroids are adjuncts — NOT first-line — in anaphylaxis management. They are used to prevent biphasic reactions (a second wave of anaphylaxis occurring 1–72 hours later) but have no immediate effect on the acute emergency. Giving corticosteroids before adrenaline wastes critical time."
+    },
+    {
+      "id": "t3-m26",
+      "theme": 3,
+      "topicTag": "autoimmune-disease",
+      "question": "A patient with rheumatoid arthritis develops Felty's syndrome. Which ONE of the following BEST describes this condition?",
+      "options": [
+        "A. Pulmonary fibrosis and pleuritis",
+        "B. Splenomegaly and neutropenia",
+        "C. Peripheral neuropathy and vasculitis",
+        "D. Scleritis and corneal ulceration",
+        "E. Nodal subcutaneous deposits and joint effusion"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Felty's syndrome is an extra-articular manifestation of RA comprising the triad of rheumatoid arthritis + splenomegaly + neutropenia. Neutropenia increases infection risk and can cause recurrent oral infections and severe ulceration. The splenomegaly leads to platelet sequestration and thrombocytopenia."
+    },
+    {
+      "id": "t3-m27",
+      "theme": 3,
+      "topicTag": "immunosuppressants",
+      "question": "A patient on long-term azathioprine for Crohn's disease develops oral ulceration and increased susceptibility to infections. Which ONE of the following BEST explains these oral findings?",
+      "options": [
+        "A. Azathioprine stimulates excessive cytokine production causing mucosal damage",
+        "B. Azathioprine causes bone marrow suppression → neutropenia and thrombocytopenia → oral ulceration and infection susceptibility",
+        "C. Azathioprine directly damages the oral mucosa through direct contact",
+        "D. Azathioprine induces gingival overgrowth reducing oral immune surveillance",
+        "E. Azathioprine inhibits saliva production causing dry mouth and secondary ulceration"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Azathioprine is an antimetabolite (inhibits purine synthesis) cytotoxic to dividing cells, including bone marrow cells. This causes neutropenia (infection susceptibility) and thrombocytopenia (bleeding, poor healing) — both manifesting in the oral cavity as ulceration, infections, and gingival bleeding."
+    },
+    {
+      "id": "t3-m28",
+      "theme": 3,
+      "topicTag": "autoimmune-disease",
+      "question": "The 'CREST' syndrome represents the limited form of systemic sclerosis. What does the 'T' in CREST stand for?",
+      "options": [
+        "A. Telangiectasia",
+        "B. Thrombocytopenia",
+        "C. Trophic changes of the skin",
+        "D. Temporal arteritis",
+        "E. Thyroid involvement"
+      ],
+      "correctAnswer": "A",
+      "explanation": "CREST = Calcinosis, Raynaud's phenomenon, oEsophageal immobility, Sclerodactyly, Telangiectasia. Telangiectasia (dilated small blood vessels visible on skin and mucous membranes) is the T. Limited systemic sclerosis is associated with anti-centromere antibodies and pulmonary hypertension."
+    },
+    {
+      "id": "t3-m29",
+      "theme": 3,
+      "topicTag": "immunodeficiency",
+      "question": "A 6-year-old boy has repeated ear infections (>8/year), two episodes of pneumonia this year, and a family history of early childhood deaths. Examination shows absent tonsils. Which ONE of the following diagnosis BEST fits this clinical picture?",
+      "options": [
+        "A. DiGeorge syndrome (thymic aplasia)",
+        "B. Chronic granulomatous disease",
+        "C. X-linked agammaglobulinaemia (Bruton's disease)",
+        "D. Common variable immunodeficiency",
+        "E. Selective IgA deficiency"
+      ],
+      "correctAnswer": "C",
+      "explanation": "X-linked agammaglobulinaemia (Bruton's disease): BTK gene mutation → absent B cells and immunoglobulins → absent tonsils and lymph nodes → recurrent bacterial infections (ear, sinuses, pneumonia) from about 6 months of age (when maternal antibodies wane). The male-only inheritance (X-linked) and absent tonsils are diagnostic clues."
+    },
+    {
+      "id": "t3-m30",
+      "theme": 3,
+      "topicTag": "autoimmune-disease",
+      "question": "A 45-year-old woman presents with dry eyes, dry mouth, joint pains, and parotid swelling. Blood tests show anti-Ro (anti-SSA) and anti-La (anti-SSB) antibodies. Which ONE of the following oral complication requires the MOST urgent dental intervention?",
+      "options": [
+        "A. Oral hairy leukoplakia",
+        "B. Rampant caries from severe xerostomia",
+        "C. Gingival hyperplasia from any associated medications",
+        "D. Mild gingivitis from reduced salivary flow",
+        "E. Angular cheilitis from secondary Candida"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sjögren's syndrome causes profound xerostomia leading to rampant caries — the most urgent and destructive dental consequence. Loss of salivary protective mechanisms (buffering, antimicrobial proteins, remineralisation) accelerates decay dramatically. Intensive prevention (high-fluoride toothpaste, frequent recalls, saliva substitutes) is essential."
+    },
+    {
+      "id": "t3-m31",
+      "theme": 3,
+      "topicTag": "hypersensitivity",
+      "question": "A patient presents with itching, whealing, and angioedema of the lips and tongue within minutes of eating a banana. They also report that wearing latex gloves causes hand itching. Which ONE of the following BEST explains the cross-reactivity?",
+      "options": [
+        "A. Latex and banana contain similar IgE-reactive proteins — latex-fruit syndrome",
+        "B. Both contain common bacteria that trigger immediate hypersensitivity",
+        "C. The patient has type IV hypersensitivity to both natural rubber and fruit proteins",
+        "D. This is coincidental dual sensitisation with no immunological link",
+        "E. Banana contains penicillin-like compounds cross-reacting with latex allergy"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Latex-fruit syndrome occurs because certain fruit proteins (banana, kiwi, avocado, chestnut) share structural homology with latex allergens. IgE antibodies generated against latex cross-react with these fruit proteins — causing type I (immediate) hypersensitivity reactions on exposure to fruit."
+    },
+    {
+      "id": "t3-m32",
+      "theme": 3,
+      "topicTag": "oral-immunocompromised",
+      "question": "An immunosuppressed patient is started on a steroid inhaler for asthma. Two weeks later they develop a red, sore, raw-looking hard palate. Which ONE of the following is the MOST likely cause?",
+      "options": [
+        "A. Aphthous ulceration triggered by the stress of the new diagnosis",
+        "B. Type IV hypersensitivity to the steroid inhaler propellant",
+        "C. Erythematous candidiasis from local immunosuppression by the inhaled corticosteroid",
+        "D. Herpes zoster reactivation on the hard palate",
+        "E. Drug-induced pemphigoid from the corticosteroid"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Erythematous (atrophic) candidiasis presents as a red, raw-looking area on the hard palate or dorsum of tongue. Steroid inhalers deposit corticosteroid in the oropharynx, causing local immunosuppression and allowing Candida overgrowth. Prevention: rinse mouth with water after each inhaler use; use a spacer device."
+    },
+    {
+      "id": "t3-m33",
+      "theme": 3,
+      "topicTag": "immunodeficiency",
+      "question": "Which ONE of the following warning signs is included in the international criteria for suspecting primary immunodeficiency?",
+      "options": [
+        "A. Two or more ear infections in one year",
+        "B. A single episode of serious bacterial infection in adulthood",
+        "C. Eight or more new ear infections in one year",
+        "D. Recurrent viral warts on the hands",
+        "E. A family history of atopy (asthma and hay fever)"
+      ],
+      "correctAnswer": "C",
+      "explanation": "The warning signs of primary immunodeficiency include: ≥8 new ear infections per year, ≥2 serious sinus infections per year, ≥2 pneumonias per year, recurrent deep abscesses, persistent oral thrush after age 1, failure to thrive, and family history of immunodeficiency."
+    },
+    {
+      "id": "t3-m34",
+      "theme": 3,
+      "topicTag": "autoimmune-disease",
+      "question": "A post-menopausal patient on prednisolone for autoimmune hepatitis is found to have reduced bone mineral density. Which ONE of the following BEST explains steroid-induced osteoporosis (SIOP)?",
+      "options": [
+        "A. Prednisolone increases bone formation by stimulating osteoblast activity",
+        "B. Prednisolone causes direct inhibition of osteoblast function and enhancement of bone resorption, plus reduces intestinal calcium absorption",
+        "C. Prednisolone directly dissolves hydroxyapatite crystals in bone",
+        "D. Prednisolone reduces PTH secretion, leading to increased calcium deposition in soft tissues",
+        "E. Prednisolone causes secondary hyperparathyroidism that is unrelated to bone density"
+      ],
+      "correctAnswer": "B",
+      "explanation": "SIOP occurs through: direct inhibition of osteoblast function → reduced bone formation; indirect enhancement of osteoclast activity → increased bone resorption; reduced intestinal calcium absorption; increased urinary calcium excretion. Bisphosphonates are given to prevent SIOP — but these themselves risk MRONJ in dental patients."
+    },
+    {
+      "id": "t3-m35",
+      "theme": 3,
+      "topicTag": "oral-immunocompromised",
+      "question": "A patient undergoing chemotherapy for lymphoma develops widespread painful erythema and ulceration of the oral mucosa. Which ONE of the following BEST describes this condition?",
+      "options": [
+        "A. Erythema multiforme — drug-induced type IV hypersensitivity",
+        "B. Mucositis — direct mucosal damage from cytotoxic drugs affecting rapidly dividing mucosal cells",
+        "C. Pemphigus vulgaris — autoimmune blistering triggered by chemotherapy",
+        "D. Acute necrotising ulcerative gingivitis from opportunistic infection",
+        "E. Graft-versus-host disease of the oral mucosa"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Mucositis is a predictable consequence of chemotherapy (and radiotherapy) — cytotoxic drugs damage the rapidly dividing basal epithelial cells of the oral mucosa, leading to mucosal atrophy, erythema, and painful ulceration. It significantly worsens quality of life, increases infection risk, and may delay chemotherapy cycles."
+    },
+    {
+      "id": "t3-m36",
+      "theme": 3,
+      "topicTag": "immunosuppressants",
+      "question": "Rituximab (anti-CD20 monoclonal antibody) is used in the management of rheumatoid arthritis. Which ONE of the following BEST describes its mechanism of action?",
+      "options": [
+        "A. It inhibits IL-2 synthesis in T-helper cells",
+        "B. It inhibits tumour necrosis factor-alpha (TNF-alpha)",
+        "C. It targets and depletes CD20-positive B-cells, reducing antibody production",
+        "D. It competitively inhibits IL-1 receptor binding",
+        "E. It inhibits dihydrofolate reductase, blocking lymphocyte DNA synthesis"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Rituximab is an anti-CD20 monoclonal antibody that binds to CD20 on B-cells, causing their depletion. This reduces the pathological antibody production (rheumatoid factor, anti-CCP antibodies) driving RA. It also increases infection risk and lymphoma risk — important for dental surveillance."
+    },
+    {
+      "id": "t3-m37",
+      "theme": 3,
+      "topicTag": "hypersensitivity",
+      "question": "A patient was found to have Type II hypersensitivity as the mechanism of their autoimmune haemolytic anaemia. Which ONE of the following BEST describes type II hypersensitivity?",
+      "options": [
+        "A. IgE-mediated mast cell degranulation causing immediate reactions",
+        "B. Antibodies binding to circulating antigens forming immune complexes deposited in tissues",
+        "C. Antibodies directed against cell-surface or matrix antigens, causing cell destruction",
+        "D. T-cell mediated delayed hypersensitivity occurring 48–72 hours after exposure",
+        "E. Stimulatory antibodies activating cell surface receptors"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Type II hypersensitivity = antibodies against cell-surface or extracellular matrix antigens → cell destruction via complement activation, ADCC, or phagocytosis. Examples: autoimmune haemolytic anaemia (anti-RBC antibodies), Goodpasture's syndrome (anti-GBM antibodies), drug-induced thrombocytopenia."
+    },
+    {
+      "id": "t3-m38",
+      "theme": 3,
+      "topicTag": "autoimmune-disease",
+      "question": "A patient with Sjögren's syndrome is also found to have autoimmune hepatitis and thyroiditis. This pattern of multiple concurrent autoimmune diseases is BEST explained by which ONE of the following?",
+      "options": [
+        "A. Sjögren's syndrome specifically attacks all exocrine organs simultaneously",
+        "B. Viral infection has simultaneously triggered all three autoimmune conditions",
+        "C. Shared genetic predisposition and immune dysregulation lead to multiple concurrent autoimmune conditions",
+        "D. Treatment of Sjögren's with hydroxychloroquine triggers secondary autoimmune diseases",
+        "E. All three conditions are manifestations of a single paraneoplastic syndrome"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Multiple concurrent autoimmune diseases share common genetic predispositions (particularly HLA associations) and immune dysregulation mechanisms. Patients with one autoimmune condition have significantly higher risk of developing additional autoimmune diseases — this 'polyautoimmunity' is well-recognised."
+    },
+    {
+      "id": "t3-m39",
+      "theme": 3,
+      "topicTag": "immunosuppressants",
+      "question": "A patient on long-term prednisolone (10mg daily for 6 months) for polymyalgia rheumatica attends for a routine restoration. According to current guidance, which ONE of the following is the MOST appropriate approach?",
+      "options": [
+        "A. Administer 100mg IV hydrocortisone before starting treatment",
+        "B. Double the patient's prednisolone dose for 3 days surrounding the appointment",
+        "C. Ensure they take their normal prednisolone dose approximately 1 hour before the appointment — no additional cover is needed for routine dental treatment",
+        "D. Consult an endocrinologist before proceeding with any dental treatment",
+        "E. Prescribe IM hydrocortisone for the patient to self-administer at home before attending"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Current guidance: patients on ≥10mg prednisolone for >1 month do NOT require additional steroid cover for routine dental procedures (restorations, scaling). Ensure they take their usual dose approximately 1 hour before the appointment for peak plasma levels during treatment. IV hydrocortisone is reserved for GA/extremely invasive procedures."
+    },
+    {
+      "id": "t3-m40",
+      "theme": 3,
+      "topicTag": "anaphylaxis",
+      "question": "During a routine examination, a patient develops urticaria, bronchospasm, and a rapid fall in blood pressure shortly after chlorhexidine mouthwash was used. Which ONE of the following is the MOST appropriate FIRST action?",
+      "options": [
+        "A. Administer oral chlorphenamine 4mg and observe",
+        "B. Apply topical 1% hydrocortisone cream to the urticarial lesions",
+        "C. Administer 500 micrograms IM adrenaline (0.5ml 1:1,000) into the anterolateral thigh and call 999",
+        "D. Place the patient in the Trendelenburg position and administer oral antihistamine",
+        "E. Give the patient 100mg IV hydrocortisone immediately"
+      ],
+      "correctAnswer": "C",
+      "explanation": "This is anaphylaxis — the first and most critical action is IM adrenaline 500 micrograms into the anterolateral thigh, then call 999. Antihistamines and corticosteroids are important secondary treatments but must never precede adrenaline."
+    },
+    {
+      "id": "t3-m41",
+      "theme": 3,
+      "topicTag": "oral-immunocompromised",
+      "question": "A patient with poorly controlled HIV presents with painful oral ulcers, white patches on the tongue, and a red nodular lesion on the hard palate. Which ONE of the following patterns of findings is MOST consistent with advanced HIV-related oral disease?",
+      "options": [
+        "A. Candidiasis, oral hairy leukoplakia, and Kaposi's sarcoma",
+        "B. Lichen planus, aphthous ulcers, and mucocele",
+        "C. Recurrent herpes labialis, fibrous epulis, and smoker's keratosis",
+        "D. Necrotising fasciitis, Kaposi's sarcoma, and MRONJ",
+        "E. Pemphigus vulgaris, angular cheilitis, and erythema multiforme"
+      ],
+      "correctAnswer": "A",
+      "explanation": "The triad of pseudomembranous candidiasis (white patches), oral hairy leukoplakia (white corrugated tongue lesions, EBV), and Kaposi's sarcoma (reddish-purple palatal lesion, HHV-8) represents a classic cluster of advanced HIV-related oral manifestations."
+    },
+    {
+      "id": "t3-m42",
+      "theme": 3,
+      "topicTag": "hypersensitivity",
+      "question": "A patient develops a rash from a dental material used in their restoration. Patch testing at 48 hours confirms a positive reaction to a component of the composite resin. Which ONE of the following types of hypersensitivity is confirmed by this test?",
+      "options": [
+        "A. Type I — immediate hypersensitivity",
+        "B. Type II — cytotoxic hypersensitivity",
+        "C. Type III — immune-complex hypersensitivity",
+        "D. Type IV — delayed hypersensitivity",
+        "E. Type V — stimulatory hypersensitivity"
+      ],
+      "correctAnswer": "D",
+      "explanation": "Patch testing is specific for type IV (delayed, T-cell mediated) hypersensitivity — results at 48–72 hours confirm sensitisation. This is the mechanism behind contact dermatitis and oral lichenoid reactions to dental materials (resins, acrylates, nickel in alloys)."
+    },
+    {
+      "id": "t3-m43",
+      "theme": 3,
+      "topicTag": "immunodeficiency",
+      "question": "The secondary immune response differs from the primary immune response in which ONE of the following ways?",
+      "options": [
+        "A. Only the innate immune system is involved in the secondary response",
+        "B. The secondary response is slower and produces lower antibody titres",
+        "C. The secondary response is faster, more intense, and produces predominantly IgG rather than IgM",
+        "D. The secondary response involves complement only, with no antibody production",
+        "E. The secondary response is identical to the primary response"
+      ],
+      "correctAnswer": "C",
+      "explanation": "The secondary immune response (from memory cells): faster (days rather than weeks), more intense (higher antibody titres), predominantly IgG (class-switched, higher affinity), and longer-lasting. This is the basis of vaccination — the vaccine primes memory cells so the secondary response can rapidly eliminate the pathogen on real exposure."
+    },
+    {
+      "id": "t3-m44",
+      "theme": 3,
+      "topicTag": "immunosuppressants",
+      "question": "Tacrolimus and cyclosporin are both calcineurin inhibitors. Which ONE of the following is the MAIN dental advantage of tacrolimus over cyclosporin?",
+      "options": [
+        "A. Tacrolimus causes fewer infections",
+        "B. Tacrolimus does not cause gingival overgrowth, unlike cyclosporin",
+        "C. Tacrolimus has no adrenal suppression effect",
+        "D. Tacrolimus does not interact with calcium channel blockers",
+        "E. Tacrolimus has a wider therapeutic index than cyclosporin"
+      ],
+      "correctAnswer": "B",
+      "explanation": "The major dental advantage of tacrolimus over cyclosporin is that it does NOT cause gingival overgrowth (gingival fibroblast overstimulation), despite having a similar immunosuppressive mechanism. Dentists should advocate for tacrolimus substitution when cyclosporin-induced gingival overgrowth significantly affects oral health."
+    },
+    {
+      "id": "t3-m45",
+      "theme": 3,
+      "topicTag": "oral-immunocompromised",
+      "question": "Which ONE of the following medications used in dental practice can cause secondary oral candidiasis in susceptible patients?",
+      "options": [
+        "A. Amoxicillin",
+        "B. Metronidazole",
+        "C. Both A and B — broad-spectrum antibiotic disruption of oral flora",
+        "D. Clindamycin (via C. difficile colitis extending to the mouth)",
+        "E. Doxycycline (by directly damaging oral epithelium)"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Broad-spectrum antibiotics (amoxicillin, metronidazole) disturb the normal commensal oral flora, allowing Candida to overgrow opportunistically. This is particularly a risk in immunosuppressed or diabetic patients, denture wearers, and those on steroid inhalers. Prescribe antifungal prophylaxis in high-risk patients on prolonged antibiotics."
+    },
+    {
+      "id": "t3-m46",
+      "theme": 3,
+      "topicTag": "immunodeficiency",
+      "question": "Patients with common variable immunodeficiency (CVID) have an increased risk of which ONE of the following in addition to recurrent infections?",
+      "options": [
+        "A. Sickle cell disease",
+        "B. Lymphoma and other malignancies",
+        "C. Rheumatoid factor being negative",
+        "D. Anaphylaxis to all medications",
+        "E. Gingival hyperplasia from complement deficiency"
+      ],
+      "correctAnswer": "B",
+      "explanation": "CVID patients have: multiple gene defects, low immunoglobulins (not absent), recurrent bacterial infections (sinuses, lungs), autoimmune disease (thyroid, alopecia, vitiligo), and a markedly increased risk of lymphoma and other malignancies due to disordered immune surveillance."
+    },
+    {
+      "id": "t3-m47",
+      "theme": 3,
+      "topicTag": "autoimmune-disease",
+      "question": "A patient with systemic sclerosis (scleroderma) attends for a routine dental check-up. Which ONE of the following oral finding is MOST directly caused by the underlying disease process?",
+      "options": [
+        "A. Angular cheilitis from secondary candidal infection",
+        "B. Gingival hyperplasia from calcium channel blocker treatment",
+        "C. Microstomia (reduced mouth opening) from cutaneous and perioral fibrosis",
+        "D. Aphthous ulcers from concurrent Behçet's syndrome",
+        "E. Erythema multiforme from systemic autoimmune dysregulation"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Systemic sclerosis causes progressive skin fibrosis → perioral skin tightening → microstomia (severely reduced mouth opening). This is the most direct oral/dental consequence of the underlying pathology. It significantly impairs oral hygiene, dental access, and prosthetic rehabilitation."
+    },
+    {
+      "id": "t3-m48",
+      "theme": 3,
+      "topicTag": "hypersensitivity",
+      "question": "Burning mouth syndrome (BMS) in a denture wearer — which ONE of the following statements is CORRECT?",
+      "options": [
+        "A. BMS is most commonly caused by type I allergy to acrylic resin",
+        "B. BMS in denture wearers is usually caused by type IV hypersensitivity to denture materials",
+        "C. BMS is most often NOT allergic in origin; it is usually related to iron/folate deficiency or candidal infection",
+        "D. BMS is best confirmed by skin prick testing for denture materials",
+        "E. BMS is always caused by xerostomia in denture wearers"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Burning mouth syndrome is a clinical diagnosis characterised by burning in the mouth without visible pathology. In denture wearers, the most common causes are candidal overgrowth, nutritional deficiencies (iron, folate, B12), and ill-fitting dentures — NOT allergy. If there are signs (visible lesions), it is by definition NOT BMS. Allergy to denture materials is possible but unusual."
+    },
+    {
+      "id": "t3-m49",
+      "theme": 3,
+      "topicTag": "immunodeficiency",
+      "question": "A patient receiving chemotherapy for acute leukaemia is scheduled for a dental extraction. Their most recent blood count (taken yesterday) shows a platelet count of 28 × 10⁹/L and neutrophil count of 0.4 × 10⁹/L. Which ONE of the following is the MOST appropriate next action?",
+      "options": [
+        "A. Proceed with the extraction using extra local haemostatic measures",
+        "B. Defer extraction and contact the haematology team — platelet count and neutrophil count are both dangerously low",
+        "C. Extract with a platelet transfusion given on the day",
+        "D. Proceed as the patient has already consented and is in pain",
+        "E. Prescribe amoxicillin prophylactically and proceed with extraction"
+      ],
+      "correctAnswer": "B",
+      "explanation": "A platelet count of 28 × 10⁹/L is below the safe threshold for dental surgery (>50 for extractions; >30 for very simple procedures). A neutrophil count of 0.4 × 10⁹/L represents severe neutropenia with very high sepsis risk. Dental extraction under these conditions is dangerous — defer and coordinate with haematology regarding platelet transfusion and timing of surgery around the treatment cycle."
+    },
+    {
+      "id": "t3-m50",
+      "theme": 3,
+      "topicTag": "autoimmune-disease",
+      "question": "A patient presents with swelling and fibrosis of the salivary glands, skin tightening on the hands, and difficulty swallowing. Anti-Ro antibodies are positive. Which ONE of the following conditions MOST fits this description?",
+      "options": [
+        "A. Systemic sclerosis (diffuse form)",
+        "B. Sjögren's syndrome with associated systemic features",
+        "C. SLE with parotid involvement",
+        "D. Sarcoidosis with parotid infiltration (Heerfordt's syndrome)",
+        "E. Amyloidosis with salivary gland deposition"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Anti-Ro antibodies are most strongly associated with Sjögren's syndrome. Sjögren's can cause salivary and lacrimal gland destruction, associated inflammatory arthritis, and occasionally systemic features. The combination of salivary gland swelling + skin tightening + dysphagia + anti-Ro positivity points to Sjögren's with systemic overlap."
+    },
+    {
+      "id": "t3-m51",
+      "theme": 3,
+      "topicTag": "hypersensitivity",
+      "question": "Which ONE of the following antifungal agents should be prescribed for oral candidiasis in a patient taking warfarin?",
+      "options": [
+        "A. Miconazole gel 24mg/g",
+        "B. Fluconazole 50mg daily",
+        "C. Itraconazole 100mg twice daily",
+        "D. Nystatin suspension 100,000 units/ml",
+        "E. Ketoconazole cream applied to affected areas"
+      ],
+      "correctAnswer": "D",
+      "explanation": "Nystatin is the ONLY safe antifungal for oral candidiasis in a warfarin patient. It is not absorbed systemically, so it has no drug interactions. Miconazole gel (A) is ABSOLUTELY CONTRAINDICATED with warfarin — it dramatically raises INR via CYP2C9 inhibition. Fluconazole (B) and itraconazole (C) also interact with warfarin."
+    },
+    {
+      "id": "t3-m52",
+      "theme": 3,
+      "topicTag": "immunosuppressants",
+      "question": "Which ONE of the following is an example of a monoclonal antibody immunosuppressive drug used in the treatment of rheumatoid arthritis?",
+      "options": [
+        "A. Prednisolone",
+        "B. Azathioprine",
+        "C. Methotrexate",
+        "D. Infliximab (Remicade)",
+        "E. Ciclosporin"
+      ],
+      "correctAnswer": "D",
+      "explanation": "Infliximab (anti-TNF-alpha monoclonal antibody) and adalimumab are biologic DMARDs used in RA. They carry significant risks: increased infection (particularly TB reactivation — latent TB screening before starting), increased malignancy risk (lymphoma, skin cancer), and hepatic failure. Dentists must be aware of these risks in their clinical management."
+    },
+    {
+      "id": "t3-m53",
+      "theme": 3,
+      "topicTag": "immunodeficiency",
+      "question": "A patient's immune function is assessed after treatment for a lymphoma. T-cell function is found to be severely impaired. Which ONE of the following types of infection is the MOST important to monitor for?",
+      "options": [
+        "A. Bacterial infections with capsulated organisms such as Streptococcus pneumoniae",
+        "B. Fungal infections such as Pneumocystis jiroveci and Candida",
+        "C. Viral infections only, as T-cells only fight viruses",
+        "D. Prion diseases from impaired cellular immune surveillance",
+        "E. Infection with Gram-positive cocci exclusively"
+      ],
+      "correctAnswer": "B",
+      "explanation": "T-cell deficiency primarily predisposes to: fungal infections (Pneumocystis, Cryptococcus, Candida, Aspergillus), viral infections (CMV, EBV, HSV, JC virus), and intracellular bacteria. B-cell deficiency (not T-cell) predisposes primarily to capsulated bacterial pathogens."
+    },
+    {
+      "id": "t3-m54",
+      "theme": 3,
+      "topicTag": "anaphylaxis",
+      "question": "A patient who received penicillin G IV 15 minutes ago develops severe bronchospasm, urticaria, hypotension, and stridor. Which ONE of the following correctly identifies both the type of hypersensitivity reaction and the FIRST drug to administer?",
+      "options": [
+        "A. Type IV hypersensitivity; first give IV hydrocortisone 200mg",
+        "B. Type I hypersensitivity; first give IM adrenaline 500 micrograms",
+        "C. Type III hypersensitivity; first give IV chlorphenamine 10mg",
+        "D. Type II hypersensitivity; first give fresh frozen plasma",
+        "E. Type I hypersensitivity; first give IV adrenaline 1mg (10ml 1:10,000)"
+      ],
+      "correctAnswer": "B",
+      "explanation": "This is type I (IgE-mediated immediate hypersensitivity) anaphylaxis — onset within minutes of the allergen. First drug = IM adrenaline 500 micrograms (0.5ml 1:1,000) into the anterolateral thigh. IV adrenaline (E) is for cardiac arrest, not anaphylaxis — a dangerous confusion that has caused deaths."
+    },
+    {
+      "id": "t3-m55",
+      "theme": 3,
+      "topicTag": "oral-immunocompromised",
+      "question": "Post stem cell transplant for multiple myeloma, a patient is placed on cyclosporin. Which ONE of the following is the MAIN oral side effect they may develop?",
+      "options": [
+        "A. Nausea and vomiting",
+        "B. Oral thrush",
+        "C. Pancytopenia",
+        "D. Gingival hyperplasia",
+        "E. Renal failure"
+      ],
+      "correctAnswer": "D",
+      "explanation": "Cyclosporin causes gingival overgrowth in approximately 30% of patients — this is its most significant and specific ORAL side effect. While oral thrush can occur from immunosuppression, and systemic side effects include renal failure and nausea, the question specifically asks for the main ORAL side effect."
+    },
+    {
+      "id": "t3-m56",
+      "theme": 3,
+      "topicTag": "autoimmune-disease",
+      "question": "A 55-year-old patient has pain and tenderness in the temporal region and jaw claudication. ESR is markedly raised. Which ONE of the following is the MOST likely diagnosis?",
+      "options": [
+        "A. Polymyalgia rheumatica",
+        "B. Temporal arteritis (giant cell arteritis)",
+        "C. Trigeminal neuralgia",
+        "D. Temporomandibular joint dysfunction",
+        "E. Myofascial pain syndrome"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Temporal arteritis (giant cell arteritis) = granulomatous inflammation of the temporal and other cranial arteries in the elderly. Classic features: temporal headache, scalp tenderness, jaw claudication (pain in masseter on chewing from ischaemia), visual loss risk, raised ESR. Emergency — refer urgently as untreated temporal arteritis can cause permanent blindness."
+    },
+    {
+      "id": "t3-m57",
+      "theme": 3,
+      "topicTag": "immunodeficiency",
+      "question": "Which ONE of the following is the MOST appropriate treatment for a life-threatening anaphylactic attack occurring during dental treatment?",
+      "options": [
+        "A. 100mg IV hydrocortisone — given immediately for its anti-inflammatory action",
+        "B. 500 micrograms IM adrenaline into the anterolateral thigh — then call 999",
+        "C. 10mg IV chlorphenamine — to block histamine receptors",
+        "D. 200 micrograms IV adrenaline — given slowly over 5 minutes",
+        "E. 15L/min oxygen with a salbutamol nebuliser — for the bronchospasm"
+      ],
+      "correctAnswer": "B",
+      "explanation": "IM adrenaline 500 micrograms is the ONLY first-line drug for anaphylaxis. It acts on alpha-1 (vasoconstriction, raises BP), beta-1 (increases cardiac output), and beta-2 (bronchodilation) receptors simultaneously. No other drug can achieve this combination of effects rapidly enough to save life. Call 999 immediately after."
+    },
+    {
+      "id": "t3-m58",
+      "theme": 3,
+      "topicTag": "autoimmune-disease",
+      "question": "Goodpasture's disease is classified as a type II hypersensitivity. Which ONE of the following BEST describes its pathogenesis?",
+      "options": [
+        "A. Immune complexes deposited in the glomerular basement membrane",
+        "B. Anti-glomerular basement membrane antibodies binding to both renal and pulmonary basement membranes",
+        "C. T-cell mediated granulomatous inflammation of the kidneys",
+        "D. IgE-mediated mast cell degranulation in the kidney",
+        "E. Complement-mediated platelet destruction within renal capillaries"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Goodpasture's disease = type II hypersensitivity where antibodies are directed against a specific antigen in the glomerular and alveolar basement membranes. This causes simultaneous glomerulonephritis and pulmonary haemorrhage. The target antigen is the alpha-3 chain of type IV collagen."
+    },
+    {
+      "id": "t3-m59",
+      "theme": 3,
+      "topicTag": "immunosuppressants",
+      "question": "A patient with severe Crohn's disease is commenced on 40mg prednisolone daily. Full blood count one week later is MOST likely to show which ONE of the following?",
+      "options": [
+        "A. Lymphocytosis (raised lymphocyte count)",
+        "B. Thrombocytopenia",
+        "C. Neutrophil leucocytosis (raised neutrophil count)",
+        "D. Granulocytopaenia",
+        "E. Normocytic anaemia"
+      ],
+      "correctAnswer": "C",
+      "explanation": "High-dose corticosteroids cause neutrophil leucocytosis through: (1) demargination of neutrophils from vessel walls into the circulation; (2) increased bone marrow neutrophil release. This can raise the neutrophil count substantially, potentially masking signs of concurrent infection. Lymphocytes are reduced (not raised) by steroids."
+    },
+    {
+      "id": "t3-m60",
+      "theme": 3,
+      "topicTag": "hypersensitivity",
+      "question": "A well-controlled hypertension patient is on amlodipine and bendroflumethiazide. They attend with poor oral hygiene and generalised gum enlargement. Which ONE of the following antihypertensive medications is the MOST likely culprit?",
+      "options": [
+        "A. Amlodipine (dihydropyridine calcium channel blocker)",
+        "B. Bendroflumethiazide (thiazide diuretic)",
+        "C. Both equally responsible",
+        "D. Neither — the gingival hyperplasia is from poor oral hygiene alone",
+        "E. A hidden immunosuppressant not documented in the drug history"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Amlodipine (a dihydropyridine calcium channel blocker) causes drug-induced gingival overgrowth — affecting approximately 10–20% of users. Bendroflumethiazide (a thiazide diuretic) does NOT cause gingival overgrowth. Management: improve oral hygiene (reduces severity), consider drug substitution with the prescriber."
+    },
+    {
+      "id": "t3-m61",
+      "theme": 3,
+      "topicTag": "immunodeficiency",
+      "question": "Which ONE of the following is TRUE regarding SCID (severe combined immunodeficiency)?",
+      "options": [
+        "A. SCID primarily affects B-cells with T-cells remaining functional",
+        "B. SCID is the least severe primary immunodeficiency",
+        "C. T-cells are absent and B-cells may be absent — presents from birth with bacterial, fungal, and viral infections",
+        "D. SCID is treated with prophylactic antibiotics alone",
+        "E. SCID is an autosomal dominant condition always caused by ADA deficiency"
+      ],
+      "correctAnswer": "C",
+      "explanation": "SCID is the most severe primary immunodeficiency — absent T-cells (and often B-cells) mean inability to fight bacterial, fungal, AND viral infections. Presents in infancy ('bubble boy disease'). Multiple genetic causes. Treatment: bone marrow transplantation urgently in early infancy. Gene therapy is now available for ADA-SCID."
+    },
+    {
+      "id": "t3-m62",
+      "theme": 3,
+      "topicTag": "oral-immunocompromised",
+      "question": "A patient on long-term systemic corticosteroids presents with bilateral swelling of the parotid glands. Their saliva appears reduced. Which ONE of the following conditions MOST likely explains these findings?",
+      "options": [
+        "A. Sjögren's syndrome triggered by the corticosteroids",
+        "B. Sialosis — bilateral non-inflammatory parotid enlargement associated with metabolic disorders including steroid therapy and diabetes",
+        "C. Acute bacterial parotitis from immunosuppression",
+        "D. Sarcoidosis involving the parotid glands",
+        "E. Cushing's syndrome causing fat deposition in parotid tissue"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sialosis (sialadenosis) is non-inflammatory, non-neoplastic bilateral parotid gland enlargement associated with metabolic conditions: diabetes mellitus, alcoholic liver disease, nutritional disorders, and certain drugs including corticosteroids. It involves acinar cell hypertrophy. Distinguish from acute parotitis (painful, hot, pus from Stensen's duct) and Sjögren's (with dry eyes/mouth)."
+    },
+    {
+      "id": "t3-m63",
+      "theme": 3,
+      "topicTag": "immunosuppressants",
+      "question": "Which ONE of the following statements about general problems of immunosuppression relevant to dentistry is CORRECT?",
+      "options": [
+        "A. Antibiotic cover is required before ALL dental procedures in immunosuppressed patients",
+        "B. Wound healing is improved by corticosteroids through their anti-inflammatory action",
+        "C. Immunosuppressed patients have increased risk of opportunistic infections, poor wound healing, and malignancy",
+        "D. Immunosuppression eliminates the need for infection control precautions in dental treatment",
+        "E. Only IV immunosuppressants cause clinically relevant immunosuppression for dental purposes"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Immunosuppression increases risk of: (1) opportunistic infections (candida, herpes) — treat aggressively; (2) poor wound healing — use good surgical technique; (3) skin and oral malignancy — any suspicious lesion must be referred urgently. Antibiotic cover is only needed if the patient is neutropenic — not for all procedures."
+    },
+    {
+      "id": "t3-m64",
+      "theme": 3,
+      "topicTag": "autoimmune-disease",
+      "question": "A patient develops multiple joint pains, pleuritis, and a facial rash following recent sun exposure. ANA and anti-dsDNA antibodies are positive. Which ONE of the following dental drug interactions is MOST important to avoid in this patient?",
+      "options": [
+        "A. Amoxicillin with warfarin",
+        "B. Ibuprofen with aspirin",
+        "C. Tetracyclines (doxycycline) — exacerbate photosensitive skin conditions in SLE",
+        "D. Metronidazole with alcohol",
+        "E. Penicillin V with co-codamol"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Tetracyclines (especially doxycycline) are contraindicated in SLE — they cause photosensitivity and can exacerbate the skin manifestations of SLE. This is explicitly listed as a contraindication to antibiotic use. For odontogenic infections in SLE patients, use amoxicillin or metronidazole instead."
+    },
+    {
+      "id": "t3-m65",
+      "theme": 3,
+      "topicTag": "oral-immunocompromised",
+      "question": "An HIV-positive patient's dentist notes oral hairy leukoplakia on routine examination. The patient is on HAART with a CD4 count of 320 cells/mm³ and undetectable viral load. Which ONE of the following is the MOST appropriate management of the OHL?",
+      "options": [
+        "A. Prescribe systemic aciclovir to treat the EBV causing OHL",
+        "B. Apply topical podophyllin to the lesions",
+        "C. Refer to oral surgery for surgical removal of the lesion",
+        "D. Reassure the patient — OHL generally requires no specific treatment and often resolves with improved immune function",
+        "E. Prescribe antifungal treatment as candida is the likely cause"
+      ],
+      "correctAnswer": "D",
+      "explanation": "OHL generally requires no specific treatment in most patients. With improved immune function from effective HAART, OHL often resolves spontaneously. Antifungals are NOT effective against OHL (it is EBV, not Candida). Surgical removal and podophyllin are rarely needed. Monitor and biopsy if uncertain about the diagnosis."
+    }
+  ]
+}

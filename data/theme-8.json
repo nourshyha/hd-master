@@ -1,0 +1,1257 @@
+{
+  "theme": {
+    "id": 8,
+    "title": "Respiratory Medicine",
+    "difficulty": "easy",
+    "lectureCount": 5,
+    "learningOutcomes": [
+      "HD45",
+      "HD46",
+      "HD47",
+      "HD48",
+      "HD49"
+    ]
+  },
+  "groundIt": [
+    {
+      "clusterId": "t8-c1",
+      "clusterTitle": "Asthma — Pathophysiology, Diagnosis & Bronchodilators",
+      "content": "Asthma is a chronic condition characterised by variable narrowing of the small airways of the lungs. It involves three pathological processes: airway inflammation (lymphocytes, eosinophils, and mast cells cause mucosal oedema and thicken the basement membrane, narrowing the airway lumen; driven by specific IgE antibody responses to allergens releasing mediators — histamines, prostaglandins, leukotrienes); smooth muscle abnormalities (hyperresponsiveness and hypertrophy); and airflow obstruction (reversible, variable).\n\nSymptoms: wheeze (expiratory whistling noise — characteristic of asthma), breathlessness, chest tightness, and cough, often worse at night/early morning, with exercise, cold air, or irritants. Diagnosis: spirometry showing FEV1/FVC ratio <70% (obstructive pattern); reversibility with bronchodilator (>12% improvement in FEV1 after salbutamol); peak expiratory flow (PEF) monitoring showing diurnal variation (morning dipping); challenge testing.\n\nBronchodilators ('relievers') — two main types: Beta-2 adrenergic agonists (act via cAMP → smooth muscle relaxation → bronchodilation): short-acting (SABA) — salbutamol (Ventolin — BLUE inhaler) 100 micrograms/puff, onset 1 minute, duration 2–4 hours, used in acute attacks and PRN; terbutaline; long-acting (LABA) — salmeterol, formoterol (12-hour duration); adverse effects: tachycardia, tremor, hypokalaemia, hyperglycaemia, tachyphylaxis. Anticholinergics (block parasympathetic muscarinic receptors — vagal tone → bronchoconstriction → block this → bronchodilation): ipratropium (short-acting), tiotropium (long-acting — used more in COPD); adverse effects: dry mouth, glaucoma, urinary retention. Theophylline: caffeine derivative; oral/IV; narrow therapeutic window (toxicity = tachyarrhythmias, VF, convulsions); interacts with erythromycin (inhibits theophylline metabolism → toxicity). Magnesium: given IV in acute severe asthma only — mechanism not fully understood; rapid potent bronchodilation.\n\nAnti-inflammatory agents ('preventers'): Inhaled corticosteroids (ICS) — beclomethasone, budesonide, fluticasone (BROWN inhaler); reduce airway inflammation; oral candidiasis is a common side effect from local immunosuppression (instruct patient to rinse mouth after use; spacer reduces oropharyngeal deposition). Oral prednisolone in acute exacerbations. Leukotriene receptor antagonists (montelukast — block leukotriene-mediated bronchoconstriction). Combination inhalers: ICS + LABA (Seretide = fluticasone + salmeterol; Symbicort = budesonide + formoterol).\n\nManaging acute severe asthma in the dental chair: assess severity (peak flow); summon help; sit patient upright; administer salbutamol inhaler — 10 puffs (100 micrograms each), 1 puff every 30–60 seconds, via spacer if available; reassess after every 2–3 puffs; if no improvement: call 999; give oxygen if hypoxic; IV magnesium can be given in hospital. NSAIDs worsen asthma symptoms in aspirin-sensitive patients (about 10% of asthmatics) — avoid.",
+      "selfExplainPrompt": "Explain why steroid inhalers cause oral candidiasis and describe two measures patients can take to reduce this risk."
+    },
+    {
+      "clusterId": "t8-c2",
+      "clusterTitle": "COPD — Definition, Spirometry & Management",
+      "content": "Chronic Obstructive Pulmonary Disease (COPD) is a progressive, incompletely reversible airflow obstruction caused by chronic inflammation from noxious agents (primarily cigarette smoke). It encompasses chronic bronchitis (chronic or recurrent excessive mucus secretion in the bronchial tree — productive cough for ≥3 months/year for ≥2 successive years) and emphysema (permanent enlargement of air spaces distal to the terminal bronchiole with destruction of alveolar walls).\n\nSpirometry: FEV1/FVC ratio <0.7 confirms airflow obstruction. Unlike asthma, obstruction is NOT reversible (or minimally so) after bronchodilator. FVC is the total volume breathed out; FEV1 is the volume in 1 second. Smoking causes FEV1 to decline faster than normal — stopping smoking slows this decline but does not reverse it.\n\nClinical presentations: shortness of breath (SOB — initially on exertion, then at rest), chronic productive cough (phlegm), frequent exacerbations, respiratory failure (type 2 = low O2 and high CO2). Pink puffer (predominantly emphysema — hyperventilates to maintain oxygen; breathless but not cyanotic) vs blue bloater (predominantly chronic bronchitis — does not hyperventilate; cyanotic from chronic hypoxia → pulmonary hypertension → Cor Pulmonale — right heart failure from elevated pulmonary artery pressure → peripheral oedema, raised JVP). Bounding pulse in COPD = CO2 retention.\n\nTreatment: (1) Smoking cessation — the single most effective intervention (slows FEV1 decline, prolongs life); (2) Vaccinations (influenza, COVID); (3) Pulmonary rehabilitation — supervised exercise; (4) Inhaled therapy: LABA (long-acting beta agonist), LAMA (long-acting muscarinic antagonist — tiotropium), ICS (inhaled corticosteroid) — these three combined open airways and reduce inflammation and exacerbations; (5) Anti-inflammatory/antibiotic prophylaxis (azithromycin reduces exacerbation frequency); (6) Mucolytics (carbocisteine — helps cough up phlegm); (7) Long-term oxygen therapy (LTOT) for the minority with pO2 <7.3 kPa when stable — 16 hours/day.\n\nImportant: high-flow oxygen can be HARMFUL in COPD. Patients with type 2 respiratory failure have chronically elevated CO2 → their respiratory drive depends on hypoxia (not hypercapnia as in normal patients). High-flow oxygen removes this hypoxic drive → respiratory depression → further CO2 retention → acidaemia → death. Use controlled oxygen 24–28% via Venturi mask. Target oxygen saturation 88–92% (not 94–98% as in most other patients).",
+      "selfExplainPrompt": "Explain why giving high-flow oxygen is dangerous for some COPD patients, and state the target oxygen saturation range when oxygen is needed in COPD."
+    },
+    {
+      "clusterId": "t8-c3",
+      "clusterTitle": "Respiratory Infections — Pneumonia & Tuberculosis",
+      "content": "Pneumonia is inflammation of the lung parenchyma (alveoli and interstitium) usually caused by infection. Community-acquired pneumonia (CAP) — acquired in the community — is most commonly caused by Streptococcus pneumoniae (gram-positive diplococcus; 'typical' pneumonia — abrupt onset fever, productive cough, lobar consolidation on CXR). Other typical organisms: Haemophilus influenzae (particularly in COPD), Staphylococcus aureus (post-influenza pneumonia, severe). Atypical organisms: Mycoplasma pneumoniae (most common atypical — rash, diarrhoea, slow onset), Legionella pneumophila (Legionnaire's disease — air conditioning systems, severe), Chlamydophila pneumoniae. Hospital-acquired pneumonia (HAP): occurs >48 hours after admission; caused by Gram-negative organisms (Pseudomonas aeruginosa, Klebsiella — particularly in ventilated ICU patients, MRSA). Treatment: CAP — amoxicillin (typical) ± clarithromycin (atypical); HAP — broad-spectrum.\n\nLink to dentistry: the trachea is in direct communication with the oropharynx. Periodontal infection/micro-aspiration of oral bacteria can travel into the lungs → aspiration pneumonia. This is a particular concern in: elderly patients (poor gag reflex), patients with dysphagia, hospital-inpatients with dentures. Oral hygiene improvements in care homes have been shown to reduce pneumonia incidence significantly.\n\nTuberculosis (TB): caused by Mycobacterium tuberculosis — acid-alcohol fast bacilli (not visible on Gram stain; detected by Ziehl-Neelson/Auramine stain and AAFB culture). A massive global problem (billions infected; second most lethal infectious disease after COVID-19). UK incidence: higher in urban areas, immigrant populations. Transmission: respiratory route (droplet nuclei) — highly infectious. Primary infection: often asymptomatic, walled off by granuloma. Post-primary (reactivation): productive cough, haemoptysis, weight loss, night sweats, fever. Oral manifestations: painful oral mucosal ulceration (usually secondary to pulmonary TB — oral lesions from swallowed infected sputum), usually in the posterior mouth; cervical lymphadenopathy progressing to abscesses and sinuses. Diagnosis: biopsy (histology showing caseating granuloma), AAFB culture (slow — 6–8 weeks), Mantoux test, IGRA blood test. Treatment: quadruple antituberculous therapy (rifampicin + isoniazid + pyrazinamide + ethambutol × 2 months, then rifampicin + isoniazid × 4 months). Cystic fibrosis (CF): autosomal recessive CFTR gene mutation → defective chloride channel → thick, viscid mucus in lungs and other organs → chronic lung infection (Pseudomonas aeruginosa most common chronic infector — treated with long-term inhaled antibiotics colistin or tobramycin), pancreatic insufficiency, subfertility. Dental: high caries rate (high carbohydrate diet supplementation, xerostomia, antibiotic use).",
+      "selfExplainPrompt": "Name the most common cause of community-acquired pneumonia and explain how poor oral hygiene could contribute to respiratory infection risk in a vulnerable patient."
+    },
+    {
+      "clusterId": "t8-c4",
+      "clusterTitle": "Lung Cancer, Pulmonary Fibrosis & Other Respiratory Conditions",
+      "content": "Lung cancer is one of the most common malignancies — and the most lethal, because it grows silently and is usually advanced at presentation. Overwhelmingly caused by cigarette smoking (even passive smoking). Histology: 75% large cell carcinoma (squamous cell carcinoma — most common, ~45%; adenocarcinoma ~20%; large-cell undifferentiated ~15%) and 25% small-cell carcinoma (rapidly dividing, early metastasis, poor prognosis). Symptoms: persistent cough, haemoptysis (coughing up blood — must always refer urgently), weight loss, anorexia, chest pain. Signs in head and neck: superior vena caval obstruction (facial/arm swelling, dilated neck veins); right Horner's syndrome from apical tumour compressing sympathetic nerve supply (ptosis — right eyelid drooping, miosis — right pupil constriction, anhidrosis — no sweating on right face, enophthalmos — sunken right eye); cervical lymphadenopathy (metastasis). Lung cancer → ~35,000 deaths/year in UK. Diagnosis: CXR (air-filled = black, collapsed/consolidated = white), CT, bronchoscopy with biopsy. Treatment: surgery (if localised), radiotherapy, chemotherapy, palliation.\n\nDental implications of lung cancer/chemotherapy: bone marrow suppression → anaemia, neutropenia (infection risk), thrombocytopenia (haemorrhage). Plan dental extractions to avoid the nadir (days 10–14 post-chemotherapy when counts are lowest — check blood counts first). Non-healing socket in a patient with malignancy history → suspect metastatic deposit. Oral effects of chemotherapy: mucositis, ulceration, candidiasis, xerostomia, altered taste, gingival bleeding, herpes simplex reactivation. Systemic effects: alopecia, nausea, infertility, ototoxicity, peripheral neuropathy.\n\nPulmonary fibrosis: scarring and stiffening of lung tissue. Causes: occupational (asbestos — asbestosis; silica — silicosis), connective tissue disorders (RA, Sjögren's syndrome, SLE), drug-induced, post-ARDS, idiopathic pulmonary fibrosis (IPF — most common cause of fibrosis, unknown cause). Presents with progressive breathlessness, dry cough, bilateral basal crackles, finger clubbing. Obstructive sleep apnoea (OSA/OSAS): occlusion of pharynx during deep sleep → repeated apnoeic episodes → hypoxia → daytime sleepiness. More common in obese patients. Treatment: CPAP (continuous positive airway pressure) via tight-fitting nasal mask — keeps pharynx open. Dental relevance: airway during GA and IV sedation; mandibular advancement splints are a dental treatment option for mild-moderate OSA.",
+      "selfExplainPrompt": "Explain why haemoptysis (coughing up blood) must always prompt urgent referral, and name two systemic effects of chemotherapy that would affect your dental treatment planning."
+    },
+    {
+      "clusterId": "t8-c5",
+      "clusterTitle": "Dental Implications of Respiratory Disease & Inhaled Foreign Body Management",
+      "content": "Dental implications of respiratory disease: (1) Asthma — NSAIDs can trigger bronchospasm in aspirin-sensitive asthmatics (avoid); steroid inhalers cause oral candidiasis and xerostomia (advise mouth-rinsing after use); use spacer device. (2) COPD — limited exercise tolerance and breathlessness → shorter appointments; high-flow oxygen harmful → if oxygen needed, use controlled 24–28%; patients may be on theophylline (narrow therapeutic index → erythromycin interaction); bounding pulse may suggest CO2 retention. (3) Patients on steroid inhalers — oral hairy leukoplakia (EBV-driven, more common with high-dose ICS in COPD — thought to be from local immunosuppression); oral candidiasis. (4) TB — infection control precautions; defer elective dental treatment until patient is non-infectious (after starting effective treatment, usually 2 weeks). (5) Lung cancer/chemotherapy — see Topic 4. (6) Respiratory history questions: smoking history; medications (inhalers — type, frequency); breathlessness at rest (SOBAR) vs on exertion (SOBOE); previous hospitalisation; oxygen at home; colour of sputum (yellow/green = infection; clear = not infected); precipitating and relieving factors; what the patient can manage at home (distance walked, stairs). Inhalers commonly used: salbutamol (BLUE — SABA reliever); beclometasone/budesonide/fluticasone (BROWN/PURPLE/RED — ICS preventer); tiotropium (anticholinergic LAMA, for COPD); combination (PURPLE — Seretide/Symbicort).\n\nInhaled foreign body management: dental materials or teeth are inhaled in approximately 0.02% of dental procedures. Prevention: rubber dam, mouth sponges, instrument chains, ligatures on instruments. If inhalation is suspected: (1) Confirm whether it has been inhaled or just gone into the GI tract or been found on the floor; (2) If inhaled → foreign body will usually go to the right lung (right main bronchus is straighter, more vertical, and larger than the left; bronchus opens at a shallower angle from the trachea). (3) Refer immediately for bronchoscopy — fine forceps can usually retrieve the object endoscopically; rarely open surgery needed; if in GI tract and past the pharynx, can usually pass naturally.\n\nChoking management in the dental chair: assess — if effective cough (can speak, cough loudly, breathe) → encourage to cough, monitor. If severe obstruction (cannot speak, silent cough, cyanosis, unable to breathe): If conscious: 5 back blows (heel of hand between shoulder blades) then 5 abdominal thrusts (Heimlich manoeuvre) — alternate until cleared or unconscious. If unconscious: start CPR (30 compressions : 2 breaths). Infants: 5 back blows then 5 CHEST thrusts (NOT abdominal — liver and spleen are vulnerable). If ventilation impossible: cricothyroidotomy — emergency needle airway through cricothyroid membrane; only temporary (CO2 builds up → must not be sole airway for >30–45 minutes); complications: aspiration, haemorrhage, posterior tracheal wall perforation.",
+      "selfExplainPrompt": "Explain why an inhaled foreign body in a dental patient is more likely to go to the right lung than the left, and describe the stepwise management of a conscious adult with complete airway obstruction in the dental surgery."
+    }
+  ],
+  "recallIt": [
+    {
+      "id": "t8-r1",
+      "question": "What are the three pathological components of asthma?",
+      "answer": "1. Airway inflammation — lymphocytes, eosinophils, mast cells → mucosal oedema, basement membrane thickening, airway narrowing\n2. Smooth muscle abnormalities — hyperresponsiveness and hypertrophy → bronchoconstriction\n3. Airflow obstruction — variable and (at least partially) reversible"
+    },
+    {
+      "id": "t8-r2",
+      "question": "What is the spirometry criterion for diagnosing airflow obstruction?",
+      "answer": "FEV1/FVC ratio <0.7 (70%). FEV1 = forced expiratory volume in 1 second; FVC = forced vital capacity (total volume breathed out). A ratio below 0.7 indicates more effort is needed to expel air = obstruction of airways. In asthma this is reversible; in COPD it is fixed."
+    },
+    {
+      "id": "t8-r3",
+      "question": "How does salbutamol work and what are its side effects?",
+      "answer": "Salbutamol is a short-acting beta-2 adrenergic agonist (SABA). Acts via beta-2 receptors → increased cAMP → smooth muscle relaxation → bronchodilation. Onset 1 minute, duration 2–4 hours. Side effects: tachycardia (beta-1 stimulation), tremor, hypokalaemia (potassium driven into cells), hyperglycaemia, tachyphylaxis (reduced effect with overuse)."
+    },
+    {
+      "id": "t8-r4",
+      "question": "Why do steroid inhalers cause oral candidiasis and how can patients prevent it?",
+      "answer": "Inhaled corticosteroids deposit in the oropharynx → cause local immunosuppression by reducing mucosal immune defence → allow Candida (normally commensal) to overgrow. Prevention: (1) Rinse mouth with water immediately after using the inhaler and spit it out; (2) Use a spacer device — reduces oropharyngeal deposition by slowing particle velocity."
+    },
+    {
+      "id": "t8-r5",
+      "question": "What is the most common cause of community-acquired pneumonia?",
+      "answer": "Streptococcus pneumoniae (pneumococcus) — a Gram-positive diplococcus. Causes typical pneumonia: abrupt onset, high fever, productive cough with rust-coloured sputum, lobar consolidation on CXR. Treated with amoxicillin (or penicillin V) for typical, plus clarithromycin if atypical organism is suspected."
+    },
+    {
+      "id": "t8-r6",
+      "question": "What is Pseudomonas aeruginosa's relevance to respiratory disease?",
+      "answer": "Pseudomonas aeruginosa is the most common chronic lung infection in cystic fibrosis patients — treated with long-term inhaled antibiotics (colistin or tobramycin). It is also a major cause of hospital-acquired pneumonia, particularly in ventilated ICU patients. It is a Gram-negative, inherently resistant organism requiring broad-spectrum IV antibiotics."
+    },
+    {
+      "id": "t8-r7",
+      "question": "Why is high-flow oxygen dangerous in COPD patients with type 2 respiratory failure?",
+      "answer": "Patients with chronic type 2 respiratory failure (low O2 + high CO2) become acclimatised to high CO2. Their respiratory drive switches from the normal CO2-sensitive mechanism to being driven by hypoxia (hypoxic drive). If you give high-flow oxygen, you correct the hypoxia → remove the hypoxic drive → respiratory depression → CO2 rises further → acidaemia. Use controlled oxygen 24–28% (Venturi mask) targeting SpO2 88–92%."
+    },
+    {
+      "id": "t8-r8",
+      "question": "What is the most common histological type of lung cancer?",
+      "answer": "Squamous cell carcinoma — accounts for approximately 45% of lung cancers. All large-cell carcinomas together account for approximately 75% (SCC ~45%, adenocarcinoma ~20%, large-cell undifferentiated ~15%). Small-cell carcinoma accounts for approximately 25% — it is the most rapidly dividing and has the worst prognosis."
+    },
+    {
+      "id": "t8-r9",
+      "question": "In which lung is an inhaled foreign body most likely to lodge?",
+      "answer": "The right lung — because the right main bronchus is straighter (more vertical), wider, and opens at a shallower angle from the trachea compared to the left main bronchus. Gravity and airflow therefore direct aspirated material predominantly into the right lower lobe."
+    },
+    {
+      "id": "t8-r10",
+      "question": "Describe the stepwise management of a conscious adult with severe airway obstruction in the dental surgery.",
+      "answer": "1. Identify obstruction: cannot speak, silent/absent cough, cyanosis developing, cannot breathe\n2. Call for help / dial 999\n3. Give 5 firm back blows (heel of hand between shoulder blades, downward diagonal direction)\n4. Check if object expelled — if not:\n5. Give 5 abdominal thrusts (Heimlich — clasped hands, pull firmly inwards and upwards below xiphisternum)\n6. Alternate 5 back blows + 5 abdominal thrusts\n7. If patient becomes unconscious → start CPR (30 compressions : 2 breaths)"
+    },
+    {
+      "id": "t8-r11",
+      "question": "What adverse effect is specifically associated with anticholinergic bronchodilators (e.g. tiotropium) that is relevant to dentistry?",
+      "answer": "Dry mouth (xerostomia) — anticholinergic (muscarinic receptor blocking) drugs block parasympathetic stimulation of salivary glands → reduced salivary flow. Also: loss of taste, gingivitis, and glossitis. Other side effects include glaucoma (avoided in narrow-angle glaucoma) and urinary retention. Oral candidiasis is associated with corticosteroid inhalers — not anticholinergics."
+    },
+    {
+      "id": "t8-r12",
+      "question": "What is CPAP and what is it used for?",
+      "answer": "CPAP = continuous positive airway pressure. A tight-fitting nasal or full-face mask delivers continuous pressurised air throughout sleep, keeping the pharynx mechanically open and preventing the apnoeic episodes of obstructive sleep apnoea (OSAS). It is the first-line and most effective treatment for moderate-severe OSAS. Dental alternatives for mild-moderate OSAS: mandibular advancement splint (MAS) — holds the lower jaw forward, preventing pharyngeal collapse."
+    }
+  ],
+  "applyIt": [
+    {
+      "id": "t8-a1",
+      "scenario": "An asthmatic patient becomes wheezy during a dental extraction. They have their salbutamol inhaler with them. What is the immediate management?",
+      "options": [
+        "A. Give the patient their salbutamol inhaler — 2 puffs — and continue with the extraction if they improve quickly",
+        "B. Stop treatment, sit the patient upright, administer salbutamol via spacer (up to 10 puffs, 1 every 30–60 seconds), assess response; call 999 if no improvement",
+        "C. Give oral prednisolone immediately and monitor",
+        "D. Administer oxygen at 15L/min via non-rebreathe mask and call 999 immediately"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Stop treatment immediately and allow the patient to take their salbutamol. In an acute asthma attack in the dental chair: sit upright (aids breathing mechanics), give salbutamol up to 10 puffs (one every 30–60 seconds), preferably via spacer which increases drug delivery. Reassess after every 2–3 puffs. If no improvement after 10 puffs: call 999, administer oxygen, prepare for hospital admission. Continuing the extraction (A) is inappropriate. Oral prednisolone (C) takes hours to work and is not first-line. Calling 999 immediately (D) before trying salbutamol wastes time — the inhaler should be the first response for a mild-to-moderate attack."
+    },
+    {
+      "id": "t8-a2",
+      "scenario": "During the extraction of a lower molar, your assistant notices that the extracted tooth has disappeared from the field. The patient coughed during the procedure. What is your first priority?",
+      "options": [
+        "A. Assume the tooth fell on the floor and search the surrounding area",
+        "B. Reassure the patient and proceed — teeth are small and easily swallowed without harm",
+        "C. Perform abdominal thrusts immediately as the patient must be choking",
+        "D. Take a chest X-ray immediately; if the tooth is not visible, refer urgently for bronchoscopy",
+        "E. Check if the patient coughed, ask about symptoms, examine the patient, check floor and suction, and refer for CXR/bronchoscopy if aspiration cannot be excluded"
+      ],
+      "correctAnswer": "E",
+      "explanation": "The differential for a missing tooth is: swallowed (GI tract — usually passes without issue), aspirated (airway — requires urgent investigation), or simply on the floor/in the patient's mouth. Assessment: ask the patient (do they feel anything in their throat? Are they breathless?); examine the mouth/suction; check the floor and clinical field. If aspiration cannot be excluded: refer immediately for CXR (tooth may be radio-opaque) and bronchoscopy. An aspirated tooth that is not removed can cause obstruction, pneumonia, abscess, or bronchiectasis. Abdominal thrusts (C) are only for complete airway obstruction — a tooth small enough to reach the bronchi did not cause complete obstruction."
+    },
+    {
+      "id": "t8-a3",
+      "scenario": "A 70-year-old heavy smoker with known COPD attends for extractions. Their resting oxygen saturation is 90% on air. During the procedure you consider giving supplemental oxygen. Which approach is most appropriate?",
+      "options": [
+        "A. Give oxygen at 15L/min via non-rebreathe mask to achieve SpO2 >95%",
+        "B. Do not give oxygen under any circumstances in COPD",
+        "C. Give controlled oxygen at 24–28% (Venturi mask) targeting SpO2 88–92%",
+        "D. Give oxygen at 2L/min via nasal cannula without monitoring"
+      ],
+      "correctAnswer": "C",
+      "explanation": "COPD patients with chronic type 2 respiratory failure (common in long-standing heavy smokers with low SpO2 at rest) depend on hypoxic drive for respiration. High-flow oxygen (A) removes this hypoxic drive → respiratory depression → CO2 retention → acidaemia → death. The correct approach is controlled, titrated oxygen delivery: 24% or 28% Venturi mask targeting SpO2 88–92% (not 94–98% as in most patients). Monitor continuously. Withholding oxygen entirely (B) when the patient is genuinely hypoxic would also be harmful."
+    }
+  ],
+  "writeIt": [
+    {
+      "id": "t8-w1",
+      "prompt": "Describe the classes of drugs used in the treatment of asthma, their mechanisms of action, and their oral adverse effects relevant to dentistry.",
+      "totalMarks": 10,
+      "markScheme": [
+        {
+          "point": "Short-acting beta-2 agonists (SABA) e.g. salbutamol — act on beta-2 receptors → cAMP → smooth muscle relaxation → bronchodilation; used as 'reliever'; oral side effects: tremor, tachycardia from beta stimulation",
+          "marks": 2
+        },
+        {
+          "point": "Long-acting beta-2 agonists (LABA) e.g. salmeterol, formoterol — same mechanism but 12-hour duration; always combined with ICS; not for acute relief",
+          "marks": 1
+        },
+        {
+          "point": "Inhaled corticosteroids (ICS) e.g. beclometasone, budesonide — reduce airway inflammation; 'preventer'; oral adverse effects: oropharyngeal candidiasis (local immunosuppression), dysphonia (hoarse voice), xerostomia; prevention: mouth rinsing after use, spacer device",
+          "marks": 2
+        },
+        {
+          "point": "Anticholinergic bronchodilators e.g. ipratropium, tiotropium — block muscarinic receptors → reduce bronchoconstriction from vagal tone; oral adverse effects: xerostomia (dry mouth), loss of taste, gingivitis and glossitis; also glaucoma and urinary retention",
+          "marks": 2
+        },
+        {
+          "point": "Theophylline — inhibits breakdown of cAMP; bronchodilates; narrow therapeutic window (toxicity: tachyarrhythmias, convulsions); interacts with erythromycin and clarithromycin (CYP1A2 inhibitors — raise theophylline levels → toxicity)",
+          "marks": 2
+        },
+        {
+          "point": "Leukotriene receptor antagonists e.g. montelukast — block leukotriene-mediated bronchoconstriction; generally no significant oral adverse effects",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "t8-w2",
+      "prompt": "A dental instrument is accidentally dropped into the pharynx of a sedated patient. Describe your systematic approach to managing this incident and the anatomical reason why a particular lung is more likely to be affected.",
+      "totalMarks": 8,
+      "markScheme": [
+        {
+          "point": "Immediate: stop procedure; do not perform blind finger sweeps; if object visible and accessible, attempt careful retrieval; suction carefully",
+          "marks": 1
+        },
+        {
+          "point": "Assess: Is the patient choking (complete obstruction)? If so → back blows and abdominal thrusts; if unconscious → CPR. If partial or no obstruction (object has passed) → do NOT induce vomiting or attempt retrieval",
+          "marks": 1
+        },
+        {
+          "point": "Determine location: check the floor, suction tubing, patient's mouth; ask patient (if conscious) about coughing, throat sensation, or dyspnoea; CXR is essential if aspiration cannot be excluded",
+          "marks": 1
+        },
+        {
+          "point": "If aspirated into airway → immediate referral to hospital for bronchoscopy. Explain to patient what has happened (duty of candour). Document thoroughly",
+          "marks": 1
+        },
+        {
+          "point": "If swallowed into GI tract → if past the pharynx and patient has no obstruction symptoms, will usually pass naturally; monitor with serial AXR if needed",
+          "marks": 1
+        },
+        {
+          "point": "Anatomical reason for right lung: right main bronchus is wider, more vertical, and opens at a shallower (more acute) angle from the trachea than the left. Aspirated material follows gravity and airflow preferentially to the right, usually the right lower lobe bronchus",
+          "marks": 2
+        },
+        {
+          "point": "Prevention strategies: rubber dam, instrument chains/ligatures, mouth sponges, appropriate patient positioning",
+          "marks": 1
+        }
+      ]
+    }
+  ],
+  "mockBank": [
+    {
+      "id": "t8-m1",
+      "theme": 8,
+      "topicTag": "asthma-drugs",
+      "question": "If a patient with asthma becomes wheezy during an oral surgery procedure, the correct inhaler treatment would be:",
+      "options": [
+        "A. Budesonide",
+        "B. Salbutamol",
+        "C. Tiotropium",
+        "D. Salmeterol"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Salbutamol is a short-acting beta-2 agonist (SABA) — the 'reliever' inhaler (blue). It acts within 1 minute via beta-2 adrenergic receptors → bronchodilation, making it ideal for an acute asthma attack. Budesonide (A) and salmeterol (D) are preventers (ICS and LABA) — they take time to work and are not appropriate for acute attacks. Tiotropium (C) is a long-acting anticholinergic used primarily in COPD."
+    },
+    {
+      "id": "t8-m2",
+      "theme": 8,
+      "topicTag": "physiology",
+      "question": "The oxygen content of room air is:",
+      "options": [
+        "A. 18%",
+        "B. 21%",
+        "C. 24%",
+        "D. 28%"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Room air contains approximately 21% oxygen (and approximately 78% nitrogen). This is important context for understanding oxygen therapy — high-flow oxygen (>60%) is appropriate for severely hypoxic patients in emergencies (cardiac arrest, anaphylaxis), while patients with COPD should receive controlled oxygen at 24–28% (Venturi mask)."
+    },
+    {
+      "id": "t8-m3",
+      "theme": 8,
+      "topicTag": "hypoxia",
+      "question": "The key clinical feature of hypoxia is:",
+      "options": [
+        "A. Breathlessness",
+        "B. Orthopnoea",
+        "C. Wheezing",
+        "D. Cyanosis"
+      ],
+      "correctAnswer": "D",
+      "explanation": "Central cyanosis (bluish colouration of the tongue and mucous membranes) is the cardinal sign of severe hypoxia — it appears when arterial oxygen saturation falls significantly below normal. Breathlessness (A) can occur without hypoxia (e.g. anxiety, heart failure). Wheezing (C) indicates airflow obstruction. Orthopnoea (B) is a symptom of left heart failure."
+    },
+    {
+      "id": "t8-m4",
+      "theme": 8,
+      "topicTag": "lung-cancer",
+      "question": "The most common histological type of lung cancer is:",
+      "options": [
+        "A. Squamous cell carcinoma",
+        "B. Small-cell carcinoma",
+        "C. Ductal carcinoma",
+        "D. Adenocarcinoma"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Squamous cell carcinoma accounts for approximately 45% of lung cancers — the most common single type. Small-cell carcinoma (~20%) and adenocarcinoma (~20%) are next. Ductal carcinoma is a type of breast or salivary gland cancer — not a primary lung cancer type. All large-cell carcinomas together (SCC + adenocarcinoma + large-cell undifferentiated) account for approximately 75%; small-cell accounts for 25%."
+    },
+    {
+      "id": "t8-m5",
+      "theme": 8,
+      "topicTag": "lung-cancer",
+      "question": "The number of deaths in the UK each year from lung cancer is approximately:",
+      "options": [
+        "A. 10,000",
+        "B. 20,000",
+        "C. 35,000",
+        "D. 50,000"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Lung cancer kills approximately 35,000 people per year in the UK. It is one of the most common malignancies and one of the most lethal because it is typically diagnosed at an advanced stage. Smoking cessation is the most important preventive measure — dentists are well-placed to provide smoking cessation advice and referral."
+    },
+    {
+      "id": "t8-m6",
+      "theme": 8,
+      "topicTag": "OSAS",
+      "question": "Obstructive sleep apnoea syndrome (OSAS) is usually treated by:",
+      "options": [
+        "A. Bronchodilator medication",
+        "B. Surgery",
+        "C. Nasal steroids",
+        "D. CPAP"
+      ],
+      "correctAnswer": "D",
+      "explanation": "CPAP (continuous positive airway pressure) is the first-line treatment for moderate-to-severe OSAS. The device delivers pressurised air via a nasal mask, keeping the pharyngeal airway mechanically open throughout sleep. Dental mandibular advancement splints are an alternative for mild-to-moderate OSAS. Bronchodilators (A) treat airway disease (asthma/COPD), not pharyngeal collapse. Nasal steroids (C) may help if nasal polyps contribute to airway narrowing."
+    },
+    {
+      "id": "t8-m7",
+      "theme": 8,
+      "topicTag": "cystic-fibrosis",
+      "question": "A major cause of chronic lung infection in cystic fibrosis is:",
+      "options": [
+        "A. Mycoplasma pneumonia",
+        "B. Mycobacterium tuberculosis",
+        "C. Haemophilus influenzae",
+        "D. Pseudomonas aeruginosa"
+      ],
+      "correctAnswer": "D",
+      "explanation": "Pseudomonas aeruginosa is the most common and clinically important organism causing chronic lung infection in cystic fibrosis patients. The viscid mucus environment favours its colonisation, and once established it forms biofilms that are extremely difficult to eradicate. Long-term inhaled antibiotics (colistin or tobramycin) are used to suppress (not cure) the infection."
+    },
+    {
+      "id": "t8-m8",
+      "theme": 8,
+      "topicTag": "asthma-drugs",
+      "question": "A typical adverse effect of an anticholinergic inhaler such as tiotropium is:",
+      "options": [
+        "A. Palpitations",
+        "B. Tremor",
+        "C. Gingival hyperplasia",
+        "D. Dryness of the mouth"
+      ],
+      "correctAnswer": "D",
+      "explanation": "Anticholinergic bronchodilator inhalers (tiotropium, ipratropium) block muscarinic receptors → reduced parasympathetic stimulation of salivary glands → xerostomia (dry mouth). Other anticholinergic effects: loss of taste, gingivitis, urinary retention, glaucoma. Palpitations (A) and tremor (B) are side effects of beta-agonist inhalers (salbutamol). Gingival hyperplasia (C) is caused by calcium channel blockers, cyclosporin, and phenytoin."
+    },
+    {
+      "id": "t8-m9",
+      "theme": 8,
+      "topicTag": "pneumonia",
+      "question": "Community-acquired pneumonia is most commonly caused by:",
+      "options": [
+        "A. Streptococcus pneumoniae",
+        "B. Staphylococcus aureus",
+        "C. Pseudomonas aeruginosa",
+        "D. Mycoplasma pneumoniae"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Streptococcus pneumoniae (pneumococcus) is the most common cause of community-acquired pneumonia globally and in the UK. Staphylococcus aureus (B) typically causes post-influenzal pneumonia and is severe. Pseudomonas aeruginosa (C) causes hospital-acquired pneumonia, particularly in ventilated ICU patients. Mycoplasma pneumoniae (D) is the most common 'atypical' CAP pathogen."
+    },
+    {
+      "id": "t8-m10",
+      "theme": 8,
+      "topicTag": "pulmonary-fibrosis",
+      "question": "A typical cause of diffuse lung fibrosis is:",
+      "options": [
+        "A. Tobacco smoking",
+        "B. Chronic asthma",
+        "C. Bronchiectasis",
+        "D. Asbestos"
+      ],
+      "correctAnswer": "D",
+      "explanation": "Asbestos exposure (asbestosis) is a well-recognised cause of diffuse pulmonary fibrosis. Other recognised causes: silica (silicosis), connective tissue disorders (RA, Sjögren's), drugs, post-ARDS, and idiopathic pulmonary fibrosis (IPF). Tobacco smoking (A) causes COPD and lung cancer — not typically fibrosis. Chronic asthma (B) causes airway remodelling but not diffuse fibrosis. Bronchiectasis (C) is chronic airway dilation from repeated infection, not fibrosis."
+    },
+    {
+      "id": "t8-m11",
+      "theme": 8,
+      "topicTag": "inhaled-foreign-body",
+      "question": "Why is an inhaled foreign body during a dental procedure more likely to end up in the right lung?",
+      "options": [
+        "A. The right lung is larger and has more capacity",
+        "B. The left main bronchus is longer and more horizontal, directing objects to the right",
+        "C. The right main bronchus is wider, more vertical, and opens at a shallower angle from the trachea",
+        "D. Gravity pulls objects to the right because patients are positioned tilted to the right"
+      ],
+      "correctAnswer": "C",
+      "explanation": "The right main bronchus is anatomically wider, more vertical, and forms a shallower angle with the trachea (about 25°) compared to the left (which branches at about 45°). This means aspirated material follows the path of least resistance and travels more readily into the right bronchial tree — specifically the right lower lobe. This is not related to patient positioning but to fixed anatomical differences."
+    },
+    {
+      "id": "t8-m12",
+      "theme": 8,
+      "topicTag": "asthma-drugs",
+      "question": "A 28-year-old patient with known asthma is prescribed a 'preventer' inhaler. Which ONE of the following is the MOST appropriate preventer medication?",
+      "options": [
+        "A. Salbutamol (short-acting beta-2 agonist)",
+        "B. Ipratropium bromide (short-acting muscarinic antagonist)",
+        "C. Beclometasone (inhaled corticosteroid)",
+        "D. Tiotropium (long-acting muscarinic antagonist)",
+        "E. Salmeterol (long-acting beta-2 agonist) as monotherapy"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Inhaled corticosteroids (ICS) such as beclometasone or budesonide are the cornerstone of asthma prevention — they reduce airway inflammation and hyperresponsiveness. They are the 'preventer' (brown inhaler). Salbutamol is a short-acting beta-2 agonist (SABA) — the 'reliever' (blue inhaler) for acute symptoms. Salmeterol (LABA) is added when ICS alone is insufficient, but should not be used as monotherapy. Tiotropium and ipratropium are primarily for COPD."
+    },
+    {
+      "id": "t8-m13",
+      "theme": 8,
+      "topicTag": "asthma-drugs",
+      "question": "The spirometry finding of an FEV1/FVC ratio below 70% (0.7) indicates which ONE of the following?",
+      "options": [
+        "A. Restrictive lung disease (e.g. pulmonary fibrosis)",
+        "B. Obstructive lung disease (e.g. asthma, COPD)",
+        "C. Normal lung function",
+        "D. Type 2 respiratory failure",
+        "E. Pulmonary hypertension"
+      ],
+      "correctAnswer": "B",
+      "explanation": "FEV1/FVC < 0.7 (70%) indicates obstructive lung disease — airflow obstruction. FEV1 is the forced expiratory volume in 1 second; FVC is the total forced vital capacity. In obstruction (asthma, COPD), FEV1 is disproportionately reduced because airway narrowing limits airflow rate. In restrictive disease (pulmonary fibrosis), both FEV1 and FVC are reduced but the ratio is preserved (often >0.7). In asthma, obstruction is reversible (improves with bronchodilator); in COPD, it is largely fixed."
+    },
+    {
+      "id": "t8-m14",
+      "theme": 8,
+      "topicTag": "asthma-drugs",
+      "question": "Which ONE of the following medications used for asthma is known to cause oral candidiasis as a side effect, and what advice is given to prevent this?",
+      "options": [
+        "A. Salbutamol — rinse mouth with water after use",
+        "B. Inhaled corticosteroids (e.g. beclometasone) — rinse mouth with water after each use",
+        "C. Montelukast — avoid dairy products",
+        "D. Theophylline — monitor liver function",
+        "E. Ipratropium — use a spacer device only"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Inhaled corticosteroids (ICS) deposit in the oropharynx during inhalation, where they can suppress local immunity and promote oral candidiasis (thrush) and hoarse voice. Patients should be advised to rinse their mouth with water and spit after every use to reduce residual drug deposition. Using a spacer device also reduces oropharyngeal deposition. Oral candidiasis secondary to ICS is treated with nystatin or fluconazole. This is clinically important for dentists to be aware of."
+    },
+    {
+      "id": "t8-m15",
+      "theme": 8,
+      "topicTag": "asthma-drugs",
+      "question": "Which ONE of the following mediators is MOST responsible for triggering bronchoconstriction and inflammation in an acute asthma attack?",
+      "options": [
+        "A. Substance P and calcitonin gene-related peptide (CGRP)",
+        "B. Histamine, prostaglandins, and leukotrienes released from mast cells",
+        "C. Tumour necrosis factor (TNF) and interleukin-6",
+        "D. Noradrenaline and acetylcholine",
+        "E. Angiotensin II and aldosterone"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Asthma attacks are triggered when allergen binds to IgE on mast cells in the airway mucosa, causing degranulation and release of mediators: histamine (immediate bronchoconstriction), prostaglandins (sustained bronchospasm and inflammation), and leukotrienes (potent bronchoconstriction and mucus hypersecretion). These cause mucosal oedema, bronchoconstriction, and airflow obstruction. Eosinophils and lymphocytes also contribute to the inflammatory response. Leukotriene receptor antagonists (e.g. montelukast) target this pathway."
+    },
+    {
+      "id": "t8-m16",
+      "theme": 8,
+      "topicTag": "asthma-drugs",
+      "question": "A patient with asthma requires pain relief following a dental extraction. Which ONE of the following analgesics should be used with CAUTION or avoided in aspirin/NSAID-sensitive asthma?",
+      "options": [
+        "A. Paracetamol",
+        "B. Codeine",
+        "C. Ibuprofen (NSAID)",
+        "D. Dihydrocodeine",
+        "E. Tramadol"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Approximately 10% of asthmatics have aspirin/NSAID-exacerbated respiratory disease (AERD/Samter's triad): NSAIDs (including ibuprofen) trigger bronchoconstriction by inhibiting COX-1, diverting arachidonic acid towards leukotriene production, which causes bronchospasm. In aspirin-sensitive asthma, NSAIDs can provoke life-threatening attacks. Paracetamol is the safe analgesic of choice for dental pain in all asthmatic patients. Codeine and other opioids are generally safe in asthma (though codeine can rarely cause histamine release)."
+    },
+    {
+      "id": "t8-m17",
+      "theme": 8,
+      "topicTag": "asthma-drugs",
+      "question": "Which ONE of the following correctly describes the mechanism of action of beta-2 agonists (e.g. salbutamol) in asthma?",
+      "options": [
+        "A. They inhibit mast cell degranulation by blocking IgE receptors",
+        "B. They reduce airway inflammation by inhibiting phospholipase A2",
+        "C. They activate beta-2 adrenoreceptors on bronchial smooth muscle, causing relaxation and bronchodilation via increased cAMP",
+        "D. They block leukotriene receptors, preventing bronchoconstriction",
+        "E. They inhibit acetylcholine binding to muscarinic receptors in bronchial smooth muscle"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Beta-2 agonists (salbutamol = short-acting; salmeterol = long-acting) bind to beta-2 adrenoreceptors on bronchial smooth muscle. Activation stimulates adenylate cyclase → increased cyclic AMP (cAMP) → activation of protein kinase A → phosphorylation of myosin light chain kinase → smooth muscle relaxation → bronchodilation. They also reduce mast cell degranulation. Muscarinic receptor blockade is the mechanism of anticholinergics (ipratropium, tiotropium). Leukotriene receptor blockade is montelukast's mechanism."
+    },
+    {
+      "id": "t8-m18",
+      "theme": 8,
+      "topicTag": "asthma-drugs",
+      "question": "Peak flow monitoring is used in asthma management. Diurnal variation in peak expiratory flow (PEF) is characteristic of asthma. Which ONE of the following patterns is MOST typical?",
+      "options": [
+        "A. Highest values in the evening, lowest in the morning (morning dipping)",
+        "B. Consistently low values throughout the day with no variation",
+        "C. Highest values in the morning, progressive decline throughout the day",
+        "D. Diurnal variation with peak flow improving significantly after bronchodilator",
+        "E. Peak flow normal at rest but reduced only during exercise"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Asthma characteristically shows diurnal variation with morning dipping — peak flow is lowest in the early morning (3–7 am) when airway calibre is at its minimum due to circadian rhythm influences on airway tone and inflammation. Patients often wake with wheezing or chest tightness in the early morning. A variation of >20% between morning and evening readings is diagnostically significant. Peak flow also improves after bronchodilator (reversibility testing). COPD shows little diurnal variation or reversibility."
+    },
+    {
+      "id": "t8-m19",
+      "theme": 8,
+      "topicTag": "physiology",
+      "question": "Wheeze is a characteristic symptom of asthma. At which point in the respiratory cycle is wheeze TYPICALLY heard in asthma?",
+      "options": [
+        "A. On inspiration only (inspiratory stridor)",
+        "B. On expiration — because intrathoracic airways narrow during exhalation, producing a whistling sound",
+        "C. On both inspiration and expiration equally",
+        "D. Only at rest, not during exercise",
+        "E. Only detectable by stethoscope, not audible to the patient"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Wheeze in asthma is predominantly expiratory — during expiration, intrathoracic pressure increases, compressing narrowed airways further, generating the characteristic high-pitched whistling sound. This is in contrast to inspiratory stridor, which indicates upper airway obstruction (e.g. foreign body, croup, anaphylaxis). Wheeze audible to the patient or to the examiner without a stethoscope indicates significant airway narrowing."
+    },
+    {
+      "id": "t8-m20",
+      "theme": 8,
+      "topicTag": "physiology",
+      "question": "Which ONE of the following defines COPD according to spirometry?",
+      "options": [
+        "A. FEV1/FVC ratio > 0.7 with FVC reduced",
+        "B. FEV1/FVC ratio < 0.7 that is not fully reversible after bronchodilator",
+        "C. FEV1/FVC ratio < 0.7 that fully reverses after bronchodilator",
+        "D. Peak expiratory flow rate < 80% predicted",
+        "E. Reduced FVC with preserved FEV1/FVC ratio"
+      ],
+      "correctAnswer": "B",
+      "explanation": "COPD is defined spirometrically by a post-bronchodilator FEV1/FVC ratio < 0.7 (airflow obstruction that is NOT fully reversible). This distinguishes it from asthma, where obstruction is typically reversible. COPD is caused by chronic airway and parenchymal (lung tissue) damage, primarily from smoking. It encompasses chronic bronchitis (productive cough for 3+ months per year for 2+ years) and emphysema (destruction of alveolar walls). Characteristic symptoms: chronic breathlessness, productive cough, frequent exacerbations."
+    },
+    {
+      "id": "t8-m21",
+      "theme": 8,
+      "topicTag": "physiology",
+      "question": "Which ONE of the following statements about oxygen therapy in COPD is CORRECT?",
+      "options": [
+        "A. High-flow oxygen (>60%) is always safe and appropriate for COPD patients in any emergency",
+        "B. COPD patients tolerate any level of oxygen safely because they have chronic hypoxia",
+        "C. High-flow oxygen can be harmful in some COPD patients with type 2 respiratory failure by removing the hypoxic drive to breathe",
+        "D. Oxygen is contraindicated in all COPD patients",
+        "E. COPD patients should receive the same oxygen therapy as non-COPD patients in emergencies"
+      ],
+      "correctAnswer": "C",
+      "explanation": "In COPD patients with type 2 respiratory failure (chronic CO₂ retention), some rely on hypoxia as their primary stimulus to breathe ('hypoxic drive') because their chronic hypercapnia has blunted the normal CO₂ drive. Giving high-flow oxygen removes this hypoxic drive, causing further respiratory depression, rising CO₂, acidosis, and potentially fatal respiratory failure. Target oxygen saturation for COPD patients is 88–92% (controlled oxygen). In life-threatening emergencies (cardiac arrest), high-flow oxygen is still given. This is a critical clinical distinction."
+    },
+    {
+      "id": "t8-m22",
+      "theme": 8,
+      "topicTag": "physiology",
+      "question": "The single most effective intervention that slows the progression of COPD is which ONE of the following?",
+      "options": [
+        "A. Inhaled corticosteroids (ICS)",
+        "B. Long-term oxygen therapy",
+        "C. Smoking cessation",
+        "D. Pulmonary rehabilitation",
+        "E. Long-acting beta-2 agonist (LABA) therapy"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Smoking cessation is the single most important and effective intervention in COPD. COPD is primarily caused by cigarette smoking; continued smoking accelerates the decline in lung function (FEV1 drops faster in smokers). After smoking cessation, the decline in FEV1 slows to the rate of a non-smoker, significantly prolonging life expectancy, though the damage already done is irreversible. Vaccinations (flu, COVID) prevent exacerbations. Long-term oxygen therapy (LTOT) improves survival in severe hypoxaemia."
+    },
+    {
+      "id": "t8-m23",
+      "theme": 8,
+      "topicTag": "physiology",
+      "question": "A 'blue bloater' with COPD develops cor pulmonale. Which ONE of the following BEST describes the mechanism by which cor pulmonale develops in COPD?",
+      "options": [
+        "A. Atherosclerosis of the coronary arteries causing right-sided heart failure",
+        "B. Chronic hypoxia causing pulmonary vasoconstriction → pulmonary hypertension → right ventricular hypertrophy and eventual failure",
+        "C. Left ventricular failure secondary to systemic hypertension",
+        "D. Atrial fibrillation causing right heart failure",
+        "E. Pulmonary embolism causing acute right heart strain"
+      ],
+      "correctAnswer": "B",
+      "explanation": "In COPD with chronic hypoxia (the 'blue bloater'), sustained low oxygen levels trigger pulmonary vasoconstriction (hypoxic pulmonary vasoconstriction — the lung's normal response to redirect blood away from poorly ventilated areas). Chronically, this causes pulmonary hypertension. The right ventricle must pump against this increased resistance, leading to right ventricular hypertrophy and eventually right heart failure (cor pulmonale) — presenting as peripheral oedema, raised JVP, and hepatomegaly."
+    },
+    {
+      "id": "t8-m24",
+      "theme": 8,
+      "topicTag": "physiology",
+      "question": "Long-term oxygen therapy (LTOT) is prescribed for COPD patients. Which ONE of the following criteria must be met for LTOT to be indicated?",
+      "options": [
+        "A. Any patient with COPD who feels short of breath",
+        "B. FEV1 below 1.5 litres regardless of oxygen levels",
+        "C. Partial pressure of arterial oxygen (PaO₂) less than 7.3 kPa when stable, or <8 kPa with complications",
+        "D. Oxygen saturation below 92% measured by pulse oximetry during sleep only",
+        "E. COPD patients who smoke and have stopped for at least 1 month"
+      ],
+      "correctAnswer": "C",
+      "explanation": "LTOT is indicated for COPD patients with PaO₂ < 7.3 kPa when stable (or <8.0 kPa if there are complications such as cor pulmonale, secondary polycythaemia, or pulmonary hypertension). LTOT is prescribed for at least 16 hours/day. It improves survival in hypoxaemic COPD patients by reducing pulmonary hypertension. Crucially, patients must NOT smoke while using LTOT (fire risk and reduced efficacy). CO₂ levels must also be assessed to ensure LTOT does not cause hypercapnic respiratory failure."
+    },
+    {
+      "id": "t8-m25",
+      "theme": 8,
+      "topicTag": "pneumonia",
+      "question": "Which ONE of the following organisms is the MOST common cause of community-acquired pneumonia (CAP)?",
+      "options": [
+        "A. Pseudomonas aeruginosa",
+        "B. Streptococcus pneumoniae",
+        "C. Mycobacterium tuberculosis",
+        "D. Klebsiella pneumoniae",
+        "E. Legionella pneumophila"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Streptococcus pneumoniae (pneumococcus) is the most common cause of community-acquired pneumonia, accounting for approximately 30–40% of cases. It causes lobar pneumonia — consolidation of a complete lobe. Presentation includes sudden high fever, productive cough with rusty/green sputum, pleuritic chest pain, and breathlessness. Treatment is amoxicillin (or doxycycline/clarithromycin if penicillin-allergic). Legionella causes 'atypical' pneumonia, often from contaminated water systems. TB should be considered in at-risk patients."
+    },
+    {
+      "id": "t8-m26",
+      "theme": 8,
+      "topicTag": "pneumonia",
+      "question": "The periodontium can be a source of aspiration pneumonia. Which ONE of the following BEST explains the link between oral health and pneumonia?",
+      "options": [
+        "A. Oral bacteria pass through the bloodstream and infect the lung directly",
+        "B. Periodontal bacteria colonise the oropharynx and can be aspirated into the lungs, causing aspiration pneumonia particularly in vulnerable patients",
+        "C. Dental caries bacteria are the primary cause of lung infections",
+        "D. Poor dental hygiene causes immune suppression that increases susceptibility to all infections",
+        "E. Dental procedures reduce salivary IgA, allowing organisms to infect the lungs"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Aspiration pneumonia occurs when oropharyngeal bacteria — including periodontal pathogens — are aspirated into the lower respiratory tract. The trachea is in direct communication with the oropharynx, so bacteria colonising the periodontal pocket can migrate to the pharynx and be aspirated, particularly in elderly, hospitalised, sedated, or dysphagic patients. Studies show improved oral hygiene reduces aspiration pneumonia rates in nursing home residents and intensive care patients. This is a key justification for oral hygiene maintenance in vulnerable patients."
+    },
+    {
+      "id": "t8-m27",
+      "theme": 8,
+      "topicTag": "pneumonia",
+      "question": "A patient is diagnosed with pulmonary tuberculosis (TB). Which ONE of the following is a notifiable disease?",
+      "options": [
+        "A. Community-acquired pneumonia",
+        "B. Asthma",
+        "C. Tuberculosis (TB)",
+        "D. COPD",
+        "E. Lung cancer"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Tuberculosis is a statutory notifiable disease in the UK — clinicians must notify the local health protection team so that contact tracing, treatment, and public health measures can be implemented. Other notifiable diseases include: scarlet fever, mumps, measles, gonorrhoea, meningococcal disease, hepatitis B, salmonella, and cholera. Notification is a legal requirement under the Health Protection (Notification) Regulations. TB notification allows identification and treatment of contacts to prevent further spread."
+    },
+    {
+      "id": "t8-m28",
+      "theme": 8,
+      "topicTag": "pneumonia",
+      "question": "A 22-year-old contacts patient with pulmonary TB is found to have a positive Mantoux test. What does this indicate?",
+      "options": [
+        "A. Active pulmonary TB requiring immediate isolation and treatment",
+        "B. Latent TB infection (LTBI) — the immune system has been exposed to TB but there is no active disease",
+        "C. BCG vaccination has been successful",
+        "D. The patient is immune to TB and no further action is needed",
+        "E. The patient has HIV and the test result is a false positive"
+      ],
+      "correctAnswer": "B",
+      "explanation": "A positive Mantoux (tuberculin skin test) indicates prior exposure to Mycobacterium tuberculosis and sensitisation of the immune system — latent TB infection (LTBI). In LTBI, the bacteria are contained but not eliminated and there are no symptoms or radiological changes. LTBI can reactivate to active TB (particularly with immunosuppression). Treatment of LTBI (e.g. isoniazid for 6 months) prevents this reactivation. Active TB has symptoms, radiological changes, and positive sputum cultures."
+    },
+    {
+      "id": "t8-m29",
+      "theme": 8,
+      "topicTag": "cystic-fibrosis",
+      "question": "Cystic fibrosis (CF) is the most common life-limiting autosomal recessive condition in the UK. Which ONE of the following is the UNDERLYING DEFECT in CF?",
+      "options": [
+        "A. Absence of surfactant production causing neonatal respiratory distress",
+        "B. Mutation in the CFTR gene causing defective chloride ion transport, leading to thick, sticky mucus in the lungs and digestive tract",
+        "C. Alpha-1 antitrypsin deficiency causing premature emphysema",
+        "D. Defective ciliary function causing impaired mucociliary clearance (primary ciliary dyskinesia)",
+        "E. Immunoglobulin A deficiency causing recurrent respiratory infections"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Cystic fibrosis is caused by mutations in the CFTR (cystic fibrosis transmembrane conductance regulator) gene, encoding a chloride ion channel. The most common mutation is ΔF508 (deletion of phenylalanine at position 508). Defective CFTR reduces chloride secretion into the airway lumen → osmotic water follows → thick, dehydrated mucus accumulates → impairs mucociliary clearance → chronic bacterial infection (Pseudomonas aeruginosa), bronchiectasis, and pancreatic exocrine insufficiency."
+    },
+    {
+      "id": "t8-m30",
+      "theme": 8,
+      "topicTag": "cystic-fibrosis",
+      "question": "Which ONE of the following chronic respiratory infections is MOST characteristic of patients with advanced cystic fibrosis?",
+      "options": [
+        "A. Streptococcus pneumoniae",
+        "B. Mycobacterium tuberculosis",
+        "C. Pseudomonas aeruginosa (chronic airway colonisation)",
+        "D. Candida albicans",
+        "E. Legionella pneumophila"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Chronic Pseudomonas aeruginosa colonisation of the airways is a hallmark of advanced cystic fibrosis. Thick mucus provides an ideal environment for Pseudomonas (which forms biofilm), and once chronic infection is established it is virtually impossible to eradicate. Chronic Pseudomonas infection accelerates lung function decline and increases mortality. Earlier in CF, Staphylococcus aureus and Haemophilus influenzae are more common. Burkholderia cepacia is particularly problematic and carries a worse prognosis."
+    },
+    {
+      "id": "t8-m31",
+      "theme": 8,
+      "topicTag": "lung-cancer",
+      "question": "Which ONE of the following symptoms demands immediate referral to exclude lung cancer?",
+      "options": [
+        "A. Intermittent dry cough for 2 weeks",
+        "B. Haemoptysis (coughing up blood)",
+        "C. Mild exertional dyspnoea in a smoker",
+        "D. Occasional wheeze in cold weather",
+        "E. Pleuritic chest pain for 24 hours"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Haemoptysis (coughing up blood) must always be referred urgently to exclude lung cancer — it is a red flag symptom. Even a single episode requires investigation (CXR, CT, bronchoscopy). Lung cancer often grows silently until it has already spread — haemoptysis may be one of the first symptomatic presentations. The earlier it is detected, the higher the chance of curative surgery. Other lung cancer red flags include unexplained weight loss, persistent cough >3 weeks, and finger clubbing."
+    },
+    {
+      "id": "t8-m32",
+      "theme": 8,
+      "topicTag": "lung-cancer",
+      "question": "Which ONE of the following describes the histological types of lung cancer and their relative proportions?",
+      "options": [
+        "A. 75% small cell carcinoma; 25% non-small cell",
+        "B. 75% non-small cell (squamous, adenocarcinoma, large cell); 25% small cell carcinoma",
+        "C. 50% squamous cell carcinoma; 50% adenocarcinoma equally",
+        "D. 90% adenocarcinoma; 10% all other types",
+        "E. Equal distribution of four types: squamous, small cell, adenocarcinoma, and large cell"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Lung cancers are divided into: non-small cell lung cancer (NSCLC) — approximately 75% — comprising squamous cell carcinoma, adenocarcinoma, and large cell undifferentiated carcinoma; and small cell lung cancer (SCLC) — approximately 25%. Small cell carcinoma divides very rapidly and is often metastatic at presentation, but is initially sensitive to chemotherapy. NSCLC is treated with surgery (if localised), radiotherapy, and targeted therapies. All types are strongly associated with cigarette smoking."
+    },
+    {
+      "id": "t8-m33",
+      "theme": 8,
+      "topicTag": "lung-cancer",
+      "question": "Horner's syndrome can be caused by a Pancoast tumour (apex lung cancer). Which ONE of the following CORRECTLY describes the signs of Horner's syndrome?",
+      "options": [
+        "A. Exophthalmos, tachycardia, and lid retraction",
+        "B. Ptosis (drooping upper eyelid), miosis (small pupil), anhidrosis (absent sweating) on the ipsilateral side",
+        "C. Facial muscle weakness, drooling, and loss of taste on the ipsilateral side",
+        "D. Bilateral ptosis, ophthalmoplegia, and dysphagia",
+        "E. Proptosis, chemosis, and pulsatile exophthalmos"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Horner's syndrome results from disruption of the sympathetic nerve supply to the eye and face. Features: ptosis (partial drooping of the upper lid — 2–3 mm), miosis (constricted pupil — sympathetics dilate the pupil; without them the pupil is small), and anhidrosis (absence of sweating) on the ipsilateral side (sometimes also enophthalmos — sunken eye). A Pancoast tumour at the lung apex can compress the cervical sympathetic chain, causing ipsilateral Horner's syndrome."
+    },
+    {
+      "id": "t8-m34",
+      "theme": 8,
+      "topicTag": "lung-cancer",
+      "question": "Superior vena caval obstruction (SVCO) is a serious complication of which ONE of the following?",
+      "options": [
+        "A. COPD with cor pulmonale",
+        "B. Central lung cancer or lymphoma compressing or invading the superior vena cava",
+        "C. Pulmonary embolism blocking the pulmonary artery",
+        "D. Severe pneumonia causing pleural effusion",
+        "E. Pulmonary fibrosis causing restrictive lung disease"
+      ],
+      "correctAnswer": "B",
+      "explanation": "SVCO occurs when the superior vena cava is compressed or invaded by a central lung cancer (most commonly small cell or squamous cell) or lymphoma. It presents with facial and arm swelling, distended neck veins, suffusion of the face, headache, and dyspnoea. It is an oncological emergency. Clinical clues in the dental setting: swelling of the face and arm, and prominently distended jugular veins — the dentist may be the first clinician to notice these signs."
+    },
+    {
+      "id": "t8-m35",
+      "theme": 8,
+      "topicTag": "lung-cancer",
+      "question": "Finger clubbing is an important clinical sign. Which ONE of the following respiratory conditions is MOST commonly associated with finger clubbing?",
+      "options": [
+        "A. Asthma",
+        "B. COPD",
+        "C. Bronchial carcinoma, bronchiectasis, and pulmonary fibrosis",
+        "D. Acute pneumonia",
+        "E. Pulmonary embolism"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Finger clubbing (loss of the nail fold angle, enlargement of the fingertip) is associated with chronic respiratory diseases, particularly: bronchial carcinoma (most common respiratory cause in adults), bronchiectasis (chronic lung infection), idiopathic pulmonary fibrosis, and cystic fibrosis. Cardiovascular causes (rare) include cyanotic congenital heart disease and infective endocarditis. GI causes include Crohn's, coeliac, and hepatic cirrhosis. Asthma and COPD do NOT typically cause clubbing — its presence should prompt investigation."
+    },
+    {
+      "id": "t8-m36",
+      "theme": 8,
+      "topicTag": "pulmonary-fibrosis",
+      "question": "Idiopathic pulmonary fibrosis (IPF) produces which ONE of the following pattern on spirometry?",
+      "options": [
+        "A. Obstructive pattern: FEV1/FVC < 0.7",
+        "B. Restrictive pattern: reduced FVC and FEV1, with preserved FEV1/FVC ratio",
+        "C. Mixed obstructive and restrictive pattern",
+        "D. Normal spirometry with low diffusion capacity",
+        "E. Increased FVC with reduced FEV1"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Pulmonary fibrosis causes a restrictive pattern — both FVC and FEV1 are reduced proportionally (because the fibrotic, stiff lungs have reduced total lung capacity), but the FEV1/FVC ratio is preserved (often >0.7 or even >0.8). This contrasts with obstructive diseases (asthma, COPD) where FEV1 falls more than FVC. IPF also reduces gas transfer (DLCO/TLco) due to thickening of the alveolar-capillary membrane. Causes include unknown (idiopathic), asbestosis, bird fancier's lung, and drugs."
+    },
+    {
+      "id": "t8-m37",
+      "theme": 8,
+      "topicTag": "pulmonary-fibrosis",
+      "question": "Which ONE of the following occupational exposures is MOST associated with asbestosis (a type of pulmonary fibrosis)?",
+      "options": [
+        "A. Coal dust exposure",
+        "B. Silica dust (e.g. quarrying)",
+        "C. Asbestos fibre exposure (construction, shipbuilding, insulation industries)",
+        "D. Bird droppings (budgerigar owner's lung)",
+        "E. Grain dust (farmer's lung)"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Asbestosis is pulmonary fibrosis caused by chronic inhalation of asbestos fibres — historically common in construction workers, shipbuilders, insulation workers, and plumbers (pre-1980s). Asbestos also causes pleural plaques, mesothelioma (malignant pleural tumour), and lung cancer. The social history in a patient with pulmonary fibrosis must always include occupational and environmental exposures. Coal dust causes pneumoconiosis (coal workers' pneumoconiosis). Silica causes silicosis. Bird droppings cause hypersensitivity pneumonitis (extrinsic allergic alveolitis)."
+    },
+    {
+      "id": "t8-m38",
+      "theme": 8,
+      "topicTag": "OSAS",
+      "question": "Obstructive sleep apnoea syndrome (OSAS) is associated with which ONE of the following as the PRIMARY clinical feature?",
+      "options": [
+        "A. Inspiratory stridor and hoarse voice",
+        "B. Episodic complete or partial upper airway collapse during sleep causing apnoea, oxygen desaturation, and excessive daytime sleepiness",
+        "C. Chronic productive cough with morning wheeze",
+        "D. Nocturnal hypertension with diastolic BP above 100 mmHg",
+        "E. Bilateral leg oedema and exertional dyspnoea from cor pulmonale"
+      ],
+      "correctAnswer": "B",
+      "explanation": "OSAS occurs when the upper airway collapses repeatedly during sleep, causing apnoeic episodes, oxygen desaturation, and arousal from sleep. Symptoms include loud snoring, witnessed apnoeas (partner notices the patient stops breathing), and excessive daytime somnolence (EDS) — patients fall asleep at inappropriate times (e.g. while driving). Risk factors: obesity, male sex, large neck circumference, craniofacial abnormalities. OSAS increases risk of hypertension, MI, stroke, and road traffic accidents. Management: weight loss, CPAP."
+    },
+    {
+      "id": "t8-m39",
+      "theme": 8,
+      "topicTag": "inhaled-foreign-body",
+      "question": "If a patient inhales a foreign body during dental treatment, it is MOST likely to end up in which ONE of the following locations?",
+      "options": [
+        "A. Left main bronchus",
+        "B. Oesophagus",
+        "C. Right main bronchus",
+        "D. Tracheal bifurcation (carina)",
+        "E. Nasopharynx"
+      ],
+      "correctAnswer": "C",
+      "explanation": "The right main bronchus is more likely to receive inhaled foreign bodies because: (1) it is wider than the left, (2) it branches at a less acute angle from the trachea (more vertical), and (3) it originates slightly higher. These anatomical features mean objects fall by gravity preferentially into the right bronchus. This is why chest X-rays in suspected foreign body inhalation should pay particular attention to the right lower lobe. If the object passes beyond the pharynx into the GI tract, it can usually pass safely without intervention."
+    },
+    {
+      "id": "t8-m40",
+      "theme": 8,
+      "topicTag": "inhaled-foreign-body",
+      "question": "A conscious adult patient shows signs of complete (severe) airway obstruction after inhaling a dental instrument during treatment. They cannot speak or cough effectively. Which ONE of the following is the CORRECT immediate management sequence?",
+      "options": [
+        "A. 5 abdominal thrusts, then 5 chest compressions if unsuccessful",
+        "B. Perform finger sweep of the mouth immediately",
+        "C. 5 back blows between the shoulder blades, then 5 abdominal thrusts (Heimlich manoeuvre), alternating until object is dislodged or patient becomes unconscious",
+        "D. Administer high-flow oxygen via face mask and call 999",
+        "E. Perform needle cricothyroidotomy immediately"
+      ],
+      "correctAnswer": "C",
+      "explanation": "For a conscious adult with SEVERE (complete) airway obstruction: alternate 5 back blows (heel of hand between shoulder blades) and 5 abdominal thrusts (Heimlich manoeuvre — both hands clasped under the xiphisternum, sharp upward thrust). Continue alternating until the object is dislodged or the patient loses consciousness. If unconscious, start CPR and continue trying to clear the obstruction. Do NOT do a blind finger sweep (risk of pushing object further). Needle cricothyroidotomy is only for 'can't intubate, can't oxygenate' scenarios."
+    },
+    {
+      "id": "t8-m41",
+      "theme": 8,
+      "topicTag": "inhaled-foreign-body",
+      "question": "Prevention of inhaled foreign bodies during dental treatment includes which ONE of the following MOST effective measures?",
+      "options": [
+        "A. Ensuring the patient is positioned supine throughout treatment",
+        "B. Using rubber dam, mouth sponges, and securing instruments with string/chain",
+        "C. Administering prophylactic antihistamines before procedures",
+        "D. Using only disposable instruments for all procedures",
+        "E. Ensuring the patient has not eaten for 4 hours before treatment"
+      ],
+      "correctAnswer": "B",
+      "explanation": "The most effective prevention strategies for inhaled foreign bodies in dental practice are: rubber dam (isolates the operative field from the airway), gauze throat packs/mouth sponges (physical barriers), and securing small instruments with floss, wire, or chain. Small dental instruments, crowns, extracted teeth, and endodontic files are all at risk of being inhaled. Before treating the incident as inhalation, always check the floor, patient's clothing, and soft tissues — the item may not have been inhaled at all."
+    },
+    {
+      "id": "t8-m42",
+      "theme": 8,
+      "topicTag": "inhaled-foreign-body",
+      "question": "Why are abdominal thrusts REPLACED by chest thrusts in infants for choking management?",
+      "options": [
+        "A. Infants' airways are larger and require more force",
+        "B. Abdominal thrusts risk rupturing the infant's liver and spleen",
+        "C. Chest thrusts are more effective in infants due to barrel-shaped chest",
+        "D. Abdominal thrusts cause spinal injuries in infants",
+        "E. Chest thrusts are not used in infants — back blows only are recommended"
+      ],
+      "correctAnswer": "B",
+      "explanation": "In infants (<1 year), abdominal thrusts (Heimlich manoeuvre) are avoided because the liver and spleen are proportionally much larger relative to the abdomen and are very vulnerable to rupture with abdominal compression. Instead, 5 back blows are followed by 5 chest thrusts (2 fingers in the centre of the chest, just below the nipple line). If unconscious, start CPR. For children over 1 year, abdominal thrusts can be used. A blind finger sweep should never be performed in an infant."
+    },
+    {
+      "id": "t8-m43",
+      "theme": 8,
+      "topicTag": "inhaled-foreign-body",
+      "question": "Following inhalation of a foreign body that reaches the bronchi, what is the DEFINITIVE method of retrieval?",
+      "options": [
+        "A. Forceful coughing exercises",
+        "B. Chest physiotherapy to encourage expectoration",
+        "C. Bronchoscopy with forceps retrieval",
+        "D. Expectorant drugs to loosen the object",
+        "E. Immediate surgical thoracotomy"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Once a foreign body has passed into the bronchi, the definitive method of retrieval is bronchoscopy — a flexible or rigid bronchoscope is passed into the airway and fine forceps are used to grasp and remove the object. This is performed under general or local anaesthesia in a hospital setting. Open surgical thoracotomy is only required if bronchoscopy fails. The dentist's role is to confirm the inhalation, prevent further complications, ensure the patient goes directly to hospital, and provide information about the object to assist retrieval."
+    },
+    {
+      "id": "t8-m44",
+      "theme": 8,
+      "topicTag": "physiology",
+      "question": "Which ONE of the following analgesics is generally considered SAFE for a patient with asthma?",
+      "options": [
+        "A. Aspirin",
+        "B. Ibuprofen",
+        "C. Naproxen",
+        "D. Paracetamol",
+        "E. Ketorolac"
+      ],
+      "correctAnswer": "D",
+      "explanation": "Paracetamol is the analgesic of choice in asthmatic patients because it does not inhibit COX enzymes and therefore does not trigger aspirin/NSAID-exacerbated respiratory disease. Aspirin and all NSAIDs (ibuprofen, naproxen, diclofenac, ketorolac) are potentially dangerous in the approximately 10% of asthmatics with aspirin/NSAID sensitivity, as they can precipitate severe bronchospasm via increased leukotriene production. Even if a patient has not previously reacted to NSAIDs, caution is advised in all asthmatics."
+    },
+    {
+      "id": "t8-m45",
+      "theme": 8,
+      "topicTag": "asthma-drugs",
+      "question": "A patient with severe asthma has an acute attack in the dental surgery. After positioning them upright and giving their salbutamol inhaler, which ONE of the following is the NEXT appropriate step if they do not improve within 5 minutes?",
+      "options": [
+        "A. Give IV adrenaline 1 mg immediately",
+        "B. Administer oral prednisolone and discharge home",
+        "C. Call 999, repeat salbutamol every minute, administer oxygen, and consider IM adrenaline if it worsens to life-threatening",
+        "D. Nebulise ipratropium only and observe for 30 minutes",
+        "E. Apply a paper bag over the patient's mouth to control CO₂"
+      ],
+      "correctAnswer": "C",
+      "explanation": "If asthma does not respond to initial salbutamol within 5 minutes, this is acute severe asthma: call 999 immediately, repeat salbutamol every minute, administer oxygen (aiming for saturation 94–98%), and have IV/IM hydrocortisone ready. If the attack is life-threatening (silent chest, cyanosis, bradycardia, reduced consciousness), IM adrenaline is appropriate. Paper bag rebreathing is dangerous and contraindicated. The dental team must be trained in asthma emergency management as per Resuscitation Council guidelines."
+    },
+    {
+      "id": "t8-m46",
+      "theme": 8,
+      "topicTag": "pneumonia",
+      "question": "What does the CXR appearance of 'consolidation' indicate in pneumonia?",
+      "options": [
+        "A. Air-filled spaces in the lung appear black, indicating normal ventilation",
+        "B. Lung tissue filled with inflammatory exudate appears white/opaque on X-ray, replacing the normal air-filled (black) appearance",
+        "C. Hyperinflated lung fields with flattened diaphragm",
+        "D. Hilar enlargement from mediastinal lymphadenopathy",
+        "E. Pleural effusion forming a meniscus at the costophrenic angle"
+      ],
+      "correctAnswer": "B",
+      "explanation": "On a chest X-ray, air appears black (radiolucent) and dense tissue/fluid appears white (radio-opaque). In pneumonia, alveoli fill with inflammatory exudate (white blood cells, fluid, bacteria) — consolidation. The affected area appears white/opaque instead of the normal black. The pattern can be lobar (consolidation of a whole lobe — classic bacterial pneumonia) or bronchopneumonia (patchy bilateral consolidation). Hyperinflation (flattened diaphragm) is seen in COPD."
+    },
+    {
+      "id": "t8-m47",
+      "theme": 8,
+      "topicTag": "physiology",
+      "question": "A patient with severe COPD is asked how far they can walk on the flat without stopping. This information is used to assess which ONE of the following?",
+      "options": [
+        "A. Ankle-brachial pressure index for peripheral vascular disease",
+        "B. Exercise tolerance as a measure of functional severity of COPD and dyspnoea",
+        "C. Cardiovascular fitness before prescribing beta-blockers",
+        "D. Eligibility for coronary artery bypass surgery",
+        "E. Likelihood of obstructive sleep apnoea"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Asking a COPD patient how far they can walk on the flat (without stopping due to breathlessness) is a simple way to assess functional exercise tolerance and dyspnoea severity. Walking distance correlates with lung function (FEV1) and quality of life. This helps grade COPD severity using the MRC dyspnoea scale (1–5). In the dental context, assessing exercise tolerance also helps determine the risk of the patient becoming breathless during dental treatment — very limited exercise tolerance suggests supplemental oxygen may be needed."
+    },
+    {
+      "id": "t8-m48",
+      "theme": 8,
+      "topicTag": "physiology",
+      "question": "Cyanosis is a clinical sign of severe hypoxia. Where is CENTRAL cyanosis BEST detected?",
+      "options": [
+        "A. Nail beds and fingertips",
+        "B. Earlobes and forehead",
+        "C. Lips and tongue",
+        "D. Conjunctivae",
+        "E. Soles of the feet"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Central cyanosis (reflecting reduced arterial oxygen saturation) is best detected at the lips and tongue, where blood flow is high and the mucosa is thin enough to show cyanosis. Central cyanosis indicates significant hypoxia (usually PaO₂ < 6.5 kPa or SpO₂ < 85–88%). Peripheral cyanosis at the fingertips/nail beds can occur due to peripheral vasoconstriction (cold, poor circulation) without central hypoxia. The tongue never shows peripheral cyanosis, making it the most reliable site for central cyanosis assessment."
+    },
+    {
+      "id": "t8-m49",
+      "theme": 8,
+      "topicTag": "pneumonia",
+      "question": "Which ONE of the following BEST describes the features of tuberculous (TB) infection in the oral cavity?",
+      "options": [
+        "A. TB causes large, painless ulcers on the dorsum of the tongue that heal spontaneously",
+        "B. Oral TB can present as a painful, irregular ulcer with undermined edges, usually on the tongue or palate, often associated with pulmonary TB",
+        "C. TB exclusively causes bilateral parotid gland enlargement",
+        "D. Oral TB presents as white striae on the buccal mucosa that cannot be wiped off",
+        "E. TB is never seen in the oral cavity"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Oral TB is uncommon but can occur, usually in association with open pulmonary TB (infected sputum inoculates the oral mucosa). It presents as a painful, indurated (firm) ulcer with irregular, undermined edges — typically on the tongue or palate. The appearance can mimic carcinoma or traumatic ulcer. Biopsy shows caseating granulomas with Langerhans giant cells. Any irregular, non-healing oral ulcer should be biopsied to exclude malignancy and investigated for TB in at-risk patients."
+    },
+    {
+      "id": "t8-m50",
+      "theme": 8,
+      "topicTag": "asthma-drugs",
+      "question": "Theophylline is an older bronchodilator used in asthma and COPD. Which ONE of the following is the main concern when prescribing theophylline?",
+      "options": [
+        "A. It causes irreversible bronchoconstriction at therapeutic doses",
+        "B. It has a narrow therapeutic index — toxic levels cause tachycardia, arrhythmias, and seizures",
+        "C. It is absolutely contraindicated in combination with inhaled corticosteroids",
+        "D. It causes permanent renal impairment with long-term use",
+        "E. It is ineffective as a bronchodilator and should not be prescribed"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Theophylline (a methylxanthine phosphodiesterase inhibitor) has a narrow therapeutic index — the toxic dose is close to the therapeutic dose. Toxicity causes nausea, vomiting, tachycardia, arrhythmias, and seizures. Plasma levels must be monitored. Numerous drug interactions affect theophylline levels (e.g. erythromycin, clarithromycin, cimetidine increase levels → toxicity risk; rifampicin decreases levels). In dentistry, avoid prescribing clarithromycin or erythromycin to patients on theophylline without checking levels."
+    },
+    {
+      "id": "t8-m51",
+      "theme": 8,
+      "topicTag": "physiology",
+      "question": "Type 2 respiratory failure is defined as which ONE of the following blood gas findings?",
+      "options": [
+        "A. Low PaO₂ only (PaO₂ < 8 kPa) with normal PaCO₂",
+        "B. High PaCO₂ (>6 kPa) with low PaO₂",
+        "C. Normal PaO₂ with elevated PaCO₂",
+        "D. Metabolic alkalosis with low PaCO₂",
+        "E. Low PaO₂ with low PaCO₂ (hyperventilation)"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Type 2 (hypercapnic) respiratory failure is defined by: PaO₂ < 8 kPa AND PaCO₂ > 6 kPa. It occurs when ventilation is insufficient to eliminate CO₂ as well as oxygenate the blood — causes include COPD, severe asthma, chest wall deformity, neuromuscular disease, and drug-induced respiratory depression (e.g. opioids, benzodiazepines). Type 1 (hypoxic) respiratory failure has low PaO₂ with normal or low PaCO₂ (as hyperventilation is attempted to compensate)."
+    },
+    {
+      "id": "t8-m52",
+      "theme": 8,
+      "topicTag": "physiology",
+      "question": "A patient on midazolam IV sedation in the dental chair develops reduced respiratory rate and hypoxia. What is the MOST likely explanation?",
+      "options": [
+        "A. Anaphylaxis from the midazolam",
+        "B. Midazolam reduces the respiratory drive from the brainstem, causing respiratory depression",
+        "C. Midazolam causes bronchospasm in susceptible patients",
+        "D. The patient has developed acute pneumothorax",
+        "E. Midazolam causes pulmonary oedema"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Midazolam and other benzodiazepines depress the central nervous system, including the respiratory centres in the brainstem. In excessive doses (or in patients with respiratory disease, the elderly, or those on other CNS depressants), midazolam causes respiratory depression — reduced respiratory rate and depth, leading to hypoxia and hypercapnia. This is why continuous monitoring of SpO₂ and respiratory rate is mandatory during IV sedation. Flumazenil (benzodiazepine antagonist) reverses the effect if needed."
+    },
+    {
+      "id": "t8-m53",
+      "theme": 8,
+      "topicTag": "lung-cancer",
+      "question": "Which ONE of the following chemotherapy agents causes oral mucositis as one of its most common side effects?",
+      "options": [
+        "A. Methotrexate",
+        "B. Prednisolone",
+        "C. Bisphosphonate infusions",
+        "D. Inhaled salbutamol",
+        "E. Digoxin"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Methotrexate (and many cytotoxic chemotherapy agents including 5-fluorouracil, doxorubicin, vincristine) causes mucositis — painful inflammation and ulceration of the oral and GI mucosa. Methotrexate inhibits dihydrofolate reductase, impairing DNA synthesis in rapidly dividing mucosal cells. Oral mucositis can be severe (Grade 3–4), preventing eating and requiring nutritional support. It typically occurs 7–14 days after chemotherapy. Good oral hygiene, chlorhexidine rinses, and keratinocyte growth factors are used for prevention and management."
+    },
+    {
+      "id": "t8-m54",
+      "theme": 8,
+      "topicTag": "inhaled-foreign-body",
+      "question": "Needle cricothyroidotomy is a procedure performed in 'can't intubate, can't oxygenate' scenarios. Where is the cricothyroid membrane located?",
+      "options": [
+        "A. Between the thyroid and cricoid cartilages anteriorly, in the midline of the neck",
+        "B. At the base of the skull, above the thyroid gland",
+        "C. Between the cricoid cartilage and the tracheal rings",
+        "D. Lateral to the thyroid gland adjacent to the carotid artery",
+        "E. Between the epiglottis and the thyroid cartilage"
+      ],
+      "correctAnswer": "A",
+      "explanation": "The cricothyroid membrane is a fibrous membrane located anteriorly in the midline of the neck between the inferior edge of the thyroid cartilage (Adam's apple) and the superior edge of the cricoid cartilage. It is the preferred site for emergency surgical airway access because it is superficial, relatively avascular, and easily palpable. A needle is inserted at 45 degrees caudally (downward) through the membrane into the trachea. It can only be used for 30–45 minutes as CO₂ retention occurs."
+    },
+    {
+      "id": "t8-m55",
+      "theme": 8,
+      "topicTag": "physiology",
+      "question": "Ventilation is driven by respiratory muscles. Which ONE of the following correctly describes the PRIMARY muscle of inspiration?",
+      "options": [
+        "A. Internal intercostal muscles",
+        "B. Abdominal rectus muscles",
+        "C. Diaphragm",
+        "D. Sternocleidomastoid",
+        "E. Serratus anterior"
+      ],
+      "correctAnswer": "C",
+      "explanation": "The diaphragm is the primary muscle of inspiration — it accounts for approximately 70–80% of normal tidal breathing. Contraction of the diaphragm causes it to flatten and move downward, increasing the thoracic volume and creating negative pressure that draws air into the lungs. The external intercostals assist by lifting and expanding the rib cage. During forced or laboured breathing, accessory muscles (sternocleidomastoid, scalenes, intercostals) are recruited. Use of accessory muscles at rest indicates respiratory distress."
+    },
+    {
+      "id": "t8-m56",
+      "theme": 8,
+      "topicTag": "OSAS",
+      "question": "Obstructive sleep apnoea (OSA) is most commonly managed by which ONE of the following treatments?",
+      "options": [
+        "A. Oral antihistamines to reduce airway mucosal swelling",
+        "B. CPAP (continuous positive airway pressure) therapy during sleep",
+        "C. Surgical removal of the diaphragm",
+        "D. Long-term theophylline therapy",
+        "E. Daily prednisolone to reduce airway inflammation"
+      ],
+      "correctAnswer": "B",
+      "explanation": "CPAP (continuous positive airway pressure) is the most effective treatment for moderate-to-severe OSA. A tight-fitting mask delivers continuous positive air pressure, acting as a pneumatic splint to keep the upper airway patent during sleep, preventing collapse and apnoeic episodes. This eliminates snoring, improves oxygen saturation, and resolves excessive daytime sleepiness. Weight loss also significantly improves OSA. Mandibular advancement devices (dental splints) are an alternative for mild-moderate OSA — making this a relevant treatment in dentistry."
+    },
+    {
+      "id": "t8-m57",
+      "theme": 8,
+      "topicTag": "asthma-drugs",
+      "question": "Long-acting beta-2 agonists (LABAs, e.g. salmeterol) should NEVER be used as monotherapy in asthma. Which ONE of the following BEST explains why?",
+      "options": [
+        "A. LABAs cause excessive tachycardia that makes them dangerous alone",
+        "B. LABAs without ICS may mask worsening inflammation, potentially leading to a fatal asthma attack",
+        "C. LABAs are not effective enough to control asthma symptoms without other drugs",
+        "D. LABAs cause bronchospasm paradoxically when used without ICS",
+        "E. LABAs are only licensed for COPD, not asthma"
+      ],
+      "correctAnswer": "B",
+      "explanation": "LABAs (salmeterol, formoterol) provide prolonged bronchodilation but do NOT address the underlying airway inflammation. Used as monotherapy (without an ICS), a LABA can mask worsening inflammatory asthma — the airways may feel open while inflammation and hyperresponsiveness worsen, increasing the risk of a sudden, severe, potentially fatal attack. This is why LABAs must always be prescribed in combination with ICS in asthma (e.g. Seretide = fluticasone + salmeterol; Symbicort = budesonide + formoterol)."
+    },
+    {
+      "id": "t8-m58",
+      "theme": 8,
+      "topicTag": "physiology",
+      "question": "Which ONE of the following is the MOST important question to ask when taking a respiratory history from a new dental patient?",
+      "options": [
+        "A. \"Have you ever had your tonsils removed?\"",
+        "B. \"Do you smoke, and if so, how many cigarettes per day?\"",
+        "C. \"Have you been on antibiotics in the last month?\"",
+        "D. \"Do you drink alcohol regularly?\"",
+        "E. \"Have you had any recent blood tests?\""
+      ],
+      "correctAnswer": "B",
+      "explanation": "Smoking history is the single most important question in a respiratory history. Tobacco smoke is the primary cause of COPD, the leading risk factor for lung cancer, exacerbates asthma, and predisposes to respiratory infections. Pack-year history (number of cigarettes per day ÷ 20 × years smoked) quantifies exposure. Smoking also has major implications for dental health (periodontal disease, implant failure, oral cancer) and general anaesthesia risk. This should be part of every dental history."
+    },
+    {
+      "id": "t8-m59",
+      "theme": 8,
+      "topicTag": "physiology",
+      "question": "A patient attending for dental treatment has oxygen saturations of 88% on pulse oximetry and is known to have COPD. Which ONE of the following actions is MOST appropriate?",
+      "options": [
+        "A. Proceed with treatment as normal — 88% is within safe limits for COPD",
+        "B. Administer high-flow 15L/min oxygen and proceed",
+        "C. Defer elective dental treatment, liaise with the patient's medical team, and consider low-flow controlled oxygen if the patient is distressed",
+        "D. Administer salbutamol nebuliser immediately",
+        "E. Send the patient home with advice to increase their inhaler use"
+      ],
+      "correctAnswer": "C",
+      "explanation": "SpO₂ of 88% in a COPD patient is at the lower end of their typical acceptable range (88–92%), but for elective dental treatment, this indicates the patient's respiratory status may be poorly controlled. Elective treatment should be deferred; liaison with the GP/respiratory team is appropriate to optimise the patient's respiratory status before any dental treatment. If low-flow controlled oxygen is needed (to maintain SpO₂ 88–92%), administer via Venturi mask (24–28%). High-flow oxygen risks worsening CO₂ retention."
+    },
+    {
+      "id": "t8-m60",
+      "theme": 8,
+      "topicTag": "pneumonia",
+      "question": "Streptococcus pneumoniae causes lobar pneumonia. Which ONE of the following is the FIRST-LINE antibiotic treatment for community-acquired pneumonia caused by this organism?",
+      "options": [
+        "A. Metronidazole",
+        "B. Amoxicillin",
+        "C. Doxycycline",
+        "D. Ciprofloxacin",
+        "E. Vancomycin"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Amoxicillin (or ampicillin) is the first-line antibiotic for community-acquired pneumonia caused by Streptococcus pneumoniae in patients who are not allergic to penicillin. It is a broad-spectrum penicillin effective against S. pneumoniae. For penicillin-allergic patients: doxycycline or a macrolide (clarithromycin/erythromycin) are alternatives. For 'atypical' organisms (Mycoplasma, Legionella, Chlamydophila), doxycycline or clarithromycin are used. In hospitalised patients, IV co-amoxiclav + clarithromycin may be used for empirical broad coverage."
+    },
+    {
+      "id": "t8-m61",
+      "theme": 8,
+      "topicTag": "OSAS",
+      "question": "Mandibular advancement devices (MADs) are a dental treatment for obstructive sleep apnoea. Which ONE of the following BEST describes how they work?",
+      "options": [
+        "A. They immobilise the jaw during sleep, preventing mouth-breathing",
+        "B. They protrude the mandible and tongue forward, increasing the volume of the upper airway and reducing upper airway collapsibility during sleep",
+        "C. They seal the lips, forcing nasal breathing which reduces snoring",
+        "D. They stimulate the genioglossus muscle electrically to prevent tongue prolapse",
+        "E. They compress the palate, reducing soft tissue vibration and snoring"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Mandibular advancement devices (MADs) protrude the mandible forward — this in turn pulls the tongue and soft palate forward, increasing the dimensions of the upper airway (particularly the oropharynx) and reducing its tendency to collapse during sleep. This reduces apnoeic episodes and snoring. MADs are effective for mild-to-moderate OSA and for patients who cannot tolerate CPAP. Dentists play a key role in fabricating and fitting MADs, making OSA management a genuine area of dental practice."
+    },
+    {
+      "id": "t8-m62",
+      "theme": 8,
+      "topicTag": "hypoxia",
+      "question": "Which ONE of the following CORRECTLY describes the Venturi mask principle used to deliver controlled oxygen to COPD patients?",
+      "options": [
+        "A. The mask completely seals around the face to deliver 100% oxygen",
+        "B. The mask delivers a fixed, pre-determined concentration of oxygen (e.g. 24%, 28%) by entraining a controlled amount of air through Venturi ports",
+        "C. The mask monitors oxygen saturation and adjusts delivery automatically",
+        "D. The mask delivers low-flow 1–2 L/min oxygen via nasal cannulae",
+        "E. The mask recirculates exhaled CO₂ to stimulate respiration"
+      ],
+      "correctAnswer": "B",
+      "explanation": "The Venturi mask uses the Bernoulli principle: oxygen flows rapidly through a narrow orifice, creating a low-pressure zone that entrains a precise volume of room air through side ports. This delivers a known, fixed concentration of oxygen (e.g. 24%, 28%, 35%) regardless of the patient's breathing pattern. This is ideal for COPD patients who need controlled low-concentration oxygen to avoid removing the hypoxic respiratory drive. Different coloured caps provide different oxygen concentrations."
+    },
+    {
+      "id": "t8-m63",
+      "theme": 8,
+      "topicTag": "asthma-drugs",
+      "question": "A child's asthma is well-controlled on inhaled salbutamol as needed (Step 1). The next step up in the BTS/SIGN asthma management guidelines if control is inadequate is which ONE of the following?",
+      "options": [
+        "A. Add oral prednisolone daily",
+        "B. Add inhaled corticosteroid (ICS) — the preventer inhaler",
+        "C. Add a long-acting muscarinic antagonist (LAMA)",
+        "D. Switch to IV bronchodilators",
+        "E. Add theophylline as first add-on therapy"
+      ],
+      "correctAnswer": "B",
+      "explanation": "BTS/SIGN asthma guidelines follow a stepwise approach: Step 1 — short-acting beta-2 agonist (SABA) as needed (reliever only). Step 2 — add regular inhaled corticosteroid (ICS) preventer at the lowest effective dose. This is the single most important addition — ICS reduces airway inflammation and exacerbation frequency. Step 3 — add LABA if ICS alone is insufficient. Subsequent steps involve increasing ICS dose, adding other agents, or specialist referral. Oral steroids are reserved for acute severe exacerbations or Step 5."
+    },
+    {
+      "id": "t8-m64",
+      "theme": 8,
+      "topicTag": "pneumonia",
+      "question": "Which ONE of the following features is MOST consistent with a diagnosis of pleural effusion on examination?",
+      "options": [
+        "A. Increased vocal resonance and bronchial breathing over the affected area",
+        "B. Stony dull percussion note with reduced breath sounds over the affected area",
+        "C. Hyper-resonant percussion note with absent breath sounds",
+        "D. Fine inspiratory crackles over both lung bases",
+        "E. Wheeze on expiration with prolonged expiratory phase"
+      ],
+      "correctAnswer": "B",
+      "explanation": "A pleural effusion (fluid in the pleural space) causes: stony dull percussion note (fluid is denser than air-containing lung), reduced or absent breath sounds (fluid insulates sound transmission), and reduced chest expansion on the affected side. Vocal resonance and vocal fremitus are reduced. Hyper-resonance suggests pneumothorax (air in pleural space). Bilateral basal crackles suggest pulmonary oedema or fibrosis. Wheeze suggests obstructive airways disease."
+    },
+    {
+      "id": "t8-m65",
+      "theme": 8,
+      "topicTag": "physiology",
+      "question": "Which ONE of the following dental procedures has the HIGHEST risk of precipitating an asthma attack in a susceptible patient?",
+      "options": [
+        "A. Taking dental radiographs",
+        "B. Scaling and polishing with aerosol generation and methacrylic acid-containing dental materials",
+        "C. Routine dental examination without treatment",
+        "D. Taking impressions with silicone putty",
+        "E. Application of topical fluoride gel"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Asthma attacks in the dental setting can be triggered by: aerosols (from air turbines, ultrasonic scalers — containing allergens, microparticles), chemicals (methacrylic acid in acrylics, sulphites in some local anaesthetics, glutaraldehyde in sterilising solutions), stress/anxiety, cold dry air from the dental unit, and NSAIDs prescribed for dental pain. Aerosol-generating procedures with chemicals are the highest risk. Good ventilation, rubber dam, and avoiding triggers can reduce risk. Always have a salbutamol inhaler available."
+    },
+    {
+      "id": "t8-m66",
+      "theme": 8,
+      "topicTag": "cystic-fibrosis",
+      "question": "Cystic fibrosis (CF) causes pancreatic exocrine insufficiency. Which ONE of the following is the MAIN consequence of this?",
+      "options": [
+        "A. Type 1 diabetes from autoimmune destruction of beta cells",
+        "B. Malabsorption of fat and fat-soluble vitamins (A, D, E, K) due to inadequate pancreatic enzyme secretion",
+        "C. Hypercalcaemia from excess calcium absorption",
+        "D. Peptic ulcer disease from excess gastric acid",
+        "E. Primary biliary cirrhosis"
+      ],
+      "correctAnswer": "B",
+      "explanation": "In CF, viscous mucus blocks the pancreatic ducts, preventing digestive enzymes (lipase, protease, amylase) from reaching the duodenum. This causes malabsorption — particularly of dietary fat and fat-soluble vitamins (A, D, E, K). Consequences include steatorrhoea (fatty, floating, foul-smelling stools), malnutrition, and deficiencies of vitamins A (night blindness), D (rickets/osteoporosis), E (neuropathy), and K (coagulopathy). Treatment: pancreatic enzyme replacement therapy (Creon) with every meal. CF-related diabetes develops in older patients from progressive beta-cell loss."
+    },
+    {
+      "id": "t8-m67",
+      "theme": 8,
+      "topicTag": "physiology",
+      "question": "The term 'pink puffer' in COPD patients describes which ONE of the following clinical picture?",
+      "options": [
+        "A. A patient with marked peripheral cyanosis, peripheral oedema, and polycythaemia",
+        "B. A patient with emphysema who is breathless, maintains relatively normal oxygen levels by working hard at breathing, and appears pink rather than blue",
+        "C. A patient with bronchitis who is centrally cyanosed and oedematous",
+        "D. A patient with asthma who has a florid complexion from steroid use",
+        "E. A patient with cor pulmonale and right heart failure causing facial plethora"
+      ],
+      "correctAnswer": "B",
+      "explanation": "The 'pink puffer' describes the emphysema-predominant COPD patient: they work hard to breathe (using accessory muscles, pursed-lip breathing), maintaining relatively normal oxygen saturation and thus remaining 'pink'. They are thin and barrel-chested. In contrast, the 'blue bloater' (chronic bronchitis-predominant) is cyanosed (blue) and oedematous (bloated) from right heart failure — they breathe less hard and accept lower oxygen saturations. In practice, most COPD patients have features of both."
+    },
+    {
+      "id": "t8-m68",
+      "theme": 8,
+      "topicTag": "pneumonia",
+      "question": "Legionella pneumophila causes a severe atypical pneumonia. Which ONE of the following is the MOST COMMON source of Legionella outbreaks?",
+      "options": [
+        "A. Person-to-person droplet transmission",
+        "B. Contaminated water systems such as cooling towers, air conditioning systems, and hot water supplies",
+        "C. Unpasteurised milk",
+        "D. Soil and compost from gardens",
+        "E. Contaminated poultry (like Campylobacter)"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Legionella pneumophila thrives in warm, stagnant water and forms biofilms in water systems — cooling towers, large hot water systems, shower heads, and decorative fountains. Infection occurs by inhaling contaminated water droplets/aerosols. It does NOT spread person-to-person. Legionnaires' disease causes severe pneumonia with hyponatraemia (low sodium), diarrhoea, and confusion in addition to respiratory symptoms. Diagnosis: urinary Legionella antigen test. Treatment: clarithromycin or fluoroquinolones."
+    },
+    {
+      "id": "t8-m69",
+      "theme": 8,
+      "topicTag": "asthma-drugs",
+      "question": "Ipratropium bromide is an anticholinergic bronchodilator. In which ONE of the following situations is it the MOST appropriate choice?",
+      "options": [
+        "A. First-line preventer therapy in mild persistent asthma",
+        "B. Acute severe asthma unresponsive to beta-2 agonists — added to nebulised salbutamol",
+        "C. Long-term daily maintenance of asthma in preference to inhaled corticosteroids",
+        "D. Replacing salbutamol as the only reliever inhaler in asthmatic children",
+        "E. Post-exercise bronchospasm prevention before sport"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ipratropium bromide (short-acting muscarinic antagonist, SAMA) works by blocking muscarinic receptors on bronchial smooth muscle, causing bronchodilation. In acute severe asthma, adding nebulised ipratropium to nebulised salbutamol (combined SABA + SAMA nebulisation) provides additive bronchodilation and is recommended. In COPD, anticholinergics (ipratropium, tiotropium) are more central to maintenance therapy. ICS remains the cornerstone preventer for asthma; ipratropium alone is not used as preventer therapy in asthma."
+    },
+    {
+      "id": "t8-m70",
+      "theme": 8,
+      "topicTag": "pneumonia",
+      "question": "In a patient with suspected aspiration pneumonia after swallowing difficulty (dysphagia), which lung region is MOST COMMONLY affected?",
+      "options": [
+        "A. Left upper lobe",
+        "B. Right upper lobe",
+        "C. Right lower lobe",
+        "D. Left lower lobe",
+        "E. Middle lobe of the right lung"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Aspiration pneumonia most commonly affects the right lower lobe. This is because: (1) the right main bronchus is wider and more vertically oriented than the left, and (2) in an upright or semi-recumbent patient, gravity directs aspirated material preferentially into the right lower lobe. In a supine patient, the posterior segments of the upper lobes may also be affected. This anatomical predilection for the right lower lobe is consistent with the right main bronchus being the preferred destination for inhaled foreign bodies as well."
+    }
+  ]
+}

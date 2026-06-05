@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>HD Master — Human Diseases Revision</title>
+  <meta name="description" content="HD Master — a complete Human Diseases revision toolkit for Newcastle BDS Year 3 students." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <a href="#main" class="skip-link">Skip to main content</a>
+
+  <!-- Mobile top bar (hidden on desktop) -->
+  <header class="topbar" id="topbar">
+    <button class="hamburger" id="hamburger" aria-label="Toggle navigation" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+    <a href="#/" class="topbar-brand">HD Master</a>
+  </header>
+
+  <div class="layout">
+    <!-- Sidebar navigation -->
+    <nav class="sidebar" id="sidebar" aria-label="Main navigation">
+      <a href="#/" class="sidebar-brand">
+        <span class="sidebar-brand-mark">HD</span>
+        <span class="sidebar-brand-text">Master</span>
+      </a>
+      <div class="sidebar-nav" id="sidebar-nav"><!-- nav links injected by app.js --></div>
+      <div class="sidebar-footer">
+        <p>Newcastle BDS Year 3</p>
+      </div>
+    </nav>
+
+    <!-- Backdrop for mobile sidebar -->
+    <div class="backdrop" id="backdrop"></div>
+
+    <!-- Main routed content -->
+    <main class="content" id="app" tabindex="-1">
+      <!-- Views rendered here by the router -->
+    </main>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

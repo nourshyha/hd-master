@@ -1,0 +1,1379 @@
+{
+  "theme": {
+    "id": 2,
+    "title": "Principles of Infection & Infection Control",
+    "difficulty": "medium",
+    "lectureCount": 11,
+    "learningOutcomes": [
+      "HD1",
+      "HD2",
+      "HD3",
+      "HD4",
+      "HD5",
+      "HD6",
+      "HD7",
+      "HD8",
+      "HD9"
+    ]
+  },
+  "groundIt": [
+    {
+      "clusterId": "t2-c1",
+      "clusterTitle": "Infection Fundamentals — Pathogens, Virulence & Host Defence",
+      "content": "Koch's postulates define the criteria for establishing that a specific microorganism causes a specific disease. The original four postulates state that: (1) the organism must be found in abundance in all organisms suffering from the disease but not in healthy ones; (2) it must be isolated from the diseased organism and grown in pure culture; (3) the cultured organism must cause disease when introduced into a healthy host; (4) it must be reisolated from the experimental host and identified as identical to the original agent. Modern molecular Koch's postulates extend this to nucleic acid detection — the pathogen's DNA or RNA should be present in diseased tissue, decrease with recovery, and increase with relapse.\n\nPathogens are classified as primary (cause disease in immunocompetent hosts through intrinsic virulence — toxin production and abnormal host response) or opportunistic (normally commensal organisms that only cause disease in a compromised host — immunosuppressed by chemotherapy, age, infection, or malnutrition; or following tissue damage from burns, radiation, or catheters).\n\nVirulence is the ability of a pathogen to cause disease. It involves three mechanisms: toxin production (either plasmid-encoded like tetanus neurotoxin, or phage-encoded like cholera toxin); cell death (HIV kills CD4 cells; HCV causes direct cytopathic effects; HBV causes immune-mediated hepatocyte death); and immune evasion (passive — latency, hiding in sanctuary sites, resistance to phagocytosis; active — production of immunomodulatory proteins, decoy particles as HBV does; aggressive — direct attack on the immune system as HIV attacks CD4 cells).\n\nHost defences include physical barriers (skin and mucous membranes, commensal bacteria, mucus and saliva), secreted factors (complement proteins — C3a and C5a cause chemotaxis; C3b causes opsonisation; C5b initiates the membrane attack complex), phagocytosis by neutrophils and macrophages, and cytokines (both pro-inflammatory recruiters and direct effectors). The innate immune system is non-specific and immediate. The adaptive immune system recognises pathogens through antigen presentation — B cells produce antibodies (IgM first, then more specific IgG); CD4+ T helper cells produce cytokines activating other immune cells; CD8+ T cells directly kill infected cells. MHC Class II presents to CD4 cells (exogenous pathway); MHC Class I presents to CD8 cells (endogenous pathway).",
+      "selfExplainPrompt": "Explain the difference between a primary pathogen and an opportunistic pathogen, and give one example of how immune evasion works in either HIV or hepatitis B."
+    },
+    {
+      "clusterId": "t2-c2",
+      "clusterTitle": "Virus Biology — Structure, Replication & Classification",
+      "content": "Viruses are submicroscopic entities consisting of nucleic acid (RNA or DNA, single or double stranded) surrounded by a protein coat called the capsid. Unlike bacteria, viruses cannot replicate independently — they are obligate intracellular parasites that hijack host cell machinery. The capsid may be covered by a lipid envelope derived from the host cell membrane, which contains viral glycoproteins required for attachment to new cells.\n\nThe basic viral life cycle is: attachment to host cell surface receptors → entry (endocytosis, direct fusion, or pore formation) → uncoating (release of nucleic acid) → replication and protein synthesis → assembly of new particles → release (by budding through the membrane or by lysing the cell). DNA viruses typically replicate in the nucleus; RNA viruses replicate in the cytoplasm. Retroviruses (like HIV) are a special class of RNA viruses that reverse-transcribe their RNA into DNA via reverse transcriptase, then integrate into the host genome as a provirus.\n\nViruses are classified by the Baltimore classification based on their nucleic acid and replication strategy: double-stranded DNA viruses (herpes viruses, hepatitis B, adenovirus); single-stranded RNA viruses (influenza, measles, mumps, rhinovirus, hepatitis C); retroviruses (HIV); single-stranded DNA viruses (parvovirus); and double-stranded RNA viruses (rotavirus).\n\nInfections are classified as acute (virus cleared by immune system — measles, mumps), persistent (continues at low-level replication — adenovirus), or latent (becomes dormant, then reactivates — herpesvirus). Viruses can cause damage directly (HSV causing oral ulcers) or through immune-mediated mechanisms (HBV causing hepatocyte death through effector lymphocytes). Diagnostics: historically by electron microscopy and viral culture; now predominantly by PCR (rapid, quantitative, excellent for acute infections) or serology (detecting antibodies — better for chronic infections as antibody levels rise over time).",
+      "selfExplainPrompt": "Describe the basic life cycle of a DNA virus versus an RNA virus, and explain what makes retroviruses like HIV unusual."
+    },
+    {
+      "clusterId": "t2-c3",
+      "clusterTitle": "Herpes Viruses & Antiviral Agents",
+      "content": "Eight herpes viruses infect humans: HSV-1 (herpes simplex 1), HSV-2 (herpes simplex 2), Varicella zoster virus (VZV), Cytomegalovirus (CMV), Epstein-Barr virus (EBV), Human Herpes Virus 6 (HHV-6), HHV-7, and HHV-8 (Kaposi's sarcoma-associated herpesvirus). All are enveloped, double-stranded DNA viruses that establish latent infections. All can present with oral lesions.\n\nHSV-1 causes primary oral herpes (often asymptomatic; severe form is herpetic gingivostomatitis) and reactivates as cold sores on the lip border, triggered by stress, UV light, fever, or menstruation. HSV-2 primarily causes genital herpes. Reactivation typically produces milder symptoms than primary infection. The most serious complication is HSV encephalitis (HSV-1; 70% mortality if untreated). Neonatal herpes (HSV-2) is life-threatening. Treatment: aciclovir — a purine nucleoside analogue activated by thymidine kinase (viral enzyme), giving specificity to infected cells. Poor oral bioavailability — 5 doses/day, or use the prodrug valaciclovir.\n\nVZV causes chickenpox (primary infection — centripetal rash: macules → papules → vesicles → pustules; oral vesicles can precede the rash) and shingles (reactivation — dermatomal distribution along the nerve where VZV was latent; ophthalmic zoster involves V1 of trigeminal nerve). Post-herpetic neuralgia is a complication. Prevention: live attenuated vaccine; post-exposure prophylaxis with Zoster Immunoglobulin (VZIG) for at-risk contacts (pregnant women, immunocompromised). Shingles vaccine offered to all 70-year-olds since 2013.\n\nCMV is widely prevalent (~40% seropositivity in young UK adults); causes glandular fever-like illness on primary infection and is a major concern in the immunocompromised and in congenital infection. EBV causes glandular fever (infectious mononucleosis) in adolescents and is associated with lymphomas and cancers; oral hairy leukoplakia (EBV-associated) is a marker of HIV infection. HHV-6 and HHV-7 cause roseola infantum. HHV-8 causes Kaposi's sarcoma.\n\nAciclovir mechanism: activated by phosphorylation by viral thymidine kinase → incorporated into viral DNA → terminates chain elongation. Half-life 2.5 hours; excreted renally; can cross the blood-brain barrier (used IV for encephalitis). Side effects: nausea, headache, transient burning on topical application. Idoxuridine is a thymidine analogue used topically against DNA viruses (herpes simplex keratitis) — too toxic for systemic use. Zidovudine (AZT) is a thymidine analogue that inhibits RNA-dependent DNA polymerase (reverse transcriptase) — used in HIV. Interferons (alpha, beta, gamma) are cytokines that enhance cytotoxic T-lymphocyte activity.",
+      "selfExplainPrompt": "Explain why aciclovir is specific to virus-infected cells, and name the three most clinically important herpes viruses for a dentist to be aware of and why."
+    },
+    {
+      "clusterId": "t2-c4",
+      "clusterTitle": "HIV & AIDS",
+      "content": "HIV is a retrovirus that targets CD4+ T helper cells, macrophages, and dendritic cells — the co-ordinators of the immune system. Entry requires CD4 receptors and co-receptors (CCR5 or CXCR4). The surface glycoprotein GP120 binds CD4; co-receptor binding causes a conformational change allowing GP41 to insert its hydrophobic terminus into the cell membrane, drawing the virus in. Once inside, the nucleocapsid releases two RNA strands and three essential enzymes: reverse transcriptase (converts RNA to double-stranded DNA), integrase (integrates the DNA into the host genome as a provirus), and protease (cleaves viral proteins into functional units for new virions).\n\nWithout treatment, HIV progressively depletes CD4 cells (normal: >500 cells/µL). As CD4 count falls: increased risk of atypical/recurrent/prolonged infections, AIDS-related cancers (lymphoma, Kaposi's sarcoma), and organ-specific HIV complications. A rising viral load drives CD4 count down and increases infectivity.\n\nRoutes of transmission: sexual intercourse, IV drug use, mother-to-child (ante-natally, during delivery, through breastfeeding), infected blood products, and occupational exposure. Prevention strategies: condoms, sero-sorting, PREP (pre-exposure prophylaxis), PEP (post-exposure prophylaxis), needle exchange programmes, antenatal screening, and Treatment as Prevention (TasP — undetectable = untransmittable).\n\nTreatment (HAART): combine 2 nucleoside reverse transcriptase inhibitors (NRTIs) with either a non-NRTI, a protease inhibitor, or an integrase inhibitor. The triple-drug regimen creates a high genetic barrier to resistance. Treatment should start at diagnosis — reduces AIDS-related complications, all-cause mortality, and transmission. Drug interactions are a major concern — even PPIs and inhalers can interact with HIV therapy.\n\nDental manifestations of HIV/immunosuppression: angular cheilitis, oral hairy leukoplakia (white, corrugated lesions on lateral tongue, EBV-associated), pseudomembranous candidiasis (white patches), erythematous candidiasis (red raw palate), Kaposi's sarcoma (reddish-purple lesions on palate or gingiva), HIV-associated gingivitis, and oral ulceration.",
+      "selfExplainPrompt": "Explain the function of the three enzymes released when HIV enters a host cell, and name two oral conditions that might make a dentist suspect undiagnosed HIV immunosuppression."
+    },
+    {
+      "clusterId": "t2-c5",
+      "clusterTitle": "Viral Hepatitis (A–E) & Dental Aspects of Liver Disease",
+      "content": "Hepatitis literally means inflammation of the liver. Multiple viruses cause it — hepatitis A, B, C, D and E — though CMV, EBV, and HSV can also cause hepatitis. The two categories of viral hepatitis: enteral transmission (faecal-oral route — Hepatitis A and E) and parenteral transmission (via blood — Hepatitis B, C, D).\n\nHepatitis A: self-limiting acute illness, like a variant of food poisoning (often shellfish). No chronic state, no carrier state. Highly effective vaccination available. More severe in older unvaccinated patients and in those with pre-existing liver disease (super-added infection).\n\nHepatitis E: similar to A but more severe; causes acute self-limiting illness from undercooked pork; can be fatal in pregnant women; can become chronic in immunosuppressed. No vaccine currently available.\n\nHepatitis B: DNA virus; integrates into host genome (giving rise to chronicity). Outcome depends entirely on host immune response — not viral factors. 95% of adults clear the virus naturally; 5% develop chronic hepatitis; 0.1% develop acute liver failure (requiring transplant). Defined as chronic at 6 months. Chronic carriers risk liver cirrhosis and hepatocellular carcinoma (HCC). Serological markers: HBsAg (surface antigen — marker of ongoing infection in acute, chronic, and carrier states); HBsAb (surface antibody — marker of immunity, present in vaccinated individuals); HBeAg (e-antigen — marker of active viral replication, high infectivity); HBeAb (e-antibody — marker of low-level infection); HBcAb (core antibody — marker of past or current infection, always present once infected). HBsAg and HBsAb cannot coexist. Perinatal infection: 50% of babies born vaginally to carrier mothers become chronic carriers. Prevention: vaccination (3 doses — deltoid IM; serological check for immunity). Treatment: interferon, antivirals (lamivudine).\n\nHepatitis C: RNA virus; does not integrate; causes almost exclusively chronic insidious disease. Normal host response occurs in <20% — most develop inadequate response and chronic hepatitis with very high risk of HCC. Three risk groups: IV drug abusers (most common in UK), recipients of blood products, unknown. Treatment: previously interferon + ribavirin (30–50% clearance); now novel protease and polymerase inhibitors achieve >90% clearance — effectively a cure. No vaccine.\n\nDental implications of liver disease: patients with chronic liver disease risk: bleeding tendency (liver fails to synthesise clotting factors II, VII, IX, X — vitamin K dependent); impaired drug metabolism (limit lidocaine to 2 cartridges; articaine metabolised partly in plasma and therefore safer; avoid benzodiazepine sedation — benzodiazepines not metabolised → toxicity and coma; avoid paracetamol, miconazole; reduce fluconazole dose; avoid erythromycin, metronidazole, tetracycline, NSAIDs — GI bleed risk); sialosis (salivary gland hypertrophy from metabolic problem); thrombocytopenia (low platelets from portal hypertension and splenic sequestration). Cross-infection control: HBV vaccination (deltoid, 3 doses); hand washing; needle-stick avoidance; masks, spectacles, double gloves.",
+      "selfExplainPrompt": "Describe the significance of HBsAg, HBsAb and HBeAg in hepatitis B serology, and explain why a dentist should limit lidocaine to 2 cartridges in a patient with hepatic cirrhosis."
+    },
+    {
+      "clusterId": "t2-c6",
+      "clusterTitle": "Laboratory Diagnosis & Orofacial Bacterial Infections",
+      "content": "Laboratories can observe (microscopy), culture, and detect (serology, molecular) microorganisms. Microscopy types: Gram stain (Gram-positive retain violet dye — thick peptidoglycan wall; Gram-negative stain pink/red — thinner wall with outer membrane); fungal stain; acid-alcohol fast bacilli (AAFB) microscopy using Ziehl-Neelson stain for mycobacteria like TB (cell wall mycolic acid prevents Gram staining); parasitology (mainly stool samples). Key sample principles: send aspirate, pus, or tissue rather than swabs when possible (anaerobes may die in swabs); use viral swabs (not charcoal swabs — charcoal inactivates PCR); tell the lab your clinical diagnosis and differential, and which antibiotics you are considering so they can perform susceptibility testing.\n\nMolecular techniques (PCR): detect viral or bacterial nucleic acids directly; fast — signal detectable very quickly after onset of symptoms; superior for acute infections (HSV, VZV). Serology: detects antibodies to the pathogen; takes longer (body needs time to mount antibody response); better for chronic infections (HIV, HBV). Bacterial culture takes at least 48 hours; antibiotic susceptibility testing adds further time.\n\nKey orofacial bacterial infections: Group A Streptococcus (S. pyogenes) causes streptococcal pharyngitis and complications including peritonsillar abscess (quinsy — 30% due to GAS), scarlet fever (notifiable disease — strawberry tongue, sandpaper rash), rheumatic fever, and acute glomerulonephritis. Always treat GAS with systemic antibiotics if isolated; never attempt topical treatment. Corynebacterium diphtheriae causes diphtheria — pseudomembranes risk airway obstruction; toxin causes myocarditis and nephritis later; rare in vaccinated populations. Mycobacterium tuberculosis (acid-alcohol fast bacilli): oral mucosal lesions (painful ulceration, usually posterior); cervical lymphadenopathy progressing to abscesses. Diagnose with biopsy; treat with quadruple antituberculous therapy. Gonorrhoea (Neisseria gonorrhoeae — gram-negative diplococci): can cause pharyngitis and sore throat following oro-genital contact. Syphilis (Treponema pallidum — spirochaete, not visible on Gram stain): painless indurated genital ulcer at primary stage; diagnose with serology + PCR; patients should also be screened for HIV, gonorrhoea, and Chlamydia.",
+      "selfExplainPrompt": "Explain why PCR is preferred over serology for diagnosing an acute viral infection, and name three orofacial bacterial infections that a dentist might encounter and need to refer."
+    },
+    {
+      "clusterId": "t2-c7",
+      "clusterTitle": "Antimicrobial Agents — Mechanisms, Resistance & Prescribing in Dentistry",
+      "content": "Antibiotics can be bactericidal (kill bacteria) or bacteriostatic (inhibit growth). The minimum inhibitory concentration (MIC) is the lowest concentration preventing bacterial growth; the minimum bactericidal concentration (MBC) is the lowest that kills bacteria. Mechanisms of action: (1) Inhibit cell wall synthesis — beta-lactams (penicillins, cephalosporins, carbapenems) prevent cross-linkage of peptidoglycan by binding penicillin-binding proteins; vancomycin disrupts cross-linkage by binding peptidoglycan monomers; (2) Protein synthesis inhibition at 30S ribosome — aminoglycosides (gentamicin — prevents correct mRNA reading), tetracyclines (doxycycline — blocks tRNA entry); (3) Protein synthesis inhibition at 50S ribosome — macrolides (erythromycin, clarithromycin — inhibit translocation), clindamycin (inhibit translocation), chloramphenicol (inhibits transpeptidation); (4) Nucleic acid inhibition — quinolones (ciprofloxacin — inhibit topoisomerases, damage DNA), metronidazole (produces toxic metabolite that directly damages anaerobic bacterial DNA), rifampicin (inhibits RNA polymerase); (5) Anti-metabolic activity — sulfonamides and trimethoprim block folate synthesis (co-trimoxazole is their synergistic combination).\n\nResistance mechanisms: enzymatic degradation (beta-lactamases break down the beta-lactam ring — MRSA produces methicillin-resistant PBPs; co-amoxiclav adds clavulanic acid to inhibit beta-lactamases); efflux pumps; modification of target; reduced permeability. Resistance spreads by horizontal gene transfer (conjugation — bacterial sex; transformation — uptake of environmental DNA; transduction — phage-mediated DNA transfer).\n\nPrescribing in dentistry: first-line for dentoalveolar infections — Penicillin V 500mg 4× daily for 5 days (narrow spectrum, take on empty stomach); amoxicillin 500mg 3× daily if better absorption needed. For pericoronitis and necrotising periodontal disease — metronidazole 400mg 3× daily for 3 days (targets anaerobes, first choice). Penicillin-allergic patients: metronidazole, clindamycin, or clarithromycin. Second-line: co-amoxiclav (amoxicillin + clavulanic acid — inhibits beta-lactamase). Prophylactic antibiotics: give 1 hour before procedure; 3g amoxicillin or 600mg clindamycin for the penicillin-allergic. Antibiotics are NOT appropriate for: inflammatory conditions (pulpitis), dry socket, non-spreading infections, or non-bacterial infections. Important adverse effects: metronidazole causes disulfiram reaction with alcohol (inhibits aldehyde dehydrogenase — nausea, flushing); doxycycline causes dental discolouration in under-12s (avoid in pregnancy from second trimester) and Stevens-Johnson syndrome; clindamycin causes antibiotic-associated colitis (Clostridioides difficile overgrowth); clarithromycin has the most drug interactions; penicillins can cause fatal anaphylaxis. Metronidazole, penicillins, and clarithromycin potentiate warfarin (increase INR — risk of bleeding). Doxycycline and alcohol → hepatotoxicity. Most antibiotics do not interact with oral contraceptives (exception: rifampicin).",
+      "selfExplainPrompt": "Name the first-line antibiotic for a dentoalveolar infection and explain why metronidazole is preferred over amoxicillin for pericoronitis. Then give two drug interactions involving metronidazole."
+    }
+  ],
+  "recallIt": [
+    {
+      "id": "t2-r1",
+      "question": "What are Koch's original four postulates?",
+      "answer": "1. Organism found in all diseased but not healthy organisms\n2. Organism isolated and grown in pure culture\n3. Cultured organism causes disease in a healthy host\n4. Organism re-isolated from the experimental host and identified as identical to the original"
+    },
+    {
+      "id": "t2-r2",
+      "question": "What is the difference between primary and opportunistic pathogens?",
+      "answer": "Primary pathogens cause disease in immunocompetent hosts through intrinsic virulence (toxins, abnormal host response). Opportunistic pathogens only cause disease in a compromised host (immunosuppressed, tissue-damaged, or malnourished)."
+    },
+    {
+      "id": "t2-r3",
+      "question": "What are the three mechanisms of virulence?",
+      "answer": "1. Toxin production (plasmid-encoded e.g. tetanus; phage-encoded e.g. cholera)\n2. Cell death (direct cytopathic effect or immune-mediated)\n3. Immune evasion (passive: latency; active: immunomodulation; aggressive: attacking immune cells)"
+    },
+    {
+      "id": "t2-r4",
+      "question": "What are the 8 human herpes viruses?",
+      "answer": "HSV-1, HSV-2, Varicella zoster virus (VZV), Cytomegalovirus (CMV), Epstein-Barr virus (EBV), HHV-6, HHV-7, HHV-8 (Kaposi's sarcoma-associated herpesvirus)"
+    },
+    {
+      "id": "t2-r5",
+      "question": "How does aciclovir work and why is it specific to infected cells?",
+      "answer": "Aciclovir is a purine nucleoside analogue. It is phosphorylated (activated) by viral thymidine kinase — an enzyme only present in herpes-virus-infected cells. Once active, it is incorporated into viral DNA and terminates chain elongation, halting replication. Normal host cells are not affected."
+    },
+    {
+      "id": "t2-r6",
+      "question": "What triggers shingles and what determines its distribution?",
+      "answer": "VZV reactivation from latency in dorsal root ganglia (triggered by immunosuppression, stress, or age). Distribution is dermatomal — follows the territory of the nerve in which VZV was latent. Ophthalmic shingles affects V1 of the trigeminal nerve."
+    },
+    {
+      "id": "t2-r7",
+      "question": "What are the three essential enzymes released when HIV enters a host cell?",
+      "answer": "1. Reverse transcriptase — converts viral RNA to double-stranded DNA\n2. Integrase — integrates viral DNA into host genome (provirus)\n3. Protease — cleaves long viral proteins into functional components for new virions"
+    },
+    {
+      "id": "t2-r8",
+      "question": "What is the normal CD4 count and what happens as it falls in HIV?",
+      "answer": "Normal: >500 cells/µL. As CD4 falls: increased risk of opportunistic infections, AIDS-related cancers (lymphoma, Kaposi's sarcoma), and organ-specific HIV complications. Treatment should start at diagnosis before CD4 declines."
+    },
+    {
+      "id": "t2-r9",
+      "question": "What does HBsAg indicate? What about HBsAb?",
+      "answer": "HBsAg (surface antigen): marker of ongoing infection — present in acute hepatitis B, chronic hepatitis B, and carrier state.\nHBsAb (surface antibody): marker of immunity — present after successful clearance of infection or following vaccination. HBsAg and HBsAb cannot coexist."
+    },
+    {
+      "id": "t2-r10",
+      "question": "What does HBeAg indicate in hepatitis B?",
+      "answer": "HBeAg (e-antigen): marker of active viral replication and high infectivity. Only present when HBsAg is positive. Its absence (with HBeAb present) indicates lower replication and lower infectivity — but the patient is still infected."
+    },
+    {
+      "id": "t2-r11",
+      "question": "How does hepatitis C differ from hepatitis B in terms of its outcome?",
+      "answer": "HCV is an RNA virus that does NOT integrate into the host genome. Adequate immune clearance occurs in <20% — most develop chronic insidious liver damage with high risk of cirrhosis and HCC. There is no carrier state. Treatment now achieves >90% cure with protease and polymerase inhibitors. No vaccine exists."
+    },
+    {
+      "id": "t2-r12",
+      "question": "Why should benzodiazepine sedation be avoided in patients with cirrhosis?",
+      "answer": "Benzodiazepines are metabolised in the liver. In cirrhosis, hepatic metabolism is impaired so benzodiazepines accumulate, leading to toxicity and potentially coma. If sedation is absolutely necessary, it must be carried out in a specialist unit."
+    },
+    {
+      "id": "t2-r13",
+      "question": "What are the mechanisms of action of penicillins and cephalosporins?",
+      "answer": "Beta-lactam antibiotics inhibit cell wall synthesis by binding penicillin-binding proteins (PBPs), which are enzymes required for cross-linking peptidoglycan. Without a properly formed cell wall, the bacteria lyse."
+    },
+    {
+      "id": "t2-r14",
+      "question": "Which antibiotics inhibit protein synthesis at the 30S ribosomal subunit? Which at 50S?",
+      "answer": "30S inhibitors: aminoglycosides (gentamicin — prevents correct mRNA reading), tetracyclines (doxycycline — blocks tRNA entry).\n50S inhibitors: macrolides (erythromycin, clarithromycin — inhibit translocation), clindamycin (inhibits translocation), chloramphenicol (inhibits transpeptidation)."
+    },
+    {
+      "id": "t2-r15",
+      "question": "How does metronidazole cause a disulfiram reaction?",
+      "answer": "Metronidazole (and disulfiram) inhibit aldehyde dehydrogenase, the enzyme involved in alcohol metabolism. Acetaldehyde (a metabolite of alcohol) accumulates, causing flushing, nausea, vomiting, and severe discomfort. Patients must be warned to avoid alcohol completely while taking metronidazole."
+    },
+    {
+      "id": "t2-r16",
+      "question": "What is the first-line antibiotic for dentoalveolar infections and the correct dose?",
+      "answer": "Penicillin V 500mg four times daily for 5 days. Amoxicillin 500mg three times daily is an alternative with better oral absorption (but is broader spectrum and carries more side effects). For compliance issues, amoxicillin 1g twice daily is acceptable."
+    },
+    {
+      "id": "t2-r17",
+      "question": "Why is metronidazole preferred over amoxicillin for pericoronitis?",
+      "answer": "Pericoronitis is predominantly caused by anaerobic bacteria. Metronidazole specifically targets anaerobes (by generating a toxic metabolite that damages their DNA under anaerobic conditions) and has less effect on aerobic flora, reducing collateral damage and side effects compared to amoxicillin."
+    },
+    {
+      "id": "t2-r18",
+      "question": "What adverse effect is doxycycline specifically known for in dental development?",
+      "answer": "Permanent discolouration of developing mineralised tissues (teeth and bone). Doxycycline should be avoided in pregnancy (from the second trimester — affects skeletal development in first trimester, dental discolouration from second/third trimester) and in children under 12. Also causes Stevens-Johnson syndrome."
+    },
+    {
+      "id": "t2-r19",
+      "question": "What is MRSA and how is it treated?",
+      "answer": "Methicillin-resistant Staphylococcus aureus — a Gram-positive organism that has acquired resistance to beta-lactam antibiotics via modified penicillin-binding proteins. Treated with: Vancomycin (disrupts peptidoglycan cross-linkage), teicoplanin, or linezolid."
+    },
+    {
+      "id": "t2-r20",
+      "question": "What are the three routes of horizontal gene transfer in bacterial antibiotic resistance?",
+      "answer": "1. Conjugation — bacterial sex via sex pili; plasmids transferred directly\n2. Transformation — bacteria take up free DNA from the environment\n3. Transduction — bacteriophage (virus) transfers DNA between related bacteria"
+    },
+    {
+      "id": "t2-r21",
+      "question": "What are prions and why are they relevant to dentistry?",
+      "answer": "Prions are infectious proteins with no nucleic acid — they cause conformational changes in host proteins (e.g. causing CJD, BSE). They cannot be inactivated by standard sterilisation. Because they can survive in neural tissues (including dental pulp), single-use instruments are mandatory for endodontic procedures. No drug treatment is effective because there is no genetic material to target."
+    },
+    {
+      "id": "t2-r22",
+      "question": "What is EBV associated with in the context of HIV infection?",
+      "answer": "EBV is associated with oral hairy leukoplakia (OHL) — white corrugated lesions on the lateral border of the tongue. OHL is not always AIDS-related (can occur with heavy steroid inhaler use) but is an indicator condition for HIV infection. It generally does not require treatment but a biopsy may be needed to confirm the diagnosis."
+    },
+    {
+      "id": "t2-r23",
+      "question": "In co-amoxiclav (Augmentin), what is the role of clavulanic acid?",
+      "answer": "Clavulanic acid is a beta-lactamase inhibitor. It inhibits the enzyme that many resistant bacteria use to break down the beta-lactam ring of amoxicillin, thus protecting amoxicillin and restoring its antibacterial activity against resistant organisms."
+    },
+    {
+      "id": "t2-r24",
+      "question": "Name the dental conditions associated with HIV infection.",
+      "answer": "Angular cheilitis, oral hairy leukoplakia (OHL — EBV-associated), pseudomembranous candidiasis (white patches), erythematous candidiasis (red raw palate), Kaposi's sarcoma (reddish-purple oral lesions), HIV-associated gingivitis, oral ulceration."
+    }
+  ],
+  "applyIt": [
+    {
+      "id": "t2-a1",
+      "scenario": "A 32-year-old woman presents with a 5-day history of painful blistering lesions around her lips and inside her mouth. She reports a fever and difficulty eating. This is her first episode. Which of the following is the most appropriate management?",
+      "options": [
+        "A. Prescribe topical aciclovir cream and reassure the patient",
+        "B. Reassure — no treatment needed as the lesions will resolve spontaneously",
+        "C. Prescribe systemic aciclovir or valaciclovir and manage pain and hydration",
+        "D. Prescribe amoxicillin as the likely cause is bacterial superinfection"
+      ],
+      "correctAnswer": "C",
+      "explanation": "This presentation is primary herpetic gingivostomatitis — the first infection with HSV-1 causing systemic symptoms, fever, and extensive painful oral ulceration. In primary infection of this severity, systemic antiviral treatment (aciclovir 200mg 5× daily for 5 days, or valaciclovir) is indicated. Topical aciclovir (A) is inadequate for primary infection with systemic involvement. Reassurance alone (B) would leave the patient in significant pain with inadequate management. Amoxicillin (D) has no role in viral infection — antibiotics are only relevant if bacterial superinfection develops. Pain control (analgesics, benzydamine mouthwash) and maintaining hydration are also essential."
+    },
+    {
+      "id": "t2-a2",
+      "scenario": "A 28-year-old healthcare worker sustains a needlestick injury from a patient known to be HBsAg positive. What is the risk of HBV transmission and what is the most important first step in management?",
+      "options": [
+        "A. Risk is <1%; no immediate action needed — await serology results",
+        "B. Risk is approximately 30%; check the worker's HBsAb titre and initiate post-exposure prophylaxis immediately",
+        "C. Risk is approximately 3%; start antiretroviral PEP immediately",
+        "D. Risk is approximately 30%; no management needed if the worker has had the hepatitis B vaccine"
+      ],
+      "correctAnswer": "B",
+      "explanation": "The risk of HBV transmission following a needlestick from an infected patient is approximately 30% — the highest of the bloodborne viruses (HIV is ~0.3%, HCV is ~3%). Immediate action is required: check the injured worker's HBsAb titre. If immune (titre >10 mIU/mL), reassure. If non-immune or unknown, give HBV immunoglobulin AND accelerated HBV vaccination. Antiretroviral PEP (C) is for HIV exposure, not HBV. Even vaccinated workers require titre checking (D) as some are non-responders."
+    },
+    {
+      "id": "t2-a3",
+      "scenario": "A 45-year-old man on warfarin for atrial fibrillation attends with acute pericoronitis. You decide to prescribe metronidazole 400mg TDS for 3 days. Which of the following is the most important consideration?",
+      "options": [
+        "A. No additional considerations — metronidazole is a safe first-line choice",
+        "B. Metronidazole is contraindicated in patients on warfarin",
+        "C. Metronidazole potentiates warfarin, increasing INR and bleeding risk — advise the patient and consider liaising with their anticoagulation clinic",
+        "D. Change to clindamycin, which has no interaction with warfarin"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Metronidazole inhibits the hepatic metabolism of warfarin by displacing it from serum protein binding, increasing warfarin's anticoagulant effect and elevating INR. This significantly increases bleeding risk. Metronidazole is NOT absolutely contraindicated (B) — it remains the first-line choice for pericoronitis — but the interaction must be managed. The patient should be counselled about increased bruising/bleeding risk, their warfarin clinic should be informed, and an INR check should be arranged within a few days. Clindamycin (D) is a second-line agent and also has some warfarin interactions."
+    },
+    {
+      "id": "t2-a4",
+      "scenario": "A 35-year-old male patient presents with a history of injecting drug use. On examination you notice white corrugated lesions on the lateral border of his tongue that cannot be wiped off. He mentions he has been losing weight and having recurrent mouth infections. What is the most likely diagnosis and the most important next step?",
+      "options": [
+        "A. Hyperplastic candidiasis — treat with nystatin and review",
+        "B. Oral hairy leukoplakia (EBV-associated) — refer to a physician for HIV testing",
+        "C. Squamous cell carcinoma — urgently refer to OMFS under the 2-week wait",
+        "D. Lichen planus — prescribe topical corticosteroids"
+      ],
+      "correctAnswer": "B",
+      "explanation": "The corrugated white lesions on the lateral tongue that cannot be wiped off are characteristic of oral hairy leukoplakia (OHL), associated with EBV infection. Combined with IV drug use, weight loss, and recurrent infections, this is an HIV indicator condition. The most important next step is urgent referral to a physician for HIV testing and assessment. OHL itself generally requires no specific treatment, but confirming and managing the underlying HIV is the priority. Hyperplastic candidiasis (A) would wipe off partially; SCC (C) presents differently; lichen planus (D) typically presents on buccal mucosa."
+    },
+    {
+      "id": "t2-a5",
+      "scenario": "You are prescribing amoxicillin 3g one hour before a surgical extraction for antibiotic prophylaxis in an immunocompromised patient. The patient discloses they are penicillin-allergic. What is the correct alternative?",
+      "options": [
+        "A. Prescribe clindamycin 600mg one hour prior to the procedure",
+        "B. Proceed without prophylaxis — the surgical risk is low",
+        "C. Prescribe metronidazole 400mg TDS — it covers the necessary organisms",
+        "D. Use cefalexin 1g — cephalosporins are unrelated to penicillin"
+      ],
+      "correctAnswer": "A",
+      "explanation": "In penicillin-allergic patients requiring antibiotic prophylaxis prior to surgical extraction (e.g. to prevent osteoradionecrosis), clindamycin 600mg given one hour before the procedure is the recommended alternative. Clindamycin has excellent bone penetration and is the established first alternative in this context. Metronidazole (C) alone is not appropriate as prophylaxis for surgical procedures — it targets anaerobes but lacks coverage for the full spectrum. Cefalosporins (D) carry 5-10% cross-reactivity with penicillin allergy and should be avoided in documented penicillin allergy."
+    }
+  ],
+  "writeIt": [
+    {
+      "id": "t2-w1",
+      "prompt": "Describe the replication cycle of HIV in a CD4+ T-cell. Include the role of each of the three essential viral enzymes, and explain how antiretroviral drugs can target these steps.",
+      "totalMarks": 10,
+      "markScheme": [
+        {
+          "point": "HIV attaches to CD4 receptor and co-receptor (CCR5 or CXCR4) via surface glycoproteins GP120 and GP41",
+          "marks": 1
+        },
+        {
+          "point": "Membrane fusion occurs; viral nucleocapsid enters host cell and releases two RNA strands and three enzymes",
+          "marks": 1
+        },
+        {
+          "point": "Reverse transcriptase converts single-stranded RNA into double-stranded DNA (via RNA-DNA hybrid intermediate, RNA degraded by ribonuclease H domain)",
+          "marks": 2
+        },
+        {
+          "point": "Integrase cleaves dinucleotides from each 3' end of viral DNA and facilitates integration into host cell genome (provirus); this is permanent",
+          "marks": 1
+        },
+        {
+          "point": "Proviral DNA is transcribed into mRNA; viral proteins synthesised; protease cleaves longer polyprotein into functional structural and enzymatic components",
+          "marks": 1
+        },
+        {
+          "point": "New virions assemble; bud through cell membrane acquiring new envelope; mature into infectious particles",
+          "marks": 1
+        },
+        {
+          "point": "Antiretroviral targeting: entry — fusion inhibitors (block GP41); reverse transcriptase — NRTIs (nucleoside analogues incorporated into DNA, halt elongation) or NNRTIs (bind and alter reverse transcriptase directly)",
+          "marks": 2
+        },
+        {
+          "point": "Antiretroviral targeting: integrase inhibitors (prevent integration into host genome); protease inhibitors (prevent protein processing — immature non-infectious virions produced)",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "t2-w2",
+      "prompt": "Outline the principles of antibiotic prescribing in dentistry. Include the first-line drugs for common dental infections, the conditions under which antibiotics should NOT be prescribed, and two important drug interactions.",
+      "totalMarks": 10,
+      "markScheme": [
+        {
+          "point": "Antibiotics are NOT a substitute for surgical/endodontic treatment — only indicated where there is significant local spread (swelling, lymphadenopathy) or systemic spread (fever, malaise)",
+          "marks": 1
+        },
+        {
+          "point": "First-line for dentoalveolar infections: Penicillin V 500mg 4× daily for 5 days",
+          "marks": 1
+        },
+        {
+          "point": "First-line for pericoronitis and necrotising periodontal disease: metronidazole 400mg 3× daily for 3 days (targets anaerobes)",
+          "marks": 1
+        },
+        {
+          "point": "Alternatives in penicillin allergy: metronidazole, clindamycin, or clarithromycin",
+          "marks": 1
+        },
+        {
+          "point": "Second-line drugs (e.g. co-amoxiclav, clindamycin) used only when first-line has failed",
+          "marks": 1
+        },
+        {
+          "point": "NOT appropriate for: dry socket, pulpitis, non-spreading infections, or non-bacterial infections",
+          "marks": 1
+        },
+        {
+          "point": "Drug interaction 1: metronidazole + warfarin → potentiates anticoagulation, raises INR, increases bleeding risk (displacement from serum protein binding)",
+          "marks": 2
+        },
+        {
+          "point": "Drug interaction 2: doxycycline + alcohol → hepatotoxicity; OR clarithromycin + warfarin → increased INR; OR metronidazole + alcohol → disulfiram reaction (acetaldehyde accumulation, nausea, flushing)",
+          "marks": 2
+        }
+      ]
+    }
+  ],
+  "mockBank": [
+    {
+      "id": "t2-m1",
+      "theme": 2,
+      "topicTag": "infection-fundamentals",
+      "question": "Which ONE of the following BEST describes an opportunistic pathogen?",
+      "options": [
+        "A. A pathogen with high intrinsic virulence that causes disease in all host types",
+        "B. A pathogen that only causes disease in a compromised host",
+        "C. A pathogen that produces exotoxins encoded on plasmids",
+        "D. A pathogen classified by its ability to produce biofilm",
+        "E. A pathogen that exclusively infects hospitalised patients"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Opportunistic pathogens are normally commensal organisms that only cause disease when host defences are compromised (immunosuppression, malnutrition, tissue damage). Examples include Candida albicans and Pneumocystis jirovecii."
+    },
+    {
+      "id": "t2-m2",
+      "theme": 2,
+      "topicTag": "infection-fundamentals",
+      "question": "Which ONE of the following is the MOST accurate description of passive immune evasion by a pathogen?",
+      "options": [
+        "A. Producing proteins that inactivate complement",
+        "B. Directly attacking CD4 T-lymphocytes",
+        "C. Releasing large quantities of non-infectious decoy particles",
+        "D. Establishing latency in nerve cell bodies to avoid immune detection",
+        "E. Expressing adhesion molecules that mimic host cell surface markers"
+      ],
+      "correctAnswer": "D",
+      "explanation": "Passive immune evasion includes latency — the virus hides in sanctuary sites (e.g. herpes simplex in trigeminal ganglion neurons) where immune surveillance is minimal. This allows reactivation years later."
+    },
+    {
+      "id": "t2-m3",
+      "theme": 2,
+      "topicTag": "infection-fundamentals",
+      "question": "Koch's postulates state that to prove a microorganism causes a specific disease, the organism must be found in diseased individuals but not healthy ones, and then what?",
+      "options": [
+        "A. It must produce a specific toxin identifiable by ELISA",
+        "B. It must be isolated, grown in pure culture, cause disease when introduced into a healthy host, and be re-isolated",
+        "C. It must be resistant to at least one antibiotic class",
+        "D. It must be visible under light microscopy after Gram staining",
+        "E. It must be transmissible between hosts of the same species"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Koch's four postulates: (1) found in diseased but not healthy organisms; (2) isolated and grown in pure culture; (3) causes disease in a healthy host; (4) re-isolated and identified as identical. Modern molecular postulates extend this to nucleic acid detection."
+    },
+    {
+      "id": "t2-m4",
+      "theme": 2,
+      "topicTag": "infection-fundamentals",
+      "question": "Which ONE of the following routes of transmission is MOST associated with Mycobacterium tuberculosis?",
+      "options": [
+        "A. Faecal-oral",
+        "B. Blood-borne via needlestick",
+        "C. Respiratory droplet nuclei",
+        "D. Sexual contact",
+        "E. Vector-borne via mosquito"
+      ],
+      "correctAnswer": "C",
+      "explanation": "TB is transmitted via respiratory droplet nuclei (very small dried particles that remain airborne). This is why TB is highly infectious in enclosed spaces and why dental treatment of infectious TB patients requires rigorous infection control."
+    },
+    {
+      "id": "t2-m5",
+      "theme": 2,
+      "topicTag": "infection-fundamentals",
+      "question": "A patient has recurrent infections caused by organisms typically found in the environment that would not infect a healthy individual. Which ONE of the following MOST likely accounts for this?",
+      "options": [
+        "A. Primary B-cell immunodeficiency",
+        "B. A primary pathogen with high virulence",
+        "C. Secondary immunodeficiency from chemotherapy",
+        "D. Antibiotic resistance",
+        "E. Complement deficiency of the classical pathway"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Environmental organisms causing disease in an immunocompromised patient suggests secondary immunodeficiency — in this context most likely from chemotherapy, which depletes T and B cells and sometimes neutrophils, allowing opportunistic pathogens to cause infection."
+    },
+    {
+      "id": "t2-m6",
+      "theme": 2,
+      "topicTag": "virus-biology",
+      "question": "Which ONE of the following BEST describes why retroviruses such as HIV are difficult to eradicate from the body?",
+      "options": [
+        "A. They lack a capsid, making them undetectable by the immune system",
+        "B. They replicate exclusively in the cytoplasm, bypassing nuclear immune surveillance",
+        "C. They reverse-transcribe their RNA genome into DNA and integrate permanently into the host genome",
+        "D. They are too small to be recognised by MHC class I molecules",
+        "E. They produce a thick lipid envelope that resists complement-mediated lysis"
+      ],
+      "correctAnswer": "C",
+      "explanation": "HIV uses reverse transcriptase to convert its RNA genome to DNA, which integrase then incorporates into the host cell genome as a provirus. This provirus is permanent — it replicates every time the host cell divides, making complete eradication impossible with current therapy."
+    },
+    {
+      "id": "t2-m7",
+      "theme": 2,
+      "topicTag": "virus-biology",
+      "question": "DNA viruses replicate primarily in which cellular compartment?",
+      "options": [
+        "A. The mitochondria",
+        "B. The smooth endoplasmic reticulum",
+        "C. The nucleus",
+        "D. The cytoplasm",
+        "E. The Golgi apparatus"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Enveloped DNA viruses replicate in the cell nucleus, where they access the host's DNA replication machinery. RNA viruses (except retroviruses) replicate in the cytoplasm. This distinction matters for antiviral drug targets."
+    },
+    {
+      "id": "t2-m8",
+      "theme": 2,
+      "topicTag": "virus-biology",
+      "question": "A patient contracts influenza. Which ONE of the following BEST classifies the influenza virus according to the Baltimore classification?",
+      "options": [
+        "A. Double-stranded DNA virus",
+        "B. Retrovirus (single-stranded RNA replicated via DNA intermediate)",
+        "C. Single-stranded RNA virus",
+        "D. Double-stranded RNA virus",
+        "E. Single-stranded DNA virus"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Influenza is a single-stranded RNA virus (negative-sense, segmented). Other single-stranded RNA viruses include measles, mumps, rhinovirus, and hepatitis C. Retroviruses are a special subclass because of their unique reverse transcription replication."
+    },
+    {
+      "id": "t2-m9",
+      "theme": 2,
+      "topicTag": "virus-biology",
+      "question": "Which ONE of the following types of infection describes a virus that initially causes acute illness but then persists at very low levels in specific tissues without causing ongoing disease?",
+      "options": [
+        "A. Acute infection",
+        "B. Latent infection",
+        "C. Persistent infection",
+        "D. Chronic active infection",
+        "E. Subclinical infection"
+      ],
+      "correctAnswer": "C",
+      "explanation": "A persistent infection (e.g. adenovirus) causes initial acute illness but continues at low-level replication in certain tissues without causing further disease. Latent infection (e.g. HSV) differs in that the virus is truly dormant with no replication until reactivation."
+    },
+    {
+      "id": "t2-m10",
+      "theme": 2,
+      "topicTag": "virus-biology",
+      "question": "Which ONE of the following diagnostic techniques is BEST suited for rapidly confirming an acute viral infection such as herpes simplex encephalitis?",
+      "options": [
+        "A. Viral culture on selective media",
+        "B. Electron microscopy of cerebrospinal fluid",
+        "C. PCR of cerebrospinal fluid",
+        "D. Serology for HSV IgM",
+        "E. Complement fixation test"
+      ],
+      "correctAnswer": "C",
+      "explanation": "PCR of CSF is the gold standard for confirming HSV encephalitis — it detects viral DNA directly, is highly sensitive and specific, and gives results within hours. Serology (IgM) takes days and may be negative early. Viral culture is too slow for life-threatening encephalitis."
+    },
+    {
+      "id": "t2-m11",
+      "theme": 2,
+      "topicTag": "herpes-viruses",
+      "question": "Which ONE of the following viruses causes herpangina?",
+      "options": [
+        "A. Herpes simplex virus type 1",
+        "B. Enterovirus (Coxsackie A)",
+        "C. Varicella zoster virus",
+        "D. Epstein-Barr virus",
+        "E. Cytomegalovirus"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Herpangina is caused by Coxsackie A virus (an enterovirus), not herpes simplex despite the name. It presents with painful ulcers on the soft palate and tonsillar pillars. Hand, foot and mouth disease is also caused by Coxsackie A viruses."
+    },
+    {
+      "id": "t2-m12",
+      "theme": 2,
+      "topicTag": "herpes-viruses",
+      "question": "Which diagnostic test is indicated if laboratory confirmation of herpes labialis is required?",
+      "options": [
+        "A. Blood sample for HSV IgM titre",
+        "B. Blood sample for HSV PCR",
+        "C. Lesion swab for electron microscopy",
+        "D. Lesion swab for HSV PCR",
+        "E. Intradermal challenge test for HSV antigen"
+      ],
+      "correctAnswer": "D",
+      "explanation": "A lesion swab for HSV PCR is the gold standard for herpes labialis. It detects viral DNA directly from the lesion with high sensitivity. Blood IgM would only confirm recent infection, not current lesion activity."
+    },
+    {
+      "id": "t2-m13",
+      "theme": 2,
+      "topicTag": "herpes-viruses",
+      "question": "A healthcare worker presents with painful swelling of the fingertip involving the pulp, with vesicles, after examining a patient's mouth without gloves. Which ONE of the following is the MOST likely diagnosis?",
+      "options": [
+        "A. Paronychia caused by Staphylococcus aureus",
+        "B. Herpetic whitlow caused by HSV-1",
+        "C. Varicella zoster infection of the digit",
+        "D. Hand, foot and mouth disease",
+        "E. Candidal onychomycosis"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Herpetic whitlow is HSV-1 infection of the finger, typically seen in healthcare workers and children who suck their thumbs. It presents with a painful, throbbing vesicular lesion at the fingertip. Wearing gloves prevents transmission."
+    },
+    {
+      "id": "t2-m14",
+      "theme": 2,
+      "topicTag": "herpes-viruses",
+      "question": "A 72-year-old patient presents with a painful unilateral vesicular rash distributed along the left ophthalmic branch of the trigeminal nerve. Which ONE of the following is the MOST likely diagnosis?",
+      "options": [
+        "A. Primary herpes simplex infection",
+        "B. Herpes zoster (shingles) of V1",
+        "C. Herpes simplex encephalitis",
+        "D. Ramsay Hunt syndrome",
+        "E. Trigeminal neuralgia"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Dermatomal distribution along V1 in an elderly patient = ophthalmic zoster. If the nasociliary branch is involved (lesions on the side of the nose — Hutchinson's sign), ocular complications are more likely. Ramsay Hunt syndrome = VZV reactivation in the geniculate ganglion (facial palsy + ear vesicles)."
+    },
+    {
+      "id": "t2-m15",
+      "theme": 2,
+      "topicTag": "antiviral-agents",
+      "question": "How does aciclovir achieve specificity for herpes-virus-infected cells rather than normal host cells?",
+      "options": [
+        "A. It binds selectively to viral envelope glycoproteins preventing cell entry",
+        "B. It is activated by viral thymidine kinase only present in infected cells",
+        "C. It inhibits the viral protease which is absent in host cells",
+        "D. It targets the viral integrase enzyme",
+        "E. It blocks the viral RNA polymerase through competitive inhibition"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Aciclovir is a prodrug activated by phosphorylation by viral thymidine kinase — an enzyme only present in herpes-virus-infected cells. The active form then inhibits viral DNA polymerase. This selectivity means minimal toxicity to normal cells."
+    },
+    {
+      "id": "t2-m16",
+      "theme": 2,
+      "topicTag": "antiviral-agents",
+      "question": "Which ONE of the following antiviral drugs is a prodrug of aciclovir with improved oral bioavailability?",
+      "options": [
+        "A. Zidovudine (AZT)",
+        "B. Ganciclovir",
+        "C. Valaciclovir",
+        "D. Oseltamivir",
+        "E. Ribavirin"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Valaciclovir is the L-valyl ester prodrug of aciclovir. It has much better oral bioavailability (approximately 55% vs 15–30% for aciclovir) and converts to aciclovir in the intestinal wall and liver. It allows less frequent dosing (twice rather than five times daily)."
+    },
+    {
+      "id": "t2-m17",
+      "theme": 2,
+      "topicTag": "herpes-viruses",
+      "question": "Which ONE of the following is TRUE regarding oral hairy leukoplakia?",
+      "options": [
+        "A. It only occurs in patients with HIV",
+        "B. It is associated with Epstein-Barr virus",
+        "C. It causes significant pain and mucosal bleeding",
+        "D. It is caused by Candida albicans",
+        "E. It always requires antifungal treatment"
+      ],
+      "correctAnswer": "B",
+      "explanation": "OHL is associated with EBV and presents as white corrugated lesions on the lateral tongue that cannot be wiped off. It is NOT exclusive to HIV — it can occur with high-dose inhaled corticosteroids in COPD and other causes of immunosuppression. It is generally asymptomatic and usually requires no specific treatment."
+    },
+    {
+      "id": "t2-m18",
+      "theme": 2,
+      "topicTag": "herpes-viruses",
+      "question": "Which ONE of the following herpes viruses is associated with Kaposi's sarcoma?",
+      "options": [
+        "A. HSV-1",
+        "B. HSV-2",
+        "C. HHV-6",
+        "D. HHV-7",
+        "E. HHV-8"
+      ],
+      "correctAnswer": "E",
+      "explanation": "HHV-8 (Kaposi's sarcoma-associated herpesvirus) causes Kaposi's sarcoma — a vascular endothelial proliferation seen in HIV-positive patients and other immunosuppressed individuals. Oral lesions appear as reddish-purple macules on the palate or gingiva."
+    },
+    {
+      "id": "t2-m19",
+      "theme": 2,
+      "topicTag": "HIV",
+      "question": "The most common AIDS-defining opportunistic infection in the UK is:",
+      "options": [
+        "A. Cytomegalovirus retinitis",
+        "B. Oesophageal candidiasis",
+        "C. Pneumocystis jiroveci (formerly 'Pneumocystis carinii') pneumonia",
+        "D. Kaposi's sarcoma",
+        "E. Squamous cell carcinoma of the tongue"
+      ],
+      "correctAnswer": "C",
+      "explanation": "PCP (Pneumocystis jiroveci pneumonia) is the most common serious AIDS-defining opportunistic infection in the UK. It occurs when CD4 count falls significantly below normal. Its incidence has fallen dramatically since effective HAART became available."
+    },
+    {
+      "id": "t2-m20",
+      "theme": 2,
+      "topicTag": "HIV",
+      "question": "The most common form of oral candidiasis in HIV-infected patients is:",
+      "options": [
+        "A. Hyperplastic candidiasis",
+        "B. Angular cheilitis",
+        "C. Pseudomembranous candidiasis",
+        "D. Erythematous candidiasis",
+        "E. Chronic atrophic candidiasis"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Pseudomembranous candidiasis (thrush) — white/cream plaques that can be wiped off leaving a raw, bleeding surface — is the most common oral Candida presentation in HIV patients. Erythematous candidiasis (red, sore palate) is also common."
+    },
+    {
+      "id": "t2-m21",
+      "theme": 2,
+      "topicTag": "HIV",
+      "question": "A patient with HIV tells you their CD4 count is 250 cells/mm³ and viral load is undetectable on HAART. Which ONE of the following BEST describes their infectious risk and dental management?",
+      "options": [
+        "A. They are non-infectious and require no additional precautions",
+        "B. Dental treatment should be deferred until CD4 count exceeds 500",
+        "C. Standard infection control precautions are used; they are receiving treatment and at reduced transmission risk",
+        "D. They require prophylactic antibiotics before every dental procedure",
+        "E. General anaesthesia is required for all dental procedures"
+      ],
+      "correctAnswer": "C",
+      "explanation": "An undetectable viral load on effective HAART means dramatically reduced transmission risk (Treatment as Prevention — U=U). Standard universal infection control precautions are appropriate. Deferring treatment (B) is incorrect — good oral health is particularly important in HIV-positive patients."
+    },
+    {
+      "id": "t2-m22",
+      "theme": 2,
+      "topicTag": "HIV",
+      "question": "Late diagnosis of HIV is associated with which ONE of the following outcomes?",
+      "options": [
+        "A. Improved response to antiretroviral therapy",
+        "B. High morbidity and mortality",
+        "C. A lower risk of onward transmission",
+        "D. Effective treatment with aciclovir",
+        "E. Reduced risk of AIDS-defining conditions"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Late HIV diagnosis remains a major public health concern. Late presenters have advanced immunosuppression, higher rates of AIDS-defining conditions, and significantly worse clinical outcomes. Early diagnosis and prompt HAART initiation dramatically improve prognosis and reduce transmission."
+    },
+    {
+      "id": "t2-m23",
+      "theme": 2,
+      "topicTag": "HIV",
+      "question": "Which ONE of the following is an oral indicator condition for HIV infection?",
+      "options": [
+        "A. Trigeminal neuralgia",
+        "B. Oral candidiasis",
+        "C. Benign migratory glossitis",
+        "D. Recurrent aphthous ulcers in isolation",
+        "E. Chronic periodontitis"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Oral candidiasis is an AIDS indicator condition — its presence in an otherwise healthy adult should prompt consideration of HIV testing or referral. Other oral HIV indicator conditions include oral hairy leukoplakia, Kaposi's sarcoma, necrotising ulcerative gingivitis/periodontitis."
+    },
+    {
+      "id": "t2-m24",
+      "theme": 2,
+      "topicTag": "HIV",
+      "question": "What percentage risk of HIV transmission exists following a needlestick injury from an HIV-positive patient?",
+      "options": [
+        "A. 0.1%",
+        "B. 0.3%",
+        "C. 3%",
+        "D. 10%",
+        "E. 30%"
+      ],
+      "correctAnswer": "B",
+      "explanation": "HIV transmission risk from a needlestick injury is approximately 0.3%. Compare: HBV is ~30%; HCV is ~3%. PEP (post-exposure prophylaxis) with antiretroviral drugs should be initiated within 72 hours if the source patient is HIV-positive."
+    },
+    {
+      "id": "t2-m25",
+      "theme": 2,
+      "topicTag": "hepatitis",
+      "question": "The risk of HBV transmission to an unvaccinated healthcare worker following a needlestick from an infected patient is approximately:",
+      "options": [
+        "A. 0.3%",
+        "B. 3%",
+        "C. 10%",
+        "D. 30%",
+        "E. 50%"
+      ],
+      "correctAnswer": "D",
+      "explanation": "HBV has the highest needlestick transmission rate of the major bloodborne viruses — approximately 30% in an unvaccinated worker. HIV = 0.3%, HCV = 3%. This underlines the critical importance of HBV vaccination for all dental healthcare workers."
+    },
+    {
+      "id": "t2-m26",
+      "theme": 2,
+      "topicTag": "hepatitis",
+      "question": "Which ONE of the following serological markers is the FIRST to appear in acute hepatitis B infection and is a marker of ongoing infectivity?",
+      "options": [
+        "A. HBsAb (hepatitis B surface antibody)",
+        "B. HBeAb (hepatitis B e antibody)",
+        "C. HBcAb (hepatitis B core antibody)",
+        "D. HBsAg (hepatitis B surface antigen)",
+        "E. HBeAg (hepatitis B e antigen)"
+      ],
+      "correctAnswer": "D",
+      "explanation": "HBsAg is the first marker to appear in acute HBV infection and indicates ongoing infection in acute, chronic, and carrier states. It cannot coexist with HBsAb. HBsAb indicates immunity (either from vaccination or past infection)."
+    },
+    {
+      "id": "t2-m27",
+      "theme": 2,
+      "topicTag": "hepatitis",
+      "question": "Which ONE of the following BEST explains why hepatitis C is more likely than hepatitis B to cause chronic liver disease?",
+      "options": [
+        "A. HCV is a DNA virus that integrates into the host genome",
+        "B. HCV causes more vigorous immune-mediated hepatocyte destruction",
+        "C. An inadequate host immune response to HCV leads to viral persistence in most infected individuals",
+        "D. HCV produces more potent toxins than HBV",
+        "E. HCV replicates faster than HBV in hepatocytes"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Unlike HBV (where 95% of adult-acquired infections are cleared), HCV causes adequate immune clearance in fewer than 20% of individuals. The majority mount an inadequate response, allowing chronic viral persistence and ongoing low-level liver damage leading to fibrosis, cirrhosis, and HCC."
+    },
+    {
+      "id": "t2-m28",
+      "theme": 2,
+      "topicTag": "hepatitis",
+      "question": "The commonest route of HCV transmission in the UK is:",
+      "options": [
+        "A. Faecal-oral",
+        "B. Intravenous drug use",
+        "C. Respiratory",
+        "D. Sexual transmission",
+        "E. Vertical (mother to child)"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Intravenous drug use (sharing contaminated needles) is the most common route of HCV transmission in the UK. Sexual transmission is possible but less efficient. Unlike HBV, there is no vaccine for HCV, but curative treatment with direct-acting antivirals is now available."
+    },
+    {
+      "id": "t2-m29",
+      "theme": 2,
+      "topicTag": "hepatitis-dental",
+      "question": "A patient with alcoholic liver cirrhosis requires a dental extraction. Which ONE of the following local anaesthetics is MOST appropriate?",
+      "options": [
+        "A. Lidocaine 2% with 1:80,000 adrenaline — standard dose",
+        "B. Bupivacaine 0.5% — longest duration",
+        "C. Articaine 4% with 1:100,000 adrenaline — safe because it is partially plasma-metabolised",
+        "D. Mepivacaine 3% — no vasoconstrictor needed",
+        "E. Prilocaine 3% — metabolised in the lungs and thus safe"
+      ],
+      "correctAnswer": "C",
+      "explanation": "In liver disease, hepatic drug metabolism is impaired. Articaine is unique among amide LAs because it also undergoes hydrolysis in plasma by pseudocholinesterases (like esters), reducing reliance on hepatic clearance. Lidocaine should be limited to 2 cartridges maximum in significant liver disease."
+    },
+    {
+      "id": "t2-m30",
+      "theme": 2,
+      "topicTag": "hepatitis-dental",
+      "question": "Which ONE of the following drugs is ABSOLUTELY CONTRAINDICATED in a patient with significant liver disease who attends for dental treatment?",
+      "options": [
+        "A. Articaine",
+        "B. Nystatin",
+        "C. Chlorhexidine mouthwash",
+        "D. Miconazole gel (Daktarin)",
+        "E. Paracetamol"
+      ],
+      "correctAnswer": "E",
+      "explanation": "Paracetamol is absolutely contraindicated in patients with significant liver disease — its toxic metabolite NAPQI accumulates when hepatic glutathione stores are depleted, causing fatal hepatocyte necrosis. Also avoid NSAIDs, benzodiazepines, erythromycin, metronidazole, and tetracycline. Nystatin and chlorhexidine are safe."
+    },
+    {
+      "id": "t2-m31",
+      "theme": 2,
+      "topicTag": "lab-diagnosis",
+      "question": "Why must viral samples be sent in a viral transport medium rather than a charcoal swab?",
+      "options": [
+        "A. Charcoal swabs enhance viral viability at room temperature",
+        "B. Charcoal inactivates the PCR reaction, preventing viral DNA detection",
+        "C. Viral swabs contain preservatives that kill competing bacteria",
+        "D. Charcoal swabs are only appropriate for anaerobic bacterial samples",
+        "E. Viral transport medium is required by CQC infection control guidelines"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Charcoal in standard bacterial swabs inactivates the PCR reaction, leading to false-negative results. Always use viral transport medium for samples requiring PCR-based viral detection (e.g. HSV, VZV, SARS-CoV-2)."
+    },
+    {
+      "id": "t2-m32",
+      "theme": 2,
+      "topicTag": "lab-diagnosis",
+      "question": "Which ONE of the following staining techniques is used for Mycobacterium tuberculosis, and why is the standard Gram stain inadequate?",
+      "options": [
+        "A. Ziehl-Neelson (AAFB stain) — because mycobacteria have a thick waxy mycolic acid cell wall that prevents Gram stain penetration",
+        "B. Giemsa stain — because mycobacteria stain as Gram-negative rods",
+        "C. India ink stain — because mycobacteria have a polysaccharide capsule",
+        "D. Auramine-rhodamine — because mycobacteria are Gram-positive cocci",
+        "E. Periodic acid-Schiff — because mycobacteria contain large amounts of glycogen"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Mycobacteria contain large amounts of mycolic acid in their cell wall, which repels the aqueous Gram stain. Ziehl-Neelson (AAFB) stain uses carbolfuchsin with heat, then acid-alcohol decolourisation — mycobacteria retain the red dye (acid-fast) while other bacteria are decolourised."
+    },
+    {
+      "id": "t2-m33",
+      "theme": 2,
+      "topicTag": "lab-diagnosis",
+      "question": "Treponema pallidum, the causative agent of syphilis, is NOT visible on standard Gram staining because:",
+      "options": [
+        "A. It is a virus, not a bacterium",
+        "B. It is too thin to be visualised by conventional light microscopy without special techniques",
+        "C. It is Gram-positive and stains uniformly blue",
+        "D. It is an intracellular organism",
+        "E. It only grows in anaerobic conditions"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Treponema pallidum is a spirochaete with a diameter of only 0.1–0.18 μm — below the resolution limit of conventional light microscopy. It requires dark-field microscopy or special silver staining to visualise. It is also non-cultivable in standard laboratory media."
+    },
+    {
+      "id": "t2-m34",
+      "theme": 2,
+      "topicTag": "orofacial-infections",
+      "question": "A patient presents with a 'strawberry tongue' and a sandpaper-like skin rash following a sore throat. This is a notifiable disease. Which ONE of the following is the MOST likely diagnosis?",
+      "options": [
+        "A. Infectious mononucleosis caused by EBV",
+        "B. Scarlet fever caused by Group A Streptococcus",
+        "C. Measles caused by Paramyxovirus",
+        "D. Diphtheria caused by Corynebacterium diphtheriae",
+        "E. Hand, foot and mouth disease caused by Coxsackie virus"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Scarlet fever (Group A Streptococcus/S. pyogenes) is a notifiable disease characterised by strawberry tongue, sandpaper rash (starting in the groin/axillae, sparing face), and pharyngitis. It must be reported to Public Health England and treated with systemic antibiotics."
+    },
+    {
+      "id": "t2-m35",
+      "theme": 2,
+      "topicTag": "orofacial-infections",
+      "question": "A patient presents with a painless indurated genital ulcer that healed spontaneously 4 weeks ago. They now have cervical lymphadenopathy and a painless tongue ulcer. Which ONE of the following investigations is MOST likely to be of diagnostic value?",
+      "options": [
+        "A. Dark-field microscopy of the lesion",
+        "B. Gram staining of the lymph node aspirate",
+        "C. Throat swab for viral culture",
+        "D. Rapid plasma reagin (RPR) serological test",
+        "E. Tzanck smear of the tongue ulcer"
+      ],
+      "correctAnswer": "D",
+      "explanation": "This clinical picture describes primary syphilis (painless indurated ulcer) progressing to secondary syphilis (lymphadenopathy, oral ulcer). Rapid plasma reagin (RPR) is a screening serological test for syphilis. Patients with syphilis should also be screened for HIV, gonorrhoea, and chlamydia."
+    },
+    {
+      "id": "t2-m36",
+      "theme": 2,
+      "topicTag": "antimicrobial-mechanisms",
+      "question": "Which ONE of the following antibiotics inhibits bacterial protein synthesis by binding to the 30S ribosomal subunit and preventing tRNA entry?",
+      "options": [
+        "A. Erythromycin",
+        "B. Clindamycin",
+        "C. Metronidazole",
+        "D. Doxycycline",
+        "E. Vancomycin"
+      ],
+      "correctAnswer": "D",
+      "explanation": "Tetracyclines (doxycycline, tetracycline) bind to the 30S ribosomal subunit and block tRNA entry at the A-site. Erythromycin and clindamycin act on the 50S subunit. Metronidazole damages bacterial DNA. Vancomycin disrupts cell wall synthesis."
+    },
+    {
+      "id": "t2-m37",
+      "theme": 2,
+      "topicTag": "antimicrobial-mechanisms",
+      "question": "Metronidazole is effective against anaerobic bacteria. Which ONE of the following BEST explains its mechanism of selectivity?",
+      "options": [
+        "A. It only binds to Gram-negative bacterial ribosomes",
+        "B. Its active metabolite is only produced in the anaerobic conditions within anaerobic bacteria, directly damaging their DNA",
+        "C. It inhibits cell wall synthesis specifically in organisms lacking peptidoglycan",
+        "D. It is activated by oxygen to produce toxic free radicals",
+        "E. It inhibits the reverse transcriptase enzyme unique to anaerobes"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Metronidazole is a prodrug. In anaerobic conditions, it accepts electrons from ferredoxin-like proteins and is reduced to a toxic metabolite that directly damages bacterial DNA. Aerobic bacteria cannot reduce the drug to its toxic form, explaining its selective activity against anaerobes."
+    },
+    {
+      "id": "t2-m38",
+      "theme": 2,
+      "topicTag": "antimicrobial-mechanisms",
+      "question": "Which ONE of the following BEST describes the function of clavulanic acid in co-amoxiclav?",
+      "options": [
+        "A. It enhances amoxicillin absorption from the gut",
+        "B. It inhibits beta-lactamase enzymes, protecting amoxicillin from degradation by resistant bacteria",
+        "C. It broadens the spectrum to cover Gram-positive cocci",
+        "D. It inhibits cell wall synthesis synergistically with amoxicillin",
+        "E. It prevents renal excretion of amoxicillin, prolonging its half-life"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Clavulanic acid is a beta-lactamase inhibitor — it irreversibly inhibits the enzyme that many resistant bacteria use to break the beta-lactam ring of amoxicillin. This restores amoxicillin's efficacy against resistant organisms such as beta-lactamase-producing S. aureus and H. influenzae."
+    },
+    {
+      "id": "t2-m39",
+      "theme": 2,
+      "topicTag": "antimicrobial-mechanisms",
+      "question": "MRSA (methicillin-resistant Staphylococcus aureus) achieves resistance to beta-lactam antibiotics through which ONE of the following mechanisms?",
+      "options": [
+        "A. Producing beta-lactamase enzymes that destroy the beta-lactam ring",
+        "B. Acquiring an altered penicillin-binding protein (PBP2a) with very low affinity for beta-lactams",
+        "C. Developing efflux pumps that expel all antibiotics from the cell",
+        "D. Losing the peptidoglycan cell wall, making beta-lactams ineffective",
+        "E. Producing a polysaccharide capsule that prevents antibiotic penetration"
+      ],
+      "correctAnswer": "B",
+      "explanation": "MRSA produces an alternative penicillin-binding protein, PBP2a, encoded by the mecA gene. PBP2a has extremely low affinity for all beta-lactam antibiotics (penicillins and cephalosporins), rendering them ineffective. MRSA is treated with vancomycin, teicoplanin, or linezolid."
+    },
+    {
+      "id": "t2-m40",
+      "theme": 2,
+      "topicTag": "antimicrobial-mechanisms",
+      "question": "Which ONE of the following correctly describes the mechanism of action of vancomycin?",
+      "options": [
+        "A. Binds to the 50S ribosomal subunit, inhibiting transpeptidation",
+        "B. Inhibits DNA gyrase, preventing DNA replication",
+        "C. Binds directly to peptidoglycan monomers (D-Ala-D-Ala), disrupting cross-linkage",
+        "D. Inhibits dihydrofolate reductase, blocking folate synthesis",
+        "E. Disrupts the bacterial cell membrane by inserting into the lipid bilayer"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Vancomycin binds directly to the D-Ala-D-Ala terminal of peptidoglycan precursors, physically blocking the transglycosylation and transpeptidation steps needed for cross-linking — effectively disrupting cell wall synthesis from outside the PBP enzyme target."
+    },
+    {
+      "id": "t2-m41",
+      "theme": 2,
+      "topicTag": "antibiotic-prescribing",
+      "question": "A patient requires antibiotic therapy for a dentoalveolar abscess. Which ONE of the following is the correct first-line antibiotic and dosing regimen?",
+      "options": [
+        "A. Amoxicillin 500mg three times daily for 5 days",
+        "B. Metronidazole 400mg three times daily for 5 days",
+        "C. Penicillin V 500mg four times daily for 5 days",
+        "D. Clindamycin 150mg four times daily for 5 days",
+        "E. Clarithromycin 250mg twice daily for 7 days"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Penicillin V (phenoxymethylpenicillin) 500mg four times daily for 5 days is first-line for dentoalveolar infections. Amoxicillin (A) is broader spectrum with more side effects. Metronidazole (B) targets anaerobes specifically — preferred for pericoronitis. Clindamycin (D) is second-line."
+    },
+    {
+      "id": "t2-m42",
+      "theme": 2,
+      "topicTag": "antibiotic-prescribing",
+      "question": "A patient is allergic to penicillin and presents with pericoronitis. Which ONE of the following is the MOST appropriate antibiotic?",
+      "options": [
+        "A. Amoxicillin 500mg three times daily",
+        "B. Co-amoxiclav 625mg three times daily",
+        "C. Metronidazole 400mg three times daily for 3 days",
+        "D. Doxycycline 100mg once daily for 7 days",
+        "E. Cephalexin 500mg four times daily for 5 days"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Metronidazole is first-line for pericoronitis (predominantly anaerobic infection) and is suitable as an alternative in penicillin allergy. Amoxicillin and co-amoxiclav contain the penicillin ring and are contraindicated. Cephalosporins carry 5-10% cross-reactivity with penicillin allergy."
+    },
+    {
+      "id": "t2-m43",
+      "theme": 2,
+      "topicTag": "antibiotic-prescribing",
+      "question": "A patient on warfarin for atrial fibrillation is prescribed metronidazole for pericoronitis. Which ONE of the following BEST describes the clinical concern?",
+      "options": [
+        "A. Metronidazole reduces warfarin absorption from the gut",
+        "B. Metronidazole displaces warfarin from plasma protein binding, raising INR and increasing bleeding risk",
+        "C. Metronidazole directly activates the coagulation cascade",
+        "D. Metronidazole inhibits platelet aggregation independently of warfarin",
+        "E. There is no clinically significant interaction between metronidazole and warfarin"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Metronidazole significantly potentiates warfarin by displacing it from serum protein binding and inhibiting its CYP2C9-mediated metabolism. This raises the INR substantially, increasing bleeding risk. The patient's anticoagulation clinic should be informed and an INR check arranged."
+    },
+    {
+      "id": "t2-m44",
+      "theme": 2,
+      "topicTag": "antibiotic-prescribing",
+      "question": "Which ONE of the following antifungal agents is ABSOLUTELY CONTRAINDICATED in a patient taking warfarin?",
+      "options": [
+        "A. Nystatin suspension",
+        "B. Fluconazole",
+        "C. Amphotericin B lozenges",
+        "D. Miconazole gel (Daktarin oral gel)",
+        "E. Clotrimazole cream applied to angular cheilitis"
+      ],
+      "correctAnswer": "D",
+      "explanation": "Miconazole gel is absolutely contraindicated with warfarin — it is a potent CYP2C9 inhibitor that dramatically increases warfarin plasma levels, potentially raising INR to dangerous levels (major haemorrhage risk). Nystatin has no systemic absorption and is safe. Fluconazole also interacts with warfarin but less severely."
+    },
+    {
+      "id": "t2-m45",
+      "theme": 2,
+      "topicTag": "antibiotic-prescribing",
+      "question": "A patient takes metronidazole for pericoronitis and three days later calls reporting severe nausea, vomiting, and flushing after having a glass of wine with dinner. Which ONE of the following BEST explains this reaction?",
+      "options": [
+        "A. Metronidazole causes direct gastric irritation potentiated by alcohol",
+        "B. Metronidazole inhibits aldehyde dehydrogenase, causing acetaldehyde accumulation — a disulfiram-like reaction",
+        "C. Alcohol reduces metronidazole efficacy by competing for hepatic metabolism",
+        "D. The patient has developed alcohol intolerance as a side effect of the infection",
+        "E. This is an idiosyncratic reaction unrelated to metronidazole"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Metronidazole inhibits aldehyde dehydrogenase, causing accumulation of acetaldehyde when alcohol is metabolised. This produces an intensely unpleasant disulfiram-like reaction. Patients must be explicitly warned to avoid ALL alcohol during and for 48 hours after completing metronidazole."
+    },
+    {
+      "id": "t2-m46",
+      "theme": 2,
+      "topicTag": "antibiotic-prescribing",
+      "question": "Doxycycline is specifically contraindicated in which of the following patient groups due to risk of dental discolouration?",
+      "options": [
+        "A. Patients over 65 years",
+        "B. Pregnant women from the second trimester onwards and children under 12",
+        "C. Patients with renal failure",
+        "D. Patients taking warfarin",
+        "E. Patients with asthma"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Doxycycline binds to calcium in developing teeth, causing permanent brown-yellow discolouration and enamel hypoplasia. It should be avoided in pregnancy (from second trimester — affects dental development of the fetus) and in children under 12. It is also contraindicated in SLE (exacerbates skin condition)."
+    },
+    {
+      "id": "t2-m47",
+      "theme": 2,
+      "topicTag": "antibiotic-prescribing",
+      "question": "A patient reports an unexpected adverse drug reaction to a recently prescribed antibiotic — specifically, they develop peripheral neuropathy after a 2-week course. What is the MOST appropriate way for the prescribing dentist to formally document this?",
+      "options": [
+        "A. Write a letter to the patient's GP",
+        "B. Document it in the patient's dental notes only",
+        "C. Submit a report through the Yellow Card scheme to the MHRA",
+        "D. Phone the hospital pharmacy department",
+        "E. Report it to the local drug and therapeutics committee"
+      ],
+      "correctAnswer": "C",
+      "explanation": "The Yellow Card scheme is the UK's pharmacovigilance system run by the MHRA. Unexpected or serious adverse drug reactions should be reported via the Yellow Card scheme so that rare side effects can be monitored at population level. Dentists, GPs, nurses, and patients can all submit reports."
+    },
+    {
+      "id": "t2-m48",
+      "theme": 2,
+      "topicTag": "antibiotic-prescribing",
+      "question": "Which ONE of the following is the correct dose and route of prophylactic antibiotic to prevent osteoradionecrosis in a patient with a history of head and neck radiotherapy who is penicillin-allergic?",
+      "options": [
+        "A. Amoxicillin 3g orally 1 hour before the procedure",
+        "B. Metronidazole 400mg orally 1 hour before the procedure",
+        "C. Clindamycin 600mg orally 1 hour before the procedure",
+        "D. Clarithromycin 500mg orally 1 hour before the procedure",
+        "E. Cephalexin 2g orally 1 hour before the procedure"
+      ],
+      "correctAnswer": "C",
+      "explanation": "For prophylaxis against osteoradionecrosis in penicillin-allergic patients: clindamycin 600mg orally, given 1 hour before the procedure. Clindamycin has excellent bone penetration making it suitable for this indication. Amoxicillin (A) is the standard for non-allergic patients."
+    },
+    {
+      "id": "t2-m49",
+      "theme": 2,
+      "topicTag": "antibiotic-prescribing",
+      "question": "Which ONE of the following clinical conditions is NOT appropriate for antibiotic prescribing in dentistry?",
+      "options": [
+        "A. A spreading dentoalveolar infection with lymphadenopathy and fever",
+        "B. Acute reversible pulpitis with no clinical signs of infection",
+        "C. Pericoronitis with systemic symptoms",
+        "D. Sinusitis of dental origin requiring antibiotic adjunct to treatment",
+        "E. Localised cellulitis complicating a dental abscess"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Acute reversible pulpitis is an inflammatory condition, not an infection. There is no microbial spread requiring systemic antibiotics. The correct treatment is local — caries removal, sedative dressing, or endodontic treatment. Prescribing antibiotics for pulpitis represents inappropriate prescribing and drives resistance."
+    },
+    {
+      "id": "t2-m50",
+      "theme": 2,
+      "topicTag": "antibiotic-prescribing",
+      "question": "A pregnant patient in her first trimester presents with a spreading dentoalveolar infection requiring antibiotics. She has no allergies. Which ONE of the following is the MOST appropriate antibiotic?",
+      "options": [
+        "A. Doxycycline 100mg once daily for 5 days",
+        "B. Metronidazole 400mg three times daily (use with significant caution in first trimester)",
+        "C. Amoxicillin 500mg three times daily for 5 days",
+        "D. Clarithromycin 250mg twice daily for 5 days",
+        "E. Clindamycin 150mg four times daily"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Amoxicillin is generally considered safe in all trimesters of pregnancy. Doxycycline (A) is contraindicated in pregnancy. Clarithromycin (D) is also avoided. Metronidazole (B) should be used with significant caution in the first trimester. Clindamycin (E) should be used with caution."
+    },
+    {
+      "id": "t2-m51",
+      "theme": 2,
+      "topicTag": "prions",
+      "question": "Which ONE of the following BEST explains why standard autoclaving is insufficient to inactivate prions?",
+      "options": [
+        "A. Prions are protected by a thick lipid envelope",
+        "B. Prions contain nucleic acid that is resistant to heat denaturation",
+        "C. Prions are pure proteins with no genetic material, requiring extreme conditions for inactivation",
+        "D. Prions replicate within bacterial spores that resist steam sterilisation",
+        "E. Prions are too small to be destroyed by standard autoclave temperatures"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Prions are misfolded proteins with no nucleic acid — they cannot be killed by standard sterilisation, disinfection, or UV radiation. This led to the introduction of single-use endodontic instruments and strict prion decontamination protocols in dentistry, as prions can survive in dental pulp tissue."
+    },
+    {
+      "id": "t2-m52",
+      "theme": 2,
+      "topicTag": "infection-control",
+      "question": "During a routine extraction, a dental nurse sustains a needlestick injury from a needle used on a patient who is HBsAg-positive. The nurse has received the full HBV vaccination course. What is the FIRST action?",
+      "options": [
+        "A. Immediately take a blood sample from the patient for HIV testing",
+        "B. Remove the glove, wash the wound, and encourage bleeding — then report and follow the occupational health protocol",
+        "C. Administer HBV immunoglobulin immediately without further assessment",
+        "D. Complete the procedure first, then report the injury at the end of the session",
+        "E. Refer to hospital A&E immediately without taking any action at the practice"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Immediate wound management: remove glove, wash with soap and water, encourage bleeding, do NOT suck. Then report to the occupational health/infection control lead immediately. The nurse's HBsAb titre must be checked — if immune (titre >10 mIU/mL), reassure; if not immune, HBIG + vaccine boost required."
+    },
+    {
+      "id": "t2-m53",
+      "theme": 2,
+      "topicTag": "infection-control",
+      "question": "Which ONE of the following diseases is a notifiable disease that a dental practitioner has a legal duty to report to Public Health England?",
+      "options": [
+        "A. Herpes labialis",
+        "B. Oral candidiasis",
+        "C. Scarlet fever",
+        "D. Pericoronitis",
+        "E. Dental abscess"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Scarlet fever is a notifiable disease. Other notifiable diseases relevant to dentistry include TB, mumps, measles, whooping cough, gonorrhoea, and hepatitis B. Notifiable diseases must be reported to the local health protection team (Public Health England/UKHSA)."
+    },
+    {
+      "id": "t2-m54",
+      "theme": 2,
+      "topicTag": "orofacial-infections",
+      "question": "A child presents with a sandpaper-like rash and a tongue with a white coating and enlarged red papillae ('strawberry tongue'). Which ONE of the following is the MOST likely causative organism?",
+      "options": [
+        "A. Streptococcus pneumoniae",
+        "B. Streptococcus pyogenes (Group A Streptococcus)",
+        "C. Staphylococcus aureus",
+        "D. Haemophilus influenzae",
+        "E. Neisseria meningitidis"
+      ],
+      "correctAnswer": "B",
+      "explanation": "These are classic features of scarlet fever caused by Group A Streptococcus (S. pyogenes). The toxin-mediated rash begins in the groin and axillae. Treatment is with systemic penicillin. This is a notifiable disease."
+    },
+    {
+      "id": "t2-m55",
+      "theme": 2,
+      "topicTag": "herpes-viruses",
+      "question": "Which ONE of the following correctly describes the vaccination strategy for varicella zoster virus (VZV) in the UK?",
+      "options": [
+        "A. Childhood vaccination at 12 months is standard practice in the UK",
+        "B. Healthcare workers who are non-immune receive the live attenuated vaccine; adults aged 70 receive the shingles vaccine",
+        "C. A killed (inactivated) VZV vaccine is used for all adults over 60",
+        "D. Post-exposure prophylaxis uses the varicella vaccine in all exposed individuals",
+        "E. The VZV vaccine is contraindicated in all immunosuppressed individuals but available for the general population"
+      ],
+      "correctAnswer": "B",
+      "explanation": "In the UK, childhood VZV vaccination is NOT part of the routine schedule (unlike the USA). Healthcare workers who are VZV non-immune receive the live attenuated varicella vaccine. Adults aged 70 receive the shingles vaccine (Zostavax or Shingrix). Post-exposure prophylaxis uses VZIG (zoster immunoglobulin), not the vaccine, in high-risk individuals."
+    },
+    {
+      "id": "t2-m56",
+      "theme": 2,
+      "topicTag": "antiviral-agents",
+      "question": "Zidovudine (AZT) is used in the treatment of HIV. Which ONE of the following BEST describes its mechanism of action?",
+      "options": [
+        "A. It inhibits the viral protease, preventing polyprotein processing",
+        "B. It inhibits viral integrase, preventing proviral DNA insertion into the host genome",
+        "C. It is a nucleoside analogue that inhibits RNA-dependent DNA polymerase (reverse transcriptase)",
+        "D. It blocks viral entry into CD4 cells by binding to GP120",
+        "E. It is a non-nucleoside reverse transcriptase inhibitor that binds directly to reverse transcriptase"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Zidovudine (AZT) is a thymidine analogue (NRTI — nucleoside reverse transcriptase inhibitor). It is incorporated into the growing DNA chain and causes chain termination, preventing formation of the double-stranded viral DNA needed for integration into the host genome."
+    },
+    {
+      "id": "t2-m57",
+      "theme": 2,
+      "topicTag": "antiviral-agents",
+      "question": "A live attenuated vaccine is one in which the pathogen is weakened but still viable. Which ONE of the following vaccines uses a live attenuated organism?",
+      "options": [
+        "A. Hepatitis B vaccine",
+        "B. Diphtheria toxoid",
+        "C. Tetanus toxoid",
+        "D. Measles, mumps and rubella (MMR) vaccine",
+        "E. Influenza (injected) vaccine"
+      ],
+      "correctAnswer": "D",
+      "explanation": "The MMR vaccine contains live attenuated measles, mumps, and rubella viruses. Other live attenuated vaccines include BCG (TB), oral polio, varicella, yellow fever, and intranasal influenza. Hepatitis B (A), diphtheria toxoid (B), and tetanus toxoid (C) are not live vaccines."
+    },
+    {
+      "id": "t2-m58",
+      "theme": 2,
+      "topicTag": "infection-fundamentals",
+      "question": "A patient attends with a painful rash on their hands, feet, and in their mouth (small vesicles). They have a 3-year-old child who has been unwell with similar features. Which ONE of the following is the MOST likely diagnosis?",
+      "options": [
+        "A. Primary herpes simplex infection",
+        "B. Varicella (chickenpox)",
+        "C. Hand, foot and mouth disease caused by Coxsackie virus",
+        "D. Scarlet fever",
+        "E. Impetigo caused by Staphylococcus aureus"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Hand, foot and mouth disease is caused by Coxsackie A viruses (enteroviruses), predominantly Coxsackie A16. It is common in young children and spreads within families. Features: vesicles/ulcers on the buccal mucosa, tongue, palate, and soles/palms. It is self-limiting and requires no specific antiviral treatment."
+    },
+    {
+      "id": "t2-m59",
+      "theme": 2,
+      "topicTag": "hepatitis",
+      "question": "A patient with chronic hepatitis B is found to be HBeAg-negative but HBeAb-positive. Which ONE of the following BEST describes their current hepatitis B status?",
+      "options": [
+        "A. They are fully immune to hepatitis B",
+        "B. They have acute hepatitis B with high infectivity",
+        "C. They are a chronic carrier with low-level replication and lower infectivity",
+        "D. They have no evidence of current or past HBV infection",
+        "E. They have successfully received the hepatitis B vaccine"
+      ],
+      "correctAnswer": "C",
+      "explanation": "HBeAg-negative/HBeAb-positive in a patient who is also HBsAg-positive (still infected) indicates a chronic infection with low viral replication and therefore lower infectivity compared to the HBeAg-positive state. However, they remain infectious and the virus can still cause progressive liver damage."
+    },
+    {
+      "id": "t2-m60",
+      "theme": 2,
+      "topicTag": "antibiotic-prescribing",
+      "question": "Which ONE of the following antibiotics has the MOST drug interactions and therefore requires the greatest caution when prescribing alongside other medications?",
+      "options": [
+        "A. Amoxicillin",
+        "B. Metronidazole",
+        "C. Clarithromycin",
+        "D. Penicillin V",
+        "E. Doxycycline"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Clarithromycin is a potent inhibitor of CYP3A4 and has the most drug interactions of the commonly prescribed dental antibiotics. It raises plasma levels of statins (rhabdomyolysis risk), warfarin, theophylline, digoxin, and many other drugs. Metronidazole also has significant interactions (warfarin, alcohol) but fewer overall."
+    },
+    {
+      "id": "t2-m61",
+      "theme": 2,
+      "topicTag": "orofacial-infections",
+      "question": "What is the most common cause of bacterial infective endocarditis in patients with pre-existing valvular heart disease following dental procedures?",
+      "options": [
+        "A. Staphylococcus aureus",
+        "B. Streptococcus pyogenes",
+        "C. Oral streptococci (viridans group)",
+        "D. HACEK organisms",
+        "E. Candida albicans"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Oral streptococci (viridans streptococci — S. sanguis, S. mutans, S. oralis) are the most common cause of IE in patients with pre-existing valvular abnormalities. They gain access through bacteraemia from dental procedures or even daily tooth-brushing."
+    },
+    {
+      "id": "t2-m62",
+      "theme": 2,
+      "topicTag": "antimicrobial-mechanisms",
+      "question": "Co-trimoxazole is a synergistic antibiotic combination. Which ONE of the following BEST describes how its two components act synergistically?",
+      "options": [
+        "A. Sulfamethoxazole inhibits dihydrofolate reductase; trimethoprim inhibits dihydropteroate synthetase",
+        "B. Trimethoprim inhibits dihydropteroate synthetase; sulfamethoxazole inhibits dihydrofolate reductase",
+        "C. Both drugs inhibit different steps in folate synthesis, creating a sequential block",
+        "D. Trimethoprim blocks cell wall synthesis; sulfamethoxazole inhibits protein synthesis",
+        "E. Both drugs compete with PABA for dihydropteroate synthetase"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Co-trimoxazole works by a sequential double block of bacterial folate synthesis: sulfamethoxazole inhibits dihydropteroate synthetase (earlier step), and trimethoprim inhibits dihydrofolate reductase (later step). This two-pronged attack creates a synergistic effect much greater than either drug alone."
+    },
+    {
+      "id": "t2-m63",
+      "theme": 2,
+      "topicTag": "antibiotic-prescribing",
+      "question": "A patient with a known penicillin allergy requires an antibiotic for a dental abscess. They also have a history of C. difficile colitis from a previous antibiotic course. Which ONE of the following is the MOST appropriate antibiotic?",
+      "options": [
+        "A. Clindamycin 150mg four times daily",
+        "B. Metronidazole 400mg three times daily",
+        "C. Clarithromycin 250mg twice daily",
+        "D. Co-amoxiclav 625mg three times daily",
+        "E. Cephalexin 500mg four times daily"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Metronidazole is the best choice here: it is suitable for penicillin allergy, targets the likely anaerobic organisms in a dental abscess, and — critically — is used to TREAT C. difficile infection, not cause it. Clindamycin (A) is notorious for causing C. difficile pseudomembranous colitis and is absolutely avoided in this patient."
+    },
+    {
+      "id": "t2-m64",
+      "theme": 2,
+      "topicTag": "hepatitis-dental",
+      "question": "A patient with severe alcoholic hepatitis is seen for an emergency dental extraction. Before administering sedation, you review their medications and note they are on diazepam for anxiety. Which ONE of the following concerns is MOST important?",
+      "options": [
+        "A. Diazepam may reduce local anaesthetic efficacy",
+        "B. Diazepam is not metabolised in liver disease and will accumulate, potentially causing toxicity and coma",
+        "C. Diazepam increases bleeding risk through platelet inhibition",
+        "D. Diazepam is contraindicated with adrenaline in local anaesthetics",
+        "E. The combination of diazepam and alcohol is only a concern if the patient actively drinks during the appointment"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Benzodiazepines are extensively metabolised in the liver. In severe liver disease, hepatic clearance is dramatically impaired, causing drug accumulation. Even prescribed therapeutic doses of benzodiazepines can precipitate hepatic encephalopathy or coma in cirrhotic patients. Conscious sedation should be avoided unless in a specialist unit."
+    },
+    {
+      "id": "t2-m65",
+      "theme": 2,
+      "topicTag": "antiviral-agents",
+      "question": "Interferon alpha is used as an antiviral agent. Which ONE of the following BEST describes its mechanism of action?",
+      "options": [
+        "A. It directly inhibits viral RNA polymerase",
+        "B. It binds to specific viral surface glycoproteins to prevent cell entry",
+        "C. It is a cytokine that enhances cytotoxic T-lymphocyte activity and induces antiviral protein synthesis in surrounding cells",
+        "D. It acts as a competitive inhibitor of viral protease",
+        "E. It prevents viral DNA integration into the host genome"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Interferons are glycoproteins produced by the body in response to viral infection. They act on neighbouring cells to induce an antiviral state — upregulating MHC class I presentation, activating NK cells, and enhancing cytotoxic T-lymphocyte activity. They were historically used for hepatitis B and C treatment."
+    },
+    {
+      "id": "t2-m66",
+      "theme": 2,
+      "topicTag": "infection-fundamentals",
+      "question": "Which ONE of the following molecular diagnostic techniques is MOST appropriate for diagnosing a CHRONIC infection such as HIV?",
+      "options": [
+        "A. PCR detecting viral RNA",
+        "B. Serology detecting antibodies to the virus",
+        "C. Viral culture on specific cell lines",
+        "D. Electron microscopy of peripheral blood",
+        "E. Direct antigen detection by ELISA on a swab sample"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Serology (antibody detection) is preferred for chronic infections — the body has had time to mount an antibody response that becomes progressively stronger. PCR is better for acute infections (early after exposure, before seroconversion) or when quantifying viral load. For HIV, a combination of p24 antigen and antibody testing (4th generation test) is now used."
+    },
+    {
+      "id": "t2-m67",
+      "theme": 2,
+      "topicTag": "antibiotic-prescribing",
+      "question": "A patient being treated for pericoronitis develops double vision and severe headaches while taking metronidazole. They stop the drug and symptoms resolve. Which ONE of the following is the MOST appropriate action for the prescribing dentist?",
+      "options": [
+        "A. Re-prescribe metronidazole at a lower dose",
+        "B. Prescribe an alternative antibiotic and report the adverse reaction via the Yellow Card scheme",
+        "C. Refer the patient to neurology for investigation of their visual symptoms",
+        "D. Notify the patient's GP by telephone only",
+        "E. Document the reaction in the patient's notes and take no further action"
+      ],
+      "correctAnswer": "B",
+      "explanation": "The prescribing dentist should: (1) prescribe an alternative antibiotic to treat the ongoing infection; (2) submit a Yellow Card report to the MHRA — double vision and severe headaches are unexpected serious adverse drug reactions that must be formally reported. Documentation in patient notes is also required but insufficient on its own."
+    },
+    {
+      "id": "t2-m68",
+      "theme": 2,
+      "topicTag": "lab-diagnosis",
+      "question": "When requesting a laboratory investigation for a dental infection, which ONE of the following samples provides the MOST useful information for both organism identification and antibiotic sensitivity?",
+      "options": [
+        "A. Surface swab from the gingival margin",
+        "B. Charcoal swab from the oral mucosa",
+        "C. Aspirate of pus from the abscess",
+        "D. Viral transport medium swab",
+        "E. Blood culture only"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Aspirated pus or tissue provides a much better sample than a swab — swabs pick up surface organisms and may miss the causative pathogen. Pus aspirate allows both culture and antibiotic susceptibility testing on the actual infecting organisms. Anaerobes may also die in swabs."
+    },
+    {
+      "id": "t2-m69",
+      "theme": 2,
+      "topicTag": "antiviral-agents",
+      "question": "After completing nitrous oxide sedation, the patient should receive 100% oxygen for a minimum of 3 minutes. Which ONE of the following BEST explains the reason for this?",
+      "options": [
+        "A. To neutralise residual nitrous oxide molecules in the blood",
+        "B. To prevent diffusion hypoxia — large volumes of N₂O leaving the blood rapidly can displace oxygen from the alveoli",
+        "C. To reverse the amnesic effects of nitrous oxide",
+        "D. To compensate for the tachycardia caused by nitrous oxide",
+        "E. Because 100% oxygen is required by CQC regulations following all inhalation sedation"
+      ],
+      "correctAnswer": "B",
+      "explanation": "When N₂O administration stops, its poor blood solubility causes rapid elimination via the lungs. The large volume of N₂O pouring from the blood into the alveoli can displace oxygen, causing diffusion hypoxia (the patient effectively breathes very high-concentration N₂O briefly). Three minutes of 100% O₂ prevents this."
+    },
+    {
+      "id": "t2-m70",
+      "theme": 2,
+      "topicTag": "antibiotic-prescribing",
+      "question": "Which ONE of the following is NOT an appropriate indication for prophylactic antibiotic prescribing in dentistry?",
+      "options": [
+        "A. Prevention of wound infection in a patient with previous head and neck radiotherapy undergoing tooth extraction",
+        "B. Prophylaxis against infective endocarditis in a patient with a prosthetic heart valve — routinely before extractions",
+        "C. Prevention of infection following bone grafting for a dental implant in a compromised patient",
+        "D. Prevention of oro-antral communication infection when extracting an upper molar",
+        "E. Prevention of wound infection in a bone marrow transplant recipient requiring oral surgery"
+      ],
+      "correctAnswer": "B",
+      "explanation": "NICE (2016) guidelines explicitly state that antibiotic prophylaxis against infective endocarditis is NOT routinely recommended before dental procedures, even in high-risk patients with prosthetic valves. The risk of anaphylaxis from antibiotic prophylaxis may exceed the risk of IE from a single dental procedure."
+    }
+  ]
+}

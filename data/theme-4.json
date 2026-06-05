@@ -1,0 +1,1218 @@
+{
+  "theme": {
+    "id": 4,
+    "title": "Pain & Anxiety Control",
+    "difficulty": "medium",
+    "lectureCount": 5,
+    "learningOutcomes": [
+      "HD10",
+      "HD11",
+      "HD12",
+      "HD13",
+      "HD14",
+      "HD15",
+      "HD16"
+    ]
+  },
+  "groundIt": [
+    {
+      "clusterId": "t4-c1",
+      "clusterTitle": "Neurophysiology of Nociception & the Biopsychosocial Model of Pain",
+      "content": "Pain is defined as 'an unpleasant sensory and emotional experience associated with actual or potential tissue damage.' Nociception refers to the mechanisms that detect and transmit noxious stimuli — the physical journey of the pain signal from tissue to brain. The emotional interpretation of that signal is what becomes the experienced pain.\n\nIn the orofacial region, pain is transmitted primarily by the trigeminal nerve (CNV), with the exception of the angle of the jaw (upper cervical nerves). The trigeminal nerve has three branches: ophthalmic (V1), maxillary (V2), and mandibular (V3). Nociceptors on peripheral nerve endings detect tissue damage via the release of algogenic substances — the 'inflammatory soup' — including substance P and prostaglandins. These activate two main types of nociceptive axons: A-delta fibres (fast, heavily myelinated, respond mainly to mechanical stimuli, produce short sharp pain — associated with reversible pulpitis and dentine hypersensitivity) and C fibres (slow, unmyelinated, polymodal — respond to mechanical, thermal, and chemical stimuli, produce throbbing persistent pain — associated with irreversible pulpitis). A-delta fibres are found in the dentine periphery; C fibres in the centre of the pulp.\n\nThe pain pathway: algogenic substances → nociceptor activation on A-delta or C fibres in trigeminal afferents → signal travels to trigeminal ganglion (very little crossover here — good for localising pain) → enters brainstem at the pons → trigeminal nucleus caudalis (TNC) where second-order neurones arise → thalamus (third-order neurones) → cortex (pain perceived). The TNC has three divisions: mesencephalic nucleus (proprioception — jaw close reflex), principal nucleus (proprioception for other orofacial behaviour), and spinal nucleus (receives majority of nociceptive input).\n\nModulation occurs at multiple levels: gate control theory (A-beta fibres carrying non-painful stimuli activate descending inhibition at the TNC level, closing the 'gate' to nociceptive signals — the basis of TENS); descending control through the periaqueductal grey matter (PAG) and nucleus raphe magnus using serotonin as neurotransmitter; and sensitisation — progressive increase in response with repeated stimuli. Peripheral sensitisation: chronically inflamed nociceptors develop lower thresholds (hyperalgesia — increased pain from painful stimuli; allodynia — pain from non-painful stimuli). Central sensitisation: prolonged input causes second-order neurones to become sensitised — basis of chronic pain. Convergence causes referred pain (brain misattributes origin — cardiac pain referred to mandible). Divergence causes radiation (one primary afferent synapses several second-order neurones — gives pain a wider perceived area).\n\nPersistent idiopathic dentoalveolar pain (PIPD): pain from an area where a tooth or nerve has been removed, present >2 months — likely central sensitisation. Warning signs: difficulty localising, no obvious local pathology, burning/electric shock quality, numbness, failure of LA, pain beyond normal healing timeframe, repeated failed treatments. The biopsychosocial model recognises that pain has biological, psychological, and sociological components — all feeding into each other. Multidisciplinary management (pharmacology + physiotherapy + cognitive behavioural therapy) produces the best outcomes for chronic orofacial pain.",
+      "selfExplainPrompt": "Explain the difference between A-delta and C nerve fibres in the context of dental pain, and connect this to how you might distinguish reversible from irreversible pulpitis clinically."
+    },
+    {
+      "clusterId": "t4-c2",
+      "clusterTitle": "Peripheral Analgesics — Paracetamol, NSAIDs & COX-2 Inhibitors",
+      "content": "Peripheral analgesics target the inflammatory cascade at or near the site of injury, inhibiting algogenic substances responsible for nociceptor activation.\n\nParacetamol (acetaminophen): mechanism of action is uncertain — possibly prostaglandin inhibition in the hypothalamus. It is antipyretic, analgesic, and weakly anti-inflammatory. Very safe at therapeutic doses. Adult dose: 500mg–1g four times daily (oral, IV, PR). Avoid in patients with pre-existing liver disease. The danger of paracetamol is overdose: 90% is harmlessly excreted; 10% is converted via CYP450 to NAPQI (a hepatotoxic metabolite), normally inactivated by glutathione. In overdose, glutathione stores are depleted and NAPQI accumulates, causing hepatocyte death. Treatment: activated charcoal within 4 hours; N-acetylcysteine (NAC — a glutathione precursor) within 12 hours. Maximum safe dose: 4g/24 hours; 10–15g causes acute liver damage; >25g is invariably fatal.\n\nNSAIDs (non-steroidal anti-inflammatory drugs): Examples — aspirin, ibuprofen, diclofenac, mefenamic acid. Mechanism: non-selective block of cyclo-oxygenase (COX) enzymes, preventing conversion of arachidonic acid to cyclic endoperoxides. COX-1 is constitutive (always active) — produces prostaglandins involved in gastric mucosal protection and platelet aggregation via thromboxane A2. COX-2 is inducible (expressed during inflammation) — produces prostaglandins involved in pain, fever, and inflammation. Benefits: analgesic, antipyretic, anti-inflammatory, antiplatelet (aspirin). Aspirin: irreversible COX inhibitor; effects last 7–10 days (platelet lifespan); used at 75mg/day as antiplatelet therapy; 300mg is given in suspected MI in the dental surgery. Ibuprofen: 400mg three times daily; reduced GI and CVS risk vs aspirin. Side effects of NSAIDs: gastric ulceration (block COX-1 mucosal protection); platelet dysfunction and bleeding risk; can precipitate asthma attacks (bronchoconstriction via lipoxygenase pathway); renal toxicity (non-selective prostaglandin block impairs renal blood flow); Reye's syndrome in children (avoid in under-12s — swelling of brain and liver); CV risk (diclofenac and indomethacin — prostacyclin block → prothrombotic). Dental regimen: paracetamol 500mg–1g 4× daily plus ibuprofen 400mg 3× daily, staggered — this combination synergistically improves analgesia.\n\nCOX-2 inhibitors (coxibs — suffix '-oxib'): selectively inhibit COX-2 only; 'safe aspirin' — decreased gastric ulceration compared to traditional NSAIDs. However: prostacyclin inhibition without thromboxane inhibition → prothrombotic state → significantly increased risk of myocardial infarction. Not suitable for patients with cardiac disease.",
+      "selfExplainPrompt": "Explain why paracetamol is dangerous in overdose, focusing on the role of NAPQI and glutathione. Then state two patient groups for whom NSAIDs should be avoided and why."
+    },
+    {
+      "clusterId": "t4-c3",
+      "clusterTitle": "Central Analgesics & Opioids",
+      "content": "Opioids are the main class of centrally acting analgesics — defined as 'any directly acting compound whose effects are antagonised by naloxone.' They act on three receptor types: mu (µ), kappa (κ), and sigma (δ). Mu receptors mediate supraspinal and spinal analgesia (µ1), marked respiratory depression (µ2), pupillary constriction, decreased GI motility, euphoria, and addiction. Opioids act centrally by activating descending inhibitory control from the PAG through serotonin and endorphin release; peripherally by causing afferent hyperpolarisation (potassium influx, inhibition of calcium channels and cAMP).\n\nClassification by strength: weak (codeine — 30–60mg 4× daily; methylmorphine, 10% converted to morphine in liver, suppresses cough reflex, constipation); intermediate/partial agonists (buprenorphine); strong (pure agonists — morphine, 1–10mg IV; fentanyl, alfentanil, remifentanil). Tramadol is unique — an opioid but also inhibits noradrenaline and serotonin reuptake, giving less constipation and respiratory depression; risk of seizures and serotonin syndrome — do not use with SSRIs.\n\nIndications: moderate-to-severe pain that significantly impacts function or quality of life, where non-opioid therapy has failed. Main dental uses: severe postoperative pain following major oral surgery; terminal illness pain management.\n\nAdverse effects: respiratory depression (acts on central respiratory centres — most dangerous), nausea and vomiting (stimulates chemoreceptor trigger zone in medulla), constipation (decreased GI motility — very common), urinary retention, pupillary constriction (miosis), and dependence. Morphine: extensive first-pass metabolism orally (only 20% reaches systemic circulation) — prefer IV in acute severe pain; active metabolites excreted renally — reduce dose in renal failure. Tolerance (reduced effect over time) and dependence (physical withdrawal syndrome on cessation) are distinct from addiction (compulsive use despite harm — psychological). Methadone is used in opioid rehabilitation — high mu receptor affinity and very long half-life reduces withdrawal.\n\nOpioid overdose: miosis (pinpoint pupils) + bradypnoea. Management: ABC assessment + CPR if needed; high-flow oxygen; IV naloxone 0.2–0.4mg, repeat every 2–3 minutes up to 10mg.",
+      "selfExplainPrompt": "Name two specific opioid adverse effects and explain the mechanism behind each. Then state the antidote for opioid overdose, including the dose and route."
+    },
+    {
+      "clusterId": "t4-c4",
+      "clusterTitle": "Local Anaesthesia — Pharmacology, pKa, Vasoconstrictors & Clinical Use",
+      "content": "Local anaesthesia is defined as loss of sensation in a circumscribed area by depression of excitation in nerve endings or inhibition of conduction in peripheral nerves. All local anaesthetics affect any excitable tissue — including CNS, cardiac tissue, and peripheral nerves.\n\nMechanism of action: two theories — membrane expansion (unionised LA expands the lipid bilayer, disrupting sodium channel function) and specific receptor theory (unionised LA crosses the membrane → becomes ionised inside → binds to the h-gate on the intracellular surface of the voltage-gated sodium channel → prevents depolarisation). Voltage-gated sodium channels have three states: resting (closed), open (depolarisation — m-gate opens, sodium floods in), and inactivated (repolarisation — h-gate closes, potassium floods out). LA binds the inactivated state.\n\nLA molecular structure: aromatic group (lipophilic) — intermediate chain (ester or amide) — substituted amino terminal (hydrophilic). Two major classes: amides (lidocaine, articaine, bupivacaine, prilocaine — metabolised mainly in liver; prilocaine also in lungs; articaine also has plasma ester hydrolysis) and esters (procaine — metabolised rapidly in blood by pseudocholinesterases; major metabolite PABA accounts for most ester allergies). Amides are much more commonly used — esters carry higher allergy risk.\n\nFactors affecting onset and duration: (1) pKa — lower pKa = more uncharged molecules at tissue pH = faster onset. Lidocaine pKa 7.9, articaine 7.8 (faster), bupivacaine 8.1 (slower). Infected tissue is more acidic → more LA exists in ionised form → reduced efficacy — this explains why LA often fails in acute abscesses. (2) Lipid solubility (partition coefficient) — higher = crosses nerve sheath faster = faster onset. (3) Protein binding — higher = longer duration. Lidocaine 64% protein bound, half-life 90 min; bupivacaine 96% protein bound, half-life 160 min. (4) Vasodilatory ability — greater = LA washed away faster = shorter duration. Most LAs are vasodilators.\n\nVasoconstrictors: overcome vasodilation, prolong duration, deepen anaesthesia, improve haemostasis, reduce systemic absorption. UK vasoconstrictors: adrenaline (a catecholamine; acts on alpha-1 → vasoconstriction/raised BP; beta-1 → increased heart rate/contractility; beta-2 → bronchodilation; 1:80,000 in UK — a 2.2ml cartridge contains 27.5 micrograms) and felypressin (synthetic peptide; causes coronary artery vasoconstriction; oxytocic — avoid in pregnancy). Drug interactions with adrenaline: tricyclic antidepressants (increase pressor effect — doubled BP rise, limit dose); beta-blockers (unopposed alpha → hypertensive crisis, limit dose); MAOIs (impair adrenaline breakdown — limit dose); entacapone/tolcapone (COMT inhibitors — limit dose); recreational drugs (amphetamines, cocaine, cannabis — increase adrenaline toxicity, avoid for 24 hours if possible).\n\nToxic doses: lidocaine — 4.4mg/kg; ceiling dose 500mg (~11 cartridges). 1 cartridge per 10kg of body weight (e.g. 60kg patient = maximum 6 cartridges). Toxicity symptoms: early — sedation, dizziness, tachycardia; later — confusion, slurred speech; late — seizure, cardiac arrest. Always aspirate before injecting to avoid intravascular injection. Liver disease — reduce dose and use articaine (partially plasma-metabolised) rather than relying solely on hepatic clearance. CNS toxicity: low doses excitatory (block inhibitory neurones); high doses inhibitory (respiratory arrest). CVS toxicity: reduced cardiac output, circulatory collapse. Management of LA overdose: stop procedure; ABCDE; IV anticonvulsants; IV lipid emulsion (lipid rescue).",
+      "selfExplainPrompt": "Explain why local anaesthesia often fails in an area of acute infection, linking your answer to pKa and tissue pH. Then name two drug interactions with adrenaline in LA that are relevant to dental practice."
+    },
+    {
+      "clusterId": "t4-c5",
+      "clusterTitle": "Sedation & Anxiolytic Drugs — Nitrous Oxide, Benzodiazepines & IV Sedation",
+      "content": "Conscious sedation is defined as 'a technique in which use of a drug or drugs produces a state of depression of the nervous system enabling treatment to be carried out, but during which verbal contact with the patient is maintained throughout.' No loss of consciousness occurs. Indications: anxiety, uncooperative patients, difficult procedures, gag reflex, and some medical conditions (e.g. movement disorders).\n\nRoutes: inhalation, IV (allows titration — most reliable), transmucosal (intranasal, buccal, sublingual), oral (unpredictable absorption due to first-pass metabolism, cannot be titrated), intramuscular.\n\nBenzodiazepines: act on GABA-A receptors throughout the CNS (cerebral cortex, motor circuits, spinal cord, brainstem). GABA is an inhibitory neurotransmitter — it causes chloride influx, hyperpolarising the membrane and raising the threshold for firing. Benzodiazepines enhance this GABA effect, prolonging repolarisation. Clinical effects: anxiolysis, sedation, detachment, anterograde amnesia (memory loss from time of administration forward), muscle relaxation, disinhibition, anticonvulsant effect, and at high doses — anaesthesia. Important: benzodiazepines are NOT analgesics — good local anaesthesia is essential alongside sedation. Side effects: respiratory depression (greatest risk — synergistic with opioids and alcohol), cardiovascular depression (reduced vascular resistance → lower BP), sexual fantasies (both sexes at higher doses), tolerance, over-sedation in elderly.\n\nDiazepam: insoluble in water → dissolved in organic solvent → pain on injection + thrombophlebitis. Half-life 43 hours; active metabolite desmethyldiazepam has half-life up to 72 hours → rebound sedation. No longer the preferred agent for dental IV sedation.\n\nMidazolam: current first-choice agent for IV sedation in dentistry. Water-soluble at pH 4 → non-irritant; at physiological pH becomes lipid-soluble → crosses blood-brain barrier easily. 2–3× more potent than diazepam. Half-life only 1.9 hours; active metabolite 1-hydroxymidazolam has short half-life (no rebound sedation). Dose: 0.07–0.1 mg/kg. Elderly patients are markedly more sensitive — titrate with small increments. Erythromycin and cimetidine inhibit midazolam metabolism. Flumazenil is the benzodiazepine antagonist — reverses sedation; short half-life (53 min) so resedation is possible; not for routine reversal (cost, abrupt reversal).\n\nNitrous oxide (N2O): only inhalation agent in routine conscious sedation use. Colourless, sweet-smelling gas; stored in light blue cylinders in liquid form; blood:gas partition coefficient 0.47 (very low solubility → rapid onset and recovery). MAC ~105% — theoretical impossibility of inducing anaesthesia at atmospheric pressure; but >50% concentrations can cause light anaesthesia. Never use >70% nitrous oxide (maintain minimum 30% oxygen). After stopping N2O, administer 100% oxygen for 3 minutes to prevent diffusion hypoxia (displaced alveolar oxygen). Analgesic equivalent of 50% N2O ≈ 10mg morphine IM in a 70kg adult. Occupational hazards from chronic exposure: oxidises vitamin B12 → impairs methionine synthetase → impaired DNA synthesis → haematological disorders (pernicious anaemia), neurological problems (peripheral neuropathy), reproductive problems (miscarriage, reduced fertility), liver and renal impairment, and increased malignancy. UK exposure limit: 100 ppm over 8 hours. Active scavenging and ventilation are mandatory. Remimazolam: a newer benzodiazepine metabolised by tissue esterases (not liver) — dose adjustment not required in hepatic/renal impairment; faster induction and recovery than midazolam. Temazepam is used as an oral pre-medication (10mg 30 minutes before procedure) for very anxious patients.",
+      "selfExplainPrompt": "Explain why midazolam is now preferred over diazepam for IV sedation in dentistry, comparing their half-lives and side effect profiles. Then state two measures required to prevent occupational exposure to nitrous oxide."
+    }
+  ],
+  "recallIt": [
+    {
+      "id": "t4-r1",
+      "question": "What is the difference between pain and nociception?",
+      "answer": "Nociception is the physiological transmission of a noxious signal from the periphery to the brain. Pain is the subjective experience — the emotional interpretation of that signal. Pain can exist without nociception (e.g. phantom limb pain) and nociception can occur without pain being perceived."
+    },
+    {
+      "id": "t4-r2",
+      "question": "What types of pain do A-delta fibres and C fibres produce? What dental conditions are associated with each?",
+      "answer": "A-delta fibres (fast, myelinated): short, sharp pain from mechanical stimuli → reversible pulpitis, dentine hypersensitivity.\nC fibres (slow, unmyelinated): persistent, throbbing pain from mechanical/thermal/chemical stimuli → irreversible pulpitis.\nA-delta fibres are in the dentine periphery; C fibres are in the centre of the pulp."
+    },
+    {
+      "id": "t4-r3",
+      "question": "What is the mechanism of paracetamol toxicity and what is the treatment?",
+      "answer": "10% of paracetamol is converted to NAPQI (N-acetyl-p-benzoquinone imine) via CYP450. NAPQI is hepatotoxic — normally inactivated by glutathione. In overdose, glutathione is depleted and NAPQI accumulates → hepatocyte death. Treatment: activated charcoal within 4 hours; N-acetylcysteine (NAC — restores glutathione) within 12 hours."
+    },
+    {
+      "id": "t4-r4",
+      "question": "What are the two main adverse effects of NSAIDs that make them unsuitable for certain patient groups?",
+      "answer": "1. Gastric ulceration — COX-1 block reduces gastric mucosal protection → avoid in patients with peptic ulcer disease\n2. Platelet dysfunction and bleeding risk → avoid in patients with coagulopathies\nAlso: trigger asthma in susceptible patients; renal toxicity (prostaglandin block impairs renal perfusion); cardiovascular risk (diclofenac, indomethacin); Reye's syndrome in under-12s."
+    },
+    {
+      "id": "t4-r5",
+      "question": "What is the recommended dental analgesic regimen for adult dental pain?",
+      "answer": "Paracetamol 500mg–1g 4× daily PLUS ibuprofen 200–400mg 3× daily, taken in a staggered manner. This combination produces greater analgesia than either drug alone. LA can also be combined with either or both."
+    },
+    {
+      "id": "t4-r6",
+      "question": "What is the pKa of a local anaesthetic and why does a lower pKa give a faster onset?",
+      "answer": "pKa is the pH at which equal amounts of ionised and unionised drug are present. Lower pKa = more drug exists in the uncharged (unionised) form at tissue pH (7.4) = more drug can cross the lipophilic cell membrane = faster onset of action. Lidocaine pKa 7.9, articaine 7.8 (faster), bupivacaine 8.1 (slower)."
+    },
+    {
+      "id": "t4-r7",
+      "question": "Why does local anaesthesia often fail in infected tissue?",
+      "answer": "Infected tissue is more acidic (lower pH) than normal tissue. At a lower pH, more of the LA molecule exists in the ionised (charged) form. The ionised form cannot cross the lipophilic cell membrane to reach the intracellular binding site on the sodium channel. Therefore, less drug reaches its target and the block is incomplete."
+    },
+    {
+      "id": "t4-r8",
+      "question": "Name four drug interactions with adrenaline in local anaesthesia and the consequence of each.",
+      "answer": "1. Tricyclic antidepressants → decreased adrenaline reuptake → pressor effect doubled → limit dose\n2. Beta-blockers → unopposed alpha-adrenergic effects → hypertensive crisis → limit dose\n3. MAOIs → impaired adrenaline metabolism (COMT enzyme) → limit dose\n4. Recreational drugs (cocaine, amphetamines, cannabis) → increased adrenaline toxicity → avoid for 24 hours"
+    },
+    {
+      "id": "t4-r9",
+      "question": "What is the maximum dose of lidocaine and how many cartridges does this represent?",
+      "answer": "Maximum dose: 4.4mg/kg; ceiling dose 500mg (never exceed regardless of weight). Each 2.2ml cartridge of 2% lidocaine contains 44mg. Ceiling = ~11 cartridges. Practical rule: 1 cartridge per 10kg of body weight (e.g. 60kg patient = max 6 cartridges)."
+    },
+    {
+      "id": "t4-r10",
+      "question": "What are the signs of local anaesthetic toxicity in the CNS and cardiovascular system?",
+      "answer": "CNS (early excitatory): sedation, dizziness, anxiety, trembling\nCNS (later): confusion, slurred speech, drowsiness\nCNS (late/severe): seizures, coma\nCVS: initially increased HR and BP; then cardiac instability; finally circulatory collapse/cardiac arrest\nManagement: stop procedure; ABCDE; IV anticonvulsants; IV lipid emulsion (lipid rescue)"
+    },
+    {
+      "id": "t4-r11",
+      "question": "What is the definition of conscious sedation?",
+      "answer": "A technique in which use of a drug or drugs produces a state of depression of the nervous system enabling treatment to be carried out, but during which verbal contact with the patient is maintained throughout the period of sedation. No loss of consciousness occurs. Patient responds to spoken command."
+    },
+    {
+      "id": "t4-r12",
+      "question": "How do benzodiazepines produce their sedative effects?",
+      "answer": "Benzodiazepines act on GABA-A receptors in the CNS. They enhance the effect of GABA (an inhibitory neurotransmitter), increasing chloride ion influx → membrane hyperpolarisation → raised threshold for neuronal firing → reduced sensory input to higher brain centres. This produces anxiolysis, sedation, amnesia, muscle relaxation, and anticonvulsant effects."
+    },
+    {
+      "id": "t4-r13",
+      "question": "Why is midazolam preferred over diazepam for IV sedation in dentistry?",
+      "answer": "Midazolam: water-soluble (non-irritant injection, no thrombophlebitis); half-life 1.9 hours (vs diazepam 43 hours); no long-lasting active metabolites (vs desmethyldiazepam in diazepam with 72-hour half-life → rebound sedation); 2–3× more potent; more predictable amnesic properties. Diazepam dissolved in organic solvent causes venous pain and thrombophlebitis."
+    },
+    {
+      "id": "t4-r14",
+      "question": "What are the health risks of chronic nitrous oxide exposure?",
+      "answer": "Oxidises vitamin B12 → inhibits methionine synthetase → impaired DNA synthesis:\n- Haematological: pernicious anaemia, impaired bone marrow function\n- Neurological: peripheral neuropathy (myelinopathies), paraesthesiae\n- Reproductive: miscarriage, spontaneous abortion, reduced fertility\n- Hepatic and renal: impaired function\n- Malignancy risk\nUK occupational limit: 100 ppm over 8 hours. Prevention: active scavenging, ventilation, proper nose mask technique."
+    },
+    {
+      "id": "t4-r15",
+      "question": "What is the minimum alveolar concentration (MAC) of nitrous oxide and why is this significant?",
+      "answer": "MAC of N2O is approximately 105% — meaning it would theoretically require a concentration greater than atmospheric to produce anaesthesia in 50% of patients. Since 105% is impossible to achieve at normal atmospheric pressure while maintaining adequate oxygenation, N2O is an extremely safe sedation agent with a very wide margin between sedation and anaesthesia. However, concentrations >50% can cause light anaesthesia in some patients, so >70% should never be used."
+    },
+    {
+      "id": "t4-r16",
+      "question": "What are the three µ (mu) opioid receptor effects that are most clinically significant?",
+      "answer": "1. Supraspinal and spinal analgesia (µ1) — the desired therapeutic effect\n2. Marked respiratory depression (µ2) — most dangerous adverse effect; dose-dependent\n3. Dependence/addiction (µ1) — compulsive drug-seeking behaviour"
+    }
+  ],
+  "applyIt": [
+    {
+      "id": "t4-a1",
+      "scenario": "A 32-year-old woman with a known penicillin allergy and no other medical history attends with severe irreversible pulpitis. She is distressed and in significant pain. Which analgesic regimen is most appropriate for pain management while you arrange definitive treatment?",
+      "options": [
+        "A. Aspirin 600mg every 4 hours",
+        "B. Paracetamol 1g 4× daily plus ibuprofen 400mg 3× daily, staggered",
+        "C. Codeine 30mg alone 4× daily",
+        "D. Ibuprofen 400mg alone 3× daily"
+      ],
+      "correctAnswer": "B",
+      "explanation": "The combination of paracetamol and ibuprofen, taken in a staggered manner, provides superior analgesia for acute dental pain than either drug alone — they act through different mechanisms and their effects are synergistic. This is the recommended standard regimen. Penicillin allergy is irrelevant to analgesic prescribing. Aspirin (A) increases bleeding risk, has higher GI side effects, and irreversibly inhibits platelet thromboxane. Codeine alone (C) is less effective than the combined regimen and causes constipation. Ibuprofen alone (D) is effective but the combination is superior."
+    },
+    {
+      "id": "t4-a2",
+      "scenario": "A patient on long-term tricyclic antidepressants (amitriptyline) requires a dental extraction under local anaesthesia. You plan to use 2% lidocaine with 1:80,000 adrenaline. Which statement is most accurate?",
+      "options": [
+        "A. Tricyclic antidepressants have no interaction with adrenaline — proceed normally",
+        "B. Adrenaline is absolutely contraindicated in patients on tricyclic antidepressants",
+        "C. Tricyclics decrease adrenaline reuptake, doubling the pressor effect — limit the dose of adrenaline and use it carefully",
+        "D. Replace adrenaline with felypressin — this has no interaction with tricyclics"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Tricyclic antidepressants inhibit neuronal reuptake of catecholamines including adrenaline, potentiating its pressor (blood pressure raising) effect — approximately doubling it. The interaction is significant but not an absolute contraindication. Limit adrenaline to the minimum effective dose, inject slowly, aspirate before injection, and monitor the patient. Adrenaline is NOT absolutely contraindicated (B). Felypressin (D) is an alternative vasoconstrictor but carries its own risks (coronary vasoconstriction, avoid in pregnancy) and is not free of all interactions."
+    },
+    {
+      "id": "t4-a3",
+      "scenario": "During IV midazolam sedation, a 72-year-old patient becomes increasingly unresponsive and their respiratory rate drops to 8 breaths per minute. What is the most appropriate immediate action?",
+      "options": [
+        "A. Increase the midazolam dose to achieve better sedation before the procedure",
+        "B. Administer flumazenil IV to reverse the benzodiazepine effect, then monitor for resedation",
+        "C. Administer naloxone IV immediately",
+        "D. The situation is normal — benzodiazepines always cause drowsiness, continue the procedure"
+      ],
+      "correctAnswer": "B",
+      "explanation": "This patient is over-sedated — the respiratory rate of 8 breaths/min indicates significant respiratory depression, a serious side effect of benzodiazepines that is markedly worsened in the elderly (who are much more sensitive to midazolam). Flumazenil (benzodiazepine antagonist) should be administered IV to reverse the effect. The patient must then be monitored closely as flumazenil's half-life (53 min) is shorter than midazolam's — resedation can occur. Naloxone (C) reverses opioids, not benzodiazepines. Increasing the dose (A) would be dangerous. Over-sedation is an emergency, not a normal finding (D)."
+    }
+  ],
+  "writeIt": [
+    {
+      "id": "t4-w1",
+      "prompt": "Explain the pharmacology of local anaesthetics relevant to dentistry. Include: the mechanism of action, the two drug classes, the key physicochemical properties determining onset and duration, and the role of vasoconstrictors.",
+      "totalMarks": 10,
+      "markScheme": [
+        {
+          "point": "Mechanism: LA molecules cross cell membrane in unionised form → become ionised inside cell → bind to h-gate on intracellular surface of voltage-gated sodium channel → prevent further depolarisation → block nerve conduction",
+          "marks": 2
+        },
+        {
+          "point": "Two classes: esters (e.g. procaine — metabolised by plasma pseudocholinesterases; PABA metabolite causes most ester allergies) and amides (e.g. lidocaine, articaine, bupivacaine — metabolised mainly in liver; amides preferred in dentistry as lower allergy risk)",
+          "marks": 1
+        },
+        {
+          "point": "pKa and onset: lower pKa = more uncharged molecules at tissue pH = faster diffusion across membrane = faster onset. Lidocaine 7.9, articaine 7.8 (fast), bupivacaine 8.1 (slow). In infected tissue (acidic pH) → more ionised drug → reduced efficacy",
+          "marks": 2
+        },
+        {
+          "point": "Protein binding and duration: higher protein binding = longer duration. Bupivacaine 96% protein bound (long duration); lidocaine 64% (shorter). Protein acts as reservoir releasing drug slowly",
+          "marks": 1
+        },
+        {
+          "point": "Vasodilatory ability: most LAs cause vasodilation → faster systemic absorption → shorter duration. Vasoconstrictors (adrenaline 1:80,000 in UK) overcome this → more profound anaesthesia, longer duration, better haemostasis, reduced systemic absorption",
+          "marks": 2
+        },
+        {
+          "point": "Articaine: although an amide, also undergoes partial hydrolysis in plasma by pseudocholinesterases → safer in liver disease; higher 4% concentration can be used safely due to reduced reliance on hepatic clearance",
+          "marks": 1
+        },
+        {
+          "point": "Maximum doses: lidocaine 4.4mg/kg, ceiling 500mg (~11 cartridges); always aspirate before injection to avoid intravascular injection; reduce dose in liver disease and the elderly",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "t4-w2",
+      "prompt": "Describe the management of a patient presenting for dental treatment who is extremely anxious and has requested conscious sedation. Include: definition of conscious sedation, choice of agent, pharmacology of midazolam, monitoring requirements, and precautions for the elderly.",
+      "totalMarks": 8,
+      "markScheme": [
+        {
+          "point": "Definition: drug-induced depression of CNS enabling treatment, verbal contact maintained throughout, patient responds to spoken command, no loss of consciousness",
+          "marks": 1
+        },
+        {
+          "point": "First-choice agent: IV midazolam for adults — titrated to effect; dose 0.07–0.1 mg/kg",
+          "marks": 1
+        },
+        {
+          "point": "Pharmacology: water-soluble at pH 4 (non-irritant IV); lipid-soluble at physiological pH (crosses blood-brain barrier); half-life 1.9 hours; active metabolite short half-life (no rebound sedation); metabolised mainly in liver; 2–3× more potent than diazepam",
+          "marks": 2
+        },
+        {
+          "point": "Effects: anxiolysis, sedation, anterograde amnesia, muscle relaxation; NOT an analgesic — good LA mandatory alongside sedation",
+          "marks": 1
+        },
+        {
+          "point": "Monitoring: pulse oximetry, BP, ECG if appropriate, verbal contact throughout; supplemental oxygen recommended (nasal cannula)",
+          "marks": 1
+        },
+        {
+          "point": "Elderly precautions: markedly more sensitive to midazolam — use very small increments; total dose much lower than younger adults; high risk of respiratory depression and over-sedation",
+          "marks": 1
+        },
+        {
+          "point": "Reversal agent: flumazenil available; antagonist at benzodiazepine receptor; half-life 53 min (shorter than midazolam) — patient must be monitored for resedation; not for routine reversal",
+          "marks": 1
+        }
+      ]
+    }
+  ],
+  "mockBank": [
+    {
+      "id": "t4-m1",
+      "theme": 4,
+      "topicTag": "nociception",
+      "question": "A-delta fibres in the tooth produce what type of pain and are associated with which clinical condition?",
+      "options": [
+        "A. Persistent throbbing pain — irreversible pulpitis",
+        "B. Short sharp pain on cold stimulus — reversible pulpitis or dentine hypersensitivity",
+        "C. Burning chronic pain — chronic orofacial pain syndrome",
+        "D. Radiating aching pain — referred pain from the temporomandibular joint",
+        "E. No pain — A-delta fibres only carry proprioception"
+      ],
+      "correctAnswer": "B",
+      "explanation": "A-delta fibres are fast, myelinated fibres in the dentine periphery responding to sharp mechanical stimuli. They produce short, sharp, well-localised pain — characteristic of reversible pulpitis and dentine hypersensitivity. C fibres (slow, unmyelinated, in the pulp centre) produce throbbing persistent pain — irreversible pulpitis."
+    },
+    {
+      "id": "t4-m2",
+      "theme": 4,
+      "topicTag": "nociception",
+      "question": "Which neurotransmitter is released from nociceptive nerve endings during pain transmission and is specifically mentioned as an algogenic substance?",
+      "options": [
+        "A. Serotonin",
+        "B. Dopamine",
+        "C. Substance P",
+        "D. Acetylcholine",
+        "E. GABA"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Substance P is a neuropeptide algogenic substance released from primary afferent nociceptors. Along with prostaglandins and bradykinin (the 'inflammatory soup'), it activates nociceptors and sensitises surrounding tissues. Both substance P and prostaglandins can be inhibited by analgesia — the basis of anti-inflammatory pain management."
+    },
+    {
+      "id": "t4-m3",
+      "theme": 4,
+      "topicTag": "nociception",
+      "question": "Which ONE of the following BEST explains why local anaesthesia often fails in an area of acute infection?",
+      "options": [
+        "A. The area has a high pH due to infection — more uncharged LA molecules cross the membrane",
+        "B. The area has a low pH due to infection — more LA exists in the ionised form and fewer uncharged molecules are available to cross the membrane",
+        "C. Infection increases local blood flow, washing away the LA before it takes effect",
+        "D. Inflammatory mediators block LA binding to the sodium channel",
+        "E. Infected tissue has an increased concentration of adrenaline, reversing the LA effect"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Infected tissue is acidic (low pH). At lower pH, the LA equilibrium shifts towards the ionised (charged) form — which cannot cross the lipophilic cell membrane. Fewer uncharged molecules available = reduced nerve penetration = inadequate block. This is the pharmacological basis of the classic exam question."
+    },
+    {
+      "id": "t4-m4",
+      "theme": 4,
+      "topicTag": "nociception",
+      "question": "The gate control theory of pain modulation involves which ONE of the following mechanisms?",
+      "options": [
+        "A. Opioid receptors in the spinal cord blocking all nociceptive input",
+        "B. A-beta fibres bringing non-painful stimuli centrally, generating descending inhibition that closes the 'gate' at the trigeminal nucleus",
+        "C. Direct suppression of C-fibre activity by anti-inflammatory drugs",
+        "D. Cortical override of subcortical nociceptive processing during sleep",
+        "E. Endorphin release from the adrenal medulla blocking peripheral pain receptors"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Gate control theory: fast A-beta (non-nociceptive) fibres bring stimuli centrally and generate descending inhibitory signals at the level of the trigeminal nucleus caudalis. This 'closes the gate' to incoming A-delta and C-fibre nociceptive signals. The basis of TENS (transcutaneous electrical nerve stimulation)."
+    },
+    {
+      "id": "t4-m5",
+      "theme": 4,
+      "topicTag": "nociception",
+      "question": "A patient complains of burning pain in a tooth socket that was extracted 6 months ago with no clinical pathology found on examination. Local anaesthesia fails to provide relief. Which ONE of the following BEST explains this?",
+      "options": [
+        "A. The patient has developed an allergy to local anaesthetics",
+        "B. Persistent idiopathic dentoalveolar pain (PIPD) — likely central sensitisation where second-order neurones have become sensitised",
+        "C. The patient is malingering — there is no organic basis for the pain",
+        "D. The patient has trigeminal neuralgia requiring carbamazepine",
+        "E. The patient needs a higher concentration of local anaesthetic"
+      ],
+      "correctAnswer": "B",
+      "explanation": "PIPD (formerly phantom tooth pain/atypical odontalgia) is pain from an area where tooth or nerve has been removed, lasting >2 months, without local pathology. Failure of LA to relieve pain is a key warning sign — it suggests central sensitisation rather than peripheral nociception. Requires multidisciplinary pain management, not further dental surgery."
+    },
+    {
+      "id": "t4-m6",
+      "theme": 4,
+      "topicTag": "analgesics",
+      "question": "Paracetamol overdose causes liver damage through which ONE of the following mechanisms?",
+      "options": [
+        "A. Direct inhibition of cytochrome P450 enzymes causing hepatocyte death",
+        "B. Accumulation of NAPQI when glutathione stores are depleted — NAPQI causes hepatocyte necrosis",
+        "C. Inhibition of prostaglandin synthesis in hepatocytes causing ischaemia",
+        "D. Blockade of COX-1 in hepatic cells disrupting lipid metabolism",
+        "E. Formation of toxic reactive oxygen species from paracetamol oxidation"
+      ],
+      "correctAnswer": "B",
+      "explanation": "10% of paracetamol → NAPQI via CYP2C9. Normally conjugated with glutathione and excreted harmlessly. In overdose: glutathione depleted → NAPQI accumulates → hepatocyte necrosis. Treatment: N-acetylcysteine (replenishes glutathione) within 8–10 hours of ingestion."
+    },
+    {
+      "id": "t4-m7",
+      "theme": 4,
+      "topicTag": "analgesics",
+      "question": "Which ONE of the following is the MOST appropriate analgesic regimen for an adult with moderate acute dental pain with no contraindications?",
+      "options": [
+        "A. Paracetamol 500mg four times daily alone",
+        "B. Ibuprofen 400mg three times daily alone",
+        "C. Codeine 30mg four times daily alone",
+        "D. Paracetamol 1g four times daily combined with ibuprofen 400mg three times daily, staggered",
+        "E. Aspirin 600mg four times daily combined with ibuprofen 400mg three times daily"
+      ],
+      "correctAnswer": "D",
+      "explanation": "The combination of paracetamol and ibuprofen staggered provides superior analgesia to either drug alone through complementary mechanisms (central antipyretic + peripheral anti-inflammatory). Aspirin + ibuprofen (E) compete for the same COX site and should NOT be combined."
+    },
+    {
+      "id": "t4-m8",
+      "theme": 4,
+      "topicTag": "analgesics",
+      "question": "Why are NSAIDs contraindicated in patients with asthma who are aspirin-sensitive?",
+      "options": [
+        "A. NSAIDs inhibit COX-2 → increased leukotriene synthesis → bronchoconstriction in sensitive patients",
+        "B. NSAIDs directly stimulate mast cell degranulation in the airways",
+        "C. NSAIDs inhibit COX-1 → decreased prostaglandin E2 → loss of bronchodilatory protection → bronchoconstriction",
+        "D. NSAIDs cross-react with beta-2 receptors, causing bronchospasm",
+        "E. NSAIDs inhibit histamine breakdown in the airways"
+      ],
+      "correctAnswer": "C",
+      "explanation": "In aspirin-sensitive asthma: COX-1 inhibition → reduced PGE2 (which normally has bronchodilatory/protective effects) → arachidonic acid shunted into the lipoxygenase pathway → increased leukotriene C4/D4 synthesis → bronchoconstriction. Approximately 10% of asthmatics are NSAID-sensitive."
+    },
+    {
+      "id": "t4-m9",
+      "theme": 4,
+      "topicTag": "analgesics",
+      "question": "In the dental surgery, aspirin 300mg is administered when a patient is suspected of having a myocardial infarction. Which property of aspirin makes this appropriate?",
+      "options": [
+        "A. Anti-inflammatory effect reducing cardiac inflammation",
+        "B. Antipyretic effect reducing fever associated with MI",
+        "C. Irreversible antiplatelet effect via COX-1 inhibition — prevents further thrombus propagation",
+        "D. Analgesic effect reducing chest pain",
+        "E. Antihypertensive effect reducing cardiac workload"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Aspirin irreversibly inhibits COX-1 in platelets, blocking thromboxane A2 synthesis — preventing further platelet aggregation at the coronary thrombus. Aspirin 300mg is given CHEWED (not swallowed) for rapid buccal absorption. The antiplatelet effect lasts 7–10 days (platelet lifespan)."
+    },
+    {
+      "id": "t4-m10",
+      "theme": 4,
+      "topicTag": "analgesics",
+      "question": "A postmenopausal patient on prednisolone 10mg daily for rheumatoid arthritis requires post-extraction analgesia. Which ONE of the following is the MOST appropriate?",
+      "options": [
+        "A. Aspirin 600mg four times daily",
+        "B. Ibuprofen 400mg three times daily",
+        "C. Diclofenac 50mg three times daily",
+        "D. Paracetamol 1g four times daily",
+        "E. Celecoxib 200mg twice daily"
+      ],
+      "correctAnswer": "D",
+      "explanation": "Patients on corticosteroids must avoid NSAIDs — concurrent use causes significantly increased risk of GI ulceration and bleeding (synergistic mucosal damage). Paracetamol is the safe analgesic choice. COX-2 inhibitors (celecoxib) are still NSAIDs and carry similar GI risk."
+    },
+    {
+      "id": "t4-m11",
+      "theme": 4,
+      "topicTag": "analgesics",
+      "question": "COX-2 inhibitors (coxibs) were developed to reduce gastric side effects compared with traditional NSAIDs. Why do they carry increased cardiovascular risk?",
+      "options": [
+        "A. They increase platelet thromboxane A2 production",
+        "B. They selectively inhibit COX-2 prostacyclin synthesis (vasodilatory/anti-aggregatory) without inhibiting COX-1 thromboxane — creating a prothrombotic imbalance",
+        "C. They directly stimulate cardiac sympathetic receptors",
+        "D. They increase circulating aldosterone levels",
+        "E. They cause hypertension by inhibiting renal prostaglandins"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Prostacyclin (PGI2) — made via COX-2 in vascular endothelium — is cardioprotective (vasodilatory, anti-aggregatory). Thromboxane A2 — made via COX-1 in platelets — promotes thrombosis. Coxibs block prostacyclin without blocking thromboxane → net prothrombotic state → significantly increased MI risk."
+    },
+    {
+      "id": "t4-m12",
+      "theme": 4,
+      "topicTag": "analgesics",
+      "question": "A patient on warfarin for atrial fibrillation requires post-extraction analgesia. Which ONE of the following is the MOST appropriate?",
+      "options": [
+        "A. Aspirin 300mg four times daily",
+        "B. Ibuprofen 400mg three times daily",
+        "C. Diclofenac 50mg three times daily",
+        "D. Paracetamol 1g four times daily",
+        "E. Naproxen 500mg twice daily"
+      ],
+      "correctAnswer": "D",
+      "explanation": "All NSAIDs and aspirin should be avoided in patients on warfarin — they impair platelet function (increasing bleeding risk beyond the anticoagulation already present) and can cause GI haemorrhage, which is catastrophic in an anticoagulated patient. Paracetamol is the safe choice."
+    },
+    {
+      "id": "t4-m13",
+      "theme": 4,
+      "topicTag": "opioids",
+      "question": "Which opioid receptor subtype is primarily responsible for respiratory depression?",
+      "options": [
+        "A. Mu-1 (supraspinal analgesia)",
+        "B. Mu-2 (respiratory depression and decreased GI motility)",
+        "C. Kappa (sedation and dysphoria)",
+        "D. Delta (analgesia and mood)",
+        "E. Sigma (cardiovascular and psychotomimetic effects)"
+      ],
+      "correctAnswer": "B",
+      "explanation": "The mu-2 receptor mediates respiratory depression and decreased GI motility. Mu-1 mediates supraspinal analgesia, euphoria, and dependence. This distinction explains why partial mu agonists (buprenorphine) and weak opioids (codeine) cause less respiratory depression than full agonists like morphine."
+    },
+    {
+      "id": "t4-m14",
+      "theme": 4,
+      "topicTag": "opioids",
+      "question": "Which opioids act on (binds to) μ receptors?",
+      "options": [
+        "A. Mu, kappa, and delta receptors",
+        "B. Only mu-1 receptors",
+        "C. Mu receptors — all clinically used opioid analgesics act on mu receptors to varying degrees",
+        "D. Delta receptors exclusively",
+        "E. Non-specifically on all G-protein coupled receptors"
+      ],
+      "correctAnswer": "C",
+      "explanation": "All clinically used opioid analgesics (morphine, codeine, tramadol, fentanyl, oxycodone, buprenorphine) act on mu (μ) opioid receptors to varying degrees. The strength of mu receptor agonism determines analgesic potency and risk of adverse effects including respiratory depression."
+    },
+    {
+      "id": "t4-m15",
+      "theme": 4,
+      "topicTag": "opioids",
+      "question": "Tramadol is classified as an opioid but has an additional mechanism. Which ONE of the following BEST describes this?",
+      "options": [
+        "A. It also inhibits COX-2, providing anti-inflammatory analgesia",
+        "B. It also inhibits noradrenaline and serotonin reuptake, contributing to central pain modulation",
+        "C. It also inhibits GABA receptors, enhancing its sedative effect",
+        "D. It also activates beta-endorphin release from the pituitary",
+        "E. It also blocks sodium channels like a local anaesthetic"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Tramadol has dual action: weak mu opioid receptor agonism + inhibition of noradrenaline and serotonin reuptake (similar to tricyclics). The latter mechanism contributes to central pain modulation via descending pathways. Consequence: risk of serotonin syndrome if combined with SSRIs — do NOT use together."
+    },
+    {
+      "id": "t4-m16",
+      "theme": 4,
+      "topicTag": "opioids",
+      "question": "What is the specific antidote for opioid overdose and the correct initial intravenous dose?",
+      "options": [
+        "A. Flumazenil 0.2mg IV — reverses all opioids",
+        "B. Naloxone 0.2–0.4mg IV, repeated every 2–3 minutes up to 10mg",
+        "C. N-acetylcysteine 150mg/kg IV — restores opioid metabolism",
+        "D. Atropine 0.5mg IV — for opioid-induced bradycardia",
+        "E. Activated charcoal — to bind opioids in the GI tract"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Naloxone is a competitive mu opioid receptor antagonist — displaces opioids from the receptor and reverses respiratory depression within minutes. Initial dose 0.2–0.4mg IV; repeat every 2–3 minutes guided by respiratory response; maximum 10mg. Flumazenil (A) reverses benzodiazepines only."
+    },
+    {
+      "id": "t4-m17",
+      "theme": 4,
+      "topicTag": "opioids",
+      "question": "Codeine is described as a prodrug. Which ONE of the following BEST explains this?",
+      "options": [
+        "A. Codeine must be taken with food to be converted to its active form",
+        "B. Codeine is methylmorphine — approximately 10% is demethylated to morphine by CYP2D6 in the liver to produce analgesia",
+        "C. Codeine requires enzymatic activation in the kidneys before it can cross the blood-brain barrier",
+        "D. Codeine is activated by plasma pseudocholinesterases to its active metabolite",
+        "E. Codeine binds directly to opioid receptors without needing metabolic conversion"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Codeine is methylmorphine — it has very weak intrinsic activity at opioid receptors. Approximately 10% is O-demethylated by CYP2D6 to morphine, which provides the analgesia. Poor metabolisers (10% of Caucasians) get little analgesic effect; ultra-rapid metabolisers can get toxic morphine levels — particularly dangerous in breastfeeding mothers."
+    },
+    {
+      "id": "t4-m18",
+      "theme": 4,
+      "topicTag": "opioids",
+      "question": "Morphine has extensive first-pass metabolism when taken orally. Which ONE of the following BEST describes the clinical consequence of this?",
+      "options": [
+        "A. Oral morphine must be given at double the IV dose to achieve equivalent analgesia because only ~20% reaches the systemic circulation",
+        "B. Oral morphine has superior analgesic effect compared to IV because gut metabolites enhance the response",
+        "C. First-pass metabolism eliminates morphine completely — it must always be given IV",
+        "D. Oral morphine accumulates in the liver, causing hepatotoxicity with regular use",
+        "E. First-pass metabolism converts morphine to a toxic metabolite requiring close monitoring"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Morphine undergoes ~80% first-pass hepatic metabolism — only approximately 20% of an oral dose reaches systemic circulation. This means oral doses must be much higher than IV doses for equivalent effect. The oral:IV morphine ratio is approximately 3:1. Renal failure prolongs the half-life of active metabolites."
+    },
+    {
+      "id": "t4-m19",
+      "theme": 4,
+      "topicTag": "local-anaesthesia",
+      "question": "Which ONE of the following correctly describes the relationship between pKa and onset of action of a local anaesthetic?",
+      "options": [
+        "A. Higher pKa = faster onset because more drug is in ionised form at tissue pH",
+        "B. Lower pKa = faster onset because more drug exists in unionised form at tissue pH (7.4)",
+        "C. pKa has no bearing on onset — only partition coefficient determines speed of onset",
+        "D. Lower pKa = longer duration of action",
+        "E. Higher pKa = more protein binding = faster onset"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Lower pKa → more unionised (uncharged) form at tissue pH 7.4 → more drug crosses the lipophilic membrane → faster onset. Lidocaine pKa 7.9, articaine 7.8 (faster), bupivacaine 8.1 (slower). In infected (acidic) tissue, more drug becomes ionised → onset delayed/absent."
+    },
+    {
+      "id": "t4-m20",
+      "theme": 4,
+      "topicTag": "local-anaesthesia",
+      "question": "Which property of a local anaesthetic MOST determines its duration of action?",
+      "options": [
+        "A. pKa — determining the proportion of ionised versus unionised drug",
+        "B. Lipid solubility — determining speed of membrane penetration",
+        "C. Protein binding — higher protein binding extends duration by acting as a drug reservoir",
+        "D. Vasodilatation — greater vasodilatation prolongs duration",
+        "E. Molecular weight — heavier molecules have longer duration"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Protein binding of LA to plasma proteins and sodium channel proteins determines duration. Higher protein binding = drug is held at the binding site for longer = longer duration. Bupivacaine (96% protein bound, half-life 160 min) has longer duration than lidocaine (64% protein bound, half-life 90 min)."
+    },
+    {
+      "id": "t4-m21",
+      "theme": 4,
+      "topicTag": "local-anaesthesia",
+      "question": "The maximum dose of lidocaine (lignocaine) is 4.4mg/kg with a ceiling of 500mg. A patient weighs 70kg. How many 2.2ml cartridges of 2% lidocaine is the MAXIMUM that should be used?",
+      "options": [
+        "A. 3 cartridges",
+        "B. 5 cartridges",
+        "C. 7 cartridges",
+        "D. 11 cartridges",
+        "E. 15 cartridges"
+      ],
+      "correctAnswer": "C",
+      "explanation": "70kg × 4.4mg/kg = 308mg maximum. Each 2.2ml cartridge of 2% lidocaine contains 44mg (2% = 2g/100ml = 20mg/ml; 20mg/ml × 2.2ml = 44mg). 308mg ÷ 44mg = 7 cartridges. Ceiling dose = 500mg (~11 cartridges) — never exceed regardless of weight."
+    },
+    {
+      "id": "t4-m22",
+      "theme": 4,
+      "topicTag": "local-anaesthesia",
+      "question": "What is the maximum dose of articaine per kg body weight?",
+      "options": [
+        "A. 2.2 mg/kg",
+        "B. 4.4 mg/kg",
+        "C. 5.0 mg/kg",
+        "D. 7.0 mg/kg",
+        "E. 8.8 mg/kg"
+      ],
+      "correctAnswer": "D",
+      "explanation": "The maximum dose of articaine is 7.0 mg/kg (higher than lidocaine at 4.4 mg/kg). This is partly because articaine 4% is not only metabolised in the liver but also hydrolysed in plasma by pseudocholinesterases, reducing systemic accumulation risk. This also makes it preferable in patients with liver disease."
+    },
+    {
+      "id": "t4-m23",
+      "theme": 4,
+      "topicTag": "local-anaesthesia",
+      "question": "Why is articaine preferred over lidocaine in patients with significant liver disease?",
+      "options": [
+        "A. Articaine has a lower pKa giving faster onset and therefore less drug is needed",
+        "B. Articaine is excreted renally rather than hepatically",
+        "C. Articaine undergoes partial hydrolysis in plasma by pseudocholinesterases — not entirely dependent on hepatic metabolism",
+        "D. Articaine does not contain adrenaline and therefore avoids cardiac stress",
+        "E. Articaine is a pure ester drug and is not metabolised in the liver at all"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Articaine is unique — although classified as an amide LA, it also undergoes plasma hydrolysis by pseudocholinesterases (like esters). This reduces reliance on hepatic metabolism, making it safer in liver disease. Lidocaine (primarily hepatic) should be limited to 2 cartridges maximum in significant liver disease."
+    },
+    {
+      "id": "t4-m24",
+      "theme": 4,
+      "topicTag": "local-anaesthesia",
+      "question": "The two classes of local anaesthetic agents are esters and amides. Which ONE of the following is an ester local anaesthetic?",
+      "options": [
+        "A. Lidocaine",
+        "B. Articaine",
+        "C. Bupivacaine",
+        "D. Benzocaine",
+        "E. Mepivacaine"
+      ],
+      "correctAnswer": "D",
+      "explanation": "Esters: benzocaine (topical), procaine, cocaine, tetracaine. Amides (containing 'i' before '-caine'): lidocaine, articaine, bupivacaine, mepivacaine, prilocaine, ropivacaine. Esters are metabolised by plasma pseudocholinesterases; their main metabolite PABA accounts for most ester-type allergic reactions."
+    },
+    {
+      "id": "t4-m25",
+      "theme": 4,
+      "topicTag": "local-anaesthesia",
+      "question": "Before an inferior alveolar nerve block, a topical anaesthetic is applied. Which ONE of the following is the MOST effective topical anaesthetic for this purpose?",
+      "options": [
+        "A. Lidocaine 2%",
+        "B. Benzocaine 20%",
+        "C. Prilocaine 3%",
+        "D. Mepivacaine 3%",
+        "E. Articaine 4%"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Benzocaine 20% (gel or ointment) is the topical anaesthetic of choice before LA injections in dentistry — it reliably anaesthetises the mucosa before needle penetration. It is an ester, does not penetrate deeply enough for systemic toxicity, and has a rapid onset topically."
+    },
+    {
+      "id": "t4-m26",
+      "theme": 4,
+      "topicTag": "local-anaesthesia",
+      "question": "Which ONE of the following correctly describes the two classes of local anaesthetic used in UK dentistry and their key pharmacokinetic difference?",
+      "options": [
+        "A. Esters (e.g. lidocaine) — metabolised in liver; amides (e.g. benzocaine) — metabolised in plasma",
+        "B. Amides (e.g. lidocaine) — metabolised mainly in liver; esters (e.g. benzocaine) — rapidly metabolised in plasma by pseudocholinesterases",
+        "C. Esters — longer half-life than amides because plasma hydrolysis is slow",
+        "D. Amides — higher allergy risk due to PABA metabolite production",
+        "E. Esters and amides — both metabolised exclusively in the liver"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Amides (lidocaine, articaine, bupivacaine, mepivacaine) are metabolised primarily in the liver — slower, longer half-life, accumulate in liver disease. Esters (benzocaine, procaine) are rapidly hydrolysed in plasma by pseudocholinesterases — fast metabolism; PABA metabolite accounts for most ester allergic reactions."
+    },
+    {
+      "id": "t4-m27",
+      "theme": 4,
+      "topicTag": "vasoconstrictors",
+      "question": "A patient is taking non-selective beta-blockers (propranolol) for anxiety. What is the specific concern when using lidocaine with 1:80,000 adrenaline?",
+      "options": [
+        "A. Beta-blockers enhance the LA effect — less adrenaline is needed",
+        "B. Beta-blockers block the beneficial beta-2 bronchodilatory effect — allowing unopposed alpha-1 vasoconstriction — potentially causing hypertensive crisis",
+        "C. Adrenaline is absolutely contraindicated in all patients on any beta-blocker",
+        "D. Propranolol reduces hepatic blood flow, accumulating lidocaine to toxic levels",
+        "E. Beta-blockers reduce heart rate sufficiently to prevent adrenaline-induced tachycardia — making it safe to use"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Non-selective beta-blockers block beta-1 and beta-2 receptors. When adrenaline is given, its alpha-1 effects (vasoconstriction, raised BP) are unopposed by beta-2 vasodilation → potentially significant hypertension. Use minimal dose, inject slowly, aspirate. Not absolute contraindication but limit dose."
+    },
+    {
+      "id": "t4-m28",
+      "theme": 4,
+      "topicTag": "vasoconstrictors",
+      "question": "Why should felypressin be avoided as a vasoconstrictor in pregnant patients?",
+      "options": [
+        "A. Felypressin crosses the placenta and causes fetal bradycardia",
+        "B. Felypressin has oxytocic activity and could potentially stimulate uterine contractions",
+        "C. Felypressin is teratogenic in the first trimester",
+        "D. Felypressin is contraindicated in pregnancy because it inhibits progesterone synthesis",
+        "E. Felypressin causes severe maternal hypertension in pregnancy"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Felypressin is a synthetic vasopressin analogue with oxytocic activity — it can stimulate uterine muscle contraction. Although a 2.2ml dental cartridge contains only 0.00021 units (far below the oxytocic threshold of 0.025 units), the theoretical risk means felypressin is avoided in pregnancy, with adrenaline preferred."
+    },
+    {
+      "id": "t4-m29",
+      "theme": 4,
+      "topicTag": "vasoconstrictors",
+      "question": "A patient is taking amitriptyline (a tricyclic antidepressant) and requires LA with adrenaline. Which ONE of the following BEST describes the management?",
+      "options": [
+        "A. Adrenaline-containing LA is absolutely contraindicated",
+        "B. Use plain LA without vasoconstrictor — felypressin is a safe alternative",
+        "C. Adrenaline-containing LA can be used but dose should be limited — TCAs decrease catecholamine reuptake, doubling the pressor effect",
+        "D. No precautions necessary — TCAs have no interaction with adrenaline in dental cartridges",
+        "E. Refer all patients on TCAs to hospital for dental LA under specialist supervision"
+      ],
+      "correctAnswer": "C",
+      "explanation": "TCAs inhibit neuronal reuptake of noradrenaline and adrenaline, amplifying the cardiovascular pressor effect (~doubled). Adrenaline-containing LA is NOT absolutely contraindicated but the dose should be minimised, injection should be slow, aspiration is mandatory, and the patient monitored for palpitations or BP changes."
+    },
+    {
+      "id": "t4-m30",
+      "theme": 4,
+      "topicTag": "local-anaesthesia",
+      "question": "The symptoms of local anaesthetic toxicity occur in a predictable sequence. Which ONE of the following BEST describes the early central nervous system signs?",
+      "options": [
+        "A. Immediate cardiovascular collapse and bradycardia",
+        "B. Sedation, dizziness, anxiety, and perioral tingling — progressing to confusion and then seizures",
+        "C. Sudden loss of consciousness without any preceding warning signs",
+        "D. Hypertension and tachycardia then immediate VF",
+        "E. Nausea and vomiting followed by peripheral neuropathy"
+      ],
+      "correctAnswer": "B",
+      "explanation": "CNS toxicity sequence: early (excitatory) — sedation, dizziness, anxiety, tinnitus, perioral tingling, tremor; intermediate — confusion, slurred speech; late — tonic-clonic seizures → CNS depression → coma → respiratory arrest. CVS toxicity follows: initially tachycardia/hypertension, then severe bradycardia, cardiac instability, circulatory collapse."
+    },
+    {
+      "id": "t4-m31",
+      "theme": 4,
+      "topicTag": "sedation",
+      "question": "Which ONE of the following BEST defines conscious sedation?",
+      "options": [
+        "A. A state of drug-induced sleep from which the patient can only be roused by painful stimulation",
+        "B. A technique producing CNS depression enabling treatment, during which verbal contact with the patient is maintained throughout — no loss of consciousness occurs",
+        "C. The use of opioids to reduce pain perception below the threshold of consciousness",
+        "D. A state of reduced awareness where protective reflexes are deliberately suppressed",
+        "E. General anaesthesia delivered by an inhalational rather than intravenous route"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Conscious sedation definition: drug-induced CNS depression enabling treatment; verbal contact maintained throughout; patient responds to spoken command; NO loss of consciousness; protective reflexes intact. Loss of verbal contact = the patient has crossed into general anaesthesia — a different clinical and legal situation."
+    },
+    {
+      "id": "t4-m32",
+      "theme": 4,
+      "topicTag": "sedation",
+      "question": "Why is midazolam preferred over diazepam for intravenous conscious sedation in dentistry?",
+      "options": [
+        "A. Midazolam is cheaper and more widely available",
+        "B. Midazolam has a shorter half-life (1.9 hours), no long-acting active metabolites causing rebound sedation, and is water-soluble causing no injection pain",
+        "C. Midazolam has stronger amnesic effects that last throughout the appointment",
+        "D. Midazolam can be given orally with equivalent efficacy to IV",
+        "E. Midazolam has a wider therapeutic index than diazepam — anaesthesia is impossible"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Midazolam advantages over diazepam: shorter half-life (1.9h vs 43h); active metabolite (1-hydroxymidazolam) also short-lived — no rebound sedation; water-soluble at pH <4, non-irritant, no thrombophlebitis; 2-3x more potent. Diazepam dissolved in organic solvent causes venous pain and inflammation."
+    },
+    {
+      "id": "t4-m33",
+      "theme": 4,
+      "topicTag": "sedation",
+      "question": "A patient undergoing IV midazolam sedation becomes unresponsive to verbal command. Which ONE of the following is the MOST appropriate immediate action?",
+      "options": [
+        "A. Give a further 1mg IV midazolam to ensure adequate depth of sedation",
+        "B. Administer 200 micrograms IV flumazenil — the benzodiazepine antagonist",
+        "C. Call 999, commence basic life support",
+        "D. Stimulate the patient with a sternal rub to restore consciousness",
+        "E. Increase oxygen flow and wait for spontaneous recovery"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Loss of verbal contact = loss of consciousness = general anaesthesia territory. The immediate action is IV flumazenil (benzodiazepine antagonist) — start with 200 micrograms then 100 micrograms every minute until response. Monitor for resedation (flumazenil t½ ~53 min < midazolam t½). Call for help simultaneously."
+    },
+    {
+      "id": "t4-m34",
+      "theme": 4,
+      "topicTag": "sedation",
+      "question": "The blood:gas partition coefficient of nitrous oxide is 0.47. Which ONE of the following BEST describes the clinical implication of this low value?",
+      "options": [
+        "A. Nitrous oxide accumulates in the blood over time, prolonging recovery",
+        "B. A large inspired concentration is required to achieve any sedative effect",
+        "C. Nitrous oxide is poorly soluble in blood — rapid onset of sedation and rapid recovery when administration is stopped",
+        "D. The low coefficient means nitrous oxide is more potent than other anaesthetic gases",
+        "E. Nitrous oxide cannot be detected in blood tests due to its low solubility"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Low blood:gas partition coefficient = low blood solubility = drug doesn't need to dissolve in large quantities of blood to raise partial pressure. Small inspired concentrations quickly raise alveolar and blood partial pressure → rapid onset. On cessation: rapid elimination via lungs → rapid recovery. Ideal sedation pharmacokinetics."
+    },
+    {
+      "id": "t4-m35",
+      "theme": 4,
+      "topicTag": "sedation",
+      "question": "After stopping nitrous oxide sedation, 100% oxygen must be given for a minimum of 3 minutes. Which ONE of the following explains the reason?",
+      "options": [
+        "A. Oxygen reverses the analgesic effects of nitrous oxide",
+        "B. Oxygen is required to metabolise the residual nitrous oxide in the body",
+        "C. Large volumes of nitrous oxide leaving the blood rapidly can displace oxygen from the alveoli — diffusion hypoxia",
+        "D. Oxygen is needed to restore the patient's awareness and remove post-sedation amnesia",
+        "E. This is a CQC regulatory requirement with no pharmacological basis"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Diffusion hypoxia: when N₂O is stopped, its very low blood solubility causes rapid elimination via the lungs. The large volume of N₂O pouring from blood into alveoli can displace oxygen — the patient effectively breathes near-100% N₂O momentarily. Three minutes of 100% O₂ prevents this potentially dangerous hypoxia."
+    },
+    {
+      "id": "t4-m36",
+      "theme": 4,
+      "topicTag": "sedation",
+      "question": "A child has attempted IV sedation for premolar extractions but remains too anxious to proceed despite adequate sedation. Which ONE of the following is the MOST appropriate next step?",
+      "options": [
+        "A. Administer additional midazolam until the child is cooperative",
+        "B. Abandon treatment permanently as the child cannot be sedated",
+        "C. Refer for treatment under general anaesthesia via the appropriate pathway",
+        "D. Use nitrous oxide inhalation sedation as the child is clearly tolerant to midazolam",
+        "E. Prescribe oral temazepam and reattempt IV sedation at the next appointment"
+      ],
+      "correctAnswer": "C",
+      "explanation": "When conscious sedation has failed to provide adequate conditions for dental treatment in a child, referral for general anaesthesia is the appropriate next step via the local paediatric dentistry/oral surgery pathway. Additional midazolam risks over-sedation → GA territory without the appropriate staffing and monitoring."
+    },
+    {
+      "id": "t4-m37",
+      "theme": 4,
+      "topicTag": "sedation",
+      "question": "Which ONE of the following is the FIRST-LINE drug for IV conscious sedation in adult dental patients?",
+      "options": [
+        "A. Diazepam (Diazemuls)",
+        "B. Propofol",
+        "C. Midazolam",
+        "D. Lorazepam",
+        "E. Remimazolam"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Midazolam is the first-choice agent for IV conscious sedation in adult dentistry in the UK — established by clinical guidelines. Diazepam (A) is no longer preferred due to long half-life and rebound sedation. Propofol (B) is only for specialist anaesthetists. Remimazolam (E) is newer but not yet widely used as first-line."
+    },
+    {
+      "id": "t4-m38",
+      "theme": 4,
+      "topicTag": "sedation",
+      "question": "Chronic occupational exposure to nitrous oxide can cause which ONE of the following haematological complications?",
+      "options": [
+        "A. Iron deficiency anaemia from reduced haem synthesis",
+        "B. Megaloblastic anaemia from inhibition of methionine synthetase — impaired DNA synthesis",
+        "C. Haemolytic anaemia from oxidative stress",
+        "D. Aplastic anaemia from bone marrow suppression",
+        "E. Thrombocytopenia from reduced thrombopoietin production"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Chronic N₂O exposure → oxidises vitamin B12 → inhibits methionine synthetase → impaired DNA synthesis → megaloblastic anaemia and impaired haematopoiesis. Other risks: neurological complications (peripheral neuropathy), reproductive problems (miscarriage, reduced fertility), hepatic/renal impairment. UK occupational exposure limit: 100 ppm over 8 hours."
+    },
+    {
+      "id": "t4-m39",
+      "theme": 4,
+      "topicTag": "sedation",
+      "question": "Flumazenil is the benzodiazepine antagonist. Which ONE of the following is the MOST important limitation of its use?",
+      "options": [
+        "A. Flumazenil permanently destroys benzodiazepine receptor sites",
+        "B. Flumazenil causes paradoxical sedation in some patients",
+        "C. Flumazenil has a shorter half-life (~53 minutes) than most benzodiazepines — resedation can occur",
+        "D. Flumazenil is only effective against diazepam — not midazolam",
+        "E. Flumazenil causes severe hypertension on administration"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Flumazenil t½ (~53 min) is shorter than midazolam (1.9 hours) — after initial reversal, as flumazenil is metabolised, midazolam can re-exert sedative effects (resedation). Therefore: patient must be monitored for at least 2 hours after flumazenil; flumazenil is NOT for routine reversal; patient cannot drive themselves home."
+    },
+    {
+      "id": "t4-m40",
+      "theme": 4,
+      "topicTag": "sedation",
+      "question": "How do benzodiazepines produce their sedative effects at a cellular level?",
+      "options": [
+        "A. They directly inhibit voltage-gated sodium channels like local anaesthetics",
+        "B. They enhance GABA-A receptor activity — increasing chloride ion influx → membrane hyperpolarisation → reduced neuronal excitability",
+        "C. They block NMDA glutamate receptors, reducing excitatory neurotransmission",
+        "D. They stimulate endogenous endorphin release from the periaqueductal grey matter",
+        "E. They inhibit acetylcholinesterase, increasing cholinergic tone in the CNS"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Benzodiazepines bind to a specific allosteric site on GABA-A receptors, enhancing the effect of GABA (gamma-aminobutyric acid). This increases chloride ion influx → membrane hyperpolarisation → increased threshold for neuronal firing → reduced sensory input → anxiolysis, sedation, amnesia, muscle relaxation, anticonvulsant effect."
+    },
+    {
+      "id": "t4-m41",
+      "theme": 4,
+      "topicTag": "analgesics",
+      "question": "A pregnant woman at 32 weeks gestation requires post-extraction analgesia. Which ONE of the following is the MOST appropriate?",
+      "options": [
+        "A. Ibuprofen 400mg three times daily — safe in all trimesters",
+        "B. Aspirin 300mg four times daily — safe analgesic in pregnancy",
+        "C. Co-codamol 30/500 — four times daily as codeine is safe in pregnancy",
+        "D. Paracetamol 1g four times daily — the safest analgesic in all trimesters",
+        "E. Diclofenac 50mg three times daily — preferred because it has the lowest GI risk"
+      ],
+      "correctAnswer": "D",
+      "explanation": "Paracetamol is the analgesic of choice throughout pregnancy. NSAIDs (ibuprofen, diclofenac, naproxen, aspirin anti-inflammatory dose) should be avoided after 30 weeks — they cause premature closure of the ductus arteriosus and impair renal function in the fetus. Codeine should be used with caution — risk of respiratory depression in neonate."
+    },
+    {
+      "id": "t4-m42",
+      "theme": 4,
+      "topicTag": "analgesics",
+      "question": "A patient with chronic kidney disease stage 4 requires post-extraction pain management. Which ONE of the following analgesics should be AVOIDED?",
+      "options": [
+        "A. Paracetamol",
+        "B. NSAIDs (ibuprofen, diclofenac)",
+        "C. Codeine 15mg — low dose",
+        "D. Tramadol — at standard dose",
+        "E. A topical NSAID gel applied to the face"
+      ],
+      "correctAnswer": "B",
+      "explanation": "NSAIDs are nephrotoxic — they reduce prostaglandin-mediated renal afferent arteriolar vasodilatation, decreasing glomerular filtration pressure. In patients with already-compromised renal function (CKD stage 4 = GFR 15-29 ml/min), NSAIDs can precipitate acute kidney injury. Paracetamol is the safe analgesic choice."
+    },
+    {
+      "id": "t4-m43",
+      "theme": 4,
+      "topicTag": "local-anaesthesia",
+      "question": "A patient's liver function tests reveal raised ALT and markedly reduced albumin, indicating severe hepatic dysfunction. You plan a mandibular block injection. Which ONE of the following is the MOST appropriate approach?",
+      "options": [
+        "A. Use standard doses of lidocaine — liver disease has no effect on LA pharmacokinetics",
+        "B. Avoid all local anaesthesia in severe liver disease",
+        "C. Use articaine with dose reduction — partially plasma-metabolised, less reliant on hepatic clearance",
+        "D. Use bupivacaine — its very high protein binding makes it safer in low albumin states",
+        "E. Use mepivacaine as it is excreted unchanged in urine"
+      ],
+      "correctAnswer": "C",
+      "explanation": "In severe liver disease: amide LAs accumulate due to impaired hepatic clearance. Articaine is preferable because it is partially metabolised by plasma pseudocholinesterases — less hepatic dependence. All doses should be reduced. Bupivacaine (D) is heavily protein-bound but in hypoalbuminaemia, more free drug is available — increased toxicity risk."
+    },
+    {
+      "id": "t4-m44",
+      "theme": 4,
+      "topicTag": "sedation",
+      "question": "During inhalation sedation with nitrous oxide, which ONE of the following maximum concentration of nitrous oxide should NOT be exceeded?",
+      "options": [
+        "A. 30%",
+        "B. 50%",
+        "C. 70%",
+        "D. 80%",
+        "E. 100%"
+      ],
+      "correctAnswer": "C",
+      "explanation": "The maximum concentration of N₂O used in conscious sedation is 70% — at this concentration, a minimum of 30% oxygen is delivered (required minimum). Concentrations above 70% risk hypoxia. Even at 50-70%, some patients may enter light anaesthesia — the procedure must always be carefully titrated."
+    },
+    {
+      "id": "t4-m45",
+      "theme": 4,
+      "topicTag": "opioids",
+      "question": "Methadone is used in opioid rehabilitation programmes. Which ONE of the following BEST describes its dental relevance?",
+      "options": [
+        "A. Methadone causes gingival hyperplasia as a direct side effect",
+        "B. Oral methadone solution has high sugar content, causing rampant caries in long-term users",
+        "C. Methadone accelerates bone loss around teeth",
+        "D. Methadone causes xerostomia only in patients over 60",
+        "E. Methadone has no dental implications as it is an opioid, not a sedative"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Oral methadone solution is typically dispensed in a highly sweetened base. Long-term use results in rampant caries — particularly affecting the cervical margins and smooth surfaces that are usually low-risk. Patients on methadone programmes should receive intensive preventive dental care including fluoride varnish and dietary advice."
+    },
+    {
+      "id": "t4-m46",
+      "theme": 4,
+      "topicTag": "local-anaesthesia",
+      "question": "A patient taking monoamine oxidase inhibitors (MAOIs) requires dental treatment under local anaesthesia. Which ONE of the following is the MOST appropriate management of the vasoconstrictor?",
+      "options": [
+        "A. Adrenaline is absolutely contraindicated — use plain LA only",
+        "B. Felypressin should be used — MAOIs have no interaction with vasopressin analogues",
+        "C. Adrenaline can be used but the dose should be limited as MAOIs impair adrenaline breakdown via COMT",
+        "D. No precautions needed as dental cartridge doses are too small to cause interactions",
+        "E. Refer to hospital for all dental treatment — LA is contraindicated in MAOI patients"
+      ],
+      "correctAnswer": "C",
+      "explanation": "MAOIs impair the breakdown of adrenaline (and noradrenaline) by inhibiting monoamine oxidase — one of the enzymes involved in catecholamine metabolism. While COMT is the primary first-step metaboliser, reduced overall catecholamine clearance means adrenaline effects are prolonged. Limit the dose and inject slowly."
+    },
+    {
+      "id": "t4-m47",
+      "theme": 4,
+      "topicTag": "vasoconstrictors",
+      "question": "Adrenaline in dental local anaesthetic cartridges acts on multiple adrenergic receptors. Which ONE of the following correctly pairs the receptor type with its cardiovascular effect?",
+      "options": [
+        "A. Alpha-1 → bronchodilation; Beta-2 → vasoconstriction",
+        "B. Alpha-1 → smooth muscle constriction/raised BP; Beta-1 → increased cardiac contractility and rate",
+        "C. Beta-2 → increased cardiac contractility; Alpha-2 → vasodilation",
+        "D. Alpha-1 → decreased heart rate; Beta-1 → peripheral vasodilatation",
+        "E. Dopaminergic → renal vasoconstriction; Alpha-2 → bronchodilation"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Alpha-1: smooth muscle contraction → vasoconstriction, raised BP, and haemostasis (desired dental effects). Beta-1: increased cardiac contractility and rate → useful haemodynamically. Beta-2: bronchodilation and peripheral vasodilation. Alpha-2 (pancreas): reduced insulin secretion. Beta-3 (adipose): lipolysis."
+    },
+    {
+      "id": "t4-m48",
+      "theme": 4,
+      "topicTag": "local-anaesthesia",
+      "question": "A patient experiences collapse and loss of consciousness immediately after a block injection of local anaesthetic. Examination reveals fixed dilated pupils on one side. Which ONE of the following is the MOST likely explanation?",
+      "options": [
+        "A. Systemic LA toxicity causing cerebral vasoconstriction",
+        "B. Anaphylaxis to the LA agent",
+        "C. Inadvertent intravascular injection causing cerebral embolism",
+        "D. Intra-arterial injection of LA with retrograde flow to the cerebral circulation",
+        "E. Vasovagal syncope from pain and anxiety"
+      ],
+      "correctAnswer": "D",
+      "explanation": "Intra-arterial injection (e.g. inferior dental artery) can cause retrograde arterial flow of concentrated LA solution to the internal carotid/cerebral circulation — causing immediate transient neurological signs. This is why aspiration before injection is mandatory, and why the syringe must be assessed even after negative aspiration (some syringes have delayed flash back)."
+    },
+    {
+      "id": "t4-m49",
+      "theme": 4,
+      "topicTag": "analgesics",
+      "question": "A patient with liver cirrhosis and alcoholic hepatitis requires pain management following a dental extraction. Which ONE of the following is the MOST important prescribing consideration?",
+      "options": [
+        "A. Avoid paracetamol completely — maximum dose in liver disease is 0mg",
+        "B. Reduce paracetamol to 500mg twice daily as the maximum safe dose in liver disease; avoid NSAIDs",
+        "C. Use ibuprofen as it has the lowest risk of hepatic interaction",
+        "D. Use codeine at full dose as opioids are not metabolised in the liver",
+        "E. Use aspirin as it has no effect on liver enzymes"
+      ],
+      "correctAnswer": "B",
+      "explanation": "In liver disease: paracetamol can still be used but at REDUCED doses (500mg twice daily maximum) — liver disease depletes glutathione, reducing NAPQI clearance. Avoid NSAIDs (GI bleeding risk from portal hypertension; nephrotoxicity). Avoid opioids (accumulate in liver disease). Avoid aspirin (antiplatelet effect worsens bleeding risk)."
+    },
+    {
+      "id": "t4-m50",
+      "theme": 4,
+      "topicTag": "sedation",
+      "question": "Temazepam is sometimes used as an oral premedicant in anxious dental patients. Which ONE of the following BEST describes its role?",
+      "options": [
+        "A. It is the first-line drug for IV sedation in dental practice",
+        "B. It provides reliable titrated sedation equivalent to IV midazolam",
+        "C. It is given orally (10mg, 30 minutes before the appointment) as a premedicant for very anxious patients — NOT as definitive sedation",
+        "D. It is used to reverse the effects of IV midazolam",
+        "E. It causes no anterograde amnesia and is preferred for short procedures"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Temazepam as oral premedicant: 10mg orally 30 minutes before procedure — produces mild anxiolysis to facilitate compliance. It CANNOT be titrated (fixed oral dose, variable absorption from first-pass metabolism). It is NOT equivalent to IV sedation — it does not provide the reliable depth needed for complex treatment."
+    },
+    {
+      "id": "t4-m51",
+      "theme": 4,
+      "topicTag": "local-anaesthesia",
+      "question": "Which ONE of the following dental procedures requires a mandibular block (inferior alveolar nerve block) for adequate anaesthesia in most patients?",
+      "options": [
+        "A. Extraction of an upper first molar",
+        "B. Extraction of a lower first molar",
+        "C. Placement of a composite restoration in an upper premolar",
+        "D. Gingivectomy on the upper anterior teeth",
+        "E. Periodontal debridement of the upper quadrant"
+      ],
+      "correctAnswer": "B",
+      "explanation": "The inferior alveolar nerve block (IANB) anaesthetises the mandibular teeth (and associated soft tissues) of one quadrant. Lower molar extractions almost always require a block. Upper teeth are anaesthetised by buccal and palatal infiltrations (the alveolar bone is thinner and more permeable). The IANB is the most commonly performed dental nerve block."
+    },
+    {
+      "id": "t4-m52",
+      "theme": 4,
+      "topicTag": "opioids",
+      "question": "A patient on long-term strong opioids for chronic pain has an unusually high pain threshold. This is MOST likely explained by:",
+      "options": [
+        "A. Permanent upregulation of endogenous endorphin production",
+        "B. Opioid-induced tolerance — reduced receptor sensitivity and density requiring higher doses for equivalent analgesia",
+        "C. Permanent destruction of pain receptors by chronic opioid therapy",
+        "D. Conversion of opioid receptors to non-opioid receptor types",
+        "E. Development of cross-tolerance to all analgesics including paracetamol"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Opioid tolerance: chronic opioid exposure causes receptor downregulation and desensitisation — progressively higher doses needed for equivalent analgesic effect. Tolerance develops at different rates for different opioid effects: rapid for analgesia; slower for respiratory depression (explaining the relative safety of gradually escalating doses in palliative care)."
+    },
+    {
+      "id": "t4-m53",
+      "theme": 4,
+      "topicTag": "vasoconstrictors",
+      "question": "A 2.2ml cartridge of lidocaine 2% with adrenaline 1:80,000 contains how many micrograms of adrenaline?",
+      "options": [
+        "A. 5 micrograms",
+        "B. 12.5 micrograms",
+        "C. 27.5 micrograms",
+        "D. 55 micrograms",
+        "E. 100 micrograms"
+      ],
+      "correctAnswer": "C",
+      "explanation": "1:80,000 = 1g in 80,000ml = 1,000,000 micrograms in 80,000ml = 12.5 micrograms/ml. 2.2ml cartridge × 12.5 micrograms/ml = 27.5 micrograms per cartridge. Standard recommendation: maximum 2mg adrenaline = approximately 72 cartridges before the adrenaline dose itself limits use — in practice, lidocaine toxicity limits use far earlier."
+    },
+    {
+      "id": "t4-m54",
+      "theme": 4,
+      "topicTag": "nociception",
+      "question": "The biopsychosocial model of pain recognises that pain has multiple contributing factors. Which ONE of the following BEST illustrates the 'psychosocial' component of pain in a dental context?",
+      "options": [
+        "A. The release of inflammatory mediators causing peripheral sensitisation",
+        "B. The activation of C-fibre nociceptors in the dental pulp",
+        "C. A patient's catastrophising about dental pain increasing perceived severity and reducing treatment compliance",
+        "D. The role of prostaglandins in lowering the nociceptive threshold",
+        "E. Central sensitisation causing allodynia in the trigeminal nucleus"
+      ],
+      "correctAnswer": "C",
+      "explanation": "The biopsychosocial model incorporates biological (tissue damage, nociception), psychological (catastrophising, fear, anxiety, past experiences, depression), and social factors (work, relationships, isolation) — all interact to determine pain experience. Pain catastrophising dramatically amplifies perceived dental pain and reduces treatment tolerance — explaining why CBT is effective in chronic orofacial pain."
+    },
+    {
+      "id": "t4-m55",
+      "theme": 4,
+      "topicTag": "local-anaesthesia",
+      "question": "What is the INR target for patients with a bioprosthetic valve in the mitral position?",
+      "options": [
+        "A. 1.0 (range 0.5-1.5)",
+        "B. 1.5 (range 1.0-2.0)",
+        "C. 2.5 (range 2.0-3.0)",
+        "D. 3.5 (range 3.0-4.0)",
+        "E. 4.0 (range 3.5-4.5)"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Bioprosthetic (tissue) valves in the mitral position: INR target 2.5 (range 2.0–3.0). Mechanical valves require higher INR targets (2.5–3.5 for aortic, 3.0–4.0 for mitral mechanical). Dental procedures can proceed at INR ≤4 without stopping warfarin."
+    },
+    {
+      "id": "t4-m56",
+      "theme": 4,
+      "topicTag": "opioids",
+      "question": "A 70kg adult patient presents with opioid overdose — miosis and bradypnoea (6 breaths/min). ABCDE assessment is begun. What is the correct dose of naloxone to administer IV?",
+      "options": [
+        "A. 0.1mg IV as a single dose",
+        "B. 0.2–0.4mg IV, repeated every 2–3 minutes as needed up to 10mg total",
+        "C. 1mg IV as a single bolus",
+        "D. 2mg IV — then no further doses",
+        "E. 100 micrograms IM only — IV route is contraindicated"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Naloxone for opioid overdose: 0.2–0.4mg IV initially, then repeated every 2–3 minutes, guided by respiratory rate, up to 10mg maximum. The goal is to restore adequate spontaneous ventilation — not to fully reverse all opioid effects (which would cause acute withdrawal and severe pain in opioid-dependent patients)."
+    },
+    {
+      "id": "t4-m57",
+      "theme": 4,
+      "topicTag": "local-anaesthesia",
+      "question": "A patient reports a previous 'allergy' to local anaesthetic — they felt their heart race and felt faint during the injection. Which ONE of the following is the MOST likely explanation for this reaction?",
+      "options": [
+        "A. True type I IgE-mediated allergy to amide LA",
+        "B. Type IV hypersensitivity to the preservatives in the LA cartridge",
+        "C. Intravascular injection of adrenaline or an anxiety/vasovagal response — not a true allergy",
+        "D. Allergy to the latex rubber in the cartridge bung",
+        "E. Cross-reactivity to PABA from a previous ester LA exposure"
+      ],
+      "correctAnswer": "C",
+      "explanation": "True allergy to amide LA is extremely rare. Most 'allergic' reactions to dental LA are: (1) vasovagal syncope from fear/pain; (2) intravascular injection of adrenaline — causing palpitations, anxiety, pallor; (3) hyperventilation. If true allergy is suspected, formal allergy testing (skin prick + challenge) is needed before dental treatment."
+    },
+    {
+      "id": "t4-m58",
+      "theme": 4,
+      "topicTag": "sedation",
+      "question": "Which ONE of the following correctly identifies the benzodiazepine of choice and the initial dose for IV conscious sedation in a healthy adult?",
+      "options": [
+        "A. Diazepam, 0.1–0.2 mg/kg",
+        "B. Midazolam, 0.07–0.1 mg/kg titrated slowly to effect",
+        "C. Lorazepam, 2–4mg as a single IV bolus",
+        "D. Temazepam, 10mg IV immediately before treatment",
+        "E. Alprazolam, 0.25–0.5mg IV, titrated to effect"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Midazolam is the first-line agent for IV dental sedation. Starting dose approximately 0.07–0.1mg/kg; titrated slowly (1mg increments over 30-60 seconds) against clinical response — end-point is relaxation, ptosis, mild dysarthria, maintained verbal contact. Elderly patients require much lower total doses."
+    },
+    {
+      "id": "t4-m59",
+      "theme": 4,
+      "topicTag": "analgesics",
+      "question": "In the dental surgery, which ONE of the following correctly summarises when NSAIDs should be avoided in a dental patient?",
+      "options": [
+        "A. Only avoided in patients with known ulcers",
+        "B. Avoided in patients with peptic ulcer disease, renal failure, coagulopathies, asthma (aspirin-sensitive), pregnancy after 30 weeks, patients on warfarin or anticoagulants, and severe liver disease",
+        "C. Avoided only in patients over 65 years",
+        "D. Avoided only when combined with paracetamol",
+        "E. Avoided only when prescribed at doses above 400mg ibuprofen"
+      ],
+      "correctAnswer": "B",
+      "explanation": "NSAIDs are contraindicated (or require caution) in: peptic ulcer disease, renal failure, coagulopathies/anticoagulants, aspirin-sensitive asthma, pregnancy after 30 weeks (ductus arteriosus closure risk), liver disease, and patients on warfarin or other anticoagulants. This comprehensive list is essential clinical knowledge."
+    },
+    {
+      "id": "t4-m60",
+      "theme": 4,
+      "topicTag": "vasoconstrictors",
+      "question": "Cocaine is used in nasal surgery because it has a unique property among local anaesthetics. What is this unique property?",
+      "options": [
+        "A. It is the only LA that is water-soluble at physiological pH",
+        "B. It is the only naturally occurring LA and the only one that causes intense vasoconstriction (by blocking catecholamine reuptake)",
+        "C. It is the only LA effective as a topical agent",
+        "D. It is the only LA safe in pregnancy",
+        "E. It is the only LA that is effective at acidic tissue pH"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Cocaine is unique among LAs: (1) it is naturally occurring (the only naturally-occurring LA); (2) it causes intense vasoconstriction by blocking reuptake of noradrenaline and adrenaline into nerve terminals — useful for nasal procedures to reduce bleeding. However, it is a controlled drug (Schedule A) and not used in dental practice."
+    },
+    {
+      "id": "t4-m61",
+      "theme": 4,
+      "topicTag": "sedation",
+      "question": "A patient undergoing IV midazolam sedation complains of a painful, burning sensation at the injection site. Which ONE of the following explains this if diazepam (Diazemuls) were used instead?",
+      "options": [
+        "A. Diazemuls is more acidic than midazolam — causing burning at physiological pH",
+        "B. Diazemuls is dissolved in organic solvent (soya bean oil) which can cause pain on injection and thrombophlebitis",
+        "C. Diazemuls contains a higher concentration of benzodiazepine per ml than midazolam",
+        "D. Diazemuls is given as a rapid bolus, causing vascular damage",
+        "E. Diazemuls has a lower pKa than midazolam — more of the drug enters the vein wall"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Diazepam (plain Diazemuls) is insoluble in water — it is dissolved in organic solvents (propylene glycol) or emulsified in soya bean oil (Diazemuls). The organic solvent formulation causes intense venous pain and thrombophlebitis. Midazolam avoids this — it is water-soluble at pH 4 (non-irritant) yet becomes lipid-soluble at physiological pH."
+    },
+    {
+      "id": "t4-m62",
+      "theme": 4,
+      "topicTag": "nociception",
+      "question": "Hyperalgesia differs from allodynia. Which ONE of the following BEST defines allodynia?",
+      "options": [
+        "A. An increased pain response to a normally painful stimulus",
+        "B. Spontaneous pain in the absence of any stimulus",
+        "C. Pain in response to a stimulus that is not normally painful",
+        "D. Reduced pain threshold from peripheral sensitisation only",
+        "E. Pain radiating beyond the site of the original injury"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Allodynia = pain from a stimulus that is not normally painful (e.g. light touch causing pain). Hyperalgesia = increased pain from a normally painful stimulus (e.g. mild heat causing severe pain). Both result from sensitisation — peripheral or central. Divergence (radiation) is related but different."
+    },
+    {
+      "id": "t4-m63",
+      "theme": 4,
+      "topicTag": "local-anaesthesia",
+      "question": "A patient undergoes an inferior alveolar nerve block. Ten minutes later the lower lip and chin feel numb but the molar tooth remains sensitive. Which ONE of the following is the MOST likely explanation?",
+      "options": [
+        "A. The patient is allergic to the local anaesthetic",
+        "B. The nerve block was placed too far anteriorly missing the main trunk, or the mandibular canal is in an unusual position — accessory innervation (mylohyoid nerve) may be present",
+        "C. The lidocaine has been inactivated by the inflammatory tissue",
+        "D. The maximum dose of LA has been exceeded causing systemic toxicity",
+        "E. The patient is a fast metaboliser and the LA has already been inactivated"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Numbness of lip/chin (cutaneous distribution of mental nerve) confirms the block was partially effective. Persistent tooth sensitivity suggests: (1) block placed too far anteriorly on the nerve trunk, anaesthetising distal branches first; (2) accessory innervation via the mylohyoid nerve — supplement with a lingual or buccal infiltration; (3) infected/hyperaemic tissue reducing LA efficacy at the apex."
+    },
+    {
+      "id": "t4-m64",
+      "theme": 4,
+      "topicTag": "sedation",
+      "question": "Which ONE of the following recreational drug interactions with adrenaline in dental LA is of greatest concern?",
+      "options": [
+        "A. Cannabis — reduces metabolism of adrenaline in the liver",
+        "B. Cocaine — blocks reuptake of noradrenaline, dramatically potentiating adrenergic effects — risk of hypertensive crisis",
+        "C. Heroin — causes direct cardiotoxicity when combined with adrenaline",
+        "D. Alcohol — inhibits adrenaline at the receptor level",
+        "E. MDMA — reduces adrenaline clearance from the synapse"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Cocaine blocks neuronal catecholamine reuptake — when exogenous adrenaline (from LA) is added, there is massive potentiation of sympathomimetic effects: dangerous hypertension, tachycardia, arrhythmia risk. If a patient is known to have used cocaine, wait minimum 24 hours before using adrenaline-containing LA."
+    },
+    {
+      "id": "t4-m65",
+      "theme": 4,
+      "topicTag": "analgesics",
+      "question": "Ibuprofen achieves its analgesic effect by blockage of which ONE of the following enzymes?",
+      "options": [
+        "A. Phospholipase A2 — preventing arachidonic acid release",
+        "B. Lipoxygenase — preventing leukotriene synthesis",
+        "C. Cyclo-oxygenase (COX-1 and COX-2) — preventing prostaglandin and thromboxane synthesis",
+        "D. Monoamine oxidase — preventing breakdown of inflammatory mediators",
+        "E. Dihydrofolate reductase — preventing prostaglandin precursor synthesis"
+      ],
+      "correctAnswer": "C",
+      "explanation": "NSAIDs (including ibuprofen) non-selectively inhibit both COX-1 and COX-2. COX-1 inhibition → reduced gastric mucosal protection (side effect); COX-2 inhibition → reduced prostaglandin synthesis at sites of inflammation → analgesia and anti-inflammatory effects. The 'stomach ache' side effect is from COX-1 inhibition reducing gastroprotective prostaglandins."
+    }
+  ]
+}

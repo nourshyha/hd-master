@@ -1,0 +1,1466 @@
+{
+  "theme": {
+    "id": 5,
+    "title": "Cardiovascular Diseases",
+    "difficulty": "hardest",
+    "lectureCount": 12,
+    "learningOutcomes": [
+      "HD20",
+      "HD21",
+      "HD22",
+      "HD23",
+      "HD24",
+      "HD25",
+      "HD26",
+      "HD27",
+      "HD28",
+      "HD29",
+      "HD30"
+    ]
+  },
+  "groundIt": [
+    {
+      "clusterId": "t5-c1",
+      "clusterTitle": "CVD Overview — Cardiac Anatomy, Physiology & Risk Factors",
+      "content": "Cardiovascular disease covers diseases of the heart and blood vessels. Blood flows: left ventricle → aortic valve → aorta → arteries → arterioles → capillaries → venules → veins → inferior/superior vena cava → right atrium → tricuspid valve → right ventricle → pulmonary valve → pulmonary artery → lungs → pulmonary veins → left atrium → mitral (bicuspid) valve → left ventricle. Arteries are thick-walled, high-pressure, no valves. Veins are thin-walled, low-pressure, have valves. Capillaries are one cell thick (~5 microns).\n\nThe four heart valves: aortic (left ventricle to aorta), mitral/bicuspid (left atrium to left ventricle), pulmonary (right ventricle to pulmonary artery), tricuspid (right atrium to right ventricle). The coronary arteries supply the heart itself — the left coronary artery divides into the left anterior descending (LAD — supplies front of heart) and circumflex (back); the right coronary artery supplies the inferior heart.\n\nThe cardiac conducting system: sinoatrial (SA) node (right atrium, sets heart rate) → atria contract → atrioventricular (AV) node (detects atrial depolarisation) → Bundle of His → right and left bundle branches → Purkinje fibres → ventricular contraction. ECG: P wave (atrial depolarisation/contraction), PR interval (AV node delay), QRS complex (ventricular depolarisation/contraction), T wave (ventricular repolarisation). The left ventricle is the largest and most muscular chamber.\n\nModifiable risk factors for CVD: hypertension (most important correctable risk factor — risk doubles for every 20/10 mmHg increase), hyperlipidaemia (raised LDL, low HDL), diabetes mellitus, smoking (carbon monoxide damages endothelial cells), obesity, physical inactivity. Non-modifiable: age (>55), male sex, post-menopausal women, genetics (first-degree relative with CVD under 55), South Asian/African-Caribbean ethnicity.",
+      "selfExplainPrompt": "Name the four cardiac valves and their positions, then identify the three most important modifiable cardiovascular risk factors and explain why each contributes to CVD."
+    },
+    {
+      "clusterId": "t5-c2",
+      "clusterTitle": "Atherosclerosis — Pathogenesis, Plaques & Consequences",
+      "content": "Atherosclerosis is the process of narrowing and hardening of arteries due to atheroma — focal accumulation of lipid in the intima of large and medium-sized arteries. It preferentially occurs at arterial bifurcations (areas of turbulent blood flow) and in the coronary, carotid, cerebral, and femoral arteries.\n\nNormal artery structure: three layers — intima (inner, single endothelial cell layer), tunica media (muscular middle layer), adventitia (outer connective tissue). Atherosclerosis develops in four stages: (1) Endothelial dysfunction — hypertension, hyperlipidaemia, and smoking damage endothelium at areas of turbulent flow. (2) Fatty streak — LDLs and monocytes (which differentiate into macrophages under lymphocyte cytokine influence) enter the intima. Macrophages engulf LDL but cannot digest the fat → 'foamy macrophages' (the characteristic histological feature of the early lesion). (3) Fibrolipid plaque — smooth muscle cells migrate from media into intima; produce collagen; a fibrous cap forms over a lipid-rich core; luminal bulging begins. Elevated lesion, endothelial lining still intact. (4) Complicated lesion — endothelial cells stripped away; platelets impact on raw surface → clotting cascade → thrombus formation; calcification; haemorrhage into plaque; plaque fissure; embolism.\n\nConsequences of atherosclerosis: ischaemic heart disease (angina, MI, heart failure) in coronary arteries; cerebral ischaemia and infarction (TIA, stroke) in carotid/cerebral vessels; peripheral vascular disease (intermittent claudication — pain in calves on walking) in femoral arteries; aortic aneurysm; mesenteric ischaemia.\n\nVirchow's triad (for thrombosis): endothelial damage + abnormal blood flow + hypercoagulability. A thrombus is a solid clot in flowing blood (contains platelets, fibrin, and red cells — lines of Zahn visible histologically). An embolus is material travelling through the circulation. Most emboli are thromboemboli. Others: fat, air, bone marrow, amniotic fluid, tumour, foreign material. Pulmonary embolism: DVT travels via inferior vena cava to pulmonary artery. Paradoxical embolus: crosses patent foramen ovale to become systemic. Risk factors for DVT: immobility, surgery, pregnancy, malignancy, age, congestive heart failure, burns.",
+      "selfExplainPrompt": "Describe the four stages of atherosclerotic plaque development, naming the characteristic histological feature of the fatty streak stage, and state three consequences of a complicated lesion."
+    },
+    {
+      "clusterId": "t5-c3",
+      "clusterTitle": "Ischaemic Heart Disease, Angina & Myocardial Infarction",
+      "content": "Ischaemic heart disease (IHD) encompasses the spectrum of disorders caused by coronary artery atherosclerosis and thrombosis. It includes angina (reversible ischaemia — chest pain on exertion from narrowed but not completely blocked coronary arteries), myocardial infarction (irreversible damage from complete coronary artery occlusion), and heart failure secondary to ischaemic damage.\n\nAngina SOCRATES: Site — central chest; Onset — on exertion (stable angina) or at rest (unstable angina/ACS); Characteristics — tight, squeezing, band-like (NOT sharp); Radiation — neck, left arm, jaw (mandible); Associated — breathlessness, sweatiness, nausea; Time — <5 minutes in stable angina (hours in ACS); Exacerbating/relieving — worse on exertion, improved by rest or GTN spray. Diagnosis: ECG, exercise ECG (stress test), CT coronary angiography, myocardial perfusion scan, cardiac MRI.\n\nMI: caused by plaque rupture at a vulnerable plaque → coronary thrombosis → complete occlusion. Evolution: <6 hours — no visible changes but ECG changes (ST elevation or depression); 24–48 hours — pallor with haemorrhagic rim; several days — pale, grey, fibrotic. Haemopericardium (blood in pericardial sac) greatest risk at 4–6 hours post-MI — can cause tamponade and sudden death. Dental management in post-MI patients: postpone elective treatment for 3–6 months. GTN spray used for angina attacks in chair: 2 puffs sublingually, repeat every 3 minutes — if needs >2 doses, suspect MI, call ambulance. In MI: 100% O2 at 15L/min, sublingual GTN, aspirin 300mg chewed.\n\nDrug management of angina: nitrates (GTN — NO donor → smooth muscle relaxation → venodilation reduces cardiac preload → coronary artery dilation; administered sublingual, oral, transdermal, IV — nitrate tolerance requires 'nitrate-free period' usually overnight); beta-blockers (decrease heart rate and contractility, reduce myocardial oxygen demand); calcium channel blockers (dihydropyridines like amlodipine — vasodilation; benzothiazines like diltiazem — slow HR slightly; phenylalkylamines like verapamil — dramatically slow HR; NEVER combine verapamil with beta-blockers — cardiac arrest risk); potassium channel openers (nicorandil — vasodilation + nitrate component; causes oral ulceration); ivabradine (selective If channel blocker — lowers heart rate only); ranolazine (inhibitor of late sodium current).",
+      "selfExplainPrompt": "Describe the character and radiation of anginal chest pain and explain how you would distinguish it from an MI in the dental chair, including your immediate management steps for each."
+    },
+    {
+      "clusterId": "t5-c4",
+      "clusterTitle": "Valvular Heart Disease & Infective Endocarditis",
+      "content": "Valvular heart disease: two main types — stenosis (valve narrowed, cannot open fully → obstruction to blood flow; most common: aortic stenosis) and regurgitation (valve leaky, cannot close fully → backflow; most common in UK: mitral regurgitation). Patients present with dizziness, syncope, breathlessness, and less commonly chest tightness. Diagnosis: echocardiography (transthoracic, or transesophageal for more detail). Treatment options: medical management, keyhole (TAVI — transcatheter aortic valve implantation for stenosis; transcatheter edge-to-edge repair for regurgitation), or surgical valve replacement (tissue or mechanical). Mechanical valves require lifelong anticoagulation. Risk: infective endocarditis.\n\nInfective endocarditis (IE): bacterial (most commonly), rarely viral or fungal. Predominantly affects the left heart (mitral and aortic valves, 95% of cases). Pathogenesis: bacteraemia deposits on damaged/irregular valve surface → vegetation formation (bacteria + platelets + fibrin) → further bacterial deposition. Organisms: oral streptococci (most common cause in patients with pre-existing valve disease), Staphylococcus aureus (acute IE — equally prevalent on normal and abnormal valves; 25–47% mortality), HACEK organisms (Haemophilus, Aggregatibacter, Cardiobacterium, Eikenella, Kingella — 5% of cases), Candida/Aspergillus (~1%).\n\nRisk factors: structural — congenital lesions (VSD, tetralogy of Fallot, patent ductus arteriosus), valvular abnormalities (rheumatic fever, bicuspid aortic valve, mitral valve prolapse), prosthetic valves. Non-structural: IV drug abuse, surgical/dental procedures causing bacteraemia. Clinical features: pyrexia (most common), sweats, malaise, weight loss, anaemia, splenomegaly. Skin signs: Osler's nodes (painful raised lumps on fingers/toes), Janeway lesions, splinter haemorrhages (>8 indicate endocarditis), petechiae. Eyes: Roth spots (retinal haemorrhages), subconjunctival haemorrhages. Septic emboli can travel to brain, limbs, kidneys (glomerulonephritis → haematuria). Diagnosis: echocardiogram, blood cultures (may be negative in 14% of cases). Duke criteria: 2 major criteria, or 1 major + 3 minor, or 5 minor → definite IE.\n\nNICE guidelines on antibiotic prophylaxis: not routinely recommended for dental procedures. SDCEP stratifies risk — high risk: previous IE, prosthetic valves/material, cyanotic congenital heart disease, repaired CHD with prosthetic material (first 6 months or lifelong if residual shunt/regurgitation). Moderate risk: previous rheumatic fever with valve damage, native valve disease, unrepaired congenital valve anomalies. Arguments against prophylaxis: no consistent link between dental procedures and IE; daily tooth-brushing presents greater cumulative bacteraemia risk than a single procedure; prophylaxis is not cost-effective and risk of anaphylaxis may exceed IE risk. Key patient advice: importance of oral hygiene (most important prevention!), seek medical attention if IE symptoms develop, avoid body piercing/tattooing.",
+      "selfExplainPrompt": "Explain the pathogenesis of infective endocarditis following a dental extraction, and describe two skin signs that might lead a clinician to suspect it."
+    },
+    {
+      "clusterId": "t5-c5",
+      "clusterTitle": "Heart Failure",
+      "content": "Heart failure is a clinical syndrome (breathlessness, fatigue, oedema) caused by failure of the heart to pump adequately. Classified as: acute or chronic; right-sided or left-sided. Left-sided failure: blood dams back in pulmonary veins → raised pulmonary venous pressure → pulmonary oedema → dyspnoea on exertion progressing to orthopnoea (breathlessness lying flat — important for dental chair positioning), paroxysmal nocturnal dyspnoea, pink frothy sputum. Right-sided failure (Cor pulmonale): blood dams in systemic veins → peripheral oedema (ankles, sacrum), raised JVP, hepatic congestion, ascites, fatigue.\n\nCommon cardiac causes: ischaemic heart disease (MI → left ventricular damage → systolic dysfunction), hypertension (increased afterload → LV hypertrophy), valvular disease (stenosis or regurgitation), sustained arrhythmias (especially AF). Non-cardiac causes: anaemia (high output), hyperthyroidism, AV shunts, IV fluid overload, renal failure.\n\nNeurohormonal mechanisms in heart failure are paradoxical and ultimately harmful despite initially compensatory intent: (1) Reduced CO/BP resembles dehydration → RAAS activation (aldosterone → retain Na and water → oedema; vasoconstriction) + sympathetic activation (adrenaline/noradrenaline → tachycardia and vasoconstriction → maintain BP); (2) Raised intracardiac pressure → ANP and BNP (brain natriuretic peptide) released → promote sodium excretion. Long-term sympathetic activation: fluid retention, vasoconstriction increases resistance (afterload), continuous sympathetic stimulation damages myocardium.\n\nDrug treatment of heart failure: ACE inhibitors (lisinopril — inhibit RAAS; dilate blood vessels; reduce preload and afterload; improve survival); ARBs (losartan — if ACE inhibitor cough intolerable; don't cause cough as no bradykinin effect); beta-blockers (stabilise rhythm; reduce sympathetic damage; for STABLE heart failure only — may precipitate failure in unstable patients); loop diuretics (furosemide — most powerful, increase urine tenfold; correct fluid overload; cause hypokalaemia, hyponatraemia, ototoxicity); aldosterone antagonists (spironolactone — potassium-sparing; improves survival; causes gynaecomastia; hyperkalaemia risk); digoxin (cardiac glycoside — inhibits Na/K-ATPase pump → calcium accumulates → positive inotrope; vagolytic → slows AV conduction; for AF + heart failure; narrow therapeutic index; toxicity: visual disturbances, confusion, arrhythmias, nausea). Non-pharmacological: cardiac resynchronisation pacemaker (CRT), valve repair, heart transplantation.",
+      "selfExplainPrompt": "Explain why a patient with left-sided heart failure cannot lie flat for dental treatment, linking your answer to the pathophysiology of orthopnoea."
+    },
+    {
+      "clusterId": "t5-c6",
+      "clusterTitle": "Cardiac Arrhythmias",
+      "content": "Arrhythmias are disorders of heart rate or rhythm. Classified as tachyarrhythmias (>100 bpm), bradyarrhythmias (<60 bpm), or cardiac arrest. ECG is the key diagnostic tool. Tachyarrhythmias are divided into supraventricular (arise above Bundle of His — narrow QRS complex on ECG, generally not immediately life-threatening) and ventricular (arise in ventricular tissue — broad/slurred QRS, can cause cardiac arrest).\n\nAtrial fibrillation (AF): most common rhythm disturbance. Uncoordinated atrial activity → irregular, rapid ventricular response. Can cause heart failure and stroke (thrombus forms in fibrillating atria → emboli → cerebral infarction → anticoagulation with warfarin or DOAC is key). Managed with: digoxin or beta-blockers (rate control); DC cardioversion or amiodarone (rhythm control); warfarin or DOACs to reduce stroke risk. Ventricular tachycardia (VT): rate >140 bpm; associated with IHD; can cause cardiac arrest. Ventricular fibrillation (VF): completely disorganised — no cardiac output, cardiac arrest, death within minutes. Most common cause of sudden cardiac death post-MI.\n\nAntiarrhythmic drugs (Vaughan Williams classification): Class I — sodium channel blockers (e.g. lidocaine — Class Ib, fast sodium channel block, used for ventricular arrhythmias; short half-life, IV infusion; can cause hypotension, heart block, and neurotoxicity); Class II — beta-blockers (antisympathetic, reduce sinus node rate, used for SVT and AF); Class III — potassium channel blockers (amiodarone — prolongs action potential duration and refractory period; first-line for VF; multiple serious adverse effects: thyroid disturbances, pulmonary fibrosis, pro-arrhythmia, peripheral neuropathy, irreversible blue-grey skin discolouration); Class IV — calcium channel blockers (verapamil — slows AV node conduction, used for SVT; NEVER combine with beta-blockers — cardiac arrest risk; can cause constipation, heart failure); adenosine (used for acute SVT — transiently blocks AV node, terminates re-entry circuits).\n\nBradyarrhythmias: sinus bradycardia, heart block (1st degree — prolonged PR; 2nd degree — some impulses not conducted; 3rd degree/complete — no impulses conducted, patient needs pacemaker). Drugs to increase heart rate: atropine (antimuscarinic — blocks vagal slowing of AV node; IV; dry mouth, urinary retention, mydriasis as side effects) and isoprenaline (beta-1/2 agonist — increases sinus node rate). Implantable cardiac devices: pacemakers and defibrillators — newer models less susceptible to electromagnetic interference from dental equipment, but older devices may be affected by ultrasonic scalers.",
+      "selfExplainPrompt": "Explain why atrial fibrillation increases the risk of stroke and what drug class is given to reduce this risk. Then describe the Vaughan Williams classification and give one drug for each of the four classes."
+    },
+    {
+      "clusterId": "t5-c7",
+      "clusterTitle": "Hypertension & Stroke",
+      "content": "Hypertension is elevated blood pressure — systolic >140 mmHg and/or diastolic >90 mmHg. Risk of CVD doubles for every 20/10 mmHg increase in BP. Often asymptomatic — 'the silent killer'. Measured with sphygmomanometer above the brachial artery; requires multiple readings and ideally ambulatory BP monitoring (ABPM) to avoid white coat effect.\n\nStages: Stage 1 — ≥140/90 mmHg (clinic) or ≥135/85 ABPM; Stage 2 — ≥160/100 mmHg; Severe — ≥180/110 mmHg. Stage 1: lifestyle modification, ABPM. Stage 2: medication + lifestyle. Severe: immediate treatment, may be emergency.\n\nCauses: 90% essential (idiopathic — polygenic + environmental: salt intake, obesity, inactivity); 10% secondary — most commonly renal (renal artery stenosis in older smokers, glomerulonephritis in younger patients); endocrine (Conn's syndrome — hyperaldosteronism from adrenal adenoma; Cushing's syndrome — excess cortisol; phaeochromocytoma — adrenal catecholamine tumour); coarctation of aorta; drugs (amphetamines, cocaine).\n\nRenin-angiotensin system: kidney senses reduced perfusion → renin release → angiotensinogen → angiotensin I → ACE → angiotensin II → binds AT1 receptor → aldosterone secretion (sodium/water retention) + peripheral vasoconstriction + sympathetic activation → raised BP.\n\nDrug treatment (ABCD): A — ACE inhibitors (lisinopril: inhibit conversion of Ang I to Ang II; adverse: cough, angioedema, hyperkalaemia, renal failure in bilateral renal artery stenosis, fetal injury) or ARBs (losartan: antagonise AT1 receptor; no cough; similar adverse effects except cough); B — Beta-blockers (atenolol: cardioselective; adverse: bronchospasm, cold extremities, blunting of hypoglycaemia awareness, tooth demineralisation, lichenoid reactions, fatigue); C — Calcium channel blockers (amlodipine: dihydropyridine, vasodilates, little cardiac effect; gingival hyperplasia; verapamil/diltiazem also slow HR); D — Diuretics (indapamide: thiazide-like, blocks Na-Cl cotransport, causes hypokalaemia, hyponatraemia, gout). ABCD drug combinations: A+C or A+D preferred; B+D increases new-onset diabetes risk — avoid. Under 55: start with A → add C → add D → add alpha-blocker or extra diuretic. Over 55 or African/Caribbean: start with C → add A → add D.\n\nStroke: neurological deficit of presumed vascular cause lasting >24 hours. TIA resolves within 24 hours. 85% ischaemic (thrombosis or embolism — AF causing emboli is a major cause); 15% haemorrhagic (rupture of vessel — hypertension causes haemorrhagic strokes). Symptoms depend on which cerebral artery is affected. 100,000 new cases/year in UK; 3rd most common cause of death and severe disability.",
+      "selfExplainPrompt": "Describe the renin-angiotensin system and explain how ACE inhibitors reduce blood pressure. Then name two adverse effects of ACE inhibitors relevant to dentistry."
+    },
+    {
+      "clusterId": "t5-c8",
+      "clusterTitle": "Peripheral Vascular Disease & Vascular Disorders",
+      "content": "Peripheral arterial disease (PAD) is narrowing of arteries (mainly leg arteries) due to atherosclerosis. Main symptom: intermittent claudication — pain in calves (occasionally buttocks/thighs) on walking, relieved within minutes by standing still (lactic acid washout). Diagnosed by ankle-brachial pressure index (ABPI) <0.9 using handheld Doppler; confirmed with CT/MR angiography. PAD has a high mortality: 20% die from MI within 5 years; 3% require amputation. Management: antiplatelet (clopidogrel preferred over aspirin), statins, antihypertensives, ACE inhibitors, control of diabetes, smoking cessation, exercise.\n\nCritical ischaemia: ischaemia threatening limb loss. Rest pain in toes/feet (worse at night; patient hangs foot out of bed to use gravity), ulcers or gangrene. Doppler pressure <50mmHg in foot. If untreated, 70% need amputation. Treatment: revascularisation (balloon angioplasty, stenting, or bypass surgery).\n\nAcute limb ischaemia: sudden onset from thrombosis or embolism. 6 Ps: Pain, Pallor, Pulseless, Paraesthesia, Paralysis, Perishingly cold (poikilothermia). Irreversible damage after 4–6 hours. Emergency: heparin + analgesia immediately; surgical embolectomy or bypass.\n\nAortic aneurysm: >50% dilation of the aorta (>3cm). Most common site: infrarenal abdominal aorta (AAA). Risk factors: male, >65, smoking, hypertension, atherosclerosis. Repair when >5.5cm (risk of rupture exceeds surgical risk). Treatment: endovascular aneurysm repair (EVAR — stent via femoral artery) or open surgical repair. Screened with ultrasound (100% sensitivity). Cerebral aneurysms (berry aneurysms): most common site for saccular aneurysms — rupture causes subarachnoid haemorrhage (sudden severe headache — 'thunderclap headache'). Aortic dissection: intimal tear in aortic wall → blood tracks between layers. Caused by hypertension (most common), connective tissue disorders, trauma.",
+      "selfExplainPrompt": "Describe the symptoms of intermittent claudication and explain why this symptom is specifically relieved by standing still (not sitting). Then name the investigation used to confirm peripheral arterial disease and state the diagnostic threshold."
+    },
+    {
+      "clusterId": "t5-c9",
+      "clusterTitle": "Anticoagulant, Antiplatelet & Antifibrinolytic Drugs",
+      "content": "Haemostasis: four phases — vasoconstriction → platelet plug formation → coagulation cascade → fibrinolysis. Platelets activated by ADP and thromboxane A2 → become adhesive → bind to endothelium via GP1a receptor (direct) or via von Willebrand factor (GP1b receptor) → fibrinogen links adjacent platelets → coagulation cascade forms fibrin mesh. Common pathway: Factor X activated → Factor V → prothrombin (Factor II) → thrombin → fibrinogen (Factor I) → fibrin. Extrinsic pathway: tissue factor + Factor VII → activates common pathway. Intrinsic: Factor XII → XI → IX → VIII → common pathway.\n\nAntiplatelet drugs: (1) Aspirin — irreversible COX-1 inhibitor → blocks thromboxane A2 → antiplatelet for 7–10 days. Used: prophylaxis in IHD, previous MI/stroke, angina. 75mg/day prophylactic; 300mg in acute MI. Risk: post-operative haemorrhage (local measures usually sufficient — do not discontinue). Contraindicated: allergy, age <12, active peptic ulceration, recent GI/intracranial bleeding, severe liver disease. (2) Clopidogrel — ADP receptor antagonist (P2Y12 inhibitor); safer GI profile than aspirin; used in acute coronary syndrome (ACS), often dual antiplatelet with aspirin. (3) Dipyridamole — adenosine reuptake inhibitor; adjunct with warfarin for prosthetic valves; contraindicated in unstable angina.\n\nAnticoagulants: (1) Heparin — enhances antithrombin III activity → inactivates thrombin and Factor Xa; given by injection only; immediate onset; half-life 1–5 hours; monitored by APTT; reversed by protamine sulphate. Low molecular weight heparin (LMWH — dalteparin, enoxaparin): subcutaneous, once daily, no APTT monitoring needed, less thrombocytopenia risk, less reversible than unfractionated heparin. (2) Warfarin — oral vitamin K antagonist; inhibits clotting factors II, VII, IX, X (all vitamin K-dependent); half-life 35–37 hours; extensively protein bound (98%); interacts with 'everything' (metronidazole, fluconazole/miconazole, erythromycin, amoxicillin + warfarin → all raise INR by displacing warfarin from protein binding). Monitored by INR (normal without anticoagulation ~1; therapeutic range 2–4 for most conditions). Dental management on warfarin: proceed if INR ≤4; check INR within 72 hours pre-procedure (ideally on the day); use local haemostatic measures (oxidised cellulose, gelatin sponge, collagen, tranexamic acid mouthwash); never prescribe NSAIDs or COX-2 inhibitors (further impair haemostasis). (3) DOACs (direct oral anticoagulants): dabigatran (direct thrombin inhibitor, Xa inhibitor class); rivaroxaban, apixaban, edoxaban (direct Factor Xa inhibitors). Linear dose response (predictable, no monitoring needed). Renal excretion — reduce dose/avoid in renal failure. Dental management: INR not useful; for low-risk procedures (1–3 simple extractions) proceed without alteration; for higher-risk procedures (complex extractions, flap surgery), skip morning dose if twice daily, ensure ≥4 hours after haemostasis before taking next dose.\n\nThrombolytics: streptokinase, alteplase (tPA) — plasminogen activators; dissolve existing clots; used in acute coronary thrombosis and acute ischaemic stroke (alteplase within 4.5 hours).",
+      "selfExplainPrompt": "Explain the INR monitoring system for warfarin and state the threshold at which dental procedures should be deferred. Then name two drug interactions that significantly raise INR and explain the mechanism."
+    },
+    {
+      "clusterId": "t5-c10",
+      "clusterTitle": "Drugs for CVD & Dental Implications of Cardiovascular Disease",
+      "content": "Drugs for heart failure specifically: digoxin (cardiac glycoside — inhibits Na/K-ATPase → intracellular Na rises → Ca accumulates → positive inotrope; vagolytic → slows AV conduction; narrow therapeutic index; toxicity: nausea, visual disturbances including yellow-green vision, confusion, arrhythmias; monitoring of plasma digoxin levels required); furosemide (loop diuretic — inhibits Na/K/Cl transporter in loop of Henle; most potent diuretic — 10-fold increase in urine; hypokalaemia and hyponatraemia are major risks — need regular electrolyte monitoring; also ototoxicity, gout, pancreatitis); spironolactone (aldosterone antagonist — potassium-sparing; pro-drug; oestrogenic effects — gynaecomastia, menstrual disturbances; hyperkalaemia risk; improves survival in CHF).\n\nDental implications of antihypertensive therapy: beta-blockers → xerostomia, lichenoid eruptions, increased tooth demineralisation; diuretics → xerostomia, lichenoid reactions; ACE inhibitors → xerostomia, angioedema (tongue swelling — emergency!), burning mouth syndrome, altered taste (captopril); calcium channel blockers (amlodipine, nifedipine) → gingival hyperplasia, xerostomia; nicorandil → oral ulceration (can cause severe non-healing oral ulcers); statins → lichenoid reactions.\n\nDental management of patients with significant CVD: morning appointments (cortisol peaks, cardiac events more common in afternoon); shorter appointments; effective LA (pain and anxiety are physiologically equivalent to stress — both trigger catecholamine release, raising HR and BP and increasing myocardial oxygen demand); vasoconstrictor use — patients with mild-to-moderate CVD can receive adrenaline-containing LA (the physiological adrenaline surge from pain and anxiety exceeds the dose in dental cartridges); for severe CVD (unstable angina, recent MI, severe uncontrolled hypertension, severe CHF), vasoconstrictors are relatively contraindicated. Conscious sedation only in stable patients. Post-op analgesia: avoid NSAIDs in heart failure (sodium retention) and in anticoagulated patients. Monitor: BP, pulse oximetry, ECG in high-risk patients. Medical emergencies in CVD: angina — GTN spray (2 puffs sublingual, repeat every 3 min, max 3 doses); MI — O2 15L/min, GTN spray, aspirin 300mg chewed, call 999; cardiac arrest — CPR, AED.\n\nOral manifestations of CVD drugs: xerostomia (beta-blockers, diuretics, ACE inhibitors, CCBs); lichenoid eruptions (NSAIDs, beta-blockers, diuretics, oral hypoglycaemics, statins); gingival hyperplasia (amlodipine, nifedipine, cyclosporin, phenytoin); angioedema (ACE inhibitors). Periodontal disease is a risk factor for coronary artery disease — the shared inflammatory pathway (TNF-alpha, IL-6, CRP) linking periodontal bacteria to systemic inflammation and atherosclerosis.",
+      "selfExplainPrompt": "Name four oral adverse effects of cardiovascular drugs, linking each to a specific drug class. Then explain why a patient with left-sided heart failure requires special considerations for their dental appointment."
+    }
+  ],
+  "recallIt": [
+    {
+      "id": "t5-r1",
+      "question": "Name the four cardiac valves and their positions.",
+      "answer": "Aortic: between left ventricle and aorta\nMitral/bicuspid: between left atrium and left ventricle\nPulmonary: between right ventricle and pulmonary artery\nTricuspid: between right atrium and right ventricle"
+    },
+    {
+      "id": "t5-r2",
+      "question": "What are the stages of ECG waveform and what does each represent?",
+      "answer": "P wave: atrial depolarisation (contraction)\nPR interval: delay at AV node\nQRS complex: ventricular depolarisation (contraction)\nST segment: pause\nT wave: ventricular repolarisation"
+    },
+    {
+      "id": "t5-r3",
+      "question": "What is Virchow's triad?",
+      "answer": "The three conditions predisposing to thrombosis:\n1. Endothelial damage\n2. Abnormal blood flow (stasis or turbulence)\n3. Hypercoagulability"
+    },
+    {
+      "id": "t5-r4",
+      "question": "What is the characteristic histological feature of the fatty streak in atherosclerosis?",
+      "answer": "Foamy macrophages — macrophages that have engulfed LDL cholesterol but cannot digest it, so fill with fatty droplets and sit in the intima of the artery."
+    },
+    {
+      "id": "t5-r5",
+      "question": "What is the SOCRATES description of typical anginal pain?",
+      "answer": "Site: central chest\nOnset: on exertion (stable) or rest (unstable)\nCharacter: tight, squeezing, band-like — NOT sharp or stabbing\nRadiation: left arm, neck, jaw (mandible)\nAssociated: breathlessness, sweating, nausea\nTime: <5 minutes in stable angina (resolves with rest or GTN)\nExacerbating: exercise, stress\nRelieving: rest, GTN spray"
+    },
+    {
+      "id": "t5-r6",
+      "question": "What are the NICE and SDCEP guidelines on antibiotic prophylaxis for infective endocarditis?",
+      "answer": "NICE (2016): antibiotic prophylaxis NOT routinely recommended for dental procedures in at-risk patients.\nSDCEP: high risk (previous IE, prosthetic valves, cyanotic CHD) and moderate risk (rheumatic fever with valve damage, native valve disease) are identified — but prophylaxis is still not routinely given.\nMost important prevention: excellent oral hygiene to reduce the daily bacteraemia burden from tooth-brushing."
+    },
+    {
+      "id": "t5-r7",
+      "question": "What are the HACEK organisms associated with infective endocarditis?",
+      "answer": "H — Haemophilus\nA — Aggregatibacter actinomycetemcomitans\nC — Cardiobacterium hominis\nE — Eikenella corrodens\nK — Kingella spp\nAccount for approximately 5% of IE cases."
+    },
+    {
+      "id": "t5-r8",
+      "question": "What are the skin signs of infective endocarditis?",
+      "answer": "Osler's nodes: painful raised lesions on finger/toe pulps\nJaneway lesions: painless erythematous macules on palms/soles\nSplinter haemorrhages: longitudinal dark lines under nails (>8 suggest endocarditis)\nFinger clubbing\nPetechiae (skin rash)"
+    },
+    {
+      "id": "t5-r9",
+      "question": "Why should verapamil and beta-blockers never be combined?",
+      "answer": "Both drugs significantly slow the heart: beta-blockers by blocking sympathetic stimulation; verapamil (a phenylalkylamine calcium channel blocker) by slowing calcium-dependent conduction in the SA and AV nodes. Combined, they can completely stop the heart — cardiac arrest. Use either diltiazem or dihydropyridines (amlodipine) with beta-blockers instead."
+    },
+    {
+      "id": "t5-r10",
+      "question": "What are the dental implications of a patient taking warfarin?",
+      "answer": "1. Check INR within 72 hours pre-procedure (ideally on the day)\n2. Proceed if INR ≤4 — local haemostatic measures sufficient\n3. Do NOT stop warfarin — risk of thromboembolism exceeds bleeding risk\n4. Do NOT prescribe NSAIDs, COX-2 inhibitors, aspirin, or metronidazole (raise INR)\n5. Use oxidised cellulose, gelatin sponge, sutures, and tranexamic acid mouthwash for haemostasis\n6. Warn patient about increased bruising/bleeding"
+    },
+    {
+      "id": "t5-r11",
+      "question": "What are the two most important things about digoxin that make it clinically challenging?",
+      "answer": "1. Narrow therapeutic index — the toxic dose is only slightly higher than the therapeutic dose; plasma levels must be monitored\n2. Renal excretion — half-life is markedly prolonged in renal failure (drug accumulates → toxicity). Signs of digoxin toxicity: nausea, visual disturbances (yellow-green tinge), confusion, bradyarrhythmias, supraventricular and ventricular arrhythmias."
+    },
+    {
+      "id": "t5-r12",
+      "question": "What oral adverse effects are caused by calcium channel blockers?",
+      "answer": "Gingival hyperplasia (dihydropyridines — amlodipine, nifedipine; exacerbated by poor oral hygiene; management: improve OH, refer to periodontist, consider drug substitution with physician)\nXerostomia\nFlushing and oedema (due to vasodilation)"
+    },
+    {
+      "id": "t5-r13",
+      "question": "What is the dental management of a patient who presents with an acute angina attack in the chair?",
+      "answer": "1. Stop treatment; remain calm\n2. Allow patient to sit upright (or comfortable position)\n3. Administer their own GTN spray — 2 puffs sublingual\n4. Wait 3–5 minutes\n5. If no improvement: repeat GTN (2 more puffs)\n6. If still no improvement after second dose: suspect MI — call 999; give O2 15L/min, aspirin 300mg chewed\n7. Monitor pulse and breathing; commence CPR if cardiac arrest"
+    },
+    {
+      "id": "t5-r14",
+      "question": "What is the ABCD drug framework for treating hypertension, and which combinations should be avoided?",
+      "answer": "A: ACE inhibitors / ARBs (lisinopril, losartan)\nB: Beta-blockers (atenolol)\nC: Calcium channel blockers (amlodipine)\nD: Diuretics (indapamide)\nUnder 55: A → A+C → A+C+D → +alpha-blocker\nOver 55 or African/Caribbean: C → A+C → A+C+D\nAvoid B+D together: increases risk of new-onset diabetes"
+    },
+    {
+      "id": "t5-r15",
+      "question": "What is the difference between amiodarone and lidocaine as antiarrhythmic drugs?",
+      "answer": "Lidocaine (Class I — Na channel blocker): used for ventricular arrhythmias; short half-life → IV infusion; causes hypotension and CNS toxicity. Amiodarone (Class III — K channel blocker): prolongs action potential duration; first-line for VF; very long half-life (contains iodine); serious adverse effects: thyroid disturbances, pulmonary fibrosis, peripheral neuropathy, hepatitis, irreversible blue-grey skin discolouration, pro-arrhythmia."
+    },
+    {
+      "id": "t5-r16",
+      "question": "What does Cor Pulmonale mean and what causes it?",
+      "answer": "Cor Pulmonale = right-sided heart failure caused by pulmonary hypertension from chronic lung disease (most commonly COPD). Chronically low oxygen → pulmonary vasoconstriction → raised pulmonary arterial pressure → right ventricle has to work harder → eventually fails. Presents with peripheral oedema, raised JVP, and fatigue."
+    }
+  ],
+  "applyIt": [
+    {
+      "id": "t5-a1",
+      "scenario": "A 68-year-old man on warfarin for a mechanical mitral valve presents for three dental extractions. His INR measured this morning is 2.8. Which is the most appropriate management?",
+      "options": [
+        "A. Ask him to stop warfarin for 5 days and recheck INR before proceeding",
+        "B. Proceed with the extractions using appropriate local haemostatic measures; do not alter warfarin",
+        "C. Refer to hospital for the extractions as INR >2 means he cannot be treated in primary care",
+        "D. Reduce the warfarin dose and proceed when INR reaches 1.5"
+      ],
+      "correctAnswer": "B",
+      "explanation": "An INR of 2.8 is well within the acceptable range for dental surgical procedures in primary care (threshold is INR ≤4). The risk of stopping anticoagulation — prosthetic valve thrombosis and potentially fatal embolism — far outweighs the risk of post-extraction bleeding, which can be managed with local haemostatic measures (oxidised cellulose, gelatin sponge, sutures, tranexamic acid mouthwash). Stopping warfarin (A, D) is dangerous and not indicated. Hospital referral (C) is only needed if INR >4 or if complex multi-stage surgery is planned. Always check INR within 72 hours pre-procedure (ideally same day) and never prescribe NSAIDs or metronidazole with warfarin."
+    },
+    {
+      "id": "t5-a2",
+      "scenario": "A 55-year-old woman with a history of mitral valve prolapse attends for a root canal treatment. She wants to know if she needs antibiotics before the procedure. According to current UK guidelines, which response is most accurate?",
+      "options": [
+        "A. Yes — antibiotic prophylaxis is routinely recommended for all patients with valvular heart disease before root canal treatment",
+        "B. No — NICE guidelines do not routinely recommend antibiotic prophylaxis for dental procedures, and oral hygiene optimisation is the most important prevention",
+        "C. Yes — amoxicillin 3g one hour before the procedure is required",
+        "D. Only if she has previously had infective endocarditis — otherwise no prophylaxis is needed"
+      ],
+      "correctAnswer": "B",
+      "explanation": "NICE (2016) guidelines do NOT routinely recommend antibiotic prophylaxis for dental procedures in patients at risk of infective endocarditis, including those with valvular heart disease. This is based on evidence that: (1) there is no consistent link between dental procedures and IE cases; (2) daily tooth-brushing causes greater cumulative bacteraemia than a single dental procedure; (3) the risk of anaphylaxis from antibiotics may exceed the risk of IE. The most important prevention strategy is excellent oral hygiene. Antibiotic prophylaxis remains debated but is not current standard UK practice for routine procedures."
+    },
+    {
+      "id": "t5-a3",
+      "scenario": "A patient on amlodipine (a calcium channel blocker) for hypertension presents with significant gingival enlargement that is affecting their oral hygiene. What is the most appropriate dental management?",
+      "options": [
+        "A. Prescribe a chlorhexidine mouthwash for 2 weeks and discharge",
+        "B. Optimise oral hygiene instruction and refer to periodontist; liaise with their physician about possible substitution of amlodipine with a non-dihydropyridine agent",
+        "C. Inform the patient this is a normal side effect and no action is needed",
+        "D. Immediately stop amlodipine and prescribe an alternative antihypertensive yourself"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Amlodipine (a dihydropyridine calcium channel blocker) causes drug-induced gingival overgrowth in approximately 10–20% of patients. Management involves: (1) intensive oral hygiene instruction — reducing gingival inflammation reduces severity and recurrence; (2) referral to periodontist if the overgrowth is significant or causing functional problems; (3) liaison with the prescribing physician about possible substitution — switching from a dihydropyridine CCB to a different CCB class or antihypertensive can reduce or reverse the overgrowth. Dentists should NOT prescribe antihypertensives or stop them (D) — this is the physician's decision. Chlorhexidine alone (A) is insufficient."
+    }
+  ],
+  "writeIt": [
+    {
+      "id": "t5-w1",
+      "prompt": "Outline the mechanism of action, indications, monitoring requirements, and significant drug interactions of warfarin relevant to the management of dental patients.",
+      "totalMarks": 10,
+      "markScheme": [
+        {
+          "point": "Mechanism: oral vitamin K antagonist; inhibits hepatic synthesis of vitamin K-dependent clotting factors (II, VII, IX, X); half-life 35–37 hours; 98% protein bound",
+          "marks": 1
+        },
+        {
+          "point": "Indications: prevention of DVT and PE; AF (stroke prevention); prosthetic heart valves; treatment of established VTE",
+          "marks": 1
+        },
+        {
+          "point": "Monitoring: INR (International Normalised Ratio); normal INR ~1 in healthy patients; therapeutic range 2–3 for most indications; 2.5–3.5 for mechanical heart valves",
+          "marks": 1
+        },
+        {
+          "point": "Dental threshold: INR ≤4 — proceed; INR >4 — defer; check INR within 72 hours pre-procedure (ideally day of procedure)",
+          "marks": 1
+        },
+        {
+          "point": "Do NOT stop warfarin — risk of thromboembolism (especially in prosthetic valve/AF patients) exceeds bleeding risk from dental procedures",
+          "marks": 1
+        },
+        {
+          "point": "Drug interaction 1: metronidazole + warfarin → raises INR by displacing warfarin from serum protein binding → significant bleeding risk",
+          "marks": 1
+        },
+        {
+          "point": "Drug interaction 2: fluconazole/miconazole + warfarin → inhibit CYP2C9 (warfarin metabolism) → markedly elevated INR → life-threatening interaction; avoid — use nystatin instead for oral candidiasis",
+          "marks": 2
+        },
+        {
+          "point": "Other interactions: erythromycin, clarithromycin, and amoxicillin also raise INR; NSAIDs and aspirin impair haemostasis additionally — avoid with warfarin in dental patients",
+          "marks": 1
+        },
+        {
+          "point": "Local haemostatic measures: oxidised cellulose (Surgicel), gelatin sponge (Gelfoam), collagen, sutures, tranexamic acid 5% mouthwash 4× daily for 2 days",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "t5-w2",
+      "prompt": "Describe the pathogenesis of atherosclerosis from initial endothelial injury through to the complicated lesion. Include the key cellular events and explain how this process leads to clinical disease.",
+      "totalMarks": 8,
+      "markScheme": [
+        {
+          "point": "Endothelial dysfunction: occurs at areas of turbulent flow (bifurcations); triggered by hypertension, hyperlipidaemia, smoking (carbon monoxide damages endothelium)",
+          "marks": 1
+        },
+        {
+          "point": "Fatty streak formation: endothelial permeability increases → LDL enters intima; monocytes adhere to damaged endothelium and undergo diapedesis (enter vessel wall); under lymphocyte cytokine influence, monocytes differentiate into macrophages",
+          "marks": 1
+        },
+        {
+          "point": "Foamy macrophage formation: macrophages engulf LDL but cannot digest the lipid → foam cells (characteristic histological feature of the fatty streak)",
+          "marks": 1
+        },
+        {
+          "point": "Fibrolipid plaque: T cells release cytokines → smooth muscle cells migrate from tunica media into intima; SMCs produce collagen → fibrous cap forms; lipid lake forms; cholesterol clefts develop; endothelial lining remains intact",
+          "marks": 2
+        },
+        {
+          "point": "Complicated lesion: endothelial cells stripped away → platelets impact on raw surface → clotting cascade → thrombus; calcification; haemorrhage into plaque; plaque fissure; embolism; aneurysm formation",
+          "marks": 2
+        },
+        {
+          "point": "Clinical consequences: in coronary arteries → angina (partial occlusion), MI (complete occlusion), heart failure; in carotid/cerebral → TIA, stroke; in femoral → intermittent claudication, gangrene; in aorta → aortic aneurysm",
+          "marks": 1
+        }
+      ]
+    }
+  ],
+  "mockBank": [
+    {
+      "id": "t5-m1",
+      "theme": 5,
+      "topicTag": "peripheral-vascular",
+      "question": "Vascular claudication:",
+      "options": [
+        "A. Causes limping on walking",
+        "B. Is usually felt in the foot at night",
+        "C. Usually involves the thighs or buttocks",
+        "D. Is usually managed non-surgically"
+      ],
+      "correctAnswer": "D",
+      "explanation": "Most patients with intermittent claudication are managed non-surgically with reduction of vascular risk factors (antiplatelet agents, statins, smoking cessation, exercise). Claudication does not cause limping — it causes muscle pain on walking. The most common site is the calf (femoral disease). Rest pain in the foot at night indicates critical ischaemia, not claudication."
+    },
+    {
+      "id": "t5-m2",
+      "theme": 5,
+      "topicTag": "aortic-aneurysm",
+      "question": "Aortic aneurysms should be repaired when:",
+      "options": [
+        "A. Any dilation is detected on screening",
+        "B. Greater than 5.5 cm in diameter or when symptomatic",
+        "C. The patient's blood pressure exceeds 160/100 mmHg",
+        "D. They are found in the infrarenal aorta"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Aortic aneurysms are repaired when >5.5cm (risk of rupture exceeds surgical risk) or when symptomatic (pain, tenderness). Smaller aneurysms are followed up with regular ultrasound scans. Location in the infrarenal aorta (D) is the most common site but is not itself an indication for repair."
+    },
+    {
+      "id": "t5-m3",
+      "theme": 5,
+      "topicTag": "peripheral-vascular",
+      "question": "The major risk factors for peripheral occlusive arterial disease include:",
+      "options": [
+        "A. Female sex",
+        "B. Premature menopause",
+        "C. HDL greater than 1.0 mMol/L",
+        "D. Hypertension"
+      ],
+      "correctAnswer": "D",
+      "explanation": "Hypertension is a major risk factor for PAD, along with smoking, diabetes mellitus, hyperlipidaemia, and male sex. High HDL (C) is actually protective — the higher the HDL, the lower the cardiovascular risk. Female sex (A) and premature menopause are not major risk factors for PAD (though post-menopausal women do have increased CVD risk)."
+    },
+    {
+      "id": "t5-m4",
+      "theme": 5,
+      "topicTag": "DVT-PE",
+      "question": "A DVT in the popliteal vein of the leg is most likely to embolise to:",
+      "options": [
+        "A. The lungs",
+        "B. The brain",
+        "C. The coronary arteries",
+        "D. The hepatic portal vein"
+      ],
+      "correctAnswer": "A",
+      "explanation": "A DVT in the leg veins travels via the venous system (popliteal → femoral → iliac → inferior vena cava → right heart → pulmonary artery) to the lungs, causing a pulmonary embolism. Cerebral emboli (B) typically arise from the left heart (AF, MI, valvular disease) or from paradoxical emboli crossing a patent foramen ovale."
+    },
+    {
+      "id": "t5-m5",
+      "theme": 5,
+      "topicTag": "thrombosis",
+      "question": "Which of the following is NOT a risk factor for atherosclerotic arterial disease?",
+      "options": [
+        "A. Cigarette smoking",
+        "B. Female gender",
+        "C. Diabetes mellitus",
+        "D. Low HDL cholesterol"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Female sex is actually protective against atherosclerosis before the menopause (oestrogen is cardioprotective). Risk factors for atherosclerosis include: male sex, age, smoking, hypertension, diabetes, high LDL/low HDL, obesity, family history, and inactivity. Post-menopausal women lose this protection."
+    },
+    {
+      "id": "t5-m6",
+      "theme": 5,
+      "topicTag": "thrombosis",
+      "question": "The most common material causing embolism is:",
+      "options": [
+        "A. Thrombus",
+        "B. Air",
+        "C. Fat",
+        "D. Amniotic fluid"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Thromboembolism (a thrombus that detaches and travels through the vasculature) is by far the most common cause of clinically significant embolism. Other causes include air (iatrogenic — IV injection), fat (long bone fractures), amniotic fluid (obstetric emergency), tumour, bone marrow, and foreign material."
+    },
+    {
+      "id": "t5-m7",
+      "theme": 5,
+      "topicTag": "thrombosis",
+      "question": "Virchow's triad refers to the components predisposing to the pathological process of:",
+      "options": [
+        "A. Thrombosis",
+        "B. Embolism",
+        "C. Ischaemia",
+        "D. Anaphylaxis"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Virchow's triad describes the three conditions predisposing to pathological thrombosis: (1) endothelial damage, (2) abnormal blood flow (stasis or turbulence), and (3) hypercoagulability. It is named after Rudolf Virchow who described these factors in the 19th century."
+    },
+    {
+      "id": "t5-m8",
+      "theme": 5,
+      "topicTag": "carotid-disease",
+      "question": "Carotid artery stenosis due to atheroma can be managed by:",
+      "options": [
+        "A. Thrombolysis",
+        "B. Surgical carotid endarterectomy",
+        "C. Anticoagulation with heparin",
+        "D. Long-term aspirin therapy alone without imaging"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Symptomatic carotid artery stenosis >70% is typically treated by carotid endarterectomy (surgical removal of the atheroma from the carotid artery). Stenting is an alternative. Thrombolysis (A) is for acute ischaemic stroke, not carotid stenosis. Antiplatelet therapy is used adjunctively. Diagnosis requires imaging (colour duplex ultrasound is first-line) — a bruit (sound on auscultation) is not diagnostic."
+    },
+    {
+      "id": "t5-m9",
+      "theme": 5,
+      "topicTag": "infective-endocarditis",
+      "question": "The most common organism causing infective endocarditis in patients with pre-existing valve disease attending for dental procedures is:",
+      "options": [
+        "A. Staphylococcus aureus",
+        "B. Oral streptococci (viridans group)",
+        "C. Candida albicans",
+        "D. HACEK organisms"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Oral streptococci (viridans streptococci — including Streptococcus sanguis, S. mutans, S. oralis) are the most common cause of IE in patients with pre-existing valve lesions. They enter the bloodstream through dental procedures or even daily tooth-brushing. Staphylococcus aureus (A) causes acute IE on normal or abnormal valves and carries much higher mortality (25–47%)."
+    },
+    {
+      "id": "t5-m10",
+      "theme": 5,
+      "topicTag": "heart-failure",
+      "question": "Which of the following is a recognised oral adverse effect of nicorandil?",
+      "options": [
+        "A. Gingival hyperplasia",
+        "B. Xerostomia",
+        "C. Oral ulceration",
+        "D. Erythema multiforme"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Nicorandil (a potassium channel opener with nitrate activity used for angina) is well-documented to cause severe, non-healing oral ulceration. These can be extensive and extremely painful. The mechanism is unclear but involves direct mucosal toxicity. Management requires stopping nicorandil in consultation with the cardiologist and substituting an alternative antianginal."
+    },
+    {
+      "id": "t5-m11",
+      "theme": 5,
+      "topicTag": "anticoagulants",
+      "question": "A patient on warfarin has an INR of 2.5 and requires two dental extractions. Which is correct?",
+      "options": [
+        "A. Stop warfarin 3 days before and recheck INR",
+        "B. Proceed with extractions without altering warfarin; use local haemostatic measures",
+        "C. Perform extractions in hospital only",
+        "D. Administer Vitamin K to lower INR before the procedure"
+      ],
+      "correctAnswer": "B",
+      "explanation": "An INR of 2.5 is within the therapeutic range and well below the dental threshold of 4. Proceed with extractions in primary care without altering warfarin therapy. Use local haemostatic measures (oxidised cellulose, sutures, tranexamic acid mouthwash). Stopping warfarin risks thromboembolism. Vitamin K (D) is for emergency reversal of dangerous over-anticoagulation, not routine pre-dental management."
+    },
+    {
+      "id": "t5-m12",
+      "theme": 5,
+      "topicTag": "hypertension",
+      "question": "ACE inhibitors are contraindicated in which of the following patient groups?",
+      "options": [
+        "A. Patients with asthma",
+        "B. Patients with bilateral renal artery stenosis",
+        "C. Elderly patients over 55",
+        "D. Patients of African or Caribbean descent"
+      ],
+      "correctAnswer": "B",
+      "explanation": "ACE inhibitors (and ARBs) are contraindicated in bilateral renal artery stenosis because they block the angiotensin II-mediated constriction of efferent renal arterioles, which is the mechanism maintaining glomerular filtration pressure when renal arteries are stenosed. Removing this compensation causes acute renal failure. Patients of African/Caribbean descent (D) respond better to CCBs or diuretics as first-line — not a contraindication. Asthma (A) is a contraindication to beta-blockers, not ACE inhibitors."
+    },
+    {
+      "id": "t5-m13",
+      "theme": 5,
+      "topicTag": "cardiac-arrhythmias",
+      "question": "Which statement about amiodarone is correct?",
+      "options": [
+        "A. It is a Class II antiarrhythmic (beta-blocker)",
+        "B. It is first-line for ventricular fibrillation and causes irreversible blue-grey skin discolouration",
+        "C. It has a short half-life and is excreted rapidly",
+        "D. It causes gingival hyperplasia as a recognised oral side effect"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Amiodarone is a Class III antiarrhythmic (potassium channel blocker) and is first-line for VF management. It is highly lipophilic with a very long half-life (weeks). Serious adverse effects include thyroid disturbances (both hypo- and hyperthyroidism), pulmonary fibrosis, peripheral neuropathy, hepatitis, pro-arrhythmia, and irreversible blue-grey skin and corneal microdeposit discolouration."
+    },
+    {
+      "id": "t5-m14",
+      "theme": 5,
+      "topicTag": "heart-failure",
+      "question": "Left-sided heart failure characteristically causes which of the following?",
+      "options": [
+        "A. Peripheral ankle oedema and raised jugular venous pressure",
+        "B. Pulmonary oedema with orthopnoea and paroxysmal nocturnal dyspnoea",
+        "C. Hepatic congestion and ascites",
+        "D. Right ventricular hypertrophy as the primary finding"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Left-sided heart failure causes blood to dam back in the pulmonary veins → raised pulmonary venous pressure → pulmonary oedema → dyspnoea, orthopnoea (breathlessness on lying flat), and paroxysmal nocturnal dyspnoea (waking at night breathless). Peripheral oedema, raised JVP, hepatic congestion, and ascites (A, C) are features of right-sided heart failure."
+    },
+    {
+      "id": "t5-m15",
+      "theme": 5,
+      "topicTag": "atherosclerosis",
+      "question": "Which term describes leaking of blood from the right ventricle to the right atrium?",
+      "options": [
+        "A. Mitral incompetence",
+        "B. Aortic stenosis",
+        "C. Aortic regurgitation",
+        "D. Tricuspid regurgitation"
+      ],
+      "correctAnswer": "D",
+      "explanation": "Tricuspid regurgitation is backflow through the tricuspid valve from the right ventricle to the right atrium. Mitral incompetence (A) is backflow from left ventricle to left atrium. Aortic regurgitation (C) is backflow from aorta to left ventricle. Tricuspid regurgitation accounts for only 5% of IE cases (right-sided IE, usually in IV drug users)."
+    },
+    {
+      "id": "t5-m16",
+      "theme": 5,
+      "topicTag": "cvd-anatomy",
+      "question": "Which ONE of the following correctly describes the path of blood through the right side of the heart?",
+      "options": [
+        "A. Right atrium → aortic valve → right ventricle → pulmonary valve → pulmonary artery",
+        "B. Right atrium → tricuspid valve → right ventricle → pulmonary valve → pulmonary artery",
+        "C. Right atrium → mitral valve → right ventricle → aortic valve → pulmonary artery",
+        "D. Right atrium → pulmonary valve → right ventricle → tricuspid valve → pulmonary artery",
+        "E. Right atrium → tricuspid valve → right ventricle → aortic valve → aorta"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Blood enters the right atrium from the superior and inferior vena cava, passes through the tricuspid valve into the right ventricle, and is pumped through the pulmonary valve into the pulmonary artery towards the lungs. The aortic valve is on the left side; the mitral valve separates the left atrium from the left ventricle."
+    },
+    {
+      "id": "t5-m17",
+      "theme": 5,
+      "topicTag": "cvd-anatomy",
+      "question": "Which ONE of the following statements about the left coronary artery is CORRECT?",
+      "options": [
+        "A. It arises from the pulmonary artery just above the pulmonary valve",
+        "B. It supplies the inferior part of the heart",
+        "C. It divides into the left anterior descending and circumflex arteries",
+        "D. It is the smaller of the two coronary arteries",
+        "E. It supplies only the left ventricle"
+      ],
+      "correctAnswer": "C",
+      "explanation": "The left coronary artery divides into the left anterior descending (LAD) artery, which supplies the front of the heart, and the circumflex artery, which supplies the back. Coronary arteries arise just above the aortic valve (not the pulmonary valve). The right coronary artery supplies the inferior part of the heart."
+    },
+    {
+      "id": "t5-m18",
+      "theme": 5,
+      "topicTag": "cvd-anatomy",
+      "question": "In the ECG, the QRS complex represents which ONE of the following?",
+      "options": [
+        "A. Atrial depolarisation and contraction",
+        "B. The pause at the AV node before ventricular activation",
+        "C. Ventricular depolarisation and contraction",
+        "D. Ventricular repolarisation",
+        "E. Sinoatrial node firing"
+      ],
+      "correctAnswer": "C",
+      "explanation": "The QRS complex represents ventricular depolarisation (and therefore contraction). The P wave represents atrial depolarisation. The PR interval is the pause at the AV node (Bundle of His). The T wave represents ventricular repolarisation. The SA node firing is not directly visible on ECG."
+    },
+    {
+      "id": "t5-m19",
+      "theme": 5,
+      "topicTag": "cvd-anatomy",
+      "question": "Which ONE of the following valves separates the left atrium from the left ventricle?",
+      "options": [
+        "A. Tricuspid valve",
+        "B. Aortic valve",
+        "C. Pulmonary valve",
+        "D. Mitral (bicuspid) valve",
+        "E. Eustachian valve"
+      ],
+      "correctAnswer": "D",
+      "explanation": "The mitral (bicuspid) valve separates the left atrium from the left ventricle. The tricuspid valve separates the right atrium from the right ventricle. The aortic valve is between the left ventricle and the aorta, and the pulmonary valve is between the right ventricle and pulmonary artery."
+    },
+    {
+      "id": "t5-m20",
+      "theme": 5,
+      "topicTag": "atherosclerosis",
+      "question": "Which ONE of the following is the characteristic histological feature of the fatty streak in early atherosclerosis?",
+      "options": [
+        "A. Calcified plaques within the tunica media",
+        "B. Foamy macrophages in the intima",
+        "C. Smooth muscle cells migrating through the elastic lamina",
+        "D. Cholesterol clefts within the lipid lake",
+        "E. Fibrous cap overlying a necrotic core"
+      ],
+      "correctAnswer": "B",
+      "explanation": "The fatty streak — the first lesion in atherosclerosis — is characterised histologically by foamy macrophages (monocytes that have entered the intima and taken up oxidised LDL but cannot digest the lipid). Smooth muscle migration and fibrous cap formation occur in later stages (fibrolipid plaque). Cholesterol clefts and calcification are features of more advanced complicated lesions."
+    },
+    {
+      "id": "t5-m21",
+      "theme": 5,
+      "topicTag": "atherosclerosis",
+      "question": "Which ONE of the following is a NON-MODIFIABLE risk factor for atherosclerosis?",
+      "options": [
+        "A. Hypertension",
+        "B. Hyperlipidaemia",
+        "C. Smoking",
+        "D. Male sex",
+        "E. Obesity"
+      ],
+      "correctAnswer": "D",
+      "explanation": "Male sex is a non-modifiable risk factor for atherosclerosis — men are at greater risk than pre-menopausal women. Post-menopausal women are also at higher risk. Hypertension, hyperlipidaemia, smoking, and obesity are all modifiable risk factors that can be addressed to reduce cardiovascular risk."
+    },
+    {
+      "id": "t5-m22",
+      "theme": 5,
+      "topicTag": "atherosclerosis",
+      "question": "What is the role of HDL cholesterol in atherosclerosis?",
+      "options": [
+        "A. HDL deposits lipid into the arterial intima",
+        "B. HDL activates monocytes to become foam cells",
+        "C. HDL binds to LDL and transports it to the liver for processing",
+        "D. HDL stimulates smooth muscle cell migration",
+        "E. High HDL is an independent risk factor for atherosclerosis"
+      ],
+      "correctAnswer": "C",
+      "explanation": "HDL (high-density lipoprotein) is protective against atherosclerosis — it binds to LDL and transports it to the liver for further processing and clearance ('reverse cholesterol transport'). High HDL levels are cardioprotective. It is low HDL (not high HDL) that is a risk factor for cardiovascular disease."
+    },
+    {
+      "id": "t5-m23",
+      "theme": 5,
+      "topicTag": "atherosclerosis",
+      "question": "Virchow's triad describes the three conditions required for thrombus formation. Which ONE of the following is NOT part of Virchow's triad?",
+      "options": [
+        "A. Endothelial damage",
+        "B. Abnormal blood flow",
+        "C. Hypercoagulability",
+        "D. Hyperlipidaemia",
+        "E. All three of the above are part of Virchow's triad"
+      ],
+      "correctAnswer": "D",
+      "explanation": "Virchow's triad comprises endothelial damage, abnormal blood flow (stasis or turbulence), and hypercoagulability. Hyperlipidaemia is a risk factor for atherosclerosis and may indirectly promote endothelial damage, but it is not itself one of the three components of Virchow's triad."
+    },
+    {
+      "id": "t5-m24",
+      "theme": 5,
+      "topicTag": "atherosclerosis",
+      "question": "A vulnerable atherosclerotic plaque is MOST likely to have which ONE of the following characteristics?",
+      "options": [
+        "A. A large lipid pool with a thin fibrous cap and many inflammatory cells",
+        "B. A small lipid pool with a thick fibrous cap",
+        "C. Extensive calcification throughout the plaque",
+        "D. Smooth, intact endothelial lining with no surface irregularity",
+        "E. Predominantly smooth muscle cells with little lipid"
+      ],
+      "correctAnswer": "A",
+      "explanation": "A vulnerable (unstable) plaque has a large lipid pool, a thin fibrous cap, and many inflammatory cells (especially macrophages). This makes it prone to rupture, leading to thrombosis and acute MI. A stabilised plaque has a small lipid pool and a thick fibrous cap. Calcified plaques are actually more stable."
+    },
+    {
+      "id": "t5-m25",
+      "theme": 5,
+      "topicTag": "atherosclerosis",
+      "question": "Which ONE of the following sites is MOST commonly affected by atherosclerotic aneurysm formation?",
+      "options": [
+        "A. Cerebral arteries",
+        "B. Ascending aorta",
+        "C. Abdominal aorta",
+        "D. Femoral artery",
+        "E. Coronary arteries"
+      ],
+      "correctAnswer": "C",
+      "explanation": "The abdominal aorta is the most common site for atherosclerotic aneurysms (abdominal aortic aneurysm — AAA). Rupture causes massive retroperitoneal haemorrhage. Cerebral artery (Berry) aneurysms are saccular and associated with subarachnoid haemorrhage. Syphilitic aneurysms affect the ascending aorta."
+    },
+    {
+      "id": "t5-m26",
+      "theme": 5,
+      "topicTag": "ischaemic-heart-disease",
+      "question": "A 58-year-old man describes central chest pain on walking uphill that resolves within 5 minutes of rest. Which ONE of the following BEST describes this presentation?",
+      "options": [
+        "A. Myocardial infarction",
+        "B. Stable angina",
+        "C. Unstable angina",
+        "D. Aortic dissection",
+        "E. Pericarditis"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Stable angina is chest pain on exertion that consistently resolves with rest within minutes (usually less than 5 minutes) or with GTN spray. It is due to reversible myocardial ischaemia from a narrowed coronary artery. Unstable angina occurs at rest or with minimal exertion. MI involves irreversible damage and pain at rest lasting longer."
+    },
+    {
+      "id": "t5-m27",
+      "theme": 5,
+      "topicTag": "ischaemic-heart-disease",
+      "question": "Which ONE of the following is the FIRST-LINE treatment for an acute episode of angina in the dental surgery?",
+      "options": [
+        "A. Aspirin 300mg chewed",
+        "B. GTN (glyceryl trinitrate) spray sublingually",
+        "C. Oxygen via face mask",
+        "D. Intravenous morphine",
+        "E. Beta-blocker tablet"
+      ],
+      "correctAnswer": "B",
+      "explanation": "GTN (glyceryl trinitrate) spray given sublingually is the first-line treatment for an acute angina episode. It acts as a nitric oxide donor, causing vasodilation and increasing coronary blood flow. The patient should also be sat in a comfortable position. Aspirin 300mg is given if MI is suspected. Oxygen is given if hypoxic."
+    },
+    {
+      "id": "t5-m28",
+      "theme": 5,
+      "topicTag": "ischaemic-heart-disease",
+      "question": "Which ONE of the following is the time window within which no visible macroscopic change is seen in myocardial infarction on pathological examination?",
+      "options": [
+        "A. Less than 6 hours",
+        "B. 6–24 hours",
+        "C. 24–48 hours",
+        "D. 3–5 days",
+        "E. Greater than 1 week"
+      ],
+      "correctAnswer": "A",
+      "explanation": "In the first 6 hours following MI, there are no visible macroscopic changes, although ECG changes (ST elevation, for example) may already be present. At 24–48 hours, pallor with a red rim develops. By several days, central pallor with surrounding haemorrhage (haemopericardium risk) appears. After several weeks, the area becomes grey and fibrotic."
+    },
+    {
+      "id": "t5-m29",
+      "theme": 5,
+      "topicTag": "ischaemic-heart-disease",
+      "question": "Which ONE of the following drugs used for ischaemic heart disease is described as a potassium channel opener with a nitrate component?",
+      "options": [
+        "A. Ivabradine",
+        "B. Ranolazine",
+        "C. Nicorandil",
+        "D. Verapamil",
+        "E. Diltiazem"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Nicorandil is a potassium channel activator with a nitrate component. It causes vasodilation of arterioles and large coronary arteries (via potassium channels) and venous vasodilation (via guanylate cyclase stimulation). A notable side effect is oral ulceration. Ivabradine selectively inhibits 'If' channels to lower heart rate. Ranolazine inhibits the late sodium current."
+    },
+    {
+      "id": "t5-m30",
+      "theme": 5,
+      "topicTag": "ischaemic-heart-disease",
+      "question": "A patient with stable angina requires a minimally invasive revascularisation procedure. Which ONE of the following procedures is MOST appropriate?",
+      "options": [
+        "A. Coronary artery bypass grafting (CABG)",
+        "B. Percutaneous coronary intervention (PCI) with stent",
+        "C. Carotid endarterectomy",
+        "D. Transcatheter aortic valve implantation (TAVI)",
+        "E. Aortofemoral bypass grafting"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Percutaneous coronary intervention (PCI) — passing a catheter (via the wrist or groin) to deploy a stent in the narrowed coronary artery — is the minimally invasive (keyhole) revascularisation procedure for angina when medication fails. CABG is used when PCI is not suitable (extensive disease). TAVI is for aortic valve stenosis. Carotid endarterectomy is for carotid artery disease."
+    },
+    {
+      "id": "t5-m31",
+      "theme": 5,
+      "topicTag": "infective-endocarditis",
+      "question": "Which ONE of the following organisms is MOST commonly responsible for acute infective endocarditis on previously NORMAL heart valves?",
+      "options": [
+        "A. Streptococcus viridans",
+        "B. Staphylococcus aureus",
+        "C. Enterococcus faecalis",
+        "D. Candida albicans",
+        "E. Haemophilus influenzae"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Acute infective endocarditis on previously normal valves is most often caused by Staphylococcus aureus (including MRSA). It is a virulent organism that can infect normal endocardium. Streptococcus viridans (oral streptococci) is the most common cause of subacute bacterial endocarditis in patients with pre-existing valve disease. Candida causes fewer than 1% of IE cases."
+    },
+    {
+      "id": "t5-m32",
+      "theme": 5,
+      "topicTag": "infective-endocarditis",
+      "question": "A patient with suspected infective endocarditis is noted to have painful, red/purple raised nodules on the finger tips. These are BEST described as which ONE of the following?",
+      "options": [
+        "A. Janeway lesions",
+        "B. Splinter haemorrhages",
+        "C. Osler's nodes",
+        "D. Roth spots",
+        "E. Petechiae"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Osler's nodes are painful, red or purple raised lumps affecting the fingers and/or toes in infective endocarditis. They are thought to represent immune complex deposition or microemboli. Janeway lesions are painless haemorrhagic macules on the palms/soles. Splinter haemorrhages (8 or more) are subungual linear streaks. Roth spots are retinal haemorrhages."
+    },
+    {
+      "id": "t5-m33",
+      "theme": 5,
+      "topicTag": "infective-endocarditis",
+      "question": "According to current NICE guidelines, antibiotic prophylaxis for infective endocarditis before dental procedures is:",
+      "options": [
+        "A. Recommended for all patients regardless of cardiac history",
+        "B. Recommended only for high-risk patients such as those with prosthetic valves",
+        "C. Not routinely recommended for any patient undergoing dental procedures",
+        "D. Mandatory for all patients with any congenital heart defect",
+        "E. Required for patients with hypertension before tooth extraction"
+      ],
+      "correctAnswer": "C",
+      "explanation": "NICE guidelines (2008, updated 2016) do NOT recommend routine antibiotic prophylaxis for infective endocarditis before dental procedures — even for high-risk patients. This is because there is no consistent evidence of benefit, the risk of anaphylaxis may outweigh benefit, and regular tooth brushing likely presents a greater cumulative bacteraemia risk than a single procedure. Note: SDCEP guidelines differ slightly."
+    },
+    {
+      "id": "t5-m34",
+      "theme": 5,
+      "topicTag": "infective-endocarditis",
+      "question": "Which ONE of the following BEST describes right-sided infective endocarditis?",
+      "options": [
+        "A. Accounts for approximately 50% of all IE cases",
+        "B. Usually affects the mitral valve",
+        "C. Typically occurs in IV drug users and affects the tricuspid valve",
+        "D. Has a higher mortality than left-sided IE",
+        "E. Is caused exclusively by fungal organisms"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Right-sided endocarditis accounts for only about 5% of IE cases. It typically occurs in intravenous drug abusers (or immunosuppressed patients) and most commonly affects the tricuspid valve. Mortality is relatively lower (approximately 10%) compared to Staphylococcus aureus left-sided IE (25–47% mortality). It is not exclusively fungal."
+    },
+    {
+      "id": "t5-m35",
+      "theme": 5,
+      "topicTag": "infective-endocarditis",
+      "question": "Which ONE of the following is defined as a MAJOR criterion for diagnosing infective endocarditis using the Duke criteria?",
+      "options": [
+        "A. Fever above 38°C",
+        "B. Predisposing cardiac condition",
+        "C. New valvular regurgitation on echocardiogram",
+        "D. Positive blood culture not typical for IE",
+        "E. Osler's nodes on examination"
+      ],
+      "correctAnswer": "C",
+      "explanation": "New valvular regurgitation on echocardiogram is a major criterion in the Duke criteria for IE. Other major criteria include: positive blood cultures with typical IE organisms, vegetation/abscess/new dehiscence of prosthetic valve on echo. Minor criteria include: fever >38°C, predisposing cardiac condition/IVDU, vascular phenomena, immunological phenomena (Osler's nodes), and microbiological evidence not meeting major criteria."
+    },
+    {
+      "id": "t5-m36",
+      "theme": 5,
+      "topicTag": "heart-failure",
+      "question": "Which ONE of the following is the MOST common cause of heart failure in the UK?",
+      "options": [
+        "A. Valvular heart disease",
+        "B. Ischaemic heart disease (including MI)",
+        "C. Hypertrophic cardiomyopathy",
+        "D. Atrial fibrillation",
+        "E. Pericarditis"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ischaemic heart disease — particularly damage from myocardial infarction — is the most common cause of heart failure in the UK. Permanent myocardial damage from MI reduces the pumping capacity of the heart. Other causes include valve disease, hypertension (causing hypertrophy and eventually failure), cardiomyopathy, and sustained arrhythmia such as atrial fibrillation."
+    },
+    {
+      "id": "t5-m37",
+      "theme": 5,
+      "topicTag": "heart-failure",
+      "question": "Which ONE of the following drug combinations is recommended for STABLE heart failure to improve survival?",
+      "options": [
+        "A. Beta-blocker + calcium channel blocker + alpha blocker",
+        "B. Beta-blocker + ACE inhibitor + spironolactone",
+        "C. Digoxin + verapamil + diuretic",
+        "D. Nitrates + propranolol + warfarin",
+        "E. Amiodarone + aspirin + furosemide"
+      ],
+      "correctAnswer": "B",
+      "explanation": "For stable heart failure, the combination of a beta-blocker (e.g. bisoprolol), ACE inhibitor (e.g. ramipril), and aldosterone antagonist (spironolactone) has been shown to improve survival when tolerated. Beta-blockers must be used only in stable (not acutely decompensated) heart failure as they can precipitate deterioration in unstable patients. Verapamil + beta-blocker is dangerous (risk of complete heart block)."
+    },
+    {
+      "id": "t5-m38",
+      "theme": 5,
+      "topicTag": "heart-failure",
+      "question": "A patient on spironolactone for heart failure develops a dangerous electrolyte imbalance. Which ONE of the following is MOST likely?",
+      "options": [
+        "A. Hyponatraemia",
+        "B. Hypokalaemia",
+        "C. Hyperkalaemia",
+        "D. Hypocalcaemia",
+        "E. Hypernatraemia"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Spironolactone is an aldosterone antagonist (potassium-sparing diuretic). By blocking aldosterone, it prevents the sodium–potassium exchange in the distal tubule, leading to retention of potassium — hyperkalaemia. Dangerous hyperkalaemia can precipitate fatal cardiac arrhythmias. Thiazide and loop diuretics (e.g. indapamide, furosemide) cause hypokalaemia."
+    },
+    {
+      "id": "t5-m39",
+      "theme": 5,
+      "topicTag": "cardiac-arrhythmias",
+      "question": "Which ONE of the following arrhythmias is the MOST common sustained cardiac arrhythmia encountered in clinical practice?",
+      "options": [
+        "A. Ventricular fibrillation",
+        "B. Complete heart block",
+        "C. Atrial fibrillation",
+        "D. Ventricular tachycardia",
+        "E. Wolff-Parkinson-White syndrome"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Atrial fibrillation (AF) is the most common sustained cardiac arrhythmia. It involves uncoordinated atrial electrical activity resulting in irregular, often fast ventricular contraction. AF significantly increases the risk of stroke (due to thrombus formation in the left atrial appendage) and is managed with rate/rhythm control and anticoagulation. VF is the most common cause of cardiac arrest but is not sustained."
+    },
+    {
+      "id": "t5-m40",
+      "theme": 5,
+      "topicTag": "cardiac-arrhythmias",
+      "question": "Which ONE of the following cardiac rhythms is SHOCKABLE in cardiac arrest management?",
+      "options": [
+        "A. Asystole",
+        "B. Pulseless electrical activity (PEA)",
+        "C. Ventricular fibrillation (VF)",
+        "D. Electromechanical dissociation",
+        "E. Complete heart block"
+      ],
+      "correctAnswer": "C",
+      "explanation": "The two shockable rhythms in cardiac arrest are ventricular fibrillation (VF) and pulseless ventricular tachycardia (pVT). These respond to defibrillation. Non-shockable rhythms (asystole and pulseless electrical activity/PEA) are managed with CPR and adrenaline only — defibrillation will not help. Recognising shockable vs non-shockable rhythms is critical in resuscitation."
+    },
+    {
+      "id": "t5-m41",
+      "theme": 5,
+      "topicTag": "cardiac-arrhythmias",
+      "question": "Why is atrial fibrillation a significant risk factor for ischaemic stroke?",
+      "options": [
+        "A. AF causes hypertension which damages cerebral arteries",
+        "B. AF causes stasis of blood in the left atrial appendage, leading to thrombus formation and potential embolism to the brain",
+        "C. AF directly damages the cerebral vasculature via inflammation",
+        "D. AF causes polycythaemia increasing blood viscosity",
+        "E. AF leads to carotid artery stenosis"
+      ],
+      "correctAnswer": "B",
+      "explanation": "In AF, loss of coordinated atrial contraction causes blood to pool (stasis) in the left atrial appendage. This promotes thrombus formation; fragments can embolise to the cerebral circulation, causing ischaemic stroke. This is why patients with AF are anticoagulated (with warfarin or DOACs). AF-related strokes tend to be more severe than those from hypertension."
+    },
+    {
+      "id": "t5-m42",
+      "theme": 5,
+      "topicTag": "hypertension",
+      "question": "What is the threshold blood pressure that defines Stage 2 hypertension in clinic?",
+      "options": [
+        "A. 130/80 mmHg or above",
+        "B. 140/90 mmHg or above",
+        "C. 160/100 mmHg or above",
+        "D. 180/110 mmHg or above",
+        "E. 200/120 mmHg or above"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Stage 2 (moderate) hypertension is defined as a clinic BP of 160/100 mmHg or above (or daytime average on ABPM of 150/95 mmHg or above). Stage 1 is 140/90 mmHg or above. Severe hypertension is 180/110 mmHg or above and may require immediate treatment. Treatment at Stage 2 is strongly recommended regardless of cardiovascular risk profile."
+    },
+    {
+      "id": "t5-m43",
+      "theme": 5,
+      "topicTag": "hypertension",
+      "question": "According to ABCD hypertension guidelines, which ONE of the following is the FIRST-LINE antihypertensive for a 45-year-old White patient?",
+      "options": [
+        "A. Calcium channel blocker (amlodipine)",
+        "B. ACE inhibitor or angiotensin receptor blocker (ARB)",
+        "C. Beta-blocker (atenolol)",
+        "D. Thiazide-like diuretic (indapamide)",
+        "E. Alpha blocker (doxazosin)"
+      ],
+      "correctAnswer": "B",
+      "explanation": "For patients under 55 who are not of African/Caribbean origin, first-line treatment is an ACE inhibitor (e.g. lisinopril) or angiotensin receptor blocker (e.g. losartan) — the 'A' drug. These work by inhibiting the renin-angiotensin system. For patients over 55 or of African/Caribbean origin, a calcium channel blocker is first line (better response due to lower renin levels). Alpha blockers are fourth-line only."
+    },
+    {
+      "id": "t5-m44",
+      "theme": 5,
+      "topicTag": "hypertension",
+      "question": "Which ONE of the following describes the mechanism by which ACE inhibitors lower blood pressure?",
+      "options": [
+        "A. They block calcium channels in vascular smooth muscle causing vasodilation",
+        "B. They inhibit the conversion of angiotensin I to angiotensin II, reducing aldosterone secretion and vasoconstriction",
+        "C. They block beta-1 adrenoreceptors, reducing heart rate and renin release",
+        "D. They increase excretion of sodium and water by blocking Na-Cl cotransport",
+        "E. They block alpha-1 adrenoreceptors in vascular smooth muscle"
+      ],
+      "correctAnswer": "B",
+      "explanation": "ACE inhibitors (e.g. lisinopril, ramipril) inhibit angiotensin-converting enzyme, preventing the conversion of angiotensin I to angiotensin II. This reduces aldosterone secretion (less sodium/water retention), causes vasodilation, and decreases sympathetic tone. Side effects include dry cough (bradykinin accumulation), hyperkalaemia, and angioedema. They are contraindicated in bilateral renal artery stenosis."
+    },
+    {
+      "id": "t5-m45",
+      "theme": 5,
+      "topicTag": "hypertension",
+      "question": "Which ONE of the following adverse effects is SPECIFICALLY associated with dihydropyridine calcium channel blockers (e.g. amlodipine) and is of particular relevance to dentistry?",
+      "options": [
+        "A. Bronchospasm",
+        "B. Gingival hyperplasia",
+        "C. Increased tooth demineralisation",
+        "D. Dry cough",
+        "E. Oral ulceration"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Dihydropyridine calcium channel blockers (nifedipine, amlodipine) can cause gingival hyperplasia — overgrowth of the gingival tissues. This is clinically important for dentists. Beta-blockers are associated with increased tooth demineralisation. Dry cough is a classic ACE inhibitor side effect (due to bradykinin). Bronchospasm is associated with non-selective beta-blockers. Oral ulceration is a side effect of nicorandil."
+    },
+    {
+      "id": "t5-m46",
+      "theme": 5,
+      "topicTag": "hypertension",
+      "question": "The most common endocrine cause of secondary hypertension is which ONE of the following?",
+      "options": [
+        "A. Cushing's syndrome",
+        "B. Phaeochromocytoma",
+        "C. Hypothyroidism",
+        "D. Hyperaldosteronism (Conn's syndrome)",
+        "E. Acromegaly"
+      ],
+      "correctAnswer": "D",
+      "explanation": "Hyperaldosteronism (Conn's syndrome) — excess aldosterone secretion, usually from a non-malignant adrenal adenoma — is the most common endocrine cause of secondary hypertension. It presents with hypertension and hypokalaemia. Phaeochromocytoma is a rarer adrenal catecholamine-secreting tumour presenting with episodic hypertension and headaches. Secondary hypertension overall accounts for about 10% of cases; the most common cause of secondary hypertension is renal disease."
+    },
+    {
+      "id": "t5-m47",
+      "theme": 5,
+      "topicTag": "hypertension",
+      "question": "A patient on antihypertensive medication is prescribed a calcium channel blocker. The prescriber notes the patient is already on a beta-blocker. Which ONE of the following calcium channel blockers would be MOST DANGEROUS to combine with a beta-blocker?",
+      "options": [
+        "A. Amlodipine",
+        "B. Nifedipine",
+        "C. Felodipine",
+        "D. Verapamil",
+        "E. Lacidipine"
+      ],
+      "correctAnswer": "D",
+      "explanation": "Verapamil is a phenylalkylamine calcium channel blocker that dramatically slows heart rate by acting on the SA and AV nodes. Combining verapamil with a beta-blocker (which also slows heart rate) can lead to complete heart block and cardiac arrest. Dihydropyridines (amlodipine, nifedipine, felodipine) act predominantly on vascular smooth muscle with minimal effect on the cardiac conduction system, making them safer to combine with beta-blockers."
+    },
+    {
+      "id": "t5-m48",
+      "theme": 5,
+      "topicTag": "hypertension",
+      "question": "What type of stroke is hypertension MOST likely to cause?",
+      "options": [
+        "A. Ischaemic stroke from cardioembolic source",
+        "B. Ischaemic stroke from large-artery atherosclerosis",
+        "C. Haemorrhagic stroke",
+        "D. Lacunar infarct from small-vessel disease only",
+        "E. Transient ischaemic attack only"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Hypertension most commonly causes haemorrhagic stroke through the 'bursting effect' — high pressure damages cerebral blood vessels, causing them to rupture and bleed into brain tissue. This is in contrast to atrial fibrillation, which typically causes ischaemic stroke via cardioembolism. Hypertension is also a risk factor for ischaemic stroke, but haemorrhagic stroke is most specifically linked to uncontrolled hypertension."
+    },
+    {
+      "id": "t5-m49",
+      "theme": 5,
+      "topicTag": "peripheral-vascular",
+      "question": "Which ONE of the following BEST describes intermittent claudication?",
+      "options": [
+        "A. Pain in the calf at rest that is relieved by exercise",
+        "B. Calf pain that occurs during walking due to inadequate arterial blood supply and resolves with rest",
+        "C. Burning foot pain that is worse at night and relieved by hanging the foot out of bed",
+        "D. Generalised leg weakness that occurs independently of walking distance",
+        "E. Throbbing leg pain that is worse in hot weather and relieved by elevation"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Intermittent claudication is calf pain (sometimes buttock/thigh) that occurs during walking due to atherosclerotic narrowing of the arteries supplying the leg muscles. During exercise, oxygen demand increases but supply cannot meet demand; anaerobic metabolism produces lactic acid, causing pain. The pain resolves within minutes of stopping. Night-time foot pain at rest suggests critical ischaemia."
+    },
+    {
+      "id": "t5-m50",
+      "theme": 5,
+      "topicTag": "peripheral-vascular",
+      "question": "The '5 P's' of acute limb ischaemia include all of the following EXCEPT which ONE?",
+      "options": [
+        "A. Pain",
+        "B. Pallor",
+        "C. Pulselessness",
+        "D. Paralysis",
+        "E. Perspiration"
+      ],
+      "correctAnswer": "E",
+      "explanation": "The classic 5 P's of acute limb ischaemia are: Pain, Pallor (cold pale leg), Pulselessness (absent distal pulses), Paralysis (inability to move the limb), and Paraesthesiae/numbness. A sixth 'P' — Perishing cold — is sometimes added. Perspiration (sweating) is not one of the 5 P's. Acute limb ischaemia is a surgical emergency requiring immediate heparinisation and revascularisation."
+    },
+    {
+      "id": "t5-m51",
+      "theme": 5,
+      "topicTag": "peripheral-vascular",
+      "question": "An abdominal aortic aneurysm is routinely recommended for surgical repair when it reaches which ONE of the following threshold diameters?",
+      "options": [
+        "A. 3.0 cm or greater",
+        "B. 4.0 cm or greater",
+        "C. 5.5 cm or greater",
+        "D. 7.0 cm or greater",
+        "E. Only when symptomatic, regardless of size"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Abdominal aortic aneurysms (AAA) are repaired when they reach 5.5 cm in diameter, because at this point the risk of rupture (which is often fatal) exceeds the risk of surgery. AAAs are also repaired when symptomatic (pain, tenderness — indicating imminent rupture) regardless of size. Smaller aneurysms (3–5.5 cm) are monitored with regular ultrasound surveillance."
+    },
+    {
+      "id": "t5-m52",
+      "theme": 5,
+      "topicTag": "peripheral-vascular",
+      "question": "Critical ischaemia of the lower limb is BEST defined as which ONE of the following?",
+      "options": [
+        "A. Intermittent calf pain on walking less than 100 metres",
+        "B. Ischaemia severe enough to threaten limb viability, causing rest pain or tissue loss even at rest",
+        "C. Ankle-brachial pressure index (ABPI) of less than 0.9",
+        "D. Total occlusion of the femoral artery on angiography",
+        "E. Bilateral absent foot pulses on examination"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Critical ischaemia is ischaemia so severe that the limb is at risk of loss even at rest — characterised by rest pain (typically in the toes/foot, worse at night, relieved by hanging the foot down), gangrene, or non-healing ulcers. The Doppler pressure in the foot is very low (usually below 50 mmHg). Without revascularisation, 70% will require amputation. It is distinct from claudication, which only occurs during exertion."
+    },
+    {
+      "id": "t5-m53",
+      "theme": 5,
+      "topicTag": "DVT-PE",
+      "question": "A deep vein thrombosis (DVT) most commonly migrates to cause a pulmonary embolism via which ONE of the following routes?",
+      "options": [
+        "A. Through the lymphatic system to the thoracic duct",
+        "B. Via the inferior vena cava through the right heart to the pulmonary artery",
+        "C. Via the superior vena cava through the right heart to the pulmonary artery",
+        "D. Through the portal system to the hepatic veins",
+        "E. Via the left heart as a paradoxical embolism in all cases"
+      ],
+      "correctAnswer": "B",
+      "explanation": "A DVT (most commonly in the deep leg veins) embolises upward through the femoral vein into the inferior vena cava (IVC), through the right atrium and right ventricle, into the pulmonary artery — causing pulmonary embolism. A 'saddle embolus' straddles the bifurcation of the pulmonary artery, causing acute right heart failure. A paradoxical embolism through a patent foramen ovale is a rare exception."
+    },
+    {
+      "id": "t5-m54",
+      "theme": 5,
+      "topicTag": "anticoagulants",
+      "question": "A patient on warfarin is prescribed miconazole oral gel for oral candidiasis. Which ONE of the following is the MOST likely outcome?",
+      "options": [
+        "A. No significant interaction — warfarin and miconazole are safe together",
+        "B. Miconazole will reduce the INR, increasing thrombotic risk",
+        "C. Miconazole will dramatically raise the INR, dangerously increasing bleeding risk",
+        "D. Miconazole will cause warfarin to be rapidly excreted unchanged",
+        "E. Miconazole has no effect on INR but causes additive nephrotoxicity"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Miconazole oral gel is ABSOLUTELY CONTRAINDICATED with warfarin. Even the topical form is significantly absorbed systemically and is a potent inhibitor of CYP2C9 — the enzyme responsible for warfarin metabolism. This leads to a dramatic and dangerous rise in INR (sometimes by a factor of 5–10), with risk of fatal haemorrhage. This is one of the most important drug interactions in dental practice. Nystatin is the safe alternative for oral candidiasis in patients on warfarin."
+    },
+    {
+      "id": "t5-m55",
+      "theme": 5,
+      "topicTag": "anticoagulants",
+      "question": "Which ONE of the following antifungal agents is SAFE to use in patients taking warfarin?",
+      "options": [
+        "A. Miconazole oral gel",
+        "B. Fluconazole",
+        "C. Itraconazole",
+        "D. Nystatin",
+        "E. Ketoconazole"
+      ],
+      "correctAnswer": "D",
+      "explanation": "Nystatin is safe in patients on warfarin. It is a topical antifungal that is not significantly absorbed systemically and does not inhibit CYP enzymes. Miconazole, fluconazole, itraconazole, and ketoconazole are all azole antifungals that inhibit CYP2C9 to varying degrees and will raise the INR in patients on warfarin. Miconazole oral gel has the most dramatic and well-documented interaction."
+    },
+    {
+      "id": "t5-m56",
+      "theme": 5,
+      "topicTag": "anticoagulants",
+      "question": "A patient is taking dabigatran (a DOAC) for atrial fibrillation. Which ONE of the following BEST describes the mechanism of action of dabigatran?",
+      "options": [
+        "A. It inhibits factor Xa directly",
+        "B. It is a reversible direct thrombin inhibitor",
+        "C. It inhibits vitamin K-dependent clotting factors (II, VII, IX, X)",
+        "D. It activates antithrombin III to inhibit factor Xa and thrombin",
+        "E. It inhibits platelet aggregation via the P2Y12 receptor"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Dabigatran is a reversible direct thrombin inhibitor (factor IIa inhibitor). It directly binds to and inhibits thrombin, preventing conversion of fibrinogen to fibrin. Factor Xa inhibitors include apixaban, rivaroxaban, and edoxaban. Warfarin inhibits vitamin K-dependent clotting factors (II, VII, IX, X). Heparin activates antithrombin III. Clopidogrel inhibits the P2Y12 receptor on platelets."
+    },
+    {
+      "id": "t5-m57",
+      "theme": 5,
+      "topicTag": "anticoagulants",
+      "question": "For a patient taking apixaban (a once-daily DOAC) who needs a morning dental extraction, which ONE of the following management strategies is MOST appropriate?",
+      "options": [
+        "A. Stop apixaban 5 days before the extraction",
+        "B. Reverse apixaban with vitamin K before the procedure",
+        "C. Treat in the morning without missing the dose; use local haemostatic measures",
+        "D. Postpone all dental treatment until the patient switches to warfarin",
+        "E. Give the morning dose of apixaban after the extraction, not before"
+      ],
+      "correctAnswer": "C",
+      "explanation": "For a patient on a DOAC (e.g. apixaban, rivaroxaban — once daily), routine dental extractions can be performed without stopping the drug. The patient should be treated in the morning, local haemostatic measures used (tranexamic acid mouthwash, oxidised cellulose), and the regular dose taken as normal. Stopping DOACs increases thrombotic risk. DOACs have a short half-life; the INR concept does not apply — there is no validated monitoring test."
+    },
+    {
+      "id": "t5-m58",
+      "theme": 5,
+      "topicTag": "anticoagulants",
+      "question": "Which ONE of the following antibiotics is MOST likely to significantly raise the INR in a patient on warfarin?",
+      "options": [
+        "A. Amoxicillin",
+        "B. Metronidazole",
+        "C. Cefalexin",
+        "D. Doxycycline",
+        "E. Clindamycin"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Metronidazole inhibits CYP2C9 and also has direct anticoagulant properties, causing a significant rise in INR when combined with warfarin. Erythromycin and clarithromycin (macrolides) also raise INR. Amoxicillin has a minimal but sometimes clinically relevant interaction through altering gut flora. Cefalexin is generally safe. This drug interaction is highly clinically relevant in dentistry — always check for warfarin when prescribing antibiotics."
+    },
+    {
+      "id": "t5-m59",
+      "theme": 5,
+      "topicTag": "anticoagulants",
+      "question": "Warfarin is safe to continue for routine dental extractions if the patient's INR is within which ONE of the following ranges?",
+      "options": [
+        "A. 1.0–1.5",
+        "B. 1.5–2.0",
+        "C. 2.0–3.5 (therapeutic range, up to 4.0)",
+        "D. 3.5–5.0",
+        "E. Any INR value is acceptable provided local haemostatic measures are used"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Dental extractions can be safely performed in patients on warfarin with an INR of up to 4.0 provided local haemostatic measures are used (oxidised cellulose, tranexamic acid mouthwash 5% four times daily for 2 days, sutures if needed). If the INR is above 4.0 within 72 hours before surgery, the procedure should be postponed and the GP/haematologist contacted. NSAIDs must be avoided in warfarin patients."
+    },
+    {
+      "id": "t5-m60",
+      "theme": 5,
+      "topicTag": "anticoagulants",
+      "question": "Which ONE of the following antiplatelet drugs is PREFERRED for medical management of peripheral arterial disease?",
+      "options": [
+        "A. Warfarin",
+        "B. Clopidogrel",
+        "C. Apixaban",
+        "D. Aspirin",
+        "E. Dipyridamole"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Clopidogrel is the preferred antiplatelet agent for peripheral arterial disease (PAD). It is a P2Y12 ADP receptor antagonist that irreversibly inhibits platelet aggregation. While aspirin is also used in PAD, clopidogrel has shown superior benefit in peripheral vascular disease in clinical trials. Warfarin and DOACs are not routinely used for PAD unless there is a co-existing indication for anticoagulation."
+    },
+    {
+      "id": "t5-m61",
+      "theme": 5,
+      "topicTag": "valvular-disease",
+      "question": "Which ONE of the following is the MOST common valvular heart disease worldwide?",
+      "options": [
+        "A. Mitral regurgitation",
+        "B. Mitral stenosis",
+        "C. Tricuspid stenosis",
+        "D. Aortic stenosis",
+        "E. Pulmonary regurgitation"
+      ],
+      "correctAnswer": "D",
+      "explanation": "Aortic stenosis is the most common valvular heart disease worldwide. It typically develops due to progressive calcification and thickening of the aortic valve leaflets, often in elderly patients. It presents with the triad of chest pain (angina), dyspnoea, and syncope. In the UK, mitral regurgitation is the most common regurgitant valve lesion."
+    },
+    {
+      "id": "t5-m62",
+      "theme": 5,
+      "topicTag": "valvular-disease",
+      "question": "A patient requires replacement of a severely stenosed aortic valve using a catheter-based technique without open-heart surgery. Which ONE of the following procedures is being described?",
+      "options": [
+        "A. Coronary artery bypass grafting (CABG)",
+        "B. Transcatheter Aortic Valve Implantation (TAVI)",
+        "C. Percutaneous coronary intervention (PCI)",
+        "D. Transcatheter edge-to-edge repair",
+        "E. Carotid endarterectomy"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Transcatheter Aortic Valve Implantation (TAVI) is a catheter-based (keyhole) procedure for replacing a stenosed aortic valve without open-heart surgery. A stent with a tissue valve is deployed via the femoral artery. It is used especially in high-risk surgical patients. Transcatheter edge-to-edge repair (e.g. MitraClip) is used for mitral regurgitation, not aortic stenosis."
+    },
+    {
+      "id": "t5-m63",
+      "theme": 5,
+      "topicTag": "dental-implications",
+      "question": "A patient with a known history of angina attends for a tooth extraction. During the procedure they develop central chest tightness. After sitting the patient upright, what is the NEXT most appropriate action?",
+      "options": [
+        "A. Continue the extraction and administer IV morphine",
+        "B. Administer GTN spray sublingually and monitor",
+        "C. Immediately call 999 and administer aspirin 300 mg",
+        "D. Administer supplemental oxygen and complete the procedure",
+        "E. Give IM adrenaline 0.5 mg and transfer to hospital"
+      ],
+      "correctAnswer": "B",
+      "explanation": "The first step is to administer GTN (glyceryl trinitrate) spray sublingually, which should relieve angina within minutes by dilating coronary arteries. The patient should be sat comfortably and the procedure stopped. If pain is not relieved within 5 minutes with repeat GTN, or if it is more severe than usual, treat as a possible MI — call 999, give aspirin 300 mg chewed, and administer oxygen if hypoxic. Adrenaline is for anaphylaxis."
+    },
+    {
+      "id": "t5-m64",
+      "theme": 5,
+      "topicTag": "dental-implications",
+      "question": "Which ONE of the following adverse effects of beta-blockers is of direct relevance to oral health?",
+      "options": [
+        "A. Gingival hyperplasia",
+        "B. Oral ulceration",
+        "C. Increased tooth demineralisation",
+        "D. Dry cough",
+        "E. Lichenoid reaction only"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Beta-blockers are associated with increased tooth demineralisation. Beta-blockers can also rarely cause lichenoid eruptions in the mouth. Gingival hyperplasia is associated with dihydropyridine calcium channel blockers (e.g. nifedipine) and ciclosporin. Dry cough is an ACE inhibitor side effect. Oral ulceration is associated with nicorandil. These drug–oral health associations are high-yield exam topics."
+    },
+    {
+      "id": "t5-m65",
+      "theme": 5,
+      "topicTag": "dental-implications",
+      "question": "A patient with hypertension is prescribed adrenaline-containing local anaesthetic for a dental extraction. Which ONE of the following is the MOST appropriate consideration?",
+      "options": [
+        "A. Adrenaline is absolutely contraindicated in all patients with hypertension",
+        "B. A maximum of 3 cartridges of 1:80,000 adrenaline is safe in most patients with controlled hypertension",
+        "C. Adrenaline-free local anaesthetics must always be used in hypertensive patients",
+        "D. Adrenaline should only be used in hypertensive patients with prior cardiologist approval",
+        "E. Adrenaline is contraindicated in hypertensive patients taking beta-blockers due to risk of asystole"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Adrenaline-containing local anaesthetic is safe in most patients with controlled hypertension using standard amounts (up to 3 cartridges of 1:80,000). Careful aspiration and slow injection technique minimise inadvertent intravascular injection. Adrenaline is not absolutely contraindicated in hypertensive patients but should be used cautiously in uncontrolled or severe hypertension. The theoretical risk with non-selective beta-blockers is hypertension from unopposed alpha-stimulation (not asystole)."
+    },
+    {
+      "id": "t5-m66",
+      "theme": 5,
+      "topicTag": "ischaemic-heart-disease",
+      "question": "Which ONE of the following BEST describes the difference between angina pectoris and acute myocardial infarction (MI)?",
+      "options": [
+        "A. Angina causes ST elevation on ECG; MI does not",
+        "B. Angina is irreversible myocardial necrosis; MI is reversible ischaemia",
+        "C. Angina is reversible myocardial ischaemia; MI is irreversible myocardial necrosis",
+        "D. Angina only occurs in the left ventricle; MI occurs in both ventricles",
+        "E. Angina is caused by coronary embolism; MI is caused by coronary atherosclerosis"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Angina involves reversible myocardial ischaemia — insufficient blood supply causes chest pain, but blood flow is restored (with rest or GTN) before permanent damage occurs. In MI, complete and sustained occlusion of a coronary artery leads to irreversible myocardial necrosis. MI classically presents with severe chest pain at rest lasting more than 20 minutes, sweating, and nausea. Troponin is released into the bloodstream from necrotic myocytes."
+    },
+    {
+      "id": "t5-m67",
+      "theme": 5,
+      "topicTag": "atherosclerosis",
+      "question": "What is haemopericardium and when is a patient at greatest risk of this complication following MI?",
+      "options": [
+        "A. Blood in the peritoneal cavity; greatest risk on the first day",
+        "B. Blood in the pericardial sac; greatest risk at 4–6 days post-MI",
+        "C. Blood in the pleural cavity; greatest risk in the first hour of MI",
+        "D. Blood in the pericardial sac; greatest risk in the first 24 hours post-MI",
+        "E. Fluid around the heart due to inflammation; greatest risk at 3 months"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Haemopericardium is blood in the pericardial sac, typically resulting from rupture of the necrotic ventricular wall following MI. The greatest risk is at 4–6 days post-MI, when the infarcted area is at its softest (before fibrosis occurs). The blood fills the pericardial space, compressing the heart (cardiac tamponade), leading to arrhythmia and sudden death. It is a rare but life-threatening complication."
+    },
+    {
+      "id": "t5-m68",
+      "theme": 5,
+      "topicTag": "hypertension",
+      "question": "Which ONE of the following is the MOST important reason for taking multiple blood pressure readings on separate occasions before diagnosing hypertension?",
+      "options": [
+        "A. BP equipment is inaccurate on first use",
+        "B. Blood pressure shows natural variation throughout the day and anxiety in clinic ('white coat effect') can artificially elevate readings",
+        "C. First readings are always artificially low due to patient relaxation",
+        "D. Multiple readings are needed to identify the diastolic pressure accurately",
+        "E. NHS guidelines require three readings before prescribing any medication"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Blood pressure shows considerable variation throughout the day and is affected by physical activity, anxiety, stress, caffeine, and position. 'White coat hypertension' — elevated BP in a clinical setting due to anxiety — is well recognised. Taking multiple readings on at least two separate occasions (and using ambulatory or home BP monitoring) avoids over-diagnosing hypertension and unnecessary treatment. ABPM is the gold standard for confirming a diagnosis."
+    },
+    {
+      "id": "t5-m69",
+      "theme": 5,
+      "topicTag": "cardiac-arrhythmias",
+      "question": "Which ONE of the following best describes the sinoatrial (SA) node?",
+      "options": [
+        "A. It is located in the lower part of the right ventricle",
+        "B. It is the natural pacemaker of the heart, located high in the right atrium",
+        "C. It sends electrical impulses directly to the Purkinje fibres without passing through the AV node",
+        "D. It generates impulses at a rate of 100–150 beats per minute at rest",
+        "E. Its firing is detected on ECG as the QRS complex"
+      ],
+      "correctAnswer": "B",
+      "explanation": "The sinoatrial (SA) node is the natural pacemaker of the heart, located high in the right atrium. It generates impulses at approximately 60–100 beats per minute at rest. These impulses spread through both atria (producing the P wave on ECG), are received by the AV node, and transmitted to the ventricles via the Bundle of His and Purkinje fibres (producing the QRS complex)."
+    },
+    {
+      "id": "t5-m70",
+      "theme": 5,
+      "topicTag": "thrombosis",
+      "question": "Which ONE of the following types of embolism results in SYSTEMIC arterial occlusion despite originating in the venous system?",
+      "options": [
+        "A. Pulmonary embolism",
+        "B. Saddle embolism",
+        "C. Paradoxical embolism",
+        "D. Fat embolism",
+        "E. Air embolism"
+      ],
+      "correctAnswer": "C",
+      "explanation": "A paradoxical embolism is one that passes from the venous to the arterial circulation, typically through a patent foramen ovale (PFO) — a congenital communication between the right and left atria that normally closes at birth. If a DVT embolises and passes through a PFO into the left heart, it can reach the cerebral or peripheral circulation, causing ischaemic stroke or limb ischaemia. This is why young patients with cryptogenic stroke are investigated for PFO."
+    },
+    {
+      "id": "t5-m71",
+      "theme": 5,
+      "topicTag": "hypertension",
+      "question": "Which ONE of the following drug combinations for hypertension is specifically associated with an INCREASED risk of developing new-onset diabetes mellitus?",
+      "options": [
+        "A. ACE inhibitor + calcium channel blocker",
+        "B. ACE inhibitor + ARB",
+        "C. Beta-blocker + thiazide-like diuretic",
+        "D. Calcium channel blocker + ACE inhibitor",
+        "E. Alpha-blocker + ACE inhibitor"
+      ],
+      "correctAnswer": "C",
+      "explanation": "The combination of a beta-blocker (B) and a thiazide-like diuretic (D) is a 'bad' drug combination in hypertension management because both drug classes independently impair glucose metabolism, and together they significantly increase the risk of new-onset type 2 diabetes mellitus. This combination should be avoided where possible. The NICE ABCD guidelines specifically warn against B+D combinations for this reason."
+    },
+    {
+      "id": "t5-m72",
+      "theme": 5,
+      "topicTag": "infective-endocarditis",
+      "question": "HACEK organisms are responsible for approximately 5% of cases of infective endocarditis. Which ONE of the following organisms is included in the HACEK group?",
+      "options": [
+        "A. Haemolytic Streptococcus group A",
+        "B. Aggregatibacter actinomycetemcomitans",
+        "C. Clostridium difficile",
+        "D. Enterococcus faecalis",
+        "E. Klebsiella pneumoniae"
+      ],
+      "correctAnswer": "B",
+      "explanation": "HACEK stands for: Haemophilus spp., Aggregatibacter actinomycetemcomitans (AA), Cardiobacterium hominis, Eikenella corrodens, and Kingella spp. These are fastidious, slow-growing Gram-negative bacteria that are part of the normal oral and upper respiratory flora and account for approximately 5% of IE cases. Aggregatibacter actinomycetemcomitans is also associated with aggressive periodontitis, making it relevant in dentistry."
+    },
+    {
+      "id": "t5-m73",
+      "theme": 5,
+      "topicTag": "atherosclerosis",
+      "question": "What is diapedesis in the context of atherosclerosis development?",
+      "options": [
+        "A. Formation of a lipid lake within a plaque",
+        "B. Calcification of the tunica media",
+        "C. Movement of white blood cells through the vessel wall into the intima",
+        "D. Rupture of an atherosclerotic plaque",
+        "E. Migration of smooth muscle cells from the tunica media"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Diapedesis is the process by which white blood cells (specifically monocytes) pass through the vessel wall — squeezing between endothelial cells — into the arterial intima. In atherosclerosis, endothelial dysfunction allows monocytes to adhere to and then migrate through the endothelium, where they differentiate into macrophages and take up oxidised LDL to become foam cells (the characteristic feature of the fatty streak)."
+    },
+    {
+      "id": "t5-m74",
+      "theme": 5,
+      "topicTag": "anticoagulants",
+      "question": "Which ONE of the following antiplatelet drugs irreversibly inhibits platelet cyclooxygenase (COX), reducing thromboxane A2 production?",
+      "options": [
+        "A. Clopidogrel",
+        "B. Ticagrelor",
+        "C. Aspirin",
+        "D. Dipyridamole",
+        "E. Warfarin"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Aspirin irreversibly acetylates platelet cyclooxygenase-1 (COX-1), permanently inhibiting the production of thromboxane A2 — a potent platelet aggregator and vasoconstrictor. Since platelets cannot synthesise new COX-1 (they have no nucleus), the antiplatelet effect lasts the lifespan of the platelet (7–10 days). Clopidogrel and ticagrelor inhibit the P2Y12 ADP receptor. Dipyridamole inhibits phosphodiesterase. Warfarin is an anticoagulant, not an antiplatelet."
+    },
+    {
+      "id": "t5-m75",
+      "theme": 5,
+      "topicTag": "heart-failure",
+      "question": "Cor pulmonale is defined as which ONE of the following?",
+      "options": [
+        "A. Left ventricular failure due to ischaemic heart disease",
+        "B. Right heart failure secondary to pulmonary hypertension caused by lung disease",
+        "C. Combined left and right heart failure following MI",
+        "D. Pericardial effusion causing cardiac tamponade",
+        "E. Arrhythmia-induced left heart failure"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Cor pulmonale is right ventricular failure caused by pulmonary hypertension secondary to chronic lung disease (most commonly COPD). Sustained hypoxia causes pulmonary vasoconstriction, increasing right ventricular afterload, leading eventually to right heart failure. It presents with peripheral oedema, raised JVP, and signs of the underlying lung disease. It differs from right heart failure caused by left heart disease."
+    },
+    {
+      "id": "t5-m76",
+      "theme": 5,
+      "topicTag": "anticoagulants",
+      "question": "When prescribing NSAIDs (e.g. ibuprofen) to a patient on warfarin, which ONE of the following explains why this combination is particularly hazardous?",
+      "options": [
+        "A. NSAIDs reduce the absorption of warfarin from the gut",
+        "B. NSAIDs displace warfarin from protein binding sites AND inhibit platelet function, markedly increasing bleeding risk",
+        "C. NSAIDs increase hepatic metabolism of warfarin, reducing its anticoagulant effect",
+        "D. NSAIDs increase renal clearance of warfarin",
+        "E. NSAIDs stimulate the synthesis of vitamin K-dependent clotting factors"
+      ],
+      "correctAnswer": "B",
+      "explanation": "NSAIDs are dangerous in patients on warfarin for two reasons: (1) they can displace warfarin from plasma protein binding, transiently increasing free warfarin levels; and (2) they inhibit platelet function by inhibiting thromboxane A2 synthesis, impairing the primary haemostatic plug. Additionally, NSAIDs can cause gastrointestinal mucosal damage and bleeding. The combined effect dramatically increases bleeding risk. NSAIDs and COX-2 inhibitors should be avoided in patients on warfarin."
+    },
+    {
+      "id": "t5-m77",
+      "theme": 5,
+      "topicTag": "thrombosis",
+      "question": "Lines of Zahn are a histological feature that can confirm a blood clot formed IN VIVO (during life) rather than post-mortem. Which ONE of the following BEST describes these lines?",
+      "options": [
+        "A. Concentric rings of calcified calcium within an atheromatous plaque",
+        "B. Alternating light bands (fibrin/platelets) and dark bands (red blood cells) in an organised thrombus",
+        "C. Longitudinal fibrous bands seen in organised chronic thrombus",
+        "D. Inflammatory cell infiltration around the edges of a thrombus",
+        "E. Cholesterol crystal deposits within a fibrolipid plaque"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Lines of Zahn are alternating pale layers (fibrin and platelets) and darker layers (red blood cells) seen histologically in a thrombus that formed in flowing blood during life. This laminated appearance results from the alternating deposition of platelets/fibrin and red cells as the clot builds up in the flow of blood. Post-mortem clots (coagula) do not show lines of Zahn — they have a more uniform red/yellow 'chicken fat' appearance."
+    },
+    {
+      "id": "t5-m78",
+      "theme": 5,
+      "topicTag": "atherosclerosis",
+      "question": "Aortic dissection is MOST commonly associated with which ONE of the following underlying conditions?",
+      "options": [
+        "A. Hyperlipidaemia and smoking",
+        "B. Diabetes mellitus and obesity",
+        "C. Hypertension (in older patients) or connective tissue disorders (in younger patients)",
+        "D. Atrial fibrillation and cardiac failure",
+        "E. Autoimmune disease and rheumatoid arthritis"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Aortic dissection — an intimal tear allowing blood to enter the arterial wall, creating a false lumen — is most commonly caused by hypertension in older patients (leading to medial degeneration) and connective tissue disorders (e.g. Marfan's syndrome, Ehlers-Danlos) in younger patients. Rare causes include trauma (e.g. road traffic accidents) and physiological changes in pregnancy. It presents with sudden, severe, tearing chest/back pain radiating to the scapulae."
+    },
+    {
+      "id": "t5-m79",
+      "theme": 5,
+      "topicTag": "cardiac-arrhythmias",
+      "question": "Which ONE of the following ECG changes is MOST characteristic of acute ST-elevation myocardial infarction (STEMI)?",
+      "options": [
+        "A. Broad QRS complexes with a rate of 150 bpm",
+        "B. Absent P waves with an irregular R-R interval",
+        "C. ST segment elevation in leads overlying the infarcted territory",
+        "D. Prolonged PR interval (>200 ms)",
+        "E. Tall, peaked T waves in multiple leads"
+      ],
+      "correctAnswer": "C",
+      "explanation": "The hallmark ECG change of STEMI is ST segment elevation in leads overlying the territory of the infarcted myocardium (e.g. inferior MI shows elevation in leads II, III, aVF; anterior MI in V1–V4). This indicates transmural ischaemia. Absent P waves with irregular R-R interval is AF. Broad QRS at 150 bpm suggests ventricular tachycardia. Prolonged PR interval is first-degree heart block. Tall peaked T waves can indicate hyperkalaemia."
+    },
+    {
+      "id": "t5-m80",
+      "theme": 5,
+      "topicTag": "valvular-disease",
+      "question": "Which ONE of the following is the MOST common cause of mitral stenosis?",
+      "options": [
+        "A. Calcific degeneration with age",
+        "B. Rheumatic fever causing valve scarring",
+        "C. Infective endocarditis destroying the valve leaflets",
+        "D. Systemic lupus erythematosus",
+        "E. Hypertrophic obstructive cardiomyopathy"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Mitral stenosis is most commonly caused by rheumatic fever (rheumatic heart disease) — an inflammatory condition following Group A Streptococcal pharyngitis that causes scarring and thickening of the mitral valve leaflets, reducing the valve orifice area. It is now rare in developed countries but remains common globally. Calcific degeneration causes aortic stenosis predominantly. Infective endocarditis more commonly causes regurgitation than stenosis."
+    }
+  ]
+}

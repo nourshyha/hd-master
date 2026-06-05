@@ -1,0 +1,646 @@
+{
+  "theme": {
+    "id": 1,
+    "title": "Clinical Examination & History Taking",
+    "difficulty": "easy",
+    "lectureCount": 1,
+    "learningOutcomes": [
+      "HD17",
+      "HD18",
+      "HD19"
+    ]
+  },
+  "groundIt": [
+    {
+      "clusterId": "t1-c1",
+      "clusterTitle": "Signs, Symptoms & Aims of History Taking",
+      "content": "A sign is an objective finding obtained by the clinician on examination — something you observe, measure, or elicit. Examples include pallor, an irregular pulse, or jaundice. A symptom, by contrast, is a subjective feature that the patient themselves reports — chest pain, breathlessness, fatigue. This distinction matters enormously in dentistry because patients present with symptoms, not diagnoses. A patient does not walk in with 'iron deficiency anaemia'; they present with tiredness and pallor that may eventually point you there. Misclassifying a sign as a symptom (or vice versa) in clinical documentation signals poor clinical reasoning.\n\nThe medical history aims to achieve four things: first, to allow the patient to give a full, uninterrupted account of their symptoms in their own words; second, to obtain clarification and ask about related symptoms that may steer toward a diagnosis; third, to understand how the condition affects the patient's daily life and their own perception of it; and fourth, to gather background information on previous and ongoing medical problems that may affect the delivery of safe dental care.\n\nFor pain specifically, the SOCRATES mnemonic is used to structure the history: Site, Onset, Characteristics (quality of pain — tight, burning, stabbing), Radiation, Associated symptoms, Time (duration and pattern), Exacerbating and relieving factors, and Severity (scored 1–10). You should also ask about medication taken for the pain and its efficacy. In dentistry, SOCRATES is particularly useful for distinguishing reversible pulpitis (short, sharp pain from cold — A-delta fibres) from irreversible pulpitis (persistent, throbbing pain — C fibres).",
+      "selfExplainPrompt": "In one sentence, explain the difference between a sign and a symptom and why it matters when a patient walks into a dental surgery."
+    },
+    {
+      "clusterId": "t1-c2",
+      "clusterTitle": "The Medical History — Structure & Systems Review",
+      "content": "A structured medical history follows a consistent scheme. The components are: presenting complaint (ideally recorded in the patient's own words, in quotation marks — avoid presumptive diagnoses); history of the presenting complaint (a chronological account from onset, with SOCRATES for pain); past medical history (previous conditions, surgery, anaesthetic problems, rheumatic fever — asking specifically about heart and chest problems, asthma, diabetes, epilepsy, hypertension, hepatitis, and tuberculosis); allergies (must be recorded even if there are none — highlight clearly in the notes); drugs (prescribed, over-the-counter, recreational, and complementary therapies — all of these can interact with drugs dentists prescribe or use); past dental history (regularity of attendance, previous LA or sedation, adverse events including post-extraction haemorrhage); social history (smoking behaviour, alcohol in units per week — limit is 14 units for females and 21 units for males, occupation, home circumstances); family history (conditions with a genetic origin); and psychiatric history (when relevant).\n\nComplementary therapies deserve special mention. Many patients do not disclose them because they do not think them relevant. Some have significant interactions: St John's Wort with SSRIs and MAOIs; Karela and ginseng with insulin and sulfonylureas; feverfew and garlic with warfarin; kava with benzodiazepines (additive sedation). Always ask.\n\nRecreational drugs also require consideration: cannabis has a sympathomimetic action that can exacerbate adrenaline in dental local anaesthetics; heroin and methadone are opioids (oral methadone has high sugar content causing rampant caries); cocaine and amphetamines increase adrenaline toxicity.\n\nIn hospital practice, the history is followed by a systems review — specific questions across the cardiovascular, respiratory, gastrointestinal, neurological, musculoskeletal, and genitourinary systems to refine the overall clinical picture. For the dental clinician, the cardiovascular and respiratory components are most frequently relevant.",
+      "selfExplainPrompt": "Name the components of a full medical history in order, and explain why allergies must always be recorded even when the patient reports having none."
+    },
+    {
+      "clusterId": "t1-c3",
+      "clusterTitle": "Vital Signs, Clinical Examination & Assessment of Lumps and Ulcers",
+      "content": "All hospital patients should have their vital signs recorded: pulse rate, blood pressure, temperature, and respiratory rate. In contemporary hospital practice these are reviewed as part of the National Early Warning Score (NEWS). Normal values to know: pulse rate 60–100 bpm (tachycardia >100, bradycardia <60); blood pressure systolic 120–140 mmHg, diastolic 60–90 mmHg; temperature 35.5–37.5°C; respiratory rate 12–18 breaths/min at rest.\n\nThe radial pulse (thumb side of the wrist) is the standard site. Assess rate, rhythm, and volume. An irregularly irregular pulse is atrial fibrillation. A bounding pulse may indicate CO2 retention in COPD. Tachycardia can be physiological (exercise, emotion), drug-related (adrenaline, atropine), or pathological (hyperthyroidism, fever). Bradycardia may be physiological (athletes), post-vasovagal, or pathological (hypothyroidism, sick sinus syndrome).\n\nOn clinical examination of the clothed patient, much can be learned. In the hands: koilonychia (spoon-shaped nails) signals chronic iron deficiency anaemia; leukonychia (white nails) indicates liver disease; splinter haemorrhages suggest endocarditis; finger clubbing (loss of nail-bed angle, boggy nail fold) can indicate lung cancer, infective endocarditis, cyanotic congenital heart disease, or inflammatory bowel disease. In the face: xanthelasma (eyelid deposits) signals hyperlipidaemia; corneal arcus may indicate coronary artery disease risk; jaundice is best seen in the sclera; butterfly rash suggests SLE. Palmar erythema indicates liver disease or rheumatoid arthritis. Dupuytren's contracture (ring and little fingers flexed at rest) is associated with liver disease and alcoholism.\n\nFor lumps: assess site, size, shape, surface, colour, tenderness, edge (indistinct or well-defined), consistency (soft, fluctuant, rubbery, hard), compressibility, pulsatility, transillumination, and lymph node involvement. For ulcers: assess site, size, shape, base (slough, granulation, deeper anatomy), edge (sloping = healing; punched-out = TB; rolled = BCC; everted = SCC), depth, and discharge. These frameworks apply to any clinical scenario.",
+      "selfExplainPrompt": "List the four vital signs and their normal ranges, then explain what an irregularly irregular pulse indicates and why it matters for a patient attending for dental treatment."
+    }
+  ],
+  "recallIt": [
+    {
+      "id": "t1-r1",
+      "question": "What is the difference between a sign and a symptom?",
+      "answer": "A sign is an objective finding observed or elicited by the clinician on examination (e.g. pallor, irregular pulse). A symptom is a subjective feature reported by the patient (e.g. chest pain, breathlessness)."
+    },
+    {
+      "id": "t1-r2",
+      "question": "What are the components of a medical history in order?",
+      "answer": "Presenting complaint → History of presenting complaint → Past medical history → Allergies → Drugs → Past dental history → Social history → Family history → Psychiatric history (when relevant) → Systems review (in hospital practice)"
+    },
+    {
+      "id": "t1-r3",
+      "question": "What does SOCRATES stand for?",
+      "answer": "Site / Onset / Characteristics / Radiation / Associated symptoms / Time / Exacerbating and relieving factors / Severity (1–10). Also ask about medication taken for pain and its efficacy."
+    },
+    {
+      "id": "t1-r4",
+      "question": "What are the four aims of taking a medical history?",
+      "answer": "1. Allow the patient to give a full account of their symptoms\n2. Obtain clarification and ask about related symptoms to aid diagnosis\n3. Understand the patient's perception and how the condition affects their life\n4. Gather background information on previous and ongoing medical problems"
+    },
+    {
+      "id": "t1-r5",
+      "question": "What are the four vital signs and their normal values?",
+      "answer": "Pulse rate: 60–100 bpm\nBlood pressure: systolic 120–140 mmHg, diastolic 60–90 mmHg\nTemperature: 35.5–37.5°C\nRespiratory rate: 12–18 breaths/min at rest"
+    },
+    {
+      "id": "t1-r6",
+      "question": "What does koilonychia indicate and what causes it?",
+      "answer": "Koilonychia (spoon-shaped fingernails) indicates chronic iron deficiency anaemia."
+    },
+    {
+      "id": "t1-r7",
+      "question": "What does leukonychia (white fingernails) suggest?",
+      "answer": "Liver disease (associated with hypoalbuminaemia)."
+    },
+    {
+      "id": "t1-r8",
+      "question": "What is finger clubbing and what are its causes?",
+      "answer": "Loss of the angle between the nail and nail bed; boggy nail fold. Causes: cardiothoracic (infective endocarditis, cyanotic congenital heart disease, lung abscess, bronchial carcinoma, fibrosing alveolitis) and GI (inflammatory bowel disease, liver cirrhosis). NOT caused by MI."
+    },
+    {
+      "id": "t1-r9",
+      "question": "What is xanthelasma and what does it indicate?",
+      "answer": "Deposits in the eyelids — signifies hyperlipidaemia (raised cholesterol)."
+    },
+    {
+      "id": "t1-r10",
+      "question": "What is the weekly alcohol limit for females and males?",
+      "answer": "Females: 14 units per week. Males: 21 units per week."
+    },
+    {
+      "id": "t1-r11",
+      "question": "What is tachycardia and bradycardia? What are common causes of each?",
+      "answer": "Tachycardia: pulse >100 bpm. Causes: exercise/emotion, fever, drugs (adrenaline, atropine), hyperthyroidism, smoking, excess caffeine.\nBradycardia: pulse <60 bpm. Causes: athletes (physiological), post-vasovagal, sick sinus syndrome, hypothyroidism."
+    },
+    {
+      "id": "t1-r12",
+      "question": "What does an irregularly irregular pulse indicate?",
+      "answer": "Atrial fibrillation — the most common cause of this pulse pattern."
+    },
+    {
+      "id": "t1-r13",
+      "question": "What is orthopnoea and what does it suggest?",
+      "answer": "Breathlessness on lying flat — a symptom of left-sided heart failure (raised pulmonary venous pressure)."
+    },
+    {
+      "id": "t1-r14",
+      "question": "List potential causes of confusion in a patient.",
+      "answer": "Hypoxia, infection, epilepsy, hypoglycaemia, drug or alcohol withdrawal, stroke, myocardial infarction, raised intracranial pressure. (NSAIDs are NOT on this list — a common exam distractor.)"
+    },
+    {
+      "id": "t1-r15",
+      "question": "What is Dupuytren's contracture and what is it associated with?",
+      "answer": "Contraction of the palmar fascia causing the ring and little fingers to be held in a flexed position. Associated with alcoholism and liver disease."
+    },
+    {
+      "id": "t1-r16",
+      "question": "What are the 7 body systems covered in a systems review?",
+      "answer": "Cardiovascular, respiratory, gastrointestinal, genitourinary, neurological, musculoskeletal (locomotor), skin."
+    },
+    {
+      "id": "t1-r17",
+      "question": "Name three significant complementary therapy–drug interactions relevant to dentistry.",
+      "answer": "St John's Wort + SSRIs/MAOIs (uncertain mechanism); Feverfew/garlic/ginseng + Warfarin (altered prothrombin time/INR); Kava + Benzodiazepines (additive sedation, risk of coma). Also: Evening primrose oil + anticonvulsants (lowered seizure threshold)."
+    },
+    {
+      "id": "t1-r18",
+      "question": "What dental relevance does oral methadone have?",
+      "answer": "Oral methadone has a high sugar content and can cause rampant caries. It is used in drug rehabilitation programmes for opioid dependence."
+    },
+    {
+      "id": "t1-r19",
+      "question": "What is the relevance of rheumatic fever to the past medical history in dentistry?",
+      "answer": "Rheumatic fever may have led to cardiac valve damage, placing the patient at moderate risk of infective endocarditis. This must be identified in the history. NICE (2016) does not routinely recommend antibiotic prophylaxis but clinical judgement applies."
+    },
+    {
+      "id": "t1-r20",
+      "question": "When assessing a lump, what features should you assess?",
+      "answer": "Site, size, shape, surface (smooth/irregular; fixed/mobile), colour of overlying skin, tenderness, edge (distinct or indistinct), consistency (soft/fluctuant/rubbery/hard), compressibility, pulsatility, transillumination, local lymph node involvement."
+    }
+  ],
+  "applyIt": [
+    {
+      "id": "t1-a1",
+      "scenario": "A 58-year-old male attends for a routine extraction. During history taking he mentions central chest pain that 'spreads to his left arm' when he walks up stairs, always resolving within a few minutes of resting. He has not seen his GP about it. What is the most appropriate immediate action?",
+      "options": [
+        "A. Proceed with the extraction — the pain resolves spontaneously",
+        "B. Defer treatment and urgently refer to his GP, documenting your findings",
+        "C. Administer GTN spray and reassess before proceeding",
+        "D. Carry out a full SOCRATES history and proceed if pain is rated <5/10"
+      ],
+      "correctAnswer": "B",
+      "explanation": "The history describes classic exertional angina — crushing chest pain radiating to the left arm, relieved by rest. This patient has undiagnosed, unmanaged cardiac disease. Proceeding with extraction exposes him to significant cardiovascular risk under the stress of dental treatment. The correct action is to defer and urgently refer to his GP. Administering GTN (C) is for managing an acute attack in the chair, not a pre-treatment decision in an undiagnosed patient. SOCRATES (D) is good history-taking practice but does not change the fact that unmanaged cardiac symptoms require medical review before dental treatment."
+    },
+    {
+      "id": "t1-a2",
+      "scenario": "A 45-year-old woman attends for a new patient appointment. You note that her fingernails appear spoon-shaped. She mentions she has been feeling very tired and has been having heavier periods than usual. Which nail finding are you observing and what does it suggest?",
+      "options": [
+        "A. Leukonychia — suggesting liver disease",
+        "B. Koilonychia — suggesting chronic iron deficiency anaemia",
+        "C. Splinter haemorrhages — suggesting infective endocarditis",
+        "D. Clubbing — suggesting bronchial carcinoma"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Spoon-shaped nails are koilonychia, a classic sign of chronic iron deficiency anaemia. Combined with fatigue and menorrhagia (heavy periods — a common cause of iron loss in women), this picture is highly suggestive. In dentistry: iron deficiency may present with angular cheilitis, smooth sore tongue (glossitis), and oral mucosal pallor. You should refer to her GP. Leukonychia (A) refers to white nails (liver disease/hypoalbuminaemia). Splinter haemorrhages (C) are linear dark marks — endocarditis. Clubbing (D) involves loss of the nail-bed angle."
+    },
+    {
+      "id": "t1-a3",
+      "scenario": "During a medical history, a patient mentions she takes St John's Wort for low mood. You are planning to prescribe metronidazole for a pericoronitis. What is the most important concern?",
+      "options": [
+        "A. St John's Wort reduces the effectiveness of metronidazole",
+        "B. There is no interaction — St John's Wort is a herbal supplement",
+        "C. St John's Wort interacts with SSRIs and MAOIs, not with metronidazole directly — but you should ask if she is also taking antidepressants",
+        "D. St John's Wort enhances the antibacterial effect of metronidazole"
+      ],
+      "correctAnswer": "C",
+      "explanation": "St John's Wort's primary concern is its interaction with antidepressants (SSRIs, MAOIs) and also its potential to affect iron absorption and other drugs via enzyme induction. It does not directly interact with metronidazole. However, the key dental concern is whether the patient is also taking prescribed antidepressants — which she may not have disclosed — since St John's Wort + SSRIs can cause serotonin syndrome. This case illustrates why complementary therapies must always be asked about: patients often don't volunteer them, and the interaction is with concurrent conventional medication."
+    },
+    {
+      "id": "t1-a4",
+      "scenario": "A patient presenting to your surgery appears flushed, is breathing rapidly (22 breaths/min), and their pulse is 108 bpm and feels 'bounding'. They report they were just in a minor road accident. On examination you note their fingertips appear bluish. What is the clinical priority?",
+      "options": [
+        "A. Proceed with the dental appointment — the patient is just anxious",
+        "B. Refer immediately to hospital — the clinical picture suggests hypoxia with possible shock",
+        "C. Administer oxygen and continue to monitor",
+        "D. Check blood pressure and proceed if it is within normal range"
+      ],
+      "correctAnswer": "B",
+      "explanation": "The combination of tachycardia (>100 bpm), elevated respiratory rate (>18 breaths/min), and peripheral cyanosis (bluish fingertips indicating low oxygen in the blood) following trauma is a red flag for hypoxia and possible cardiovascular compromise or concealed haemorrhage. A bounding pulse can indicate CO2 retention or high-output states. This patient needs emergency referral. Dental treatment is absolutely not appropriate. Giving oxygen (C) is a reasonable first step but does not replace urgent medical assessment. Checking blood pressure alone (D) is insufficient — BP can remain normal for some time in early shock."
+    }
+  ],
+  "writeIt": [
+    {
+      "id": "t1-w1",
+      "prompt": "Outline the key components of a structured medical history that you would take from a new dental patient. For each component, briefly state what you are seeking to establish.",
+      "totalMarks": 10,
+      "markScheme": [
+        {
+          "point": "Presenting complaint — recorded in patient's own words in quotes; avoids presumptive diagnosis; notes what brought them to the surgery today",
+          "marks": 1
+        },
+        {
+          "point": "History of presenting complaint — chronological account from onset; SOCRATES for pain (site, onset, character, radiation, associated symptoms, time, exacerbating/relieving factors, severity 1–10); medication taken and efficacy",
+          "marks": 1
+        },
+        {
+          "point": "Past medical history — previous conditions, surgery, anaesthetic problems; asks specifically about heart/chest, asthma, diabetes, epilepsy, hypertension, hepatitis, TB; rheumatic fever history",
+          "marks": 1
+        },
+        {
+          "point": "Allergies — always recorded even if none; highlighted clearly in the clinical record",
+          "marks": 1
+        },
+        {
+          "point": "Drugs — prescribed, OTC, recreational and complementary therapies; all can interact with dental drugs or affect treatment",
+          "marks": 1
+        },
+        {
+          "point": "Past dental history — regularity of attendance, previous LA or sedation, adverse events including post-extraction haemorrhage",
+          "marks": 1
+        },
+        {
+          "point": "Social history — smoking behaviour, alcohol in units/week (limits: 14 female, 21 male), occupation, home circumstances",
+          "marks": 1
+        },
+        {
+          "point": "Family history — conditions with a genetic component (e.g. haemophilia, cardiovascular disease, diabetes)",
+          "marks": 1
+        },
+        {
+          "point": "Psychiatric history — included when relevant to the patient's presentation or management",
+          "marks": 1
+        },
+        {
+          "point": "Dental relevance acknowledged — identifies at least one example of how medical history impacts dental care (e.g. anticoagulants → bleeding risk; orthopnoea → chair position; drug interactions)",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "t1-w2",
+      "prompt": "A dental patient is found to have finger clubbing on examination. What is finger clubbing, how do you assess for it, and what are the main causes you should consider?",
+      "totalMarks": 8,
+      "markScheme": [
+        {
+          "point": "Definition: loss of the normal angle between the nail plate and the proximal nail fold (Lovibond's angle); longitudinal curvature of the nail is exaggerated",
+          "marks": 1
+        },
+        {
+          "point": "Assessment: the nail fold feels 'boggy' on palpation — increased fluctuation of the nail bed; Schamroth's window test (nails placed together — the diamond window disappears in clubbing)",
+          "marks": 1
+        },
+        {
+          "point": "Cardiothoracic causes: infective endocarditis, cyanotic congenital heart disease, intrathoracic pus (lung abscess, bronchiectasis), bronchial carcinoma, fibrosing alveolitis — any two for the mark",
+          "marks": 2
+        },
+        {
+          "point": "GI causes: inflammatory bowel disease (Crohn's, UC), cirrhosis of the liver — either for the mark",
+          "marks": 1
+        },
+        {
+          "point": "Other causes: familial, thyrotoxicosis, idiopathic",
+          "marks": 1
+        },
+        {
+          "point": "States that MI is NOT a cause of finger clubbing (a classic exam distractor)",
+          "marks": 1
+        },
+        {
+          "point": "Dental/clinical implication: unexplained clubbing warrants referral to GP for investigation; may indicate serious underlying pathology",
+          "marks": 1
+        }
+      ]
+    }
+  ],
+  "mockBank": [
+    {
+      "id": "t1-m1",
+      "theme": 1,
+      "topicTag": "signs-symptoms",
+      "question": "Which ONE of the following correctly distinguishes a sign from a symptom?",
+      "options": [
+        "A. A sign is reported by the patient; a symptom is observed by the clinician",
+        "B. A sign is observed by the clinician on examination; a symptom is reported by the patient",
+        "C. Signs and symptoms both refer to patient-reported features",
+        "D. A symptom is only relevant in secondary care settings",
+        "E. Signs and symptoms are interchangeable terms in clinical practice"
+      ],
+      "correctAnswer": "B",
+      "explanation": "A sign is an objective finding elicited by the clinician (e.g. pallor, irregular pulse). A symptom is a subjective feature reported by the patient (e.g. chest pain, breathlessness). Patients do not present with diagnoses — they present with symptoms."
+    },
+    {
+      "id": "t1-m2",
+      "theme": 1,
+      "topicTag": "SOCRATES",
+      "question": "Which component of the SOCRATES pain history asks specifically about what makes the pain better or worse?",
+      "options": [
+        "A. Associated symptoms",
+        "B. Radiation",
+        "C. Exacerbating and relieving factors",
+        "D. Characteristics",
+        "E. Severity"
+      ],
+      "correctAnswer": "C",
+      "explanation": "E in SOCRATES = Exacerbating and relieving factors (including medication taken and its efficacy). This is critical for pain history — in angina, pain is relieved by rest and GTN; in irreversible pulpitis, pain is not relieved by analgesia."
+    },
+    {
+      "id": "t1-m3",
+      "theme": 1,
+      "topicTag": "vital-signs",
+      "question": "What is the normal resting respiratory rate in a healthy adult?",
+      "options": [
+        "A. 6–10 breaths/min",
+        "B. 12–18 breaths/min",
+        "C. 18–24 breaths/min",
+        "D. 20–28 breaths/min",
+        "E. 24–30 breaths/min"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Normal resting respiratory rate in a healthy adult is 12–18 breaths/min. Rates above 20/min indicate increased respiratory demand. A rate below 10/min suggests significant respiratory depression."
+    },
+    {
+      "id": "t1-m4",
+      "theme": 1,
+      "topicTag": "clinical-examination",
+      "question": "Koilonychia (spoon-shaped fingernails) is a potential sign of:",
+      "options": [
+        "A. Vitamin K deficiency",
+        "B. Albumin deficiency",
+        "C. Chronic iron deficiency anaemia",
+        "D. Infective endocarditis",
+        "E. Chronic liver disease"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Koilonychia is characteristic of chronic iron deficiency anaemia. Leukonychia (white nails) = hypoalbuminaemia/liver disease. Splinter haemorrhages = endocarditis. Clubbing = lung cancer, IE, IBD."
+    },
+    {
+      "id": "t1-m5",
+      "theme": 1,
+      "topicTag": "clinical-examination",
+      "question": "A facially visible sign of hypercholesterolaemia is:",
+      "options": [
+        "A. Malar flush",
+        "B. Xanthelasma",
+        "C. Central cyanosis",
+        "D. Jaundice",
+        "E. Corneal arcus in a 30-year-old"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Xanthelasma are cholesterol deposits in the eyelids, signifying hyperlipidaemia. Malar flush = mitral stenosis. Central cyanosis = hypoxia. Jaundice = hepatic/biliary pathology. Corneal arcus in the young (under 50) can also indicate hyperlipidaemia, but xanthelasma is the most direct visual sign."
+    },
+    {
+      "id": "t1-m6",
+      "theme": 1,
+      "topicTag": "vital-signs",
+      "question": "Tachycardia is defined as a resting pulse rate of:",
+      "options": [
+        "A. More than 80 beats per minute",
+        "B. More than 90 beats per minute",
+        "C. More than 100 beats per minute",
+        "D. More than 110 beats per minute",
+        "E. More than 120 beats per minute"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Tachycardia = pulse >100 bpm. Bradycardia = pulse <60 bpm. Normal resting range is 60–100 bpm."
+    },
+    {
+      "id": "t1-m7",
+      "theme": 1,
+      "topicTag": "vital-signs",
+      "question": "Bradycardia is defined as a resting pulse rate of less than:",
+      "options": [
+        "A. 80 beats per minute",
+        "B. 70 beats per minute",
+        "C. 65 beats per minute",
+        "D. 60 beats per minute",
+        "E. 50 beats per minute"
+      ],
+      "correctAnswer": "D",
+      "explanation": "Bradycardia = pulse <60 bpm. It may be physiological (athletes) or pathological (hypothyroidism, sick sinus syndrome, heart block). Post-vasovagal bradycardia is common in dental settings."
+    },
+    {
+      "id": "t1-m8",
+      "theme": 1,
+      "topicTag": "clinical-examination",
+      "question": "Which of the following is NOT a recognised cause of confusion in a patient presenting to a dental surgery?",
+      "options": [
+        "A. Hypoxia",
+        "B. Epilepsy",
+        "C. Hypoglycaemia",
+        "D. Prescription of a non-steroidal anti-inflammatory drug",
+        "E. Raised intracranial pressure"
+      ],
+      "correctAnswer": "D",
+      "explanation": "NSAIDs are not a recognised cause of acute confusion. Recognised causes include: hypoxia, infection, epilepsy, hypoglycaemia, drug/alcohol withdrawal, stroke, MI, and raised intracranial pressure. This is a classic exam distractor."
+    },
+    {
+      "id": "t1-m9",
+      "theme": 1,
+      "topicTag": "clinical-examination",
+      "question": "Orthopnoea is most likely a symptom of:",
+      "options": [
+        "A. Indigestion",
+        "B. Productive cough",
+        "C. Bowel cancer",
+        "D. Left-sided heart failure",
+        "E. Asthma"
+      ],
+      "correctAnswer": "D",
+      "explanation": "Orthopnoea (breathlessness on lying flat) is caused by redistribution of fluid from peripheral tissues to the pulmonary circulation when supine — a sign of left-sided heart failure. This has significant dental implications: patients cannot tolerate a fully reclined chair position."
+    },
+    {
+      "id": "t1-m10",
+      "theme": 1,
+      "topicTag": "clinical-examination",
+      "question": "Which of the following signs is NOT a potential feature of rheumatoid arthritis?",
+      "options": [
+        "A. Dupuytren's contracture",
+        "B. Ulnar deviation of the hands",
+        "C. Elbow nodules",
+        "D. Pulmonary fibrosis",
+        "E. Felty's syndrome (splenomegaly and neutropenia)"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Dupuytren's contracture is associated with alcoholism and liver disease — NOT rheumatoid arthritis. All other options are recognised extra-articular features of RA."
+    },
+    {
+      "id": "t1-m11",
+      "theme": 1,
+      "topicTag": "medical-history",
+      "question": "The recommended alcohol consumption limit per week for females is:",
+      "options": [
+        "A. 6 units",
+        "B. 10 units",
+        "C. 14 units",
+        "D. 21 units",
+        "E. 28 units"
+      ],
+      "correctAnswer": "C",
+      "explanation": "14 units per week for females; 21 units per week for males. Exceeding these limits is associated with liver disease, increased bleeding risk, and drug interactions relevant to dental practice."
+    },
+    {
+      "id": "t1-m12",
+      "theme": 1,
+      "topicTag": "clinical-examination",
+      "question": "Which of the following is NOT a recognised cause of finger clubbing?",
+      "options": [
+        "A. Cyanotic congenital heart disease",
+        "B. Bronchial carcinoma",
+        "C. Inflammatory bowel disease",
+        "D. Myocardial infarction",
+        "E. Infective endocarditis"
+      ],
+      "correctAnswer": "D",
+      "explanation": "Myocardial infarction does NOT cause finger clubbing. Causes include: infective endocarditis, cyanotic congenital heart disease, intrathoracic pus (lung abscess, bronchiectasis), bronchial carcinoma, fibrosing alveolitis, and IBD/liver cirrhosis."
+    },
+    {
+      "id": "t1-m13",
+      "theme": 1,
+      "topicTag": "vital-signs",
+      "question": "The artery routinely used to measure the pulse at the wrist is the:",
+      "options": [
+        "A. Brachial artery",
+        "B. Ulnar artery",
+        "C. Radial artery",
+        "D. Popliteal artery",
+        "E. Femoral artery"
+      ],
+      "correctAnswer": "C",
+      "explanation": "The radial artery (thumb side of the wrist) is the standard site for pulse measurement. The brachial artery is used in infants and for blood pressure measurement."
+    },
+    {
+      "id": "t1-m14",
+      "theme": 1,
+      "topicTag": "medical-history",
+      "question": "A patient mentions they take kava supplements. Which conventional drug interaction is most clinically significant in a dental context?",
+      "options": [
+        "A. Kava + Warfarin → altered prothrombin time",
+        "B. Kava + Benzodiazepines → additive sedative effects, risk of coma",
+        "C. Kava + Insulin → altered glucose concentrations",
+        "D. Kava + Iron supplements → reduced absorption",
+        "E. Kava + Penicillin → reduced antibiotic efficacy"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Kava interacts with benzodiazepines, producing additive sedation and risk of coma. This is highly relevant if IV midazolam sedation is planned."
+    },
+    {
+      "id": "t1-m15",
+      "theme": 1,
+      "topicTag": "clinical-examination",
+      "question": "A 'rolled' ulcer edge is most characteristic of:",
+      "options": [
+        "A. A healing traumatic ulcer",
+        "B. A tuberculous ulcer",
+        "C. Basal cell carcinoma",
+        "D. Squamous cell carcinoma",
+        "E. An aphthous ulcer"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Rolled edges = BCC. Everted (raised, irregular) edge = SCC. Undermined edge = TB. Sloping edge = healing. Punched-out edge = syphilitic ulcer."
+    },
+    {
+      "id": "t1-m16",
+      "theme": 1,
+      "topicTag": "clinical-examination",
+      "question": "Which ONE of the following best describes the significance of palmar erythema in a dental patient?",
+      "options": [
+        "A. It is a sign of peripheral vascular disease",
+        "B. It indicates hypertension",
+        "C. It may indicate underlying liver disease or rheumatoid arthritis",
+        "D. It is a normal finding in elderly patients",
+        "E. It suggests iron deficiency anaemia"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Palmar erythema (redness of the palms) is associated with chronic liver disease, rheumatoid arthritis, and pregnancy. In the context of a dental patient with liver disease, this finding is relevant to bleeding risk, drug metabolism, and sedation safety."
+    },
+    {
+      "id": "t1-m17",
+      "theme": 1,
+      "topicTag": "medical-history",
+      "question": "A patient is taking St John's Wort for low mood. Which ONE of the following conventional drug interactions is of greatest concern?",
+      "options": [
+        "A. St John's Wort + metronidazole → disulfiram reaction",
+        "B. St John's Wort + SSRIs or MAOIs → serotonin syndrome",
+        "C. St John's Wort + warfarin → reduced INR",
+        "D. St John's Wort + local anaesthetics → reduced efficacy",
+        "E. St John's Wort + amoxicillin → reduced antibiotic absorption"
+      ],
+      "correctAnswer": "B",
+      "explanation": "St John's Wort has a complex mechanism and interacts primarily with SSRIs and MAOIs — concurrent use can cause serotonin syndrome. It also induces CYP enzymes, reducing efficacy of some drugs. Always ask about complementary therapies as patients rarely volunteer this information."
+    },
+    {
+      "id": "t1-m18",
+      "theme": 1,
+      "topicTag": "SOCRATES",
+      "question": "A 45-year-old man describes central chest pain that feels like 'a tight band', radiates to his left arm, and comes on when climbing stairs but resolves within 5 minutes of rest. Using SOCRATES, which characteristic of this pain is most consistent with angina?",
+      "options": [
+        "A. Site — central chest",
+        "B. Character — tight, band-like",
+        "C. Time — resolves within 5 minutes of rest",
+        "D. Exacerbating factor — climbing stairs",
+        "E. All of the above features together are diagnostic of angina"
+      ],
+      "correctAnswer": "E",
+      "explanation": "The combination of central, tight/squeezing chest pain radiating to the left arm, brought on by exertion and relieved within minutes by rest, is the classic SOCRATES profile for stable angina. No single feature is pathognomonic; it is the pattern that matters."
+    },
+    {
+      "id": "t1-m19",
+      "theme": 1,
+      "topicTag": "clinical-examination",
+      "question": "During examination of the hands, you observe longitudinal dark-coloured lines beneath several fingernails of a patient with a known heart murmur. What is the significance of this finding?",
+      "options": [
+        "A. Iron deficiency anaemia — refer for FBC",
+        "B. Splinter haemorrhages — may suggest infective endocarditis",
+        "C. Koilonychia — associated with B12 deficiency",
+        "D. Leukonychia — associated with hypoalbuminaemia",
+        "E. Onycholysis — associated with hyperthyroidism"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Splinter haemorrhages are linear dark marks beneath the nail plate. Whilst minor trauma is the most common cause, multiple splinter haemorrhages (>8) in a patient with a heart murmur raise the suspicion of infective endocarditis."
+    },
+    {
+      "id": "t1-m20",
+      "theme": 1,
+      "topicTag": "systems-review",
+      "question": "A patient with long-standing rheumatoid arthritis and Sjögren's syndrome attends for dental treatment. Which ONE of the following systemic enquiries is MOST relevant before positioning the patient in the dental chair?",
+      "options": [
+        "A. Any history of jaundice or hepatitis",
+        "B. Any breathlessness on lying flat (orthopnoea)",
+        "C. Any history of fits or faints",
+        "D. Any difficulty swallowing",
+        "E. Any history of recurrent urinary tract infections"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Rheumatoid arthritis can be associated with cardiac involvement and pulmonary complications. Sjögren's syndrome itself causes dry mouth affecting saliva production. Enquiring about orthopnoea is critical before reclining the chair — unrecognised left heart failure makes lying flat unsafe."
+    },
+    {
+      "id": "t1-m21",
+      "theme": 1,
+      "topicTag": "vital-signs",
+      "question": "A patient's temperature measured orally is 38.4°C. Which ONE of the following BEST describes this finding?",
+      "options": [
+        "A. Normal — oral temperature can reach up to 38.5°C",
+        "B. Mildly hypothermic",
+        "C. Pyrexia — above the upper limit of normal body temperature (35.5–37.5°C)",
+        "D. Subnormal temperature suggesting hypothyroidism",
+        "E. Clinically insignificant — only rectal temperature is reliable"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Normal oral body temperature is 35.5–37.5°C. A temperature of 38.4°C is a fever (pyrexia), indicating systemic infection or inflammatory response. In the context of a dental patient with facial swelling, this suggests spreading infection requiring urgent management."
+    },
+    {
+      "id": "t1-m22",
+      "theme": 1,
+      "topicTag": "medical-history",
+      "question": "Which ONE of the following is TRUE regarding the recording of allergies in the dental medical history?",
+      "options": [
+        "A. Allergies only need to be recorded if the patient has had a previous anaphylactic reaction",
+        "B. Allergies should be recorded even if the patient reports no known allergies",
+        "C. Allergy documentation is only required for penicillin",
+        "D. If a patient reports a rash to a drug, it can be ignored as it is not a 'true allergy'",
+        "E. Allergy history is only relevant when prescribing antibiotics"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Allergies must always be recorded and clearly highlighted in the clinical record, even when the patient has no known allergies (the absence itself is a significant negative finding). This includes latex, chlorhexidine, medications, and any materials used in dentistry."
+    },
+    {
+      "id": "t1-m23",
+      "theme": 1,
+      "topicTag": "clinical-examination",
+      "question": "Jugular venous pressure (JVP) is considered raised when measured above how many centimetres from the sternal angle?",
+      "options": [
+        "A. 1 cm",
+        "B. 2 cm",
+        "C. 3 cm",
+        "D. 5 cm",
+        "E. 8 cm"
+      ],
+      "correctAnswer": "C",
+      "explanation": "JVP is measured with the patient at 45° with head slightly turned left. It is considered raised if the visible column of blood in the right internal jugular vein exceeds 3 cm above the sternal angle. Raised JVP indicates right-sided heart failure or fluid overload."
+    },
+    {
+      "id": "t1-m24",
+      "theme": 1,
+      "topicTag": "clinical-examination",
+      "question": "A patient attends for dental treatment. On examination you note they have a bounding radial pulse. Which ONE of the following is the MOST likely explanation?",
+      "options": [
+        "A. Iron deficiency anaemia",
+        "B. Dehydration",
+        "C. Carbon dioxide retention as seen in COPD",
+        "D. Hypothyroidism",
+        "E. Cardiac tamponade"
+      ],
+      "correctAnswer": "C",
+      "explanation": "A bounding pulse is caused by high pulse pressure and can indicate CO2 retention in COPD, as well as hyperthyroidism, severe anaemia, and aortic regurgitation. In the dental context, this sign in a COPD patient is a warning against high-flow oxygen administration."
+    },
+    {
+      "id": "t1-m25",
+      "theme": 1,
+      "topicTag": "clinical-examination",
+      "question": "Which ONE of the following findings would be MOST consistent with iron deficiency anaemia on intraoral examination?",
+      "options": [
+        "A. Gingival hyperplasia",
+        "B. White patches on the buccal mucosa",
+        "C. Angular cheilitis and smooth atrophic glossitis",
+        "D. Purple lesions on the hard palate",
+        "E. Deep linear ulcers on the buccal mucosa"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Iron deficiency anaemia classically causes angular cheilitis (angular stomatitis at the corners of the mouth) and atrophic glossitis (smooth, red, sore tongue due to loss of filiform papillae). Both result from mucosal epithelial atrophy caused by iron deficiency."
+    }
+  ]
+}

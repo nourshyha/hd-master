@@ -1,0 +1,1166 @@
+{
+  "theme": {
+    "id": 7,
+    "title": "Diabetes & Endocrinology",
+    "difficulty": "easy",
+    "lectureCount": 4,
+    "learningOutcomes": [
+      "HD37",
+      "HD38",
+      "HD39",
+      "HD40",
+      "HD41",
+      "HD42",
+      "HD43",
+      "HD44"
+    ]
+  },
+  "groundIt": [
+    {
+      "clusterId": "t7-c1",
+      "clusterTitle": "Diabetes Mellitus — Pathogenesis, Diagnosis, Complications & Control",
+      "content": "Diabetes mellitus is a metabolic disorder characterised by raised blood glucose (hyperglycaemia) due to a problem with insulin production or action. Two main types: Type 1 (insulin-dependent, juvenile onset — autoimmune destruction of pancreatic beta cells of the islets of Langerhans → absolute insulin deficiency; most common in 10–14 year olds; predominantly South Asians); Type 2 (non-insulin-dependent, maturity onset — insulin resistance combined with relative insulin deficiency; can be asymptomatic or present with similar symptoms; strongly linked to obesity). Other types: gestational diabetes; secondary to other conditions (Cushing's syndrome, acromegaly).\n\nType 1 symptoms: polyuria (large urine volumes as glucose acts as an osmotic diuretic), polydipsia (thirst from dehydration), weight loss, blurred vision. Type 2: often asymptomatic initially; can present with infections (Candida in urine/mouth), complications, or similar symptoms to Type 1 but less dramatic.\n\nDiagnosis: (1) Fasting plasma glucose ≥7.0 mmol/L; (2) Random plasma glucose ≥11.1 mmol/L with symptoms; (3) 75g oral glucose tolerance test (OGTT) — fasting glucose then 75g oral glucose → measure at 2 hours; ≥11.1 mmol/L = diabetes, 7.8–11.0 = impaired glucose tolerance; (4) HbA1c (glycated haemoglobin) — glucose attaches to haemoglobin over the 120-day lifespan of red blood cells → reflects average glucose over ~3 months; normal <42 mmol/mol; pre-diabetes 42–47; diabetes ≥48 mmol/mol.\n\nComplications — acute: diabetic ketoacidosis (DKA — Type 1, insulin omission or infection; hyperglycaemia, osmotic diuresis, dehydration, electrolyte loss, ketone body accumulation from fat metabolism → acidosis → deep breathing Kussmaul breathing; onset over 12–24 hours; medical emergency — IV insulin, rehydration, electrolytes); hyperosmolar hyperglycaemic state (HHS — Type 2; similar to DKA without ketones; slower onset; treat similarly but more slowly); hypoglycaemia (plasma glucose <4 mmol/L; common with insulin and sulfonylureas; adrenergic warning symptoms: tremor, anxiety, palpitations, hunger, dry mouth; neuroglycopaenic established symptoms: confusion, aggression, slurred speech, coma; management: glucose orally if conscious; buccal hypostop gel; IM glucagon 1mg; IV glucose 20–30ml 50% in hospital).\n\nChromic complications: microvascular (retinopathy — microhaemorrhages, hard exudates → blindness; nephropathy → renal failure; neuropathy → peripheral numbness, autonomic dysfunction) and macrovascular (coronary artery disease, stroke, peripheral arterial disease). Foot problems: neuropathy + vascular disease → ulcers, infection, amputation. Prevention: meticulous glucose control (HbA1c reduction by 11 mmol/mol reduces microvascular complications, amputations, heart failure, cataracts); BP control; manage smoking, hyperlipidaemia, obesity.",
+      "selfExplainPrompt": "Explain the difference between the adrenergic warning symptoms and neuroglycopaenic symptoms of hypoglycaemia, and describe how you would manage a hypoglycaemic episode in a dental patient who is conscious."
+    },
+    {
+      "clusterId": "t7-c2",
+      "clusterTitle": "Antidiabetic Drugs & Dental Implications of Diabetes",
+      "content": "Treatment aims: control symptoms, prevent complications, lead normal life. Patient education and self-management are the key elements.\n\nType 1 always requires insulin. Insulin cannot be taken orally (destroyed by gut enzymes) — given subcutaneously for maintenance, IV only for emergencies. Types of insulin: short-acting (soluble insulin — peak 1 hour, used with meals); intermediate/long-acting (chemically modified, slowly absorbed); biphasic (mix — peak early then slow release, inject twice daily). Insulin delivery: syringes, insulin pens, subcutaneous pumps (continuous basal with bolus at meals), continuous glucose monitors (CGM). GKI (glucose-potassium-insulin) infusion is used perioperatively to maintain glucose control during fasting.\n\nType 2: lifestyle modification first (diet and exercise) → then oral hypoglycaemics → then insulin if control inadequate. Oral hypoglycaemics: (1) Biguanides (metformin — first-line in overweight patients; decreases gluconeogenesis, increases peripheral glucose utilisation; must have some beta cell function; taste disorders as dental side effect); (2) Sulfonylureas (gliclazide — stimulate insulin secretion from islets; used in non-overweight or those who can't take metformin; risk of hypoglycaemia; oral side effects: lichenoid eruptions, erythema multiforme, oral neuropathy); (3) DPP-4 inhibitors/gliptins (sitagliptin — increase incretin effects, lower glucose after meals); (4) GLP-1 receptor agonists (exenatide, liraglutide — injectable); (5) SGLT-2 inhibitors (empagliflozin — block renal glucose reabsorption → glycosuria; weight loss benefit; increased urine infections); (6) Insulin — when oral agents inadequate.\n\nDental implications of diabetes: increased infection risk (impaired immune function — vigorous treatment of oral/facial infections mandatory); periodontal disease (bidirectional relationship — poorly controlled diabetes worsens periodontal disease and severe periodontitis upsets glycaemic control through inflammatory mediators); oral candidiasis (Candida thrives on high glucose); xerostomia; sialosis (bilateral salivary gland enlargement — non-inflammatory); angular cheilitis; delayed wound healing.\n\nDental appointment management: (1) Check glycaemic control (HbA1c) and usual treatment; check for complications (neuropathy, renal, cardiac); (2) List first in the morning to minimise disruption to routine; (3) Check glucose before and after procedure; be prepared to treat hypoglycaemia; (4) If fasting required (e.g. GA): short procedures — miss morning insulin/tablets, perform procedure, then breakfast immediately after; longer procedures — hospital admission with GKI infusion, hourly glucose monitoring, target 6–12 mmol/L. NSAIDs can cause hypoglycaemia in diabetics — use with caution. Systemic steroids antagonise insulin → raise glucose.\n\nDrug interactions: erythromycin + chlorpropamide → liver damage; erythromycin + glibenclamide → hypoglycaemia. NSAIDs → hypoglycaemia (use with caution).",
+      "selfExplainPrompt": "Explain why periodontal disease and diabetes are described as having a bidirectional relationship. Then describe how you would manage a diabetic patient's dental appointment to minimise the risk of a hypoglycaemic episode."
+    },
+    {
+      "clusterId": "t7-c3",
+      "clusterTitle": "Endocrine Disorders — Thyroid, Adrenal, Pituitary & Parathyroid",
+      "content": "Endocrine glands secrete hormones directly into the blood. Most hormones are regulated by negative feedback loops through the hypothalamic-pituitary axis. Key axes: Hypothalamus → TRH → Pituitary → TSH → Thyroid → T3/T4; Hypothalamus → CRH → Pituitary → ACTH → Adrenal cortex → Cortisol; Hypothalamus → GHRH → Pituitary → GH → Liver → IGF-1; Hypothalamus → GnRH → Pituitary → LH/FSH → Gonads → sex hormones. Parathyroid glands and pancreatic islets of Langerhans are regulated directly by calcium and glucose levels respectively (no pituitary involvement).\n\nHyperthyroidism (excess T3/T4): causes — Graves' disease (autoimmune — TSH receptor-stimulating antibodies; commonest cause), multinodular goitre, thyroid adenoma. Features: weight loss, anorexia, diarrhoea, anxiety, tremor, sweating, tachycardia/AF, exophthalmos (Graves'), goitre. Diagnosis: raised T3/T4, suppressed TSH, thyroid-stimulating antibodies. Treatment: radioactive iodine, surgical thyroidectomy, antithyroid drugs (carbimazole or propylthiouracil — thionamides; block iodine incorporation into thyroid hormones; side effect: agranulocytosis — can cause severe oral/oropharyngeal ulceration as presenting sign), beta-blockers for symptom control. Dental: avoid adrenaline in uncontrolled hyperthyroidism (increased sensitivity → arrhythmia risk); undiagnosed hyperthyroidism is an anaesthetic risk. Calcitonin: produced by parafollicular C cells of thyroid; opposes PTH; causes hypocalcaemia; inhibits osteoclasts; used to treat hypercalcaemia and Paget's disease; can cause taste disturbances.\n\nHypothyroidism (lack of T3/T4): causes — autoimmune thyroiditis (Hashimoto's — most common), surgical removal, radioiodine, TSH deficiency. Features: weight gain, hypothermia, fatigue, dry skin, coarse facial features, bradycardia, anaemia, constipation. Myxoedema: puffiness of skin from mucopolysaccharide deposition. Treatment: levothyroxine (T4 replacement). Dental: reduced immune response → oral candidiasis risk; analgesics and sedatives (including GA) can precipitate myxoedema coma.\n\nAcromegaly: GH excess from pituitary tumour. Features: enlarged jaw (prognathism → malocclusion, difficulty fitting dentures), hands, feet, skull; coarse facial features; thick skin; arthritis (including TMJ); hypertension; hyperglycaemia; bitemporal hemianopia (optic chiasm compression). Diagnosis: raised GH (not suppressed by glucose), raised IGF-1, pituitary MRI. Treatment: surgical removal of pituitary tumour; hormone replacement if pituitary failure ensues.\n\nHyperparathyroidism (excess PTH): causes hypercalcaemia. Causes: parathyroid adenoma (most common). Also: Vitamin D excess, malignancy. Features: often asymptomatic; kidney stones, bone pain, indigestion, constipation; dry eyes/mouth; bone thinning, erosion of skull lamina dura (dental sign — loss of lamina dura seen on radiograph). Treatment: surgical parathyroidectomy. Hypoparathyroidism: low PTH → hypocalcaemia → tingling, paraesthesiae, cramps, tetany. Treated with Vitamin D analogues. Addison's disease (primary adrenal insufficiency): autoimmune adrenal cortex destruction → insufficient cortisol + aldosterone. Features: fatigue, depression, weight loss, increased pigmentation (skin folds, buccal mucosa — a dental sign!, scars), hypotension, hypoglycaemia. Addisonian crisis: collapse, abdominal pain, vomiting, hypotension — emergency. Cushing's syndrome: excess cortisol (most commonly from exogenous steroid use; also ACTH-secreting pituitary tumour = Cushing's disease; adrenal adenoma). Features: moon face, buffalo hump, abdominal striae, thin skin, bruising, osteoporosis, hypertension, raised glucose.",
+      "selfExplainPrompt": "Describe three dental or oral signs that could alert you to an underlying endocrine disorder, stating which disorder each sign is associated with."
+    },
+    {
+      "clusterId": "t7-c4",
+      "clusterTitle": "Steroid Cover, Pregnancy, Sex Hormones & Oral Contraceptives",
+      "content": "The hypothalamic-pituitary-adrenal (HPA) axis controls cortisol secretion — essential for the physiological response to stress (dental treatment counts as physiological stress). Exogenous glucocorticoids (prednisolone, hydrocortisone) suppress the HPA axis through negative feedback → adrenal cortex atrophies → insufficient cortisol production during stress → adrenal crisis (circulatory collapse, coma, death). The risk of adrenal crisis is highest for: primary adrenal insufficiency (Addison's disease — all dental treatment requires cover); those on high-dose long-term steroids (10mg+ prednisolone for >1 month); and patients on chronic high-dose opioids (>50mg morphine/day for >12 months).\n\nSteroid cover protocol (new guidance): patients on ≥10mg prednisolone per day for >1 month do NOT need additional cover for routine dental treatment — take normal dose 1 hour pre-treatment; only EXTREMELY invasive procedures require IV cover. Patients on 5–9mg prednisolone for >4 weeks: for low-risk procedures add 5mg extra 1 hour before; for moderate-risk (most extractions) add 10mg extra 1 hour before. Known adrenal insufficiency (Addison's): IM 100mg hydrocortisone immediately before anaesthesia; double evening dose on day of treatment; double morning dose next day. Adrenal crisis management: ABCDE; call 999; lie flat; 100% oxygen 15L/min; IMMEDIATELY administer 100mg hydrocortisone IM (anyone can give this — it is an emergency). GC inhibitors (fluconazole, erythromycin) increase systemic glucocorticoid levels — risk of adrenal insufficiency. GC inducers (carbamazepine) decrease cortisol levels — dangerous in patients with existing AI.\n\nPregnancy and dentistry: dental treatment is safe in pregnancy; avoid elective treatment in first trimester (organogenesis); second trimester is ideal. Safe analgesics: paracetamol (avoid NSAIDs after 30 weeks — premature closure of ductus arteriosus). Safe antibiotics: amoxicillin, penicillin V, co-amoxiclav (avoid with premature rupture of membranes). Avoid: doxycycline (skeletal and dental development), clarithromycin. LA: safe; felypressin — avoid in pregnancy (oxytocic activity, though dental cartridge levels are subtherapeutic). GA: significant risk in pregnancy — avoid. Oral complications of pregnancy: pregnancy gingivitis (enhanced inflammatory response to plaque, progesterone effect), pregnancy epulis (lobular capillary haemangioma — occurs at gingival margin), morning sickness (gastric acid erosion of teeth), dry socket increase.\n\nOral contraceptives and dentistry: oestrogen inhibits ovulation (blocks FSH); progesterone blocks LH/implantation, thickens cervical mucus. Effects on oral tissues: increased plaque-induced gingival inflammation, increased GCF (gingival crevicular fluid), gingival pigmentation, increased dry socket risk. Drug interactions: rifampicin (an enzyme inducer) reduces OCP effectiveness — additional contraception advised; routine dental antibiotics (amoxicillin, metronidazole) do NOT significantly interact with OCP.\n\nHRT (hormone replacement therapy): increases risk of thromboembolic disease; oral complications similar to OCP.",
+      "selfExplainPrompt": "Describe which patients require additional steroid cover before dental treatment and explain the physiological mechanism by which long-term exogenous steroids cause adrenal insufficiency."
+    }
+  ],
+  "recallIt": [
+    {
+      "id": "t7-r1",
+      "question": "What is the HbA1c diagnostic threshold for diabetes and what does it measure?",
+      "answer": "HbA1c ≥48 mmol/mol = diabetes. Pre-diabetes = 42–47 mmol/mol. Normal = <42 mmol/mol.\nHbA1c measures the percentage of haemoglobin glycated (glucose-attached) over approximately 120 days (the lifespan of red blood cells), reflecting average blood glucose control over ~3 months."
+    },
+    {
+      "id": "t7-r2",
+      "question": "What is the 'floor' glucose level for hypoglycaemia and what are the two categories of symptoms?",
+      "answer": "'4 is the floor' — plasma glucose <4 mmol/L = hypoglycaemia, treat regardless of symptoms.\nAdrenergic warning symptoms (adrenaline response): tremor, anxiety, palpitations, hunger, dry mouth, sweating\nNeuroglycopaenic established symptoms (brain starved of glucose): confusion, aggression, slurred speech, incoordination, coma, convulsions, death if untreated"
+    },
+    {
+      "id": "t7-r3",
+      "question": "How do you manage hypoglycaemia in a conscious dental patient?",
+      "answer": "1. Establish diagnosis — blood glucose <4 mmol/L (or treat empirically if in doubt)\n2. Give oral glucose: sugary drink, 2 sugar lumps, 2 teaspoons of sugar, or GlucoGel (buccal hypostop gel)\n3. Wait 15 minutes, recheck glucose\n4. If unconscious: IM glucagon 1mg (into anterolateral thigh) OR IV glucose 20–30ml of 50% dextrose (hospital setting)\n5. Once recovered: give mid-morning snack; do NOT leave patient to drive home alone"
+    },
+    {
+      "id": "t7-r4",
+      "question": "What is the bidirectional relationship between diabetes and periodontal disease?",
+      "answer": "Poor glycaemic control → impaired immune function → increased susceptibility to periodontal infection and reduced healing → more severe periodontitis. Conversely: severe periodontitis → systemic inflammation (raised TNF-alpha, IL-6, CRP) → insulin resistance → worsens glycaemic control (HbA1c rises). Treating periodontitis has been shown to modestly improve glycaemic control in Type 2 diabetes."
+    },
+    {
+      "id": "t7-r5",
+      "question": "What are the features of Addison's disease (primary adrenal insufficiency)?",
+      "answer": "Fatigue and depression (low cortisol), weight loss, hyperpigmentation (skin folds, buccal mucosa, scars — ACTH stimulates melanocytes), hypotension (low aldosterone), hypoglycaemia (no cortisol to raise glucose). Addisonian crisis: acute adrenal failure → collapse, vomiting, abdominal pain, hypotension. Management: ABCDE, 999, 100mg IM hydrocortisone immediately."
+    },
+    {
+      "id": "t7-r6",
+      "question": "What are the clinical features of Cushing's syndrome?",
+      "answer": "Moon face, buffalo hump, abdominal obesity, proximal muscle weakness, abdominal striae, thin skin, easy bruising, osteoporosis, hirsutism (androgenic), hypertension, oedema, raised glucose. Most common cause: exogenous steroid use. Also: ACTH-secreting pituitary adenoma (Cushing's disease), adrenal adenoma."
+    },
+    {
+      "id": "t7-r7",
+      "question": "What are the oral/dental signs of acromegaly?",
+      "answer": "Prognathism (enlarged jaw → malocclusion, difficulty fitting dentures), widened interdental spaces (macroglossia), bitemporal hemianopia (cannot see lateral visual fields bilaterally — optic chiasm compression by pituitary tumour). Also: TMJ arthritis from bone overgrowth. Key dental clue: patient reports that their denture or bite has changed over time (gradual jaw enlargement)."
+    },
+    {
+      "id": "t7-r8",
+      "question": "Why is buccal mucosal pigmentation a sign of Addison's disease?",
+      "answer": "In primary adrenal insufficiency, the adrenal cortex cannot produce cortisol. The pituitary compensates by increasing ACTH (and MSH — melanocyte-stimulating hormone) secretion. MSH stimulates melanocytes → hyperpigmentation of skin creases, buccal mucosa, scars, nipples. This is a classic clinical and dental sign."
+    },
+    {
+      "id": "t7-r9",
+      "question": "Which patients require steroid cover before dental treatment and what is the first-line emergency drug for adrenal crisis?",
+      "answer": "Steroid cover required for: patients with diagnosed adrenal insufficiency (Addison's disease); patients on long-term high-dose steroids (5mg+ prednisolone for >4 weeks); patients on chronic high-dose opioids (>50mg morphine/day for >12 months).\nEmergency drug for adrenal crisis: IM hydrocortisone 100mg — must be administered IMMEDIATELY (anyone can give this without waiting for a doctor). Then call 999."
+    },
+    {
+      "id": "t7-r10",
+      "question": "Name two effects of oral contraceptives on oral tissues.",
+      "answer": "1. Increased plaque-induced gingival inflammation (progesterone enhances inflammatory response — similar to pregnancy gingivitis)\n2. Increased gingival crevicular fluid (GCF) output\n3. Gingival pigmentation (melanin deposition)\n4. Increased incidence of dry socket following extractions\n5. Reduction in aphthous ulcers related to menstruation (cycles regulated)"
+    },
+    {
+      "id": "t7-r11",
+      "question": "What are the oral complications of hypothyroidism?",
+      "answer": "Reduced immune response → increased candidiasis; delayed wound healing. Macroglossia (enlarged tongue from myxoedema — mucopolysaccharide deposits). Altered sensation. Slow healing of oral ulcers. Important dental consideration: analgesics and sedatives (including GA) can precipitate myxoedema coma in uncontrolled hypothyroid patients."
+    },
+    {
+      "id": "t7-r12",
+      "question": "What is the pharmacological mechanism of carbimazole and its most important side effect?",
+      "answer": "Carbimazole (thionamide antithyroid drug) prevents the incorporation of iodine into T3 and T4 in the thyroid gland → reduces thyroid hormone production. Used as first-line treatment for hyperthyroidism (Graves' disease).\nMost important side effect: agranulocytosis (sudden fall in neutrophil count) — presents with severe sore throat/oral ulceration. Patients must be warned to report any sore throat, fever, or mouth ulcers immediately and have urgent FBC."
+    }
+  ],
+  "applyIt": [
+    {
+      "id": "t7-a1",
+      "scenario": "A 55-year-old Type 2 diabetic patient on metformin and gliclazide attends for a simple extraction listed first at 8:30am. Before starting, you check their blood glucose — it reads 3.2 mmol/L. What is the most appropriate action?",
+      "options": [
+        "A. Proceed with the extraction — 3.2 mmol/L is within normal limits",
+        "B. Postpone the extraction and address the hypoglycaemia immediately with oral glucose; reschedule when glucose is stable",
+        "C. Administer IM glucagon immediately as the patient is hypoglycaemic",
+        "D. Give the patient a biscuit and proceed with the extraction in 5 minutes"
+      ],
+      "correctAnswer": "B",
+      "explanation": "A glucose of 3.2 mmol/L is below the floor of 4 mmol/L — this is hypoglycaemia, even if the patient is currently asymptomatic. Gliclazide (a sulfonylurea) carries a significant hypoglycaemia risk. Dental treatment cannot proceed safely as the patient may become confused or lose consciousness during the procedure. Treat the hypoglycaemia (oral glucose — sugary drink, 2 teaspoons of sugar), recheck glucose after 15 minutes, and only proceed when glucose is ≥4 mmol/L and stable. IM glucagon (C) is for unconscious patients. Giving a biscuit and proceeding in 5 minutes (D) is inadequate — glucose needs to be properly corrected and rechecked."
+    },
+    {
+      "id": "t7-a2",
+      "scenario": "A 40-year-old woman on 15mg prednisolone daily for rheumatoid arthritis for the last 6 months attends for a surgical extraction of a lower molar. Her prednisolone is managed by her rheumatologist. Under current guidance, which steroid cover approach is most appropriate?",
+      "options": [
+        "A. Double her prednisolone dose for 3 days surrounding the procedure",
+        "B. Give 100mg hydrocortisone IV immediately before the surgery",
+        "C. She does NOT need additional cover for routine dental procedures — ensure she takes her normal prednisolone dose (ideally 1 hour before); for a surgical extraction (moderate risk) consider adding 10mg oral prednisolone 1 hour before",
+        "D. No action needed — steroid cover is only required for patients who have had their adrenal glands removed"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Under current guidance, patients on ≥10mg prednisolone daily for >1 month do NOT need additional cover for routine dental procedures. A surgical extraction is classified as a moderate-risk procedure. For moderate-risk procedures in patients on 5–9mg daily: add 10mg extra 1 hour before treatment. For those on ≥10mg (as here), the pre-existing dose should be taken 1 hour pre-treatment to ensure peak levels coincide with the procedure. IV 100mg hydrocortisone (B) is reserved for extremely invasive procedures/GA. Doubling for 3 days (A) is excessive and not current evidence-based practice."
+    }
+  ],
+  "writeIt": [
+    {
+      "id": "t7-w1",
+      "prompt": "A patient presents as a dental emergency with an acutely infected lower molar requiring extraction. You discover she has Type 1 diabetes managed with an insulin pump. She has not eaten this morning. Describe your management of this dental appointment.",
+      "totalMarks": 8,
+      "markScheme": [
+        {
+          "point": "Check glucose immediately before the procedure — target 6–12 mmol/L; too low (<4) = treat hypoglycaemia first; too high (>15) = may indicate poor control/infection worsening glycaemia → may need to defer for glucose stabilisation or hospital management",
+          "marks": 2
+        },
+        {
+          "point": "Do NOT omit insulin in Type 1 diabetes — even if fasting; discuss with patient regarding pump basal rate adjustment; liaise with diabetes team if in doubt",
+          "marks": 1
+        },
+        {
+          "point": "Infection: diabetes impairs immune function → vigorous antibiotic treatment is mandatory; infection also worsens glycaemic control; give appropriate antibiotic cover",
+          "marks": 1
+        },
+        {
+          "point": "Extraction technique: LA with adrenaline — effective anaesthesia essential (pain/stress raises cortisol and adrenaline → glucose rises); aspirate before injecting",
+          "marks": 1
+        },
+        {
+          "point": "Post-procedure: check glucose after procedure; give mid-morning snack before leaving surgery (as she has not eaten and insulin pump is continuing); warn about signs of hypoglycaemia at home",
+          "marks": 1
+        },
+        {
+          "point": "Analgesia: paracetamol safe; NSAIDs can cause hypoglycaemia — use with caution; avoid if renal complications of diabetes present",
+          "marks": 1
+        },
+        {
+          "point": "If major surgery/fasting required: hospital admission, GKI infusion (glucose-potassium-insulin), hourly glucose monitoring, target 6–12 mmol/L perioperatively",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "t7-w2",
+      "prompt": "Describe the role of the hypothalamic-pituitary-adrenal (HPA) axis in cortisol regulation, and explain why long-term exogenous steroid use can lead to adrenal crisis in a dental patient.",
+      "totalMarks": 8,
+      "markScheme": [
+        {
+          "point": "HPA axis: hypothalamus detects physiological stress → releases CRH (corticotropin-releasing hormone) → stimulates anterior pituitary → releases ACTH → stimulates adrenal cortex → releases cortisol into circulation",
+          "marks": 2
+        },
+        {
+          "point": "Negative feedback: rising cortisol levels → suppress CRH and ACTH release from hypothalamus and pituitary → prevents over-production (homeostatic regulation)",
+          "marks": 1
+        },
+        {
+          "point": "Exogenous steroids: sustained exposure to external glucocorticoids (prednisolone, dexamethasone) → negative feedback at hypothalamus → CRH reduced → pituitary produces less ACTH → adrenal cortex receives insufficient stimulation → progressive atrophy of adrenal cortex",
+          "marks": 2
+        },
+        {
+          "point": "Consequence: atrophied adrenal cortex cannot produce adequate cortisol in response to physiological stress (e.g. dental surgery → pain → catecholamine release → increased cortisol demand). If demand exceeds supply → adrenal crisis",
+          "marks": 1
+        },
+        {
+          "point": "Adrenal crisis signs: fatigue → nausea/vomiting → hypotension → confusion → circulatory collapse → coma → death if untreated",
+          "marks": 1
+        },
+        {
+          "point": "Management: ABCDE; call 999; lie flat; 100% oxygen; IM 100mg hydrocortisone IMMEDIATELY — this is the life-saving intervention; IV fluids in hospital",
+          "marks": 1
+        }
+      ]
+    }
+  ],
+  "mockBank": [
+    {
+      "id": "t7-m1",
+      "theme": 7,
+      "topicTag": "diabetes",
+      "question": "Which of the following hormones does NOT raise blood glucose levels?",
+      "options": [
+        "A. Growth hormone",
+        "B. Glucagon",
+        "C. Adrenaline",
+        "D. Thyroxine (T4)"
+      ],
+      "correctAnswer": "D",
+      "explanation": "T4 (thyroxine) does not directly raise blood glucose — its primary metabolic effects involve increasing the basal metabolic rate, affecting growth, and cardiovascular effects. Glucagon, adrenaline, cortisol, and growth hormone all raise blood glucose (counter-regulatory hormones that oppose insulin)."
+    },
+    {
+      "id": "t7-m2",
+      "theme": 7,
+      "topicTag": "diabetes",
+      "question": "Type 1 diabetes:",
+      "options": [
+        "A. Is always treated with insulin",
+        "B. Is associated with obesity",
+        "C. Has a peak age of onset of 25 years",
+        "D. Is commonly asymptomatic"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Type 1 diabetes requires insulin — always. The autoimmune destruction of pancreatic beta cells leads to absolute insulin deficiency; without insulin, a Type 1 diabetic will develop DKA and die. Obesity is associated with Type 2. Peak age is 10–14 years. Type 2 is commonly asymptomatic; Type 1 typically presents with acute symptomatic onset."
+    },
+    {
+      "id": "t7-m3",
+      "theme": 7,
+      "topicTag": "endocrine",
+      "question": "Cushing's syndrome is most commonly caused by:",
+      "options": [
+        "A. Adrenal carcinoma",
+        "B. Pituitary tumour",
+        "C. Therapeutic use of glucocorticosteroids",
+        "D. Ectopic ACTH production from cancers"
+      ],
+      "correctAnswer": "C",
+      "explanation": "The most common cause of Cushing's syndrome worldwide is iatrogenic — therapeutic use of exogenous glucocorticosteroids (prednisolone, dexamethasone) for conditions like asthma, RA, inflammatory bowel disease. Pituitary tumour (B) causing excess ACTH is Cushing's disease — the second most common endogenous cause. Adrenal carcinoma and ectopic ACTH are rarer."
+    },
+    {
+      "id": "t7-m4",
+      "theme": 7,
+      "topicTag": "diabetes",
+      "question": "Therapeutic insulin:",
+      "options": [
+        "A. Is usually injected intramuscularly",
+        "B. Is best given after meals",
+        "C. Should be omitted in Type 1 diabetes if the patient is vomiting",
+        "D. Prevents ketone body formation"
+      ],
+      "correctAnswer": "D",
+      "explanation": "Insulin prevents ketone body formation by allowing cells to take up and use glucose, preventing fat mobilisation (lipolysis → ketones → DKA). Insulin is injected subcutaneously (NOT IM — A). Soluble insulin is given before meals (not after — B). Insulin must NEVER be omitted in Type 1 even if the patient is vomiting/cannot eat (C) — without insulin DKA develops rapidly."
+    },
+    {
+      "id": "t7-m5",
+      "theme": 7,
+      "topicTag": "hypoglycaemia",
+      "question": "Which of the following should NOT be given in the treatment of hypoglycaemia?",
+      "options": [
+        "A. Intramuscular glucose",
+        "B. Intramuscular glucagon",
+        "C. A carton of fruit juice",
+        "D. Intravenous glucose"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Intramuscular glucose does not exist as a clinical preparation — it cannot be given IM (it would cause tissue damage and would not be absorbed appropriately). IM glucagon (B) is the correct route for glucagon. Oral glucose (C — juice, glucose tablets, sugary drinks) is first-line if conscious. IV glucose (D — 20–30ml of 50% dextrose) is used in hospital for unconscious patients."
+    },
+    {
+      "id": "t7-m6",
+      "theme": 7,
+      "topicTag": "hypoglycaemia",
+      "question": "Which of the following is an adrenergic warning symptom of hypoglycaemia?",
+      "options": [
+        "A. Tremor",
+        "B. Confusion",
+        "C. Coma",
+        "D. Convulsions"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Tremor is an adrenergic (warning) symptom of hypoglycaemia — caused by adrenaline release as the body responds to low glucose. Other adrenergic symptoms: anxiety, palpitations, sweating, hunger, dry mouth. Confusion, coma (C), and convulsions (D) are neuroglycopaenic symptoms — caused by the brain being deprived of glucose. These appear when hypoglycaemia is severe or warning symptoms are missed."
+    },
+    {
+      "id": "t7-m7",
+      "theme": 7,
+      "topicTag": "endocrine",
+      "question": "Buccal pigmentation is a clinical sign in:",
+      "options": [
+        "A. Hypopituitarism",
+        "B. Vitiligo",
+        "C. Cushing's syndrome",
+        "D. Addison's disease"
+      ],
+      "correctAnswer": "D",
+      "explanation": "Buccal (oral mucosal) pigmentation is a classic sign of Addison's disease (primary adrenal insufficiency). Elevated ACTH (produced in response to low cortisol) stimulates melanocytes → hyperpigmentation of oral mucosa, skin creases, and scars. This can be the presenting dental sign of undiagnosed Addison's disease. Cushing's syndrome (C) causes moon face and buffalo hump, not buccal pigmentation."
+    },
+    {
+      "id": "t7-m8",
+      "theme": 7,
+      "topicTag": "endocrine",
+      "question": "Which of the following is NOT a feature of acromegaly?",
+      "options": [
+        "A. Hyperglycaemia",
+        "B. Malocclusion",
+        "C. Headache",
+        "D. Homonymous hemianopia"
+      ],
+      "correctAnswer": "D",
+      "explanation": "Acromegaly causes bitemporal hemianopia (loss of lateral/temporal visual fields in both eyes — from optic chiasm compression by the pituitary tumour), NOT homonymous hemianopia. Homonymous hemianopia (loss of same visual field in both eyes) results from optic tract or occipital cortex lesions. Malocclusion (B — from jaw enlargement/prognathism), headache (C — from the tumour), and hyperglycaemia (A — GH causes insulin resistance) are all features."
+    },
+    {
+      "id": "t7-m9",
+      "theme": 7,
+      "topicTag": "endocrine",
+      "question": "Graves' disease is:",
+      "options": [
+        "A. A form of insulinoma",
+        "B. A form of hypothyroidism",
+        "C. A form of hyperthyroidism",
+        "D. Only seen in the immunosuppressed"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Graves' disease is autoimmune hyperthyroidism — TSH receptor-stimulating antibodies mimic TSH and chronically stimulate the thyroid gland to produce excess T3 and T4. It is the most common cause of hyperthyroidism and is associated with exophthalmos (protruding eyes), goitre, and thyroid acropachy. It is NOT a form of hypothyroidism (B) or insulinoma (A — that is a pancreatic tumour)."
+    },
+    {
+      "id": "t7-m10",
+      "theme": 7,
+      "topicTag": "endocrine",
+      "question": "Conn's syndrome:",
+      "options": [
+        "A. May be seen in hyperplasia of the adrenal cortex",
+        "B. Results from excess alcohol intake",
+        "C. Results in high serum potassium levels",
+        "D. Results in decreased urine output"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Conn's syndrome (primary hyperaldosteronism) is most commonly caused by an adrenal cortex adenoma (non-malignant tumour) or bilateral adrenal hyperplasia. Excess aldosterone → sodium/water retention → hypertension; and potassium excretion → HYPOKALAEMIA (low, not high potassium — C is wrong). It is NOT related to alcohol intake (B — alcohol can cause hepatic causes of aldosterone-like effects but not Conn's syndrome). Urine output may increase (not decrease — D) due to sodium retention driving water retention."
+    },
+    {
+      "id": "t7-m11",
+      "theme": 7,
+      "topicTag": "steroid-cover",
+      "question": "A patient on 20mg prednisolone daily for 3 months attends for a simple restorative appointment. According to current guidance, what is the correct approach?",
+      "options": [
+        "A. Double their prednisolone for 2 days",
+        "B. Give 100mg IV hydrocortisone before the appointment",
+        "C. No additional cover needed for routine dental treatment — ask them to take their usual dose 1 hour before the appointment",
+        "D. Refer to hospital endocrinology before proceeding"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Current guidance: patients on ≥10mg prednisolone daily for >1 month do NOT need additional steroid cover for routine dental procedures (including restorations, simple scaling, etc.). Ensure they take their usual prednisolone approximately 1 hour before the appointment so peak levels coincide with treatment. IV hydrocortisone (B) and doubling doses (A) are reserved for extremely invasive procedures under GA. Simple restorative dentistry does not require hospital referral (D)."
+    },
+    {
+      "id": "t7-m12",
+      "theme": 7,
+      "topicTag": "diabetes",
+      "question": "Which ONE of the following correctly distinguishes Type 1 from Type 2 diabetes mellitus?",
+      "options": [
+        "A. Type 1 is caused by insulin resistance; Type 2 is caused by autoimmune beta-cell destruction",
+        "B. Type 1 involves autoimmune destruction of pancreatic beta cells causing absolute insulin deficiency; Type 2 involves insulin resistance with relative insulin deficiency",
+        "C. Type 1 is associated with obesity; Type 2 is associated with low body weight",
+        "D. Type 1 has peak onset at age 50–60; Type 2 has peak onset at age 10–14",
+        "E. Type 1 can be managed with diet alone; Type 2 always requires insulin"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Type 1 diabetes is caused by autoimmune T-cell mediated destruction of pancreatic beta cells in the islets of Langerhans, leading to absolute insulin deficiency — patients must have insulin to survive (without it they develop DKA and die). Type 2 involves a combination of insulin resistance (peripheral tissues fail to respond to insulin) and relative insulin deficiency (beta cells cannot compensate). Type 2 is strongly associated with obesity; Type 1 is not. Peak age for Type 1 is 10–14 years."
+    },
+    {
+      "id": "t7-m13",
+      "theme": 7,
+      "topicTag": "diabetes",
+      "question": "HbA1c is used to diagnose and monitor diabetes. An HbA1c of 48 mmol/mol or above is diagnostic of diabetes. What does this test ACTUALLY measure?",
+      "options": [
+        "A. The fasting plasma glucose level at a single point in time",
+        "B. The average blood glucose concentration over the preceding 8–12 weeks, reflected by glucose binding to haemoglobin",
+        "C. The peak postprandial blood glucose level after a 75g glucose load",
+        "D. Pancreatic insulin reserve and secretory capacity",
+        "E. The presence of glucose in the urine (glycosuria)"
+      ],
+      "correctAnswer": "B",
+      "explanation": "HbA1c measures glycated haemoglobin — the proportion of haemoglobin with glucose irreversibly attached. Since red blood cells survive for approximately 120 days, HbA1c reflects average blood glucose over the preceding 8–12 weeks. Normal is <42 mmol/mol; pre-diabetes is 42–47 mmol/mol; diabetes is ≥48 mmol/mol. It is not affected by acute illness or recent meals. Fasting glucose and the oral glucose tolerance test (OGTT) are alternative diagnostic tests."
+    },
+    {
+      "id": "t7-m14",
+      "theme": 7,
+      "topicTag": "diabetes",
+      "question": "Which ONE of the following CORRECTLY describes the mechanism of action of metformin?",
+      "options": [
+        "A. It stimulates insulin secretion from pancreatic beta cells",
+        "B. It increases urinary glucose excretion by blocking SGLT-2 transporters",
+        "C. It reduces hepatic glucose production and increases peripheral insulin sensitivity",
+        "D. It inhibits DPP-4, increasing incretin levels",
+        "E. It replaces insulin in patients with absolute insulin deficiency"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Metformin is an insulin sensitiser — it reduces hepatic gluconeogenesis (the liver's production of glucose) and increases peripheral uptake and utilisation of glucose, making cells more sensitive to insulin. It does not stimulate insulin secretion, so it does not cause hypoglycaemia when used alone. Metformin is first-line for Type 2 diabetes. Side effects include GI upset (nausea, diarrhoea). Long-term use can impair B12 absorption."
+    },
+    {
+      "id": "t7-m15",
+      "theme": 7,
+      "topicTag": "diabetes",
+      "question": "Sulphonylureas (e.g. gliclazide) lower blood glucose by which ONE of the following mechanisms?",
+      "options": [
+        "A. Blocking renal glucose reabsorption via SGLT-2",
+        "B. Stimulating insulin secretion from pancreatic beta cells regardless of blood glucose level",
+        "C. Inhibiting glucagon secretion from pancreatic alpha cells",
+        "D. Increasing peripheral uptake of glucose by activating GLUT-4",
+        "E. Delaying carbohydrate absorption from the gut"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sulphonylureas (e.g. gliclazide, glipizide) stimulate insulin secretion from pancreatic beta cells by closing ATP-sensitive potassium channels, causing membrane depolarisation and calcium influx — triggering insulin release. Critically, they do this regardless of the prevailing glucose level, which is why they can cause hypoglycaemia (unlike metformin). They require functioning beta cells to work, so they are ineffective in Type 1 diabetes."
+    },
+    {
+      "id": "t7-m16",
+      "theme": 7,
+      "topicTag": "diabetes",
+      "question": "SGLT-2 inhibitors (e.g. empagliflozin, dapagliflozin) lower blood glucose by which ONE of the following mechanisms?",
+      "options": [
+        "A. Stimulating insulin release from the pancreas",
+        "B. Blocking SGLT-2 transporters in the renal proximal tubule, causing glucose to be excreted in the urine",
+        "C. Sensitising peripheral tissues to the action of insulin",
+        "D. Inhibiting DPP-4 to prevent incretin breakdown",
+        "E. Reducing gastric emptying and delaying carbohydrate absorption"
+      ],
+      "correctAnswer": "B",
+      "explanation": "SGLT-2 inhibitors block the sodium-glucose co-transporter 2 (SGLT-2) in the proximal renal tubule, preventing glucose reabsorption from the glomerular filtrate. This results in glucosuria (glucose excreted in urine), lowering blood glucose. Benefits include weight loss (calories lost in urine) and blood pressure reduction. Risks include urinary tract infections, genital mycotic infections, and rare diabetic ketoacidosis even with normal glucose. They also have cardioprotective and renoprotective effects."
+    },
+    {
+      "id": "t7-m17",
+      "theme": 7,
+      "topicTag": "diabetes",
+      "question": "A patient with Type 2 diabetes is found to have an HbA1c of 85 mmol/mol. Which ONE of the following chronic complications is MOST likely already present or developing?",
+      "options": [
+        "A. Hypoglycaemia",
+        "B. Microvascular complications — retinopathy, nephropathy, and neuropathy",
+        "C. Hyperosmolar non-ketotic coma",
+        "D. Diabetic ketoacidosis",
+        "E. Addisonian crisis"
+      ],
+      "correctAnswer": "B",
+      "explanation": "A persistently elevated HbA1c (85 mmol/mol = approximately 10% — very poorly controlled) is strongly associated with chronic microvascular complications: retinopathy (proliferative retinal disease leading to blindness), nephropathy (proteinuria, renal failure), and neuropathy (peripheral nerve damage causing foot ulcers, autonomic dysfunction). Reducing HbA1c by even 11 mmol/mol significantly reduces these risks. DKA and HONK are acute complications. Hypoglycaemia is a treatment-related complication."
+    },
+    {
+      "id": "t7-m18",
+      "theme": 7,
+      "topicTag": "hypoglycaemia",
+      "question": "A patient with Type 1 diabetes collapses in the dental surgery. Blood glucose reading is 2.8 mmol/L. Which ONE of the following is the MOST appropriate first-line treatment if the patient is conscious but confused?",
+      "options": [
+        "A. Intravenous glucose 50% 50 mL",
+        "B. Glucagon 1 mg intramuscularly",
+        "C. Oral sugary drink (glucose gel or sugary juice)",
+        "D. Oral insulin to correct the insulin deficit",
+        "E. Intravenous hydrocortisone 100 mg"
+      ],
+      "correctAnswer": "C",
+      "explanation": "For a conscious hypoglycaemic patient, oral glucose is the first-line treatment — a sugary drink, glucose tablets, or buccal glucose gel (Hypostop). 'Four is the floor' — if blood glucose is below 4 mmol/L and the patient is symptomatic, treat immediately with oral glucose. If unconscious or unable to swallow, use IM glucagon 1 mg (outer thigh) or IV glucose. IV glucose 50% (50 mL) is for unconscious patients in hospital settings. Do not give more insulin — this would worsen hypoglycaemia."
+    },
+    {
+      "id": "t7-m19",
+      "theme": 7,
+      "topicTag": "hypoglycaemia",
+      "question": "Which ONE of the following BEST describes why a long-standing diabetic patient may not experience the usual warning symptoms of hypoglycaemia?",
+      "options": [
+        "A. They have developed insulin resistance, meaning lower glucose levels are tolerated",
+        "B. Autonomic neuropathy from long-standing diabetes damages the sympathetic nervous system, impairing the adrenergic warning response",
+        "C. They are on beta-blockers which mask tachycardia only",
+        "D. HbA1c monitoring prevents glucose from dropping to dangerous levels",
+        "E. Long-term insulin use desensitises pancreatic alpha cells, preventing glucagon release"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Warning symptoms of hypoglycaemia (tremor, sweating, palpitations, hunger) are adrenergic — triggered by the sympathetic nervous system releasing adrenaline when glucose falls. In long-standing diabetes, autonomic neuropathy damages the sympathetic nerves responsible for this warning response (hypoglycaemia unawareness). The patient may pass directly from normal to neuroglycopaenic symptoms (confusion, drowsiness, seizure, coma) without warning. Beta-blockers also blunt symptoms but do not cause autonomic neuropathy."
+    },
+    {
+      "id": "t7-m20",
+      "theme": 7,
+      "topicTag": "diabetes",
+      "question": "Which ONE of the following is the MOST appropriate insulin regimen for managing Type 1 diabetes at home?",
+      "options": [
+        "A. Once-daily short-acting insulin with each meal",
+        "B. Basal-bolus regimen: once-daily long-acting insulin plus rapid-acting insulin with each meal",
+        "C. Oral insulin tablets twice daily",
+        "D. Once-daily biphasic insulin before breakfast only",
+        "E. Continuous subcutaneous glucose infusion without insulin"
+      ],
+      "correctAnswer": "B",
+      "explanation": "The basal-bolus regimen is the gold standard for Type 1 diabetes: a once-daily long-acting (basal) insulin (e.g. glargine/detemir — given at night or morning, lasting 24 hours) provides background insulin, while rapid-acting (bolus) insulin is injected with each meal to manage post-prandial glucose rises. This mimics physiological insulin secretion and allows flexible mealtimes. Twice-daily mixed insulin (biphasic) is an alternative but less flexible regimen."
+    },
+    {
+      "id": "t7-m21",
+      "theme": 7,
+      "topicTag": "diabetes",
+      "question": "Diabetic ketoacidosis (DKA) is MOST likely to occur in which ONE of the following clinical scenarios?",
+      "options": [
+        "A. Type 2 diabetic patient on metformin who skips a meal",
+        "B. Type 1 diabetic patient who omits their insulin during an intercurrent illness",
+        "C. Type 2 diabetic patient whose dose of sulphonylurea is reduced",
+        "D. Well-controlled Type 1 diabetic patient who exercises excessively",
+        "E. Type 2 diabetic patient who starts a high-fat, low-carbohydrate diet"
+      ],
+      "correctAnswer": "B",
+      "explanation": "DKA is most commonly precipitated in Type 1 diabetics who omit insulin (or receive inadequate insulin during illness — when insulin requirements actually increase). Without insulin, glucose cannot enter cells; the body breaks down fat into ketone bodies (acidic), causing metabolic acidosis. Illness increases counter-regulatory hormones, worsening hyperglycaemia. The 'sick day rules' teach Type 1 diabetics to never omit insulin when ill, even if not eating. DKA is very rare in Type 2 diabetes."
+    },
+    {
+      "id": "t7-m22",
+      "theme": 7,
+      "topicTag": "diabetes",
+      "question": "Which ONE of the following BEST describes the features of hyperosmolar hyperglycaemic state (HONK/HHS) compared to DKA?",
+      "options": [
+        "A. HHS occurs in Type 1 diabetes and has higher mortality than DKA",
+        "B. HHS occurs in Type 2 diabetes, has very high glucose and osmolality but no significant ketonaemia or acidosis",
+        "C. HHS and DKA are identical in presentation and management",
+        "D. HHS is characterised by severe ketoacidosis without hyperglycaemia",
+        "E. HHS is caused by insulin overdose and presents with hypoglycaemia"
+      ],
+      "correctAnswer": "B",
+      "explanation": "HHS (Hyperosmolar Hyperglycaemic State) occurs in Type 2 diabetes. Unlike DKA, there is sufficient residual insulin to prevent lipolysis and ketogenesis — so there are no ketones or significant acidosis. However, extreme hyperglycaemia (often >30–40 mmol/L) causes severe osmotic diuresis, dehydration, and hyperosmolality. Onset is slower (over days). Mortality is higher than DKA (10–20%). Treatment is slower correction with IV fluids and insulin."
+    },
+    {
+      "id": "t7-m23",
+      "theme": 7,
+      "topicTag": "diabetes",
+      "question": "Which ONE of the following describes the MOST common complication of diabetes mellitus affecting the feet?",
+      "options": [
+        "A. Charcot arthropathy affecting the ankle exclusively",
+        "B. Peripheral arterial disease only, causing claudication",
+        "C. Combination of peripheral neuropathy (loss of sensation) and peripheral vascular disease leading to foot ulcers, infection, and potential amputation",
+        "D. Deep vein thrombosis from venous stasis",
+        "E. Osteomyelitis from haematogenous spread only"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Diabetic foot problems result from the combination of: (1) peripheral sensory neuropathy — loss of protective sensation means the patient cannot feel injury, pressure sores, or infections; and (2) peripheral vascular disease — impaired blood supply delays healing. Together, these create a vicious cycle: unnoticed injury → infection → poor healing → ulceration → gangrene → amputation. Regular foot care, chiropody, and early referral are essential. Diabetes is the leading cause of non-traumatic lower limb amputation."
+    },
+    {
+      "id": "t7-m24",
+      "theme": 7,
+      "topicTag": "diabetes",
+      "question": "Which ONE of the following is the preferred antibiotic to use for a dental infection in a pregnant patient with Type 2 diabetes?",
+      "options": [
+        "A. Doxycycline",
+        "B. Metronidazole",
+        "C. Amoxicillin",
+        "D. Clarithromycin",
+        "E. Ciprofloxacin"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Amoxicillin (a penicillin) is safe to use in pregnancy. Doxycycline is contraindicated in pregnancy (causes permanent staining of developing foetal teeth and can impair bone development). Clarithromycin is contraindicated in pregnancy (teratogenic risk). Ciprofloxacin is avoided in pregnancy (affects cartilage). Metronidazole is generally avoided in the first trimester. Prescribing in pregnancy requires careful selection of only proven-safe antibiotics."
+    },
+    {
+      "id": "t7-m25",
+      "theme": 7,
+      "topicTag": "diabetes",
+      "question": "When scheduling a diabetic patient for routine dental treatment, which ONE of the following is the MOST appropriate timing?",
+      "options": [
+        "A. Last appointment in the afternoon, after the patient has had their maximum daily insulin dose",
+        "B. First appointment in the morning, before the patient has eaten or taken any medications",
+        "C. First appointment in the morning, allowing the patient to eat breakfast and take their usual medications beforehand",
+        "D. Any time; diabetic patients have no specific timing requirements for dental appointments",
+        "E. Appointments should only be made by a hospital dental team"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Diabetic patients should be scheduled early in the morning as the first appointment, allowing them to eat their normal breakfast and take their usual medications/insulin. This minimises disruption to their normal glucose management routine. Fasting diabetic patients are at risk of hypoglycaemia. Blood glucose should be checked before and after the procedure. Mid-morning snack should be given before leaving the surgery. Ensure the dentist is prepared to treat hypoglycaemia."
+    },
+    {
+      "id": "t7-m26",
+      "theme": 7,
+      "topicTag": "endocrine",
+      "question": "Which ONE of the following BEST describes Cushing's syndrome?",
+      "options": [
+        "A. Hypocortisolism caused by autoimmune destruction of the adrenal cortex",
+        "B. Hypercortisolism — excess cortisol from any cause — most commonly exogenous steroid therapy",
+        "C. Hyperthyroidism from excess TSH secretion by a pituitary tumour",
+        "D. Excessive aldosterone secretion causing hypertension and hyperkalaemia",
+        "E. Excessive growth hormone secretion causing acromegaly"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Cushing's syndrome is hypercortisolism — excess cortisol from any cause. The most common cause is EXOGENOUS — long-term steroid (e.g. prednisolone) therapy for conditions like asthma, inflammatory bowel disease, or rheumatoid arthritis. Endogenous causes include ACTH-secreting pituitary tumour (Cushing's disease), cortisol-secreting adrenal adenoma/carcinoma, or ectopic ACTH production. Clinical features include moon face, buffalo hump, central obesity, striae, proximal muscle weakness, hypertension, and raised glucose."
+    },
+    {
+      "id": "t7-m27",
+      "theme": 7,
+      "topicTag": "endocrine",
+      "question": "A patient on long-term prednisolone therapy for rheumatoid arthritis requires surgical extraction of a lower molar under local anaesthetic. Which ONE of the following is the MOST important consideration regarding steroid management?",
+      "options": [
+        "A. Stop the prednisolone 3 days before surgery to prevent Cushing's syndrome",
+        "B. Double the patient's regular steroid dose on the day of the procedure to prevent adrenal crisis",
+        "C. Assess whether the patient's regular steroid dose is sufficient to cover the surgical stress — consider steroid cover (hydrocortisone 100 mg IM) for major procedures",
+        "D. No additional steroid measures are needed for routine dental surgery under LA",
+        "E. Switch from prednisolone to dexamethasone for the perioperative period"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Patients on long-term corticosteroids have suppression of their hypothalamic-pituitary-adrenal (HPA) axis and may be unable to mount an adequate cortisol stress response. For surgical procedures, this can lead to Addisonian (adrenal) crisis. Assessment is needed: for minor procedures under LA, additional cover may not be needed; for moderate/major procedures, supplemental hydrocortisone (typically 100 mg IM for major surgery) may be required. Never stop steroids abruptly. The dentist should liaise with the GP/hospital team for guidance."
+    },
+    {
+      "id": "t7-m28",
+      "theme": 7,
+      "topicTag": "endocrine",
+      "question": "Addison's disease is caused by autoimmune destruction of the adrenal cortex. Which ONE of the following is a characteristic feature that DISTINGUISHES Addison's disease from other causes of hypoadrenalism?",
+      "options": [
+        "A. Weight gain and moon face",
+        "B. Hypertension and peripheral oedema",
+        "C. Hyperpigmentation of the skin and buccal mucosa",
+        "D. Hypercalcaemia and polyuria",
+        "E. Acromegalic facies"
+      ],
+      "correctAnswer": "C",
+      "explanation": "A distinguishing feature of PRIMARY adrenal insufficiency (Addison's disease) is hyperpigmentation of the skin, palmar creases, and buccal mucosa. This occurs because low cortisol fails to suppress ACTH secretion by the pituitary; elevated ACTH also stimulates melanocytes (MSH activity) causing increased skin pigmentation. Secondary adrenal insufficiency (pituitary failure) does NOT cause hyperpigmentation as ACTH levels are low. Other Addison's features include fatigue, weight loss, hypotension, hypoglycaemia, and hyponatraemia."
+    },
+    {
+      "id": "t7-m29",
+      "theme": 7,
+      "topicTag": "endocrine",
+      "question": "An Addisonian crisis is a life-threatening emergency. What is the immediate treatment?",
+      "options": [
+        "A. Oral prednisolone 40 mg daily",
+        "B. Intramuscular adrenaline 0.5 mg",
+        "C. Intravenous hydrocortisone 100 mg and IV fluid resuscitation",
+        "D. Oral glucose and a sugary drink",
+        "E. Intramuscular glucagon 1 mg"
+      ],
+      "correctAnswer": "C",
+      "explanation": "An Addisonian crisis presents as acute circulatory collapse (hypotension, shock), vomiting, severe abdominal pain, hypoglycaemia, and altered consciousness — triggered by physiological stress (surgery, infection, trauma, missed steroid doses) in a patient with adrenal insufficiency. Immediate treatment: IV or IM hydrocortisone 100 mg STAT, followed by IV fluid resuscitation (0.9% saline), glucose correction, and treatment of the precipitating cause. This is a medical emergency — do not delay. Adrenaline is for anaphylaxis."
+    },
+    {
+      "id": "t7-m30",
+      "theme": 7,
+      "topicTag": "endocrine",
+      "question": "Which ONE of the following BEST describes the clinical features of hyperthyroidism (thyrotoxicosis)?",
+      "options": [
+        "A. Weight gain, cold intolerance, dry skin, bradycardia, and depression",
+        "B. Weight loss, heat intolerance, sweating, tachycardia, tremor, and exophthalmos (in Graves' disease)",
+        "C. Moon face, central obesity, striae, and proximal muscle weakness",
+        "D. Hyperpigmentation, fatigue, hypotension, and hypoglycaemia",
+        "E. Gigantism, enlarged jaw, and large hands and feet"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Hyperthyroidism (excess thyroid hormone) increases metabolic rate and causes: weight loss despite increased appetite, heat intolerance, sweating, tachycardia/palpitations (can precipitate AF), tremor, anxiety, and diarrhoea. Graves' disease (autoimmune hyperthyroidism) also causes exophthalmos (protrusion of eyes) and pretibial myxoedema. Option A describes hypothyroidism. Options C, D, and E describe Cushing's, Addison's, and acromegaly respectively."
+    },
+    {
+      "id": "t7-m31",
+      "theme": 7,
+      "topicTag": "endocrine",
+      "question": "Hypothyroidism is most commonly caused by which ONE of the following?",
+      "options": [
+        "A. Pituitary failure causing TSH deficiency",
+        "B. Hashimoto's thyroiditis — autoimmune destruction of the thyroid gland",
+        "C. Surgical removal of the adrenal glands",
+        "D. Iodine excess causing thyroid suppression",
+        "E. Graves' disease"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Hashimoto's thyroiditis is the most common cause of hypothyroidism in iodine-sufficient regions. It is an autoimmune condition in which anti-thyroid peroxidase and anti-thyroglobulin antibodies destroy thyroid follicular cells, progressively reducing thyroid hormone production. It is more common in women. Treatment is lifelong levothyroxine (T4) replacement. Graves' disease causes hyperthyroidism. Pituitary TSH deficiency causes secondary hypothyroidism (rare)."
+    },
+    {
+      "id": "t7-m32",
+      "theme": 7,
+      "topicTag": "endocrine",
+      "question": "A patient develops tetany (muscle spasms), tingling around the mouth, and a positive Chvostek's sign after thyroid surgery. What is the MOST likely underlying cause?",
+      "options": [
+        "A. Hypothyroidism from removal of thyroid tissue",
+        "B. Hypocalcaemia from inadvertent damage or removal of the parathyroid glands",
+        "C. Hypoglycaemia from increased insulin sensitivity post-surgery",
+        "D. Hypokalaemia from excessive fluid loss",
+        "E. Hyperglycaemia from surgical stress"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Chvostek's sign (tapping the facial nerve anterior to the ear causes facial muscle spasm) is a classic sign of hypocalcaemia. After thyroid surgery, the parathyroid glands (embedded in the thyroid) can be accidentally removed or damaged, causing hypoparathyroidism and hypocalcaemia. Symptoms include tetany, tingling around the mouth (perioral paraesthesiae), carpopedal spasm, and seizures. Treatment is intravenous calcium gluconate for acute symptomatic hypocalcaemia."
+    },
+    {
+      "id": "t7-m33",
+      "theme": 7,
+      "topicTag": "endocrine",
+      "question": "Parathyroid hormone (PTH) regulates calcium homeostasis. Which ONE of the following is a consequence of hyperparathyroidism?",
+      "options": [
+        "A. Hypocalcaemia, tetany, and seizures",
+        "B. Hypercalcaemia causing polyuria, constipation, kidney stones, bone pain, and neuropsychiatric symptoms ('bones, stones, groans, and psychic moans')",
+        "C. Hypothyroidism with weight gain and cold intolerance",
+        "D. Adrenal insufficiency with hypotension and hyperpigmentation",
+        "E. Growth retardation and short stature"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Primary hyperparathyroidism causes excess PTH → hypercalcaemia. The classic mnemonic for hypercalcaemia symptoms is 'Bones, Stones, Groans, and Psychic Moans': bone pain/osteoporosis (from excess bone resorption), kidney stones (calcium phosphate/oxalate), constipation, abdominal groans, depression, anxiety, confusion. Hypocalcaemia (not hypercalcaemia) causes tetany and seizures. PTH maintains calcium homeostasis by increasing bone resorption, renal calcium reabsorption, and gut calcium absorption (via vitamin D activation)."
+    },
+    {
+      "id": "t7-m34",
+      "theme": 7,
+      "topicTag": "steroid-cover",
+      "question": "The hypothalamic-pituitary-adrenal (HPA) axis is suppressed after how many days/weeks of high-dose corticosteroid therapy?",
+      "options": [
+        "A. Only after more than 2 years of steroid use",
+        "B. After as little as 3 weeks at high doses (equivalent to prednisolone 20 mg daily or more)",
+        "C. Immediately after the first dose",
+        "D. Only if the patient also has adrenal disease",
+        "E. Suppression is temporary and fully recovers within 24 hours of stopping steroids"
+      ],
+      "correctAnswer": "B",
+      "explanation": "The HPA axis can be significantly suppressed after as little as 3 weeks of high-dose corticosteroid therapy (equivalent to prednisolone ≥20 mg/day). Recovery of HPA axis function after stopping steroids can take months to over a year. This is why steroids must not be stopped abruptly — gradual tapering is required. Patients may be unable to mount a cortisol stress response for surgery even after steroids are stopped. Assessment of HPA suppression risk is important before any surgical procedure."
+    },
+    {
+      "id": "t7-m35",
+      "theme": 7,
+      "topicTag": "endocrine",
+      "question": "Primary hyperaldosteronism (Conn's syndrome) is characterised by which ONE of the following electrolyte abnormalities?",
+      "options": [
+        "A. Hypokalaemia and hypertension",
+        "B. Hyperkalaemia and hypotension",
+        "C. Hypernatraemia and metabolic acidosis",
+        "D. Hyponatraemia and hypocalcaemia",
+        "E. Hypercalcaemia and metabolic alkalosis"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Conn's syndrome (primary hyperaldosteronism) is caused by excess aldosterone production, usually from a benign adrenal adenoma. Aldosterone stimulates the collecting duct to retain sodium (causing hypertension) and excrete potassium (causing hypokalaemia). The classic biochemical findings are: hypertension + hypokalaemia + inappropriately elevated aldosterone + suppressed renin. It is the most common endocrine cause of secondary hypertension."
+    },
+    {
+      "id": "t7-m36",
+      "theme": 7,
+      "topicTag": "endocrine",
+      "question": "Phaeochromocytoma is a tumour of the adrenal medulla. Which ONE of the following BEST describes its clinical presentation?",
+      "options": [
+        "A. Gradual onset of stable hypertension with no other symptoms",
+        "B. Episodic hypertension with headaches, palpitations, sweating, and pallor triggered by various stimuli",
+        "C. Hypotension with postural dizziness and fatigue",
+        "D. Glycosuria and polyuria from excess catecholamine-induced insulin secretion",
+        "E. Proximal muscle weakness and striae from cortisol excess"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Phaeochromocytoma secretes adrenaline and noradrenaline in episodic bursts, causing 'spells' of: severe headache, palpitations, profuse sweating, pallor, and hypertension. These episodes can be triggered by anaesthesia, physical exertion, or even palpation of the tumour. Diagnosis is by measuring urinary or plasma catecholamines/metanephrines. If undiagnosed and the patient undergoes anaesthesia, the catecholamine surge can cause fatal hypertensive crisis or arrhythmia."
+    },
+    {
+      "id": "t7-m37",
+      "theme": 7,
+      "topicTag": "endocrine",
+      "question": "Acromegaly results from excess growth hormone (GH) secretion in adults. Which ONE of the following is a characteristic feature?",
+      "options": [
+        "A. Short stature and delayed puberty",
+        "B. Enlargement of the hands, feet, and jaw (prognathism) with coarsening of facial features",
+        "C. Moon face, central obesity, and proximal muscle weakness",
+        "D. Tall stature in children with normal facial features",
+        "E. Hyperpigmentation and fatigue"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Acromegaly is caused by a GH-secreting pituitary adenoma in adults (after epiphyses have fused). Excess GH (via IGF-1) causes enlargement of the hands, feet, tongue, and jaw (prognathism — dental complications include malocclusion). Facial features coarsen, and patients develop bitemporal hemianopia if the tumour compresses the optic chiasm. Gigantism occurs if GH excess occurs before epiphyseal fusion (in children). In acromegaly, diastemas develop between teeth due to jaw enlargement."
+    },
+    {
+      "id": "t7-m38",
+      "theme": 7,
+      "topicTag": "endocrine",
+      "question": "The feedback loop controlling cortisol release involves which ONE of the following sequence of hormones?",
+      "options": [
+        "A. Cortisol → ACTH → CRH → inhibition of pituitary",
+        "B. Hypothalamus (CRH) → Pituitary (ACTH) → Adrenal cortex (cortisol); cortisol feeds back negatively to both hypothalamus and pituitary",
+        "C. TSH → TRH → cortisol → negative feedback",
+        "D. Renin → angiotensin II → cortisol → negative feedback at kidney",
+        "E. Insulin → cortisol → glucagon in a direct feedback loop"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Cortisol regulation follows the hypothalamic-pituitary-adrenal (HPA) axis: the hypothalamus secretes CRH (corticotrophin-releasing hormone), which stimulates the anterior pituitary to release ACTH (adrenocorticotrophic hormone), which in turn stimulates the adrenal cortex to produce cortisol. Cortisol then provides negative feedback to both the hypothalamus (reducing CRH) and the pituitary (reducing ACTH), maintaining homeostasis. This negative feedback loop is disrupted by exogenous steroids, suppressing endogenous cortisol production."
+    },
+    {
+      "id": "t7-m39",
+      "theme": 7,
+      "topicTag": "diabetes",
+      "question": "Which ONE of the following oral complications is MOST specifically associated with poorly controlled diabetes mellitus?",
+      "options": [
+        "A. Gingival hyperplasia from drug side effects",
+        "B. Increased susceptibility to periodontal disease and slow wound healing",
+        "C. Osteonecrosis of the jaw from bisphosphonate use",
+        "D. Hairy leukoplakia from immunosuppression",
+        "E. Microstomia and facial fibrosis"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Poorly controlled diabetes mellitus is strongly associated with increased susceptibility to periodontal disease — poorly controlled diabetics have more severe and more rapidly progressive periodontitis. Additionally, they have impaired neutrophil function and reduced wound healing capacity, making post-extraction healing slower and infection risk higher. There is also bidirectional relationship — severe periodontitis can worsen glycaemic control. Diabetic patients also have increased susceptibility to oral candidiasis and dry mouth."
+    },
+    {
+      "id": "t7-m40",
+      "theme": 7,
+      "topicTag": "endocrine",
+      "question": "Graves' disease causes hyperthyroidism through which ONE of the following mechanisms?",
+      "options": [
+        "A. A toxic adenoma secreting thyroid hormone autonomously",
+        "B. TSH-secreting pituitary tumour driving excess thyroid hormone production",
+        "C. Autoantibodies (TSH-receptor stimulating antibodies) that mimic TSH and persistently activate the TSH receptor",
+        "D. Infiltration of the thyroid by lymphocytes causing hormone release",
+        "E. Dietary iodine excess causing uncontrolled thyroid hormone synthesis"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Graves' disease is the most common cause of hyperthyroidism. It is an autoimmune condition where TSH-receptor stimulating antibodies (TRAb or TSHR-Ab) bind to and persistently activate the TSH receptor on thyroid cells, driving unregulated thyroid hormone production. Unlike normal TSH, the autoantibodies are not subject to negative feedback control. Unique features include exophthalmos (proptosis) and pretibial myxoedema. Treatment options include antithyroid drugs, radioiodine ablation, or thyroidectomy."
+    },
+    {
+      "id": "t7-m41",
+      "theme": 7,
+      "topicTag": "diabetes",
+      "question": "When managing a patient with well-controlled Type 2 diabetes for a minor tooth extraction under local anaesthesia, which ONE of the following statements is CORRECT?",
+      "options": [
+        "A. All antidiabetic medications must be withheld for 24 hours before the procedure",
+        "B. The procedure should be deferred until HbA1c is below 42 mmol/mol",
+        "C. The procedure can be performed safely with the patient having taken their usual morning medication and breakfast, with blood glucose checked before and after",
+        "D. Adrenaline-containing local anaesthetic is absolutely contraindicated in all diabetic patients",
+        "E. A glucose drip must be set up before any dental procedure in Type 2 diabetics"
+      ],
+      "correctAnswer": "C",
+      "explanation": "For well-controlled Type 2 diabetics, minor dental procedures can be performed safely: the patient should have eaten breakfast and taken their usual medications. Check blood glucose before the procedure (aim 6–10 mmol/L) and after. List the patient early in the morning. Have glucose available to treat hypoglycaemia. Adrenaline-containing LA is not absolutely contraindicated — it is used with standard caution. Withholding medications increases hyperglycaemia risk and is not appropriate for short procedures."
+    },
+    {
+      "id": "t7-m42",
+      "theme": 7,
+      "topicTag": "endocrine",
+      "question": "Which ONE of the following describes the effect of cortisol on blood glucose?",
+      "options": [
+        "A. Cortisol directly stimulates beta-cell insulin secretion",
+        "B. Cortisol decreases blood glucose by promoting glycogen synthesis",
+        "C. Cortisol raises blood glucose through gluconeogenesis, glycogen breakdown, and peripheral insulin resistance",
+        "D. Cortisol has no effect on blood glucose",
+        "E. Cortisol decreases hepatic gluconeogenesis, lowering blood glucose"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Cortisol is a counter-regulatory hormone that raises blood glucose through multiple mechanisms: it stimulates hepatic gluconeogenesis (production of new glucose), promotes glycogen breakdown (glycogenolysis), and causes peripheral insulin resistance (reducing glucose uptake by muscle and fat). This is why patients on long-term steroids commonly develop steroid-induced diabetes (or worsen pre-existing diabetes). Cortisol's glucose-raising effects are why a hypoglycaemic patient releases cortisol as part of the counter-regulatory response."
+    },
+    {
+      "id": "t7-m43",
+      "theme": 7,
+      "topicTag": "endocrine",
+      "question": "Which ONE of the following is the MOST common cause of hyperthyroidism in the UK?",
+      "options": [
+        "A. Toxic multinodular goitre",
+        "B. Toxic adenoma (single autonomous thyroid nodule)",
+        "C. Graves' disease",
+        "D. Thyroid cancer",
+        "E. Amiodarone-induced thyrotoxicosis"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Graves' disease accounts for approximately 70–80% of all cases of hyperthyroidism in the UK. It is an autoimmune condition caused by TSH-receptor stimulating antibodies, and it predominantly affects women of childbearing age. It is characterised by a diffuse smooth goitre, exophthalmos, and thyroid acropachy in addition to the general symptoms of thyrotoxicosis. Toxic multinodular goitre is more common in older patients in iodine-deficient regions."
+    },
+    {
+      "id": "t7-m44",
+      "theme": 7,
+      "topicTag": "steroid-cover",
+      "question": "A patient with Addison's disease requires an elective extraction of a single tooth under local anaesthesia. According to SDCEP guidance, which ONE of the following is the MOST appropriate steroid cover strategy?",
+      "options": [
+        "A. Stop their usual steroid medication the day before",
+        "B. Give IV hydrocortisone 200 mg immediately pre-operatively",
+        "C. Ensure the patient takes their usual steroid dose on the day and doubles it; have IM hydrocortisone 100 mg available for emergency",
+        "D. No additional steroid cover is required for minor procedures under LA",
+        "E. Administer adrenaline 1 mg IM before the procedure to stimulate endogenous cortisol"
+      ],
+      "correctAnswer": "C",
+      "explanation": "For patients with Addison's disease or HPA axis suppression requiring dental procedures, current guidance suggests: minor procedures under LA can be managed by ensuring the patient takes their usual steroid dose on the day; for moderate surgical stress the dose should be doubled; IM hydrocortisone 100 mg should be available in case of adrenal crisis. IV hydrocortisone 100 mg is used for major surgical procedures or if a crisis develops. The key risk is adrenal crisis — sudden cardiovascular collapse from inadequate cortisol response."
+    },
+    {
+      "id": "t7-m45",
+      "theme": 7,
+      "topicTag": "diabetes",
+      "question": "Glucagon is secreted by which ONE of the following cell types and has which ONE of the following PRIMARY functions?",
+      "options": [
+        "A. Beta cells of the islets of Langerhans; promotes glucose storage as glycogen",
+        "B. Alpha cells of the islets of Langerhans; raises blood glucose by stimulating hepatic glycogenolysis and gluconeogenesis",
+        "C. Delta cells of the islets of Langerhans; regulates both insulin and glucagon secretion",
+        "D. Acinar cells of the exocrine pancreas; stimulates digestive enzyme secretion",
+        "E. Parietal cells of the stomach; stimulates bicarbonate secretion in the duodenum"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Glucagon is secreted by alpha cells of the pancreatic islets of Langerhans (beta cells secrete insulin; delta cells secrete somatostatin). Glucagon raises blood glucose by stimulating hepatic glycogenolysis (breakdown of glycogen to glucose) and gluconeogenesis (formation of new glucose from amino acids/glycerol). It is the main counter-regulatory hormone to insulin. In the dental setting, glucagon 1 mg IM is used to treat unconscious hypoglycaemic patients who cannot take oral glucose."
+    },
+    {
+      "id": "t7-m46",
+      "theme": 7,
+      "topicTag": "endocrine",
+      "question": "Which ONE of the following BEST describes the role of the hormone aldosterone?",
+      "options": [
+        "A. Aldosterone stimulates renal potassium retention and sodium excretion",
+        "B. Aldosterone stimulates renal sodium and water retention and potassium excretion, increasing blood pressure",
+        "C. Aldosterone stimulates glucose uptake in peripheral tissues",
+        "D. Aldosterone regulates calcium and phosphate homeostasis",
+        "E. Aldosterone controls the stress response by raising blood glucose"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Aldosterone is a mineralocorticoid produced by the adrenal cortex (zona glomerulosa), regulated by the renin-angiotensin-aldosterone system (RAAS) and plasma potassium. Its key action is on the collecting duct of the kidney: it stimulates sodium and water RETENTION (raising blood pressure) and potassium EXCRETION. Excess aldosterone (Conn's syndrome) causes hypertension and hypokalaemia. Deficiency (Addison's) causes hypotension and hyperkalaemia."
+    },
+    {
+      "id": "t7-m47",
+      "theme": 7,
+      "topicTag": "diabetes",
+      "question": "GLP-1 receptor agonists (e.g. exenatide, liraglutide) are used in Type 2 diabetes. Which ONE of the following BEST describes their mechanism of action?",
+      "options": [
+        "A. They block SGLT-2 in the proximal renal tubule",
+        "B. They stimulate insulin secretion in a glucose-dependent manner and suppress glucagon; they also reduce appetite and delay gastric emptying",
+        "C. They inhibit DPP-4, preventing incretin breakdown",
+        "D. They directly sensitise peripheral tissues to insulin without affecting insulin secretion",
+        "E. They replace endogenous GLP-1 by acting as insulin secretagogues regardless of glucose level"
+      ],
+      "correctAnswer": "B",
+      "explanation": "GLP-1 receptor agonists mimic the incretin hormone GLP-1. Their actions include: glucose-dependent stimulation of insulin secretion (only works when glucose is elevated, so low risk of hypoglycaemia), suppression of glucagon (reducing hepatic glucose output), delayed gastric emptying (reducing post-prandial glucose spikes), and central appetite suppression (leading to weight loss). They are injected subcutaneously. DPP-4 inhibitors (e.g. sitagliptin) prevent breakdown of endogenous incretins but have weaker effects."
+    },
+    {
+      "id": "t7-m48",
+      "theme": 7,
+      "topicTag": "diabetes",
+      "question": "Which ONE of the following correctly describes the oral glucose tolerance test (OGTT) interpretation for diabetes mellitus?",
+      "options": [
+        "A. Fasting glucose >7.0 mmol/L and 2-hour glucose >11.1 mmol/L after 75 g glucose load",
+        "B. Fasting glucose >5.5 mmol/L and 2-hour glucose >7.8 mmol/L",
+        "C. HbA1c >42 mmol/mol on a single sample",
+        "D. Random glucose >8.0 mmol/L on two separate occasions",
+        "E. Fasting glucose >6.0 mmol/L or 2-hour glucose >10 mmol/L"
+      ],
+      "correctAnswer": "A",
+      "explanation": "In the OGTT (oral glucose tolerance test), 75 g of glucose is given orally after an overnight fast. Diabetes is diagnosed if: fasting glucose ≥7.0 mmol/L OR 2-hour glucose ≥11.1 mmol/L. Impaired glucose tolerance (pre-diabetes) is: fasting 6.1–6.9 mmol/L or 2-hour 7.8–11.0 mmol/L. Normal: fasting <6.1 mmol/L and 2-hour <7.8 mmol/L. Alternatively, a random glucose ≥11.1 mmol/L with symptoms, or HbA1c ≥48 mmol/mol, is also diagnostic."
+    },
+    {
+      "id": "t7-m49",
+      "theme": 7,
+      "topicTag": "endocrine",
+      "question": "Which ONE of the following is a characteristic oral manifestation specifically associated with uncontrolled/poorly controlled diabetes?",
+      "options": [
+        "A. Lichenoid reactions",
+        "B. Burning mouth syndrome",
+        "C. Increased severity and progression of periodontal disease",
+        "D. Gingival hyperplasia",
+        "E. Geographic tongue"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Poorly controlled diabetes significantly worsens periodontal disease — the relationship is bidirectional. Hyperglycaemia impairs neutrophil chemotaxis and phagocytosis, reduces wound healing, causes advanced glycation end-products (AGEs) that damage vascular endothelium in gingival tissues, and alters the oral microbiome. Conversely, severe periodontitis worsens glycaemic control by increasing systemic inflammation. This relationship makes periodontal health management a critical component of diabetes care."
+    },
+    {
+      "id": "t7-m50",
+      "theme": 7,
+      "topicTag": "diabetes",
+      "question": "A patient with Type 1 diabetes requires major oral surgery under general anaesthesia. Which ONE of the following describes the MOST appropriate peri-operative diabetic management?",
+      "options": [
+        "A. Continue normal insulin regimen and fast for 12 hours pre-operatively",
+        "B. Omit all insulin for 24 hours before and after surgery",
+        "C. Admit to hospital, use IV glucose-insulin-potassium (GIK) infusion, and monitor blood glucose hourly",
+        "D. Use only subcutaneous long-acting insulin throughout the peri-operative period",
+        "E. Allow the surgeon to manage blood glucose without any specific diabetic protocol"
+      ],
+      "correctAnswer": "C",
+      "explanation": "For Type 1 diabetics requiring major surgery (or procedures requiring prolonged fasting), admission to hospital is necessary. A variable-rate intravenous insulin infusion (VRIII) — often called a 'GIK' (glucose-insulin-potassium) drip — is used, with blood glucose monitored hourly to maintain levels between 6–12 mmol/L. Fasting without insulin coverage is dangerous (risk of DKA). Normal subcutaneous regimens cannot be reliably maintained in theatre/recovery. The diabetic team should be involved."
+    },
+    {
+      "id": "t7-m51",
+      "theme": 7,
+      "topicTag": "endocrine",
+      "question": "Which ONE of the following best describes Type 2 diabetes pathophysiology?",
+      "options": [
+        "A. Absolute insulin deficiency from autoimmune destruction",
+        "B. Peripheral insulin resistance combined with progressive beta-cell dysfunction leading to relative insulin deficiency",
+        "C. Complete absence of glucagon from alpha-cell destruction",
+        "D. Excessive insulin secretion causing reactive hypoglycaemia",
+        "E. Renal glucose wasting causing hyperglycaemia"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Type 2 diabetes involves a dual defect: (1) insulin resistance — target tissues (liver, muscle, fat) do not respond normally to insulin, requiring more insulin to achieve the same glucose-lowering effect; and (2) progressive beta-cell dysfunction — initially, beta cells compensate by secreting more insulin, but over years this capacity declines, leading to relative insulin deficiency and worsening hyperglycaemia. Risk factors include obesity, physical inactivity, and genetic predisposition. South Asian ethnicity increases risk."
+    },
+    {
+      "id": "t7-m52",
+      "theme": 7,
+      "topicTag": "endocrine",
+      "question": "Oral contraceptive pills contain which ONE of the following hormones?",
+      "options": [
+        "A. Testosterone and progesterone",
+        "B. Oestrogen and progestogen (combined pill) or progestogen only (mini-pill)",
+        "C. FSH and LH",
+        "D. Thyroxine and cortisol",
+        "E. Aldosterone and renin"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Combined oral contraceptive pills (COCP) contain synthetic oestrogen (ethinylestradiol) and progestogen. They work by suppressing FSH and LH release from the pituitary (preventing ovulation), thickening cervical mucus, and thinning the endometrium. The progestogen-only pill (POP/mini-pill) contains only progestogen and works mainly by thickening cervical mucus. OCPs are relevant in dental practice because broad-spectrum antibiotics (historically thought to reduce efficacy by altering gut flora affecting oestrogen reabsorption) — current evidence suggests this interaction is not clinically significant."
+    },
+    {
+      "id": "t7-m53",
+      "theme": 7,
+      "topicTag": "hypoglycaemia",
+      "question": "The 'four is the floor' rule refers to blood glucose management in hypoglycaemia. Which ONE of the following correctly describes the MANAGEMENT sequence?",
+      "options": [
+        "A. If glucose <4 mmol/L, give IM insulin immediately",
+        "B. If glucose <4 mmol/L and patient is conscious, give 15–20 g oral fast-acting carbohydrate; if unconscious, give IM glucagon or IV glucose",
+        "C. If glucose <4 mmol/L, always admit to hospital for IV dextrose",
+        "D. If glucose <4 mmol/L, give IV hydrocortisone to increase counter-regulatory response",
+        "E. If glucose <4 mmol/L, administer a full meal and observe for 30 minutes"
+      ],
+      "correctAnswer": "B",
+      "explanation": "The 'four is the floor' rule: blood glucose below 4 mmol/L requires treatment. If conscious and able to swallow: 15–20 g of fast-acting oral carbohydrate (glucose tablets, sugary drink, buccal glucose gel). Recheck after 15 minutes; repeat if still below 4 mmol/L. Follow with a long-acting carbohydrate snack. If unconscious or unable to swallow: IM glucagon 1 mg (outer thigh) — contraindicated if liver disease or starvation ketosis — or IV glucose 20% (75–80 mL) or 50% dextrose 25–50 mL in hospital setting."
+    },
+    {
+      "id": "t7-m54",
+      "theme": 7,
+      "topicTag": "endocrine",
+      "question": "Which ONE of the following is the MOST common cause of secondary adrenal insufficiency (as opposed to primary Addison's disease)?",
+      "options": [
+        "A. Autoimmune destruction of the adrenal cortex",
+        "B. Adrenal metastases from lung cancer",
+        "C. Long-term exogenous corticosteroid therapy causing HPA axis suppression",
+        "D. Tuberculosis destroying both adrenal glands",
+        "E. Bilateral adrenalectomy for Conn's syndrome"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Secondary adrenal insufficiency is most commonly caused by prolonged exogenous corticosteroid therapy (e.g. prednisolone for asthma, RA, IBD), which suppresses the HPA axis. When the exogenous steroids are stopped — especially abruptly — the suppressed axis cannot produce sufficient cortisol, leading to adrenal insufficiency. This is far more common in clinical practice than true Addison's disease (autoimmune primary adrenal failure). Secondary adrenal insufficiency does NOT cause hyperpigmentation (ACTH is low, not high)."
+    },
+    {
+      "id": "t7-m55",
+      "theme": 7,
+      "topicTag": "diabetes",
+      "question": "Retinopathy in diabetes mellitus is treated with laser photocoagulation. What is the PURPOSE of this treatment?",
+      "options": [
+        "A. To improve blood flow to the central retina by destroying peripheral vessels",
+        "B. To burn out areas of the peripheral retina to prevent new blood vessel formation (neovascularisation) and haemorrhage that would otherwise cause blindness",
+        "C. To reduce intraocular pressure by sealing leaking vessels",
+        "D. To coagulate vitreous haemorrhage directly",
+        "E. To stimulate retinal regeneration by heat application"
+      ],
+      "correctAnswer": "B",
+      "explanation": "In proliferative diabetic retinopathy, chronic ischaemia stimulates formation of fragile new blood vessels (neovascularisation). These vessels bleed easily, causing vitreous haemorrhage, retinal detachment, and blindness. Laser photocoagulation destroys peripheral ischaemic retina, reducing the stimulus for neovascularisation and preventing further vessel growth and haemorrhage. The trade-off is loss of some peripheral vision, but central (reading) vision is preserved. This is why regular ophthalmological screening is essential in diabetics."
+    },
+    {
+      "id": "t7-m56",
+      "theme": 7,
+      "topicTag": "endocrine",
+      "question": "The DPP-4 inhibitors (e.g. sitagliptin) lower blood glucose by which ONE of the following mechanisms?",
+      "options": [
+        "A. Stimulating insulin secretion from beta cells regardless of blood glucose",
+        "B. Blocking SGLT-2 transporters in the renal tubule",
+        "C. Inhibiting the DPP-4 enzyme, preventing breakdown of endogenous incretins (GLP-1 and GIP) and enhancing glucose-dependent insulin secretion",
+        "D. Directly activating insulin receptors on peripheral tissues",
+        "E. Increasing urinary potassium excretion to lower blood glucose"
+      ],
+      "correctAnswer": "C",
+      "explanation": "DPP-4 inhibitors (gliptins) inhibit the enzyme dipeptidyl peptidase-4, which normally degrades the incretin hormones GLP-1 and GIP. By preventing their breakdown, GLP-1 and GIP levels rise, enhancing glucose-dependent insulin secretion and suppressing glucagon. Since the effect is glucose-dependent, the risk of hypoglycaemia is low. They are weight-neutral. Side effects include nasopharyngitis and, rarely, pancreatitis. They are used as second-line add-on therapy in Type 2 diabetes."
+    },
+    {
+      "id": "t7-m57",
+      "theme": 7,
+      "topicTag": "diabetes",
+      "question": "Which ONE of the following is the MOST common overall long-term complication of diabetes mellitus, contributing to the highest morbidity and mortality?",
+      "options": [
+        "A. Diabetic retinopathy causing blindness",
+        "B. Diabetic nephropathy requiring dialysis",
+        "C. Macrovascular atherosclerotic disease (coronary artery disease, stroke, peripheral vascular disease)",
+        "D. Peripheral neuropathy causing foot ulceration",
+        "E. Autonomic neuropathy causing gastroparesis"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Macrovascular disease — atherosclerosis affecting the coronary arteries (causing MI), cerebral arteries (causing stroke), and peripheral arteries (causing PAD/amputations) — is the most common cause of death in diabetics, accounting for approximately 75% of mortality. Diabetes accelerates atherosclerosis through multiple mechanisms (advanced glycation end-products, oxidative stress, dyslipidaemia, hypertension). Managing cardiovascular risk factors (BP, cholesterol, smoking) is therefore as important as glucose control in diabetes management."
+    },
+    {
+      "id": "t7-m58",
+      "theme": 7,
+      "topicTag": "endocrine",
+      "question": "Chvostek's sign is elicited by which ONE of the following methods and indicates which condition?",
+      "options": [
+        "A. Inflating a blood pressure cuff above systolic — causes carpal spasm, indicating hypercalcaemia",
+        "B. Tapping the facial nerve anterior to the ear — causes ipsilateral facial muscle twitching, indicating hypocalcaemia",
+        "C. Pressing on the parotid gland — causes facial nerve palsy, indicating mumps",
+        "D. Applying pressure to the temporal artery — causes temporal headache, indicating giant cell arteritis",
+        "E. Tapping the ulnar nerve at the wrist — causes finger flexion, indicating carpal tunnel syndrome"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Chvostek's sign is elicited by tapping the facial nerve at a point just anterior to the ear (over the parotid). A positive sign — ipsilateral facial muscle twitching or spasm — indicates hypocalcaemia. Hypocalcaemia increases neuronal excitability by reducing the threshold for action potentials. Other signs of hypocalcaemia include Trousseau's sign (carpal spasm on BP cuff inflation), perioral tingling, and tetany. Causes include hypoparathyroidism, vitamin D deficiency, and acute pancreatitis."
+    },
+    {
+      "id": "t7-m59",
+      "theme": 7,
+      "topicTag": "diabetes",
+      "question": "South Asian ethnicity is a significant risk factor for Type 2 diabetes. Compared to White Europeans, at which ONE of the following BMI thresholds should South Asian patients be screened for diabetes?",
+      "options": [
+        "A. BMI ≥ 30 kg/m² (same as White Europeans)",
+        "B. BMI ≥ 27.5 kg/m² (lower threshold due to higher visceral fat at equivalent BMI)",
+        "C. BMI ≥ 35 kg/m² (higher threshold due to different fat distribution)",
+        "D. BMI ≥ 25 kg/m² for all ethnicities without exception",
+        "E. BMI is not relevant for Type 2 diabetes screening"
+      ],
+      "correctAnswer": "B",
+      "explanation": "South Asians develop Type 2 diabetes at lower BMI values than White Europeans because they tend to have higher visceral (abdominal) fat relative to subcutaneous fat at any given BMI. Visceral fat is more metabolically active and causes greater insulin resistance. NICE recommends screening South Asian, Black African, and Black Caribbean people for Type 2 diabetes at a BMI threshold of 27.5 kg/m² rather than the 30 kg/m² used for White Europeans."
+    },
+    {
+      "id": "t7-m60",
+      "theme": 7,
+      "topicTag": "endocrine",
+      "question": "When investigating Cushing's syndrome, which ONE of the following initial screening test result would be EXPECTED?",
+      "options": [
+        "A. Low serum cortisol on morning measurement",
+        "B. Failure to suppress cortisol after an overnight low-dose dexamethasone suppression test",
+        "C. Elevated plasma ACTH with suppressed serum cortisol",
+        "D. Normal 24-hour urinary free cortisol",
+        "E. Suppressed cortisol after high-dose dexamethasone suppression test"
+      ],
+      "correctAnswer": "B",
+      "explanation": "The low-dose dexamethasone suppression test (LDDST) is used to screen for Cushing's syndrome: 1 mg dexamethasone is given at midnight and cortisol measured at 9 am. In a normal person, dexamethasone (a synthetic corticosteroid) suppresses the HPA axis, causing cortisol to fall below 50 nmol/L. In Cushing's syndrome, excess cortisol production is not suppressed — a positive test (failure to suppress). 24-hour urinary free cortisol is another screening test, and would be ELEVATED (not normal) in Cushing's."
+    },
+    {
+      "id": "t7-m61",
+      "theme": 7,
+      "topicTag": "diabetes",
+      "question": "Microalbuminuria is an early marker of diabetic nephropathy. Which ONE of the following BEST describes why this occurs?",
+      "options": [
+        "A. Diabetes causes kidney stones that obstruct urinary flow",
+        "B. Chronic hyperglycaemia damages the glomerular filtration barrier, allowing albumin to leak into the urine",
+        "C. Diabetic patients have high protein intake causing proteinuria",
+        "D. ACE inhibitors used in diabetes reduce albumin reabsorption",
+        "E. Hyperinsulinaemia increases glomerular pressure causing filtration of albumin"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Diabetic nephropathy begins with microalbuminuria — small amounts of albumin leaking into the urine — due to damage to the glomerular filtration barrier from chronic hyperglycaemia. AGEs (advanced glycation end-products) damage the glomerular basement membrane and mesangium. Over time, this progresses to overt proteinuria, declining GFR, and end-stage renal disease. Early detection and treatment with ACE inhibitors (which reduce intra-glomerular pressure) can slow progression. ACE inhibitors are thus both renoprotective and cardioprotective in diabetics."
+    },
+    {
+      "id": "t7-m62",
+      "theme": 7,
+      "topicTag": "steroid-cover",
+      "question": "A patient is taking prednisolone 5 mg daily for polymyalgia rheumatica. For a routine dental extraction under local anaesthesia, which ONE of the following statements about steroid cover is CORRECT according to current guidance?",
+      "options": [
+        "A. All patients on any dose of steroid require 100 mg IM hydrocortisone before dental extraction",
+        "B. Patients on prednisolone ≤5 mg/day are unlikely to have significant HPA suppression and can usually proceed with their normal dose without additional cover",
+        "C. Prednisolone must be stopped 2 weeks before any dental procedure",
+        "D. Dental extractions under LA are too stressful for any steroid-dependent patient",
+        "E. The patient needs to switch to IV hydrocortisone before all dental procedures"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Current evidence suggests that patients on prednisolone ≤5 mg/day (physiological replacement dose) for longer than 4 weeks may not have significant HPA axis suppression for minor procedures under LA. They can usually proceed with their normal dose. However, for moderate/major surgical stress, doubling the dose or supplementing with hydrocortisone may be appropriate. Higher doses (prednisolone >10 mg/day) carry significantly higher HPA suppression risk. The decision must be individualised and the GP/specialist consulted if uncertain."
+    },
+    {
+      "id": "t7-m63",
+      "theme": 7,
+      "topicTag": "endocrine",
+      "question": "Hypothyroidism in adults, if untreated, may progress to myxoedema coma. Which ONE of the following BEST describes this emergency?",
+      "options": [
+        "A. Thyroid storm with extreme hyperthyroidism and hyperpyrexia",
+        "B. Life-threatening hypothyroidism with altered consciousness, hypothermia, bradycardia, hypoventilation, and hypotension",
+        "C. Addisonian crisis with hypoglycaemia and hypotension",
+        "D. Pituitary apoplexy with sudden severe headache and visual loss",
+        "E. Diabetic ketoacidosis with acidosis and hyperglycaemia"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Myxoedema coma is an extreme, life-threatening manifestation of severe hypothyroidism, typically precipitated by infection, cold exposure, or drugs (sedatives, opioids) in an elderly, untreated hypothyroid patient. Features include: depressed consciousness/coma, profound hypothermia, bradycardia, hypoventilation, hyponatraemia, and hypoglycaemia. Mortality is high (30–60%). Treatment is IV thyroxine (T4) or liothyronine (T3), IV hydrocortisone (in case of concurrent adrenal insufficiency), and supportive care."
+    },
+    {
+      "id": "t7-m64",
+      "theme": 7,
+      "topicTag": "endocrine",
+      "question": "Pregnancy causes changes in glucose metabolism. Which ONE of the following BEST explains gestational diabetes?",
+      "options": [
+        "A. Pre-existing Type 1 diabetes that becomes symptomatic during pregnancy",
+        "B. Insulin resistance caused by placental hormones (e.g. human placental lactogen) that exceeds the pancreas's ability to compensate",
+        "C. Autoimmune beta-cell destruction triggered by foetal antigens",
+        "D. Excessive dietary carbohydrate intake during pregnancy",
+        "E. SGLT-2 upregulation in the kidneys causing glucose loss"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Gestational diabetes develops when the insulin resistance of pregnancy — caused by counter-regulatory hormones from the placenta (especially human placental lactogen, progesterone, and cortisol) — exceeds the pancreatic beta-cells' capacity to compensate with increased insulin secretion. It typically resolves after delivery but significantly increases the lifetime risk of developing Type 2 diabetes. Risk factors include obesity, family history, and South Asian ethnicity. Management involves diet, metformin, and insulin if needed."
+    },
+    {
+      "id": "t7-m65",
+      "theme": 7,
+      "topicTag": "endocrine",
+      "question": "Which ONE of the following describes the clinical presentation that should prompt investigation for a phaeochromocytoma?",
+      "options": [
+        "A. Young woman with weight gain, cold intolerance, and bradycardia",
+        "B. Middle-aged man with episodic severe headaches, profuse sweating, palpitations, and postural hypertension",
+        "C. Elderly woman with polyuria, constipation, and bone pain",
+        "D. Young man with moon face, central obesity, and skin striae",
+        "E. Patient with fatigue, hyperpigmentation, and postural hypotension"
+      ],
+      "correctAnswer": "B",
+      "explanation": "A phaeochromocytoma — adrenal medullary tumour secreting catecholamines — classically presents with episodic (or sustained) hypertension, severe headache, profuse sweating, palpitations, and pallor. Postural hypotension may also occur. It can be precipitated by surgery, anaesthesia, or even a blood pressure cuff. Key investigation: 24-hour urine or plasma metanephrines. Failure to diagnose pre-operatively can lead to fatal hypertensive crisis during anaesthesia. Option E describes Addison's disease."
+    }
+  ]
+}
