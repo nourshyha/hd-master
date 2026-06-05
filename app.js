@@ -1,5 +1,5 @@
 /* ===================================================================
-   HD Master — app.js
+   Human Diseases Master — app.js
    Vanilla SPA. Hash router, lazy JSON loading, five learning modes +
    randomised mock exam engine. No frameworks, no backend.
    =================================================================== */
@@ -257,12 +257,12 @@ function renderLanding(app) {
     <div class="view">
       <div class="page-head landing-head">
         <p class="eyebrow">Newcastle BDS Year 3</p>
-        <h1>HD Master</h1>
+        <h1>Human Diseases Master</h1>
         <p class="lede">Your complete Human Diseases revision toolkit — eight themes, five evidence-based learning modes, and a full randomised mock exam engine.</p>
       </div>
 
       <details class="howto" open>
-        <summary>How to use HD Master — five modes, any order</summary>
+        <summary>How to use Human Diseases Master — five modes, any order</summary>
         <div class="howto-grid">${howto}</div>
         <p class="howto-foot">Use the modes in any order. Ground It builds understanding; Recall, Apply and Write test it; Master It rehearses the real exam.</p>
       </details>
@@ -547,7 +547,7 @@ function drawRecallEnd(app, data) {
 
   if (s.missed.length) {
     $('#copy-missed').addEventListener('click', async (e) => {
-      const text = `HD Master — Recall misses (${s.title})\n` + s.missed.map(q => `- ${q}`).join('\n');
+      const text = `Human Diseases Master — Recall misses (${s.title})\n` + s.missed.map(q => `- ${q}`).join('\n');
       flashButton(e.target, (await copyToClipboard(text)) ? 'Copied ✓' : 'Copy failed');
     });
   }
@@ -1056,7 +1056,7 @@ function renderMasterResults(app) {
 
   if (weakTopics.length) {
     $('#copy-weak').addEventListener('click', async (e) => {
-      const text = `HD Master — Weak Topics (Mock on ${record.dateLabel})\n` +
+      const text = `Human Diseases Master — Weak Topics (Mock on ${record.dateLabel})\n` +
         weakTopics.map(w => `- ${w.label}`).join('\n');
       flashButton(e.target, (await copyToClipboard(text)) ? 'Copied ✓' : 'Copy failed');
     });
@@ -1224,7 +1224,7 @@ function renderCitations(app) {
       <div class="page-head">
         <p class="eyebrow">References</p>
         <h1>Sources &amp; Citations</h1>
-        <p class="lede">All HD Master content is derived from the sources below and validated by the course owner.</p>
+        <p class="lede">All Human Diseases Master content is derived from the sources below and validated by the course owner.</p>
       </div>
 
       <div class="card">
@@ -1238,14 +1238,9 @@ function renderCitations(app) {
         </ul>
       </div>
 
-      <div class="card">
-        <h3>Newcastle study guide</h3>
-        <p>Used with permission. Newcastle University School of Dental Sciences Human Diseases Study Guide 2025–2026. Course Leader: Dr Becky Wassall.</p>
-      </div>
-
       <div class="card disclaimer">
         <h3>Disclaimer</h3>
-        <p>HD Master is a free, non-commercial student revision tool built by a Newcastle BDS Year 3 student. All content is derived from the above sources and validated by the course owner. No clinical facts are invented. This app is not a replacement for the official teaching materials.</p>
+        <p>Human Diseases Master is a free, non-commercial student revision tool built by a Newcastle BDS Year 3 student. All content is derived from the above sources and validated by the course owner. No clinical facts are invented. This app is not a replacement for the official teaching materials.</p>
       </div>
     </div>`;
 }
